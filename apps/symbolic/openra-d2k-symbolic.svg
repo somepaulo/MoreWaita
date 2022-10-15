@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg135"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs139">
+    <linearGradient
+       id="linearGradient4206">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4208" />
+      <stop
+         style="stop-color:#b0b0b0;stop-opacity:1;"
+         offset="1"
+         id="stop4210" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4153">
+      <stop
+         style="stop-color:#d70016;stop-opacity:1;"
+         offset="0"
+         id="stop4155" />
+      <stop
+         style="stop-color:#8d0016;stop-opacity:1;"
+         offset="1"
+         id="stop4157" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4143">
+      <stop
+         style="stop-color:#d000d0;stop-opacity:1;"
+         offset="0"
+         id="stop4145" />
+      <stop
+         style="stop-color:#760076;stop-opacity:1;"
+         offset="1"
+         id="stop4147" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4133">
+      <stop
+         style="stop-color:#1476e6;stop-opacity:1;"
+         offset="0"
+         id="stop4135" />
+      <stop
+         style="stop-color:#143e9a;stop-opacity:1;"
+         offset="1"
+         id="stop4137" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4123">
+      <stop
+         style="stop-color:#17b414;stop-opacity:1;"
+         offset="0"
+         id="stop4125" />
+      <stop
+         style="stop-color:#176314;stop-opacity:1;"
+         offset="1"
+         id="stop4127" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4105">
+      <stop
+         style="stop-color:#f7f10e;stop-opacity:1;"
+         offset="0"
+         id="stop4107" />
+      <stop
+         style="stop-color:#c58907;stop-opacity:1;"
+         offset="1"
+         id="stop4109" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4163">
+      <stop
+         style="stop-color:#ff7004;stop-opacity:1;"
+         offset="0"
+         id="stop4165" />
+      <stop
+         style="stop-color:#ba4704;stop-opacity:1;"
+         offset="1"
+         id="stop4167" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g3641"
+     transform="matrix(0.15384505,0,0,0.15384505,22.30364,10.134357)">
+    <path
+       id="circle178"
+       style="opacity:0.5;fill:#000000;stroke-width:1.92593"
+       d="m -98.75182,-42.76268 a 23.111111,23.111111 0 0 1 -23.11111,23.111111 23.111111,23.111111 0 0 1 -23.11111,-23.111111 23.111111,23.111111 0 0 1 23.11111,-23.111111 23.111111,23.111111 0 0 1 23.11111,23.111111 z" />
+    <path
+       id="circle184"
+       style="fill:#000000;stroke-width:1.92593"
+       d="m -91.048828,-62.021484 a 50.074074,50.074074 0 0 0 -50.074222,50.074218 50.074074,50.074074 0 0 0 50.074222,50.074219 50.074074,50.074074 0 0 0 50.074219,-50.074219 50.074074,50.074074 0 0 0 -50.074219,-50.074218 z m 25.037109,42.36914 A 17.333333,17.333333 0 0 1 -48.677734,-2.3183594 17.333333,17.333333 0 0 1 -66.011719,15.015625 17.333333,17.333333 0 0 1 -83.34375,-2.3183594 17.333333,17.333333 0 0 1 -66.011719,-19.652344 Z" />
+    <g
+       id="g638"
+       transform="matrix(1.9259259,0,0,1.9259259,-154.60367,-75.503422)" />
+  </g>
+</svg>

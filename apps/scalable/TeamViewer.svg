@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 128 128"
+   style="display:inline;enable-background:new"
+   version="1.0"
+   id="svg11300"
+   height="128"
+   width="128"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title4162">Adwaita Icon Template</title>
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient974">
+      <stop
+         style="stop-color:#074574;stop-opacity:1;"
+         offset="0"
+         id="stop962" />
+      <stop
+         id="stop964"
+         offset="0.04166667"
+         style="stop-color:#0979d9;stop-opacity:1;" />
+      <stop
+         style="stop-color:#074574;stop-opacity:1;"
+         offset="0.08333334"
+         id="stop966" />
+      <stop
+         id="stop968"
+         offset="0.91666669"
+         style="stop-color:#074574;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0979d9;stop-opacity:1;"
+         offset="0.95833331"
+         id="stop970" />
+      <stop
+         style="stop-color:#074574;stop-opacity:1;"
+         offset="1"
+         id="stop972" />
+    </linearGradient>
+    <linearGradient
+       y2="44"
+       x2="464"
+       y1="44"
+       x1="48"
+       gradientTransform="matrix(0.25,0,0,0.25,0,53)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1747"
+       xlink:href="#linearGradient974" />
+    <clipPath
+       id="clipPath1784"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="14"
+         rx="14"
+         y="202"
+         x="36"
+         height="28"
+         width="59.999996"
+         id="rect1786"
+         style="opacity:1;vector-effect:none;fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.85391253;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <linearGradient
+       id="b"
+       x1="494.67999"
+       x2="494.67999"
+       y1="474.10001"
+       y2="624.51001"
+       gradientTransform="matrix(0.068493,0,0,0.068493,-85.318754,23.616126)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop6782" />
+      <stop
+         stop-color="#c7d7e7"
+         offset="1"
+         id="stop6784" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>GNOME Design Team</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>Adwaita Icon Template</dc:title>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier />
+        <dc:relation />
+        <dc:language />
+        <dc:coverage />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     ry="8"
+     rx="8"
+     y="32"
+     x="12"
+     height="83.999992"
+     width="104"
+     id="rect1709"
+     style="display:inline;fill:url(#linearGradient1747);fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
+  <rect
+     style="display:inline;fill:#0979d9;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+     id="rect1711"
+     width="104"
+     height="100"
+     x="12"
+     y="12"
+     rx="8"
+     ry="8" />
+  <circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.28574;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;paint-order:stroke fill markers"
+     id="path9408"
+     cx="64"
+     cy="62"
+     r="45" />
+  <path
+     class="cls-1"
+     d="M 102.11099,61.995612 80.04795,49.904829 82.148777,57.651945 H 45.740129 l 2.100828,-7.747116 -21.951948,12.099559 21.9699,12.090783 -2.100828,-7.747116 h 36.408648 l -2.10083,7.747116 22.045091,-12.090783"
+     fill="url(#b)"
+     stroke-width="1.3974"
+     id="path6840"
+     style="fill:#0979d9;fill-opacity:1" />
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg8203"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8207" />
+  <path
+     style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.247919;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+     d="M 4.8695659,2.2173899 V 9.0868402 C 4.3665969,8.7756202 3.787122,8.6101002 3.195652,8.6087002 1.4307429,8.6087002 0,10.039439 0,11.804349 0,13.569259 1.4307429,15 3.195652,15 4.8998439,14.998 6.3024989,13.65878 6.3836489,11.95652 h 0.0077 V 11.804349 4.0434802 h 4.7495651 l 0.0104,-3.04348025 H 6.0869998 c -0.6086949,0 -1.2173909,0.60869995 -1.2173909,1.21738985 z"
+     id="path18891-6" />
+  <g
+     id="g14625"
+     transform="matrix(0,-0.59999999,-0.59999999,0,3.6148343,15.531458)">
+    <path
+       style="fill:#000000"
+       d="m 14.55243,-11.507673 5.5,-4.5 -5.5,-4.5 c 0,0.01 0,1.34 0,2 -1,0 -2,0 -3,0 0,1.67 0,3.34 0,5 1,0 2,0 3,0 0,0.67 0,2 0,2 z"
+       id="path2" />
+    <path
+       style="fill:#000000"
+       d="m 10.55243,-14.507673 -5.5000003,4.5 5.5000003,4.5000005 v -2 h 3 v -5.0000005 h -3 z"
+       id="path4" />
+  </g>
+</svg>

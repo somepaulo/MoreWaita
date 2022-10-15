@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="128px"
+   viewBox="0 0 128 128"
+   width="128px"
+   version="1.1"
+   id="svg35"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs39">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="16"
+       markerHeight="28"
+       viewBox="0 0 5.3244081 6.1553851"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="36"
+     x2="60"
+     y1="68"
+     y2="68">
+    <stop
+       offset="0"
+       stop-color="#ed336c"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#ffa348"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientTransform="matrix(0 1 -1 0 144 -32)"
+     gradientUnits="userSpaceOnUse"
+     x1="72"
+     x2="96"
+     y1="68"
+     y2="68">
+    <stop
+       offset="0"
+       stop-color="#404ce6"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#c061cb"
+       id="stop9" />
+  </linearGradient>
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="68.84919"
+     x2="95.257637"
+     y1="84"
+     y2="84">
+    <stop
+       offset="0"
+       stop-color="#33d1c6"
+       id="stop12" />
+    <stop
+       offset="1"
+       stop-color="#1c25d8"
+       id="stop14" />
+  </linearGradient>
+  <path
+     d="m 44 16 l 8 -8 h 24 l 8 8 z m 0 0"
+     fill="#c0bfbc"
+     id="path17"
+     style="fill:#35b8b0;fill-opacity:1" />
+  <path
+     d="m 52 8 l -8 8 v 16 h 8 z m 0 0"
+     fill="#f6f5f4"
+     id="path19"
+     style="fill:#47cfc7;fill-opacity:1" />
+  <path
+     d="m 76 8 l 8 8 v 16 h -8 z m 0 0"
+     fill="#f6f5f4"
+     id="path21"
+     style="fill:#47cfc7;fill-opacity:1" />
+  <path
+     d="m 16 72 h 96 c 4.417969 0 8 3.582031 8 8 v 28 c 0 4.417969 -3.582031 8 -8 8 h -96 c -4.417969 0 -8 -3.582031 -8 -8 v -28 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0"
+     fill="#deddda"
+     id="path23"
+     style="fill:#35b8b0;fill-opacity:1" />
+  <path
+     d="m 8 28 h 112 v 80 h -112 z m 0 0"
+     fill="#e5e5e1"
+     id="path25"
+     style="fill:#35b8b0;fill-opacity:1" />
+  <path
+     d="m 8 68 h 112 v 40 h -112 z m 0 0"
+     fill="#f6f5f4"
+     id="path27"
+     style="fill:#47cfc7;fill-opacity:1" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke-width:26.4567;stroke-linecap:round;stroke-miterlimit:34;paint-order:stroke fill markers"
+     id="path965"
+     d="M 11.639761,28.128252 -2.1096272,28.998994 -5.5070301,42.350457 -16.599375,34.179548 -27.784091,42.223552 -31.029162,28.834251 -44.767738,27.806919 -38.647129,15.464228 -48.511133,5.84626 -35.888746,0.32546168 -37.2627,-13.382789 -24.04469,-9.4984516 -16.285706,-20.882742 -8.6569268,-9.4107935 4.6044801,-13.144287 3.074438,0.54741996 15.633109,6.2116657 5.6601685,15.71663 Z"
+     transform="matrix(0.99775129,0,0,1.0121266,80.402046,57.135977)" />
+  <path
+     style="fill:none;stroke:#e55b42;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+     d="M 64,52.159587 V 77.336025"
+     id="path4243" />
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   version="1"
+   id="svg566"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs570" />
+  <path
+     fill="#1ed760"
+     d="m 118.0357,65.964308 v 0 c 0,-29.912616 -24.123088,-54.035693 -54.035705,-54.035693 v 0 c -29.912615,0 -54.0356915,24.123077 -54.0356915,54.035693 v 0 C 9.9643035,95.876918 34.08738,120 63.999995,120 v 0 C 93.912612,120 118.0357,95.876918 118.0357,65.964308 Z"
+     id="path550-7"
+     style="fill:#1b3455;fill-opacity:1;stroke-width:1.92984" />
+  <path
+     fill="#1ed760"
+     d="m 118.0357,62.035692 v 0 c 0,-29.912615 -24.12309,-54.0356922 -54.035705,-54.0356922 v 0 c -29.912615,0 -54.0356916,24.1230772 -54.0356916,54.0356922 v 0 c 0,29.912614 24.1230766,54.035688 54.0356916,54.035688 v 0 c 29.912615,0 54.035705,-24.123074 54.035705,-54.035688 z"
+     id="path550"
+     style="fill:#3364a3;fill-opacity:1;stroke-width:1.92984" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0895687;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+     d="m 51.25307,25.98795 c -0.02357,7.21e-4 -0.04712,0.0022 -0.0706,0.005 -3.15782,-0.09236 -5.785646,1.655621 -7.098361,4.044022 -1.329329,2.418638 -1.319021,5.595768 0.724269,8.027766 1.928319,2.824341 5.065232,5.015331 8.527853,6.039832 2.866735,0.848189 6.002875,0.879205 8.789078,-0.339509 0.0049,17.155155 0.07392,36.150445 0.07392,53.157133 -3e-5,0.514607 0.347763,0.964206 0.845883,1.093475 1.116614,0.289574 2.316563,-0.06095 2.906512,-0.838371 0.589949,-0.777429 0.707307,-1.660036 0.780183,-2.537102 0.07288,-0.877074 0.05552,-1.779138 0.07322,-2.559848 0.0049,-0.626455 0.09351,-1.273786 0.245676,-1.857064 0.725944,-3.504605 2.870897,-6.210507 5.561406,-8.778414 2.690079,-2.567496 5.89626,-4.938195 8.496576,-7.788555 l 8.66e-4,-0.0015 c 4.438739,-4.850599 5.028569,-12.267741 1.126354,-17.654472 -0.415908,-0.574139 -1.527726,-2.406217 -2.412716,-3.881172 -0.442495,-0.73748 -0.837089,-1.396193 -1.102218,-1.821417 -0.132563,-0.212615 -0.187207,-0.317314 -0.33933,-0.507432 -0.03803,-0.04754 0.03977,-0.07804 -0.341605,-0.29809 -0.09534,-0.05504 -0.240885,-0.148837 -0.55565,-0.152191 -0.314767,-0.0036 -0.791097,0.248371 -0.966449,0.523495 -0.350706,0.550257 -0.178775,0.700196 -0.162153,0.800459 0.06649,0.401045 0.09468,0.318808 0.135592,0.409045 0.0049,0.01104 0.01018,0.022 0.01556,0.03289 2.228318,4.522487 4.815347,9.279163 3.629906,13.800776 -1.541967,5.526667 -7.289504,9.212779 -13.276401,10.109534 -0.159539,0.02258 -0.25253,0.03195 -0.339667,0.03477 -0.09439,-12.815142 -0.04387,-26.397553 -0.04387,-39.473817 -2e-6,-0.147711 -0.02897,-0.293987 -0.08527,-0.430546 -2.335637,-5.664366 -8.835213,-9.302562 -15.050313,-9.157938 -0.01843,4.33e-4 -0.03696,-7.21e-4 -0.05538,-5.48e-4 -0.01093,2.16e-4 -0.02192,-6.49e-4 -0.03284,-3.25e-4 z m 25.364616,25.213821 c -0.01633,-0.02042 0.04235,0.06557 0.04806,0.07496 -0.04156,-0.04378 -0.03914,-0.06384 -0.04806,-0.07496 z"
+     id="path1048-3" />
+</svg>

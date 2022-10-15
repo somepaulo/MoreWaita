@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="128px"
+   viewBox="0 0 128 128"
+   width="128px"
+   version="1.1"
+   id="svg1457"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1461" />
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="8"
+     x2="120.0000075"
+     y1="123.99999225"
+     y2="123.99999225">
+    <stop
+       offset="0"
+       stop-color="#e5a50a"
+       id="stop1405" />
+    <stop
+       offset="0.0357143"
+       stop-color="#f6d32d"
+       id="stop1407" />
+    <stop
+       offset="0.0714286"
+       stop-color="#e5a50a"
+       id="stop1409" />
+    <stop
+       offset="0.928571"
+       stop-color="#e5a50a"
+       id="stop1411" />
+    <stop
+       offset="0.964286"
+       stop-color="#f6d32d"
+       id="stop1413" />
+    <stop
+       offset="1"
+       stop-color="#e5a50a"
+       id="stop1415" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="46.000003"
+     x2="82.000003"
+     y1="71.4"
+     y2="71.4">
+    <stop
+       offset="0"
+       stop-color="#1f8455"
+       id="stop1418" />
+    <stop
+       offset="0.5"
+       stop-color="#26a269"
+       id="stop1420" />
+    <stop
+       offset="1"
+       stop-color="#1f8455"
+       stop-opacity="0.976471"
+       id="stop1422" />
+  </linearGradient>
+  <path
+     d="m 16 40 h 96 c 4.417969 0 8 3.582031 8 8 v 60 c 0 4.417969 -3.582031 8 -8 8 h -96 c -4.417969 0 -8 -3.582031 -8 -8 v -60 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0"
+     fill="url(#a)"
+     id="path1425" />
+  <path
+     d="m 16,38 h 96 c 4.41797,0 8,3.582031 8,8 v 56 c 0,4.41797 -3.58203,8 -8,8 H 16 c -4.417969,0 -8,-3.58203 -8,-8 V 46 c 0,-4.417969 3.582031,-8 8,-8 z m 0,0"
+     fill="#f6d32d"
+     id="path1427" />
+  <path
+     style="opacity:0.5;stroke-width:1.02109"
+     d="M 12.388359,63.522931 V 80.881454 H 23.620345 V 63.522931 Z m 3.063269,3.063269 h 5.105447 v 11.231986 h -5.105447 z"
+     id="path3368" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="22.463972"
+     x="16.472717"
+     y="38"
+     id="rect3362" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="22.463972"
+     x="108.46401"
+     y="38"
+     id="rect3362-6" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="11.231986"
+     x="22.599253"
+     y="38"
+     id="rect3364" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="17.358522"
+     x="47.105324"
+     y="38"
+     id="rect3366" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="11.231986"
+     x="28.72579"
+     y="38"
+     id="rect3370" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="11.231986"
+     x="34.852249"
+     y="38"
+     id="rect3372" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="11.231986"
+     x="40.978786"
+     y="38"
+     id="rect3374" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="11.231986"
+     x="53.231861"
+     y="38"
+     id="rect3376" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="11.231986"
+     x="59.358398"
+     y="38"
+     id="rect3378" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="11.231986"
+     x="65.530594"
+     y="38"
+     id="rect3376-0" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="11.231986"
+     x="71.657127"
+     y="38"
+     id="rect3378-9" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="17.358522"
+     x="77.793724"
+     y="38"
+     id="rect3366-3" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="11.231986"
+     x="83.920258"
+     y="38"
+     id="rect3376-6" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="11.231986"
+     x="90.046799"
+     y="38"
+     id="rect3378-0" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="11.231986"
+     x="96.218834"
+     y="38"
+     id="rect3376-0-6" />
+  <rect
+     style="opacity:0.5;stroke-width:1.02109"
+     width="3.0632687"
+     height="11.231986"
+     x="102.34539"
+     y="38"
+     id="rect3378-9-2" />
+</svg>
