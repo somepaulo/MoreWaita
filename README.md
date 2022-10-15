@@ -6,12 +6,35 @@ This theme is built upon the work of Gnome's Adwaita designers, Gnome Circle app
 
 This theme is built and tested against vanilla Gnome on Arch Linux. If an icon is in the theme, but is not applying to your app, open an issue and mention the icon name referenced in your app's `.desktop` file.
 
-#### Installation
+## Installation
 
-    git clone https://github.com/somepaulo/MoreWaita.git
-    cp -r MoreWaita/ ~/.local/share/icons/
+#### Download the theme
+`git clone https://github.com/somepaulo/MoreWaita.git`
 
-#### Screenshots
+#### Install for local user
+`cp -r MoreWaita/ ~/.local/share/icons/`
+
+#### Install system-wide
+`sudo cp -r MoreWaita/ /usr/share/icons/`
+
+#### Arch Linux
+[AUR package](https://aur.archlinux.org/packages/morewaita-git)
+
+## Activation
+Either use the `Tweaks` app to choose and activate the icon theme or run the following command:
+
+`gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'`
+
+#### Troubleshooting
+If the theme doesn't apply try the following command:
+
+##### For local installation
+`sudo gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && sudo gtk4-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
+
+##### For system-wide installation
+`sudo gtk-update-icon-cache -f -t /usr/share/icons/MoreWaita && sudo gtk4-update-icon-cache -f -t /usr/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
+
+## Screenshots
 ![MoreWaita01](https://user-images.githubusercontent.com/15643750/195966142-41850108-9bd3-49d4-a441-63834c4b9ea7.png)
 ![MoreWaita02](https://user-images.githubusercontent.com/15643750/195966146-7697274f-d109-4d64-84d9-1eaf0da96634.png)
 ![MoreWaita03](https://user-images.githubusercontent.com/15643750/195966150-c4333c76-7b57-447b-a5c3-ebe3182c8f54.png)
