@@ -19,6 +19,7 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 
 #### Arch Linux
 [AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
+
 [AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)
 
 ## Activation
