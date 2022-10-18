@@ -37,5 +37,5 @@ If the theme doesn't apply try the following command:
 ## Screenshots
 ![MoreWaita01](https://user-images.githubusercontent.com/15643750/195966142-41850108-9bd3-49d4-a441-63834c4b9ea7.png)
 ![MoreWaita02](https://user-images.githubusercontent.com/15643750/195966146-7697274f-d109-4d64-84d9-1eaf0da96634.png)
-![MoreWaita03](https://user-images.githubusercontent.com/15643750/195966150-c4333c76-7b57-447b-a5c3-ebe3182c8f54.png)
+![MoreWaita03](https://user-images.githubusercontent.com/15643750/196330011-7bb7765f-6842-468a-a44b-3d7f1286e08c.png)
 ![MoreWaita04](https://user-images.githubusercontent.com/15643750/195966153-0086fc52-9891-4319-b05f-0397da02e5ff.png)
