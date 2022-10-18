@@ -18,7 +18,8 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 `sudo cp -r MoreWaita/ /usr/share/icons/`
 
 #### Arch Linux
-[AUR package](https://aur.archlinux.org/packages/morewaita-git)
+[AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
+[AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)
 
 ## Activation
 Either use the `Tweaks` app to choose and activate the icon theme or run the following command:
@@ -29,7 +30,7 @@ Either use the `Tweaks` app to choose and activate the icon theme or run the fol
 If the theme doesn't apply try the following command:
 
 ##### For local installation
-`sudo gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && sudo gtk4-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
+`gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && gtk4-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
 
 ##### For system-wide installation
 `sudo gtk-update-icon-cache -f -t /usr/share/icons/MoreWaita && sudo gtk4-update-icon-cache -f -t /usr/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
