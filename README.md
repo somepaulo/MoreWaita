@@ -17,6 +17,11 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 #### Install system-wide
 `sudo cp -r MoreWaita/ /usr/share/icons/`
 
+#### Fedora Linux
+[COPR repository](https://copr.fedorainfracloud.org/coprs/dusansimic/themes)
+
+Package name is `morewaita-icon-theme`.
+
 #### Arch Linux
 [AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
 
