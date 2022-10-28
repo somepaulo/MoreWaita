@@ -17,15 +17,15 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 #### Install system-wide
 `sudo cp -r MoreWaita/ /usr/share/icons/`
 
-#### Fedora Linux
-[COPR repository](https://copr.fedorainfracloud.org/coprs/dusansimic/themes)
-
-Package name is `morewaita-icon-theme`.
-
 #### Arch Linux
 [AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
 
 [AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)
+
+#### Fedora Linux
+[COPR repository](https://copr.fedorainfracloud.org/coprs/dusansimic/themes)
+
+Package name is `morewaita-icon-theme`.
 
 ## Activation
 Either use the `Tweaks` app to choose and activate the icon theme or run the following command:
@@ -41,8 +41,5 @@ If the theme doesn't apply try the following command:
 ##### For system-wide installation
 `sudo gtk-update-icon-cache -f -t /usr/share/icons/MoreWaita && sudo gtk4-update-icon-cache -f -t /usr/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
 
-## Screenshots
-![MoreWaita01](https://user-images.githubusercontent.com/15643750/195966142-41850108-9bd3-49d4-a441-63834c4b9ea7.png)
-![MoreWaita02](https://user-images.githubusercontent.com/15643750/195966146-7697274f-d109-4d64-84d9-1eaf0da96634.png)
-![MoreWaita03](https://user-images.githubusercontent.com/15643750/196330011-7bb7765f-6842-468a-a44b-3d7f1286e08c.png)
-![MoreWaita04](https://user-images.githubusercontent.com/15643750/195966153-0086fc52-9891-4319-b05f-0397da02e5ff.png)
+## The icons
+![MoreWaita_42-1-0](https://user-images.githubusercontent.com/15643750/198497442-3f82c125-0a81-4c0c-8563-54a12f5efb81.png)
