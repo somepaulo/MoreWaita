@@ -1,8 +1,8 @@
 [Icon Theme]
 Name=MoreWaita
 Comment=An Adwaita styled theme with extra icons for popular apps to complement Gnome Shell's original icons.
-Inherits=Adwaita,hicolor
-Example=folder
+Inherits=Adwaita
+Example=pamac
 
 # KDE/Plasma Stuff
 DisplayDepth=32
