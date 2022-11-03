@@ -100,7 +100,7 @@
        x2="-462.03283"
        y2="-81.183171"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1.41274,-14.313533)" />
+       gradientTransform="translate(578.03279,156.30328)" />
   </defs>
   <metadata
      id="metadata4">
@@ -161,26 +161,22 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g969"
-     transform="translate(579.44553,170.61681)">
-    <path
-       id="path13104-3"
-       d="m -560.01694,-136.38596 h 89.14281 c 4.11543,0 7.42856,3.31314 7.42856,7.42856 v 46.49283 l -27.85719,27.857126 h -68.71418 c -4.11542,0 -7.42856,-3.313141 -7.42856,-7.428567 V -128.9574 c 0,-4.11542 3.31314,-7.42856 7.42856,-7.42856 z"
-       style="display:inline;fill:url(#linearGradient957);fill-opacity:1;stroke:none;stroke-width:0.116072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
-    <path
-       id="path13104"
-       d="m -560.01694,-140.38596 h 89.14281 c 4.11543,0 7.42856,3.31314 7.42856,7.42856 v 46.492828 l -27.85719,27.857126 h -68.71418 c -4.11542,0 -7.42856,-3.313141 -7.42856,-7.428567 V -132.9574 c 0,-4.11542 3.31314,-7.42856 7.42856,-7.42856 z"
-       style="display:inline;fill:#52d262;fill-opacity:1;stroke:none;stroke-width:0.116072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
-  </g>
+  <path
+     id="path13104-3"
+     d="m 19.42859,34.23085 h 89.14281 c 4.11543,0 7.42856,3.31314 7.42856,7.42856 V 88.15224 L 88.14277,116.00937 H 19.42859 c -4.11542,0 -7.42856,-3.31315 -7.42856,-7.42857 V 41.65941 c 0,-4.11542 3.31314,-7.42856 7.42856,-7.42856 z"
+     style="display:inline;fill:url(#linearGradient957);fill-opacity:1;stroke:none;stroke-width:0.116072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
+  <path
+     id="path13104"
+     d="m 19.42859,30.23085 h 89.14281 c 4.11543,0 7.42856,3.31314 7.42856,7.42856 V 84.152238 L 88.14277,112.00936 H 19.42859 c -4.11542,0 -7.42856,-3.31314 -7.42856,-7.42856 V 37.65941 c 0,-4.11542 3.31314,-7.42856 7.42856,-7.42856 z"
+     style="display:inline;fill:#52d262;fill-opacity:1;stroke:none;stroke-width:0.116072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:sour;-inkscape-font-specification:sour;fill:#ffffff;fill-opacity:1;stroke:none"
      x="15.877295"
-     y="98.50679"
+     y="96.506783"
      id="text1027"><tspan
        id="tspan1025"
        x="15.877295"
-       y="98.50679"
+       y="96.506783"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;font-family:Cairo;-inkscape-font-specification:'Cairo Bold'">DV</tspan></text>
 </svg>

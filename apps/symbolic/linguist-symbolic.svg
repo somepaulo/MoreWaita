@@ -56,7 +56,7 @@
        gradientTransform="translate(307.02554,70.637274)" />
   </defs>
   <path
-     id="path13104-9"
+     id="path13104"
      style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0178572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-     d="M 1.14303,1.709285 C 0.50989,1.709285 0,2.219173 0,2.852314 v 10.295372 c 0,0.633142 0.50989,1.143029 1.14303,1.143029 H 11.71424 L 16,10.004958 V 2.852314 C 16,2.219173 15.49041,1.709285 14.85727,1.709285 Z m 4.63431,2.692909 h 1.58534 v 6.409855 h 2.86028 v 1.401142 H 5.77734 Z" />
+     d="M 1.14273,1.709285 C 0.50959,1.709285 0,2.218872 0,2.852013 v 10.295673 c 0,0.633141 0.50959,1.143029 1.14273,1.143029 H 11.71424 L 16,10.004958 V 2.852013 C 16,2.218872 15.490414,1.709285 14.857272,1.709285 Z m 4.63461,2.384916 h 1.58504 v 6.409856 h 2.86028 v 1.401442 H 5.77734 Z" />
 </svg>

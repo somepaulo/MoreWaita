@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg7339"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7343" />
+  <rect
+     height="16"
+     id="rect7580"
+     rx="0"
+     ry="0"
+     style="display:inline;opacity:0;fill:#000000;fill-opacity:1;stroke:none"
+     width="15.9375"
+     x="-16.920727"
+     y="1.86189" />
+  <path
+     d="m 7.9999999,0.46153831 c -3.8659924,0 -7.00000018,3.13400779 -7.00000018,7.00000019 0,3.8659925 3.13400778,7.0000005 7.00000018,7.0000005 0.5983708,0 1.1766785,-0.08379 1.7310677,-0.225056 -0.076354,-0.277534 -0.1152415,-0.564027 -0.1156831,-0.851867 0.00108,-0.795211 0.2954,-1.562099 0.8266245,-2.153847 H 9.6490384 V 8 H 6.3846152 v 3.230769 H 4.2606321 V 3.6923076 H 6.3846152 V 6.9230769 H 9.6490384 V 3.6923076 H 10.292672 V 2.6153845 C 10.293006,2.014666 10.657297,1.4740506 11.213948,1.2481983 10.250672,0.74881832 9.1599322,0.46153831 7.9999999,0.46153831 Z"
+     id="path12729"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07692;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new" />
+  <circle
+     cx="12.846135"
+     cy="13.384616"
+     id="path12739"
+     r="2.1538463"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07692;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new" />
+  <path
+     d="m 11.769231,10.153846 h 2.153846 L 15,2.6153845 h -3.230769 z"
+     id="path12744"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07692;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new" />
+</svg>
