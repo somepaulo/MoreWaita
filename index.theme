@@ -26,7 +26,7 @@ FollowsColorScheme=true
 KDE-Extensions=.svg
 
 # Directory list
-Directories=apps/scalable,apps/symbolic,places/scalable,places/symbolic,status/scalable,status/symbolic,panel/scalable,panel/symbolic,apps@2x/scalable,apps@2x/symbolic,places@2x/scalable,places@2x/symbolic,status@2x/scalable,status@2x/symbolic,panel@2x/scalable,panel@2x/symbolic
+Directories=apps/scalable,apps/symbolic,mimes/scalable,mimes/symbolic,places/scalable,places/symbolic,status/scalable,status/symbolic,panel/scalable,panel/symbolic,apps@2x/scalable,apps@2x/symbolic,mimes@2x/scalable,mimes@2x/symbolic,places@2x/scalable,places@2x/symbolic,status@2x/scalable,status@2x/symbolic,panel@2x/scalable,panel@2x/symbolic
 
 [apps/scalable]
 Size=96
