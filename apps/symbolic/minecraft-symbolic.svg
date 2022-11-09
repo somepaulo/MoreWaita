@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg364"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs368">
+    <linearGradient
+       id="e"
+       x1="25.68"
+       x2="26.448"
+       y1="39.395"
+       y2="17.375999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.55864786,0,0,0.56443363,-64.471983,-20.155565)">
+      <stop
+         stop-color="#345f29"
+         offset="0"
+         id="stop3689" />
+      <stop
+         stop-color="#59a446"
+         offset="1"
+         id="stop3691" />
+    </linearGradient>
+    <linearGradient
+       id="a"
+       x1="15.707"
+       x2="25.68"
+       y1="32.561001"
+       y2="39.395"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.55864786,0,0,0.56443363,-64.471983,-20.155565)">
+      <stop
+         stop-color="#ad7c59"
+         offset="0"
+         id="stop3694" />
+      <stop
+         stop-color="#835b41"
+         offset="1"
+         id="stop3696" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g4837"
+     transform="translate(38.956794,10.949073)">
+    <path
+       id="rect4615"
+       style="fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;paint-order:stroke fill markers"
+       d="m -30.956794,-10.973162 6.83789,4.0859331 -6.83789,3.9750019 -6.83789,-3.9750014 z" />
+    <path
+       id="rect4766-3"
+       style="fill:#000000;fill-opacity:0.700438;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;paint-order:stroke fill markers"
+       d="m -30.956794,-2.9122275 6.83789,-3.9750014 V 1.079559 l -6.83789,3.9954561 z" />
+    <path
+       id="rect4766-1"
+       style="fill:#000000;fill-opacity:0.395879;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;paint-order:stroke fill markers"
+       d="m -30.956794,-2.912227 -6.83789,-3.9750014 v 7.9667879 l 6.83789,3.9954556 z" />
+  </g>
+</svg>

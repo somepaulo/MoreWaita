@@ -423,6 +423,50 @@
          in="SourceGraphic"
          operator="over" />
     </filter>
+    <linearGradient
+       xlink:href="#linearGradient1097"
+       id="linearGradient1099"
+       x1="9.9999962"
+       y1="68"
+       x2="118"
+       y2="68"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(82.217823,9.7821805)" />
+    <linearGradient
+       id="linearGradient1097">
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0"
+         id="stop1093" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.05234205"
+         id="stop1101" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0.15255697"
+         id="stop1103" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0.85064137"
+         id="stop1105" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.94848526"
+         id="stop1107" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="1"
+         id="stop1095" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1097"
+       id="linearGradient3028"
+       x1="20.971409"
+       y1="65.964912"
+       x2="107.02859"
+       y2="65.964912"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -484,7 +528,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.126349;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     style="display:inline;fill:url(#linearGradient3028);fill-opacity:1.0;stroke:none;stroke-width:0.126349;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
      d="M 23.339105,11.929825 H 105.613 C 114.45175,84.979274 79.592736,114.46032 64.921994,120 52.743084,114.49707 10.615659,91.056257 23.339105,11.929825 Z"
      id="path3793-5-6" />
   <path

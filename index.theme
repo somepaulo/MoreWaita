@@ -42,6 +42,20 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
+[mimes/scalable]
+Size=96
+Context=Applications
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[mimes/symbolic]
+Size=16
+Context=Applications
+MinSize=16
+MaxSize=512
+Type=Scalable
+
 [panel/scalable]
 Size=24
 Context=Panel
@@ -94,6 +108,20 @@ MaxSize=512
 Type=Scalable
 
 [apps@2x/symbolic]
+Size=16
+Context=Applications
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[mimes@2x/scalable]
+Size=96
+Context=Applications
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[mimes@2x/symbolic]
 Size=16
 Context=Applications
 MinSize=16

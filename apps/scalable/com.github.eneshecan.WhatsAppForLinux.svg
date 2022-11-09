@@ -5,6 +5,7 @@
    id="svg745"
    width="128"
    height="128.24545"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -37,12 +38,56 @@
          stdDeviation="3.531"
          id="feGaussianBlur730" />
     </filter>
+    <linearGradient
+       xlink:href="#linearGradient1097"
+       id="linearGradient1099"
+       x1="9.9999962"
+       y1="68"
+       x2="118"
+       y2="68"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(83.767968,-16.098682)" />
+    <linearGradient
+       id="linearGradient1097">
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0"
+         id="stop1093" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.05234205"
+         id="stop1101" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0.15255697"
+         id="stop1103" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0.85064137"
+         id="stop1105" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.94848526"
+         id="stop1107" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="1"
+         id="stop1095" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1097"
+       id="linearGradient2547"
+       x1="10.241195"
+       y1="66.122726"
+       x2="117.7588"
+       y2="66.122726"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      fill="#ffffff"
      d="m 10.241195,120.12273 8.7e-4,-3.99502 7.594407,-23.736213 c -4.692266,-8.135106 -7.15696,-17.363465 -7.145625,-26.7548 0.01237,-29.50799 24.025628,-53.513972 53.534345,-53.513972 14.319626,0.0073 27.760328,5.579859 37.868678,15.695492 10.10835,10.115632 15.67002,23.561427 15.66493,37.86141 -0.0131,29.5058 -24.029988,53.516163 -53.534335,53.516163 h -0.02328 c -8.95877,-0.004 -17.761837,-2.25116 -25.581207,-6.51481 z"
      id="path737-5"
-     style="fill:#b2b2b2;fill-opacity:1;stroke-width:0.727586" />
+     style="fill:url(#linearGradient2547);fill-opacity:1.0;stroke-width:0.727586" />
   <path
      fill="#ffffff"
      d="M 10.241193,116.12273 17.836466,88.3915 A 53.419386,53.419386 0 0 1 10.690841,61.636696 c 0.01237,-29.50799 24.025628,-53.5139716 53.534345,-53.5139716 14.319626,0.0073 27.760328,5.5798586 37.868684,15.6954916 10.10835,10.115632 15.67002,23.561427 15.66493,37.861408 -0.0131,29.505807 -24.029989,53.516166 -53.534341,53.516166 h -0.02328 c -8.95877,-0.004 -17.761837,-2.25116 -25.581207,-6.51481 z"
