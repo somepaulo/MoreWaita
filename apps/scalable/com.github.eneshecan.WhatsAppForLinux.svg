@@ -11,6 +11,33 @@
   <defs
      id="defs733">
     <linearGradient
+       id="linearGradient894">
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0.26109856"
+         id="stop882" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.29933369"
+         id="stop884" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0.40009475"
+         id="stop886" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0.85064137"
+         id="stop888" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.94848526"
+         id="stop890" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="1"
+         id="stop892" />
+    </linearGradient>
+    <linearGradient
        id="b"
        x1="85.915001"
        x2="86.535004"
@@ -75,7 +102,7 @@
          id="stop1095" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient1097"
+       xlink:href="#linearGradient894"
        id="linearGradient2547"
        x1="10.241195"
        y1="66.122726"

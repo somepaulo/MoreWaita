@@ -74,7 +74,7 @@
        y2="120"
        id="c"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.96491228,0,0,0.96491228,2.2456187,0.28070776)">
+       gradientTransform="matrix(0.96491228,0,0,0.9646101,2.2456187,0.28312522)">
       <stop
          stop-color="#FEFEFE"
          offset="0%"
@@ -155,25 +155,59 @@
          in="shadowInnerInner1"
          id="feColorMatrix37" />
     </filter>
+    <linearGradient
+       xlink:href="#linearGradient1097"
+       id="linearGradient1099"
+       x1="9.9999962"
+       y1="68"
+       x2="118"
+       y2="68"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.99968683,1.5e-6,-1.9617859)" />
+    <linearGradient
+       id="linearGradient1097">
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0"
+         id="stop1093" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.05234205"
+         id="stop1101" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0.15255697"
+         id="stop1103" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0.85064137"
+         id="stop1105" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.94848526"
+         id="stop1107" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="1"
+         id="stop1095" />
+    </linearGradient>
   </defs>
-  <circle
+  <path
+     style="fill:url(#linearGradient1099);fill-opacity:1;stroke:none;stroke-width:0.111026"
+     d="M 64.000001,12.033826 C 93.826031,12.033826 118,36.200224 118,66.016919 118,95.833608 93.814931,120 64.000001,120 34.185071,120 9.9999985,95.833608 9.9999985,66.016919 c 0,-29.816696 24.1739635,-53.983094 54.0000025,-53.983094"
+     id="path24-2" />
+  <ellipse
      fill="url(#c)"
      cx="64"
-     cy="65.96492"
-     r="54.035088"
-     id="circle48-7"
-     style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke-width:0.964912" />
-  <circle
-     fill="url(#c)"
-     cx="64"
-     cy="62.035091"
-     r="54.035088"
+     cy="62.018169"
      id="circle48"
-     style="fill:url(#c);fill-rule:evenodd;stroke-width:0.964912" />
+     style="fill:url(#c);fill-rule:evenodd;stroke-width:0.964761"
+     rx="54.035088"
+     ry="54.018166" />
   <use
      fill="url(#g)"
      xlink:href="#e"
      id="use52"
      style="fill:url(#g);fill-rule:evenodd"
-     transform="matrix(0.96491228,0,0,0.96491228,2.2456187,0.28070776)" />
+     transform="matrix(0.96491228,0,0,0.9646101,2.2456187,0.28312522)" />
 </svg>
