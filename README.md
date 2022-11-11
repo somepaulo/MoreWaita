@@ -36,10 +36,10 @@ Either use the `Tweaks` app to choose and activate the icon theme or run the fol
 If the theme doesn't apply try the following command:
 
 ##### For local installation
-`gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && gtk4-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
+`gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
 
 ##### For system-wide installation
-`sudo gtk-update-icon-cache -f -t /usr/share/icons/MoreWaita && sudo gtk4-update-icon-cache -f -t /usr/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
+`sudo gtk-update-icon-cache -f -t /usr/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
 
 ## The icons
 ![MoreWaita](https://user-images.githubusercontent.com/15643750/200980585-12908696-b51b-4c4b-8b3e-aedd64761de7.png)
