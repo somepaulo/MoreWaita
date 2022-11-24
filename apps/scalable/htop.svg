@@ -697,28 +697,20 @@
      d="m 20 14 h 88 c 3.3125 0 6 2.6875 6 6 v 80 c 0 3.3125 -2.6875 6 -6 6 h -88 c -3.3125 0 -6 -2.6875 -6 -6 v -80 c 0 -3.3125 2.6875 -6 6 -6 z m 0 0"
      fill="#241f31"
      id="path278" />
-  <g
-     id="g3205"
-     transform="matrix(1.627907,0,0,1.627907,644.98811,-42.8998)">
-    <path
-       style="opacity:0.2"
-       d="m -379.89269,42.709876 v 12 h 3 v -2 h -1 v -8 h 1 v -2 z m 6,0 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z m 19,0 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z m 6,0 v 2 h 1 v 8 h -1 v 2 h 3 v -12 z m -43,15 v 12 h 3 v -2 h -1 v -8 h 1 v -2 z m 6,0 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z m 7,0 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z m 6,0 v 2 h 1 v 8 h -1 v 2 h 3 v -12 z m -43,15 v 12 h 3 v -2 h -1 v -8 h 1 v -2 z m 6,0 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z m 19,0 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z m 6,0 v 2 h 1 v 8 h -1 v 2 h 3 v -12 z"
-       id="path3014" />
-    <path
-       style="fill:#d4d4d4"
-       d="m -333.89269,41.709876 v 12 h -3 v -2 h 1 v -8 h -1 v -2 z m 0,15 v 12 h -3 v -2 h 1 v -8 h -1 v -2 z m 0,15 v 12 h -3 v -2 h 1 v -8 h -1 v -2 z m -46,-30 v 12 h 3 v -2 h -1 v -8 h 1 v -2 z m 0,15 v 12 h 3 v -2 h -1 v -8 h 1 v -2 z m 0,15 v 12 h 3 v -2 h -1 v -8 h 1 v -2 z"
-       id="path3016" />
-    <path
-       style="fill:#8bc34a"
-       d="m -373.89269,71.709876 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z m -6,-15 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z m -6,-15 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z"
-       id="path3018" />
-    <path
-       style="fill:#ff9800"
-       d="m -361.89269,56.709876 v 12 h 3 v -12 z m 7,0 v 12 h 3 v -12 z"
-       id="path3020" />
-    <path
-       style="fill:#ff5722"
-       d="m -348.89269,71.709876 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z m -6,-15 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z m -6,-15 v 12 h 3 v -12 z m 6,0 v 12 h 3 v -12 z"
-       id="path3022" />
-  </g>
+  <path
+     style="fill:#d4d4d4;stroke-width:1.66667"
+     d="m 102.33333,25 v 20 h -4.999995 v -3.333333 h 1.666666 V 28.333334 H 97.333335 V 25 Z m 0,25 v 20 h -4.999995 v -3.333333 h 1.666666 V 53.333333 H 97.333335 V 50 Z m 0,25 v 20 h -4.999995 v -3.333334 h 1.666666 V 78.333333 H 97.333335 V 75 Z M 25.666669,25 v 20 h 5 V 41.666667 H 29.000002 V 28.333334 h 1.666667 V 25 Z m 0,25 v 20 h 5 V 66.666667 H 29.000002 V 53.333333 h 1.666667 V 50 Z m 0,25 v 20 h 5 V 91.666666 H 29.000002 V 78.333333 h 1.666667 V 75 Z"
+     id="path3016" />
+  <path
+     style="fill:#8bc34a;stroke-width:1.66667"
+     d="m 35.666668,75 v 20 h 5 V 75 Z m 10,0 v 20 h 5 V 75 Z m -10,-25 v 20 h 5 V 50 Z m 10,0 v 20 h 5 V 50 Z m -10,-25 v 20 h 5 V 25 Z m 10,0 v 20 h 5 V 25 Z"
+     id="path3018" />
+  <path
+     style="fill:#ff9800;stroke-width:1.66667"
+     d="m 55.666668,50 v 20 h 5 V 50 Z m 11.666667,0 v 20 h 5 V 50 Z"
+     id="path3020" />
+  <path
+     style="fill:#ff5722;stroke-width:1.66667"
+     d="m 77.333335,75 v 20 h 5 V 75 Z m 10,0 v 20 h 5 V 75 Z m -10,-25 v 20 h 5 V 50 Z m 10,0 v 20 h 5 V 50 Z m -10,-25 v 20 h 5 V 25 Z m 10,0 v 20 h 5 V 25 Z"
+     id="path3022" />
 </svg>
