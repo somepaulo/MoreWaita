@@ -4,9 +4,9 @@ The purpose of this theme is to provide a consistent look and feel with Gnome Sh
 
 This theme is built upon the work of Gnome's Adwaita designers, Gnome Circle apps' developers and Papirus theme designers with a touch of tinkering from myself and [@dusansimic](https://github.com/dusansimic) here and there. The theme covers the most frequently installed dependency GUI apps that almost nobody uses (like Avahi browsers, QT Designer, Software token, etc.) as well as some of the most popular apps people really do install and use.
 
-The purpose of MoreWaita is to add to Adwaita, not modify it. This theme does not override any Adwaita icons, nor any Gnome Circle apps icons, nor icons that generally fit into the Adwaita paradigm (like Transmission GTK). Currently, this theme is way less all-inclusive than many others, but the aim is to be on par with Papirus some day. However, this is (mostly) a one-man hobby effort for now, so suggestions, requests, PRs and contributions are very welcome.
+The purpose of MoreWaita is to add to Adwaita, not modify it, and to do roughly what Breeze does for KDE. This theme does not override any Adwaita icons, nor any Gnome Circle apps icons, nor icons that generally fit into the Adwaita paradigm (like Transmission GTK). Currently, this theme is way less all-inclusive than many others, but the aim is to be on par with Papirus some day. However, this is (mostly) a one-man hobby effort for now, so suggestions, requests, PRs and contributions are very welcome.
 
-The general idea is to stay as close as possible to the original icons – to the point of using them in full – and giving them the distinct Adwaita 'perspective' and general flatness. One thing this theme deviates from is the Gnome colour palette in brand icons – MoreWaita keeps the brand colours.   
+For most icons, especially branded ones, the general idea is to stay as close as possible to the original icons – to the point of using them in full – and giving them the distinct Adwaita 'perspective' and general flatness. One thing this theme deviates from is the Gnome colour palette in brand icons – MoreWaita keeps the brand colours.   
 
 This theme is built and tested against vanilla Gnome on Arch Linux. If an icon is in the theme, but is not applying to your app, please open an issue and mention the icon name referenced in your app's `.desktop` file.
 
@@ -46,4 +46,4 @@ If the theme doesn't apply try the following command:
 `sudo gtk-update-icon-cache -f -t /usr/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
 
 ## The icons
-![MoreWaita](https://user-images.githubusercontent.com/15643750/202928702-07fe807b-f1b9-4d55-9e50-fdf5133f23c0.png)
+![MoreWaita](https://user-images.githubusercontent.com/15643750/203869870-a7170f11-1221-4ac2-9337-50506b36dc12.png)
