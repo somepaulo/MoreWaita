@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg2330"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2327">
+    <linearGradient
+       x1="49.021477"
+       y1="-0.079846866"
+       x2="49.021477"
+       y2="97.846107"
+       id="a-3"
+       gradientTransform="matrix(0.04027835,0,0,0.18908107,-10.277977,-8.2115158)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#16B0ED"
+         stop-opacity=".8"
+         offset="0"
+         id="stop2010"
+         style="stop-color:#000000;stop-opacity:0.80000001;" />
+      <stop
+         stop-color="#0F59B2"
+         stop-opacity=".837"
+         offset="1"
+         id="stop2012"
+         style="stop-color:#000000;stop-opacity:0.83529413;" />
+    </linearGradient>
+    <linearGradient
+       x1="326.17334"
+       y1="-0.069476359"
+       x2="326.17334"
+       y2="98.850868"
+       id="b-6"
+       gradientTransform="matrix(-0.04069215,0,0,0.1871583,16.251791,-8.2115158)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#7DB643"
+         offset="0"
+         id="stop2015"
+         style="stop-color:#000000;stop-opacity:0.60029238;" />
+      <stop
+         stop-color="#367533"
+         offset="1"
+         id="stop2017"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       x1="103.88464"
+       y1="-0.11535945"
+       x2="103.88464"
+       y2="178.55791"
+       id="c"
+       gradientTransform="matrix(0.07348395,0,0,0.10363996,-10.277977,-8.2115158)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#88C649"
+         stop-opacity=".8"
+         offset="0"
+         id="stop2020"
+         style="stop-color:#000000;stop-opacity:0.80000001;" />
+      <stop
+         stop-color="#439240"
+         stop-opacity=".84"
+         offset="1"
+         id="stop2022"
+         style="stop-color:#000000;stop-opacity:0.8392157;" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g3122"
+       transform="matrix(0.22857144,0,0,0.22857144,2.7205386,1.8803689)">
+      <path
+         d="m -10.275619,-4.2443547 3.9442938,-3.9822588 V 10.289331 L -10.275619,6.353152 Z"
+         fill="url(#a)"
+         id="path2027"
+         style="fill:url(#a-3);fill-rule:evenodd;stroke-width:0.0872691" />
+      <path
+         d="M 4.9646854,-4.2067413 0.96645531,-8.2245188 1.0474421,10.289245 4.9917396,6.353066 4.964678,-4.2069172 Z"
+         fill="url(#b)"
+         id="path2029"
+         style="fill:url(#b-6);fill-rule:evenodd;stroke-width:0.0872691" />
+      <path
+         d="M -6.3339414,-8.2234716 3.9206856,7.4247264 1.0511066,10.294219 -9.208929,-5.3193351 Z"
+         fill="url(#c)"
+         id="path2031"
+         style="fill:url(#c);fill-rule:evenodd;stroke-width:0.0872691" />
+      <path
+         d="m -6.3304492,-0.9653981 -0.0055,0.61637914 -3.1661206,-4.67438844 0.2932253,-0.2986338 z"
+         fill-opacity="0.13"
+         fill="#000000"
+         id="path2033"
+         style="fill-rule:evenodd;stroke-width:0.0872691" />
+    </g>
+  </g>
+</svg>

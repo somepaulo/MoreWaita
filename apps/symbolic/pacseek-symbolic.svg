@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg2330"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2327">
+    <linearGradient
+       x1="49.021477"
+       y1="-0.079846866"
+       x2="49.021477"
+       y2="97.846107"
+       id="a-3"
+       gradientTransform="matrix(0.04027835,0,0,0.18908107,-10.277977,-8.2115158)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#16B0ED"
+         stop-opacity=".8"
+         offset="0"
+         id="stop2010"
+         style="stop-color:#000000;stop-opacity:0.80000001;" />
+      <stop
+         stop-color="#0F59B2"
+         stop-opacity=".837"
+         offset="1"
+         id="stop2012"
+         style="stop-color:#000000;stop-opacity:0.83529413;" />
+    </linearGradient>
+    <linearGradient
+       x1="326.17334"
+       y1="-0.069476359"
+       x2="326.17334"
+       y2="98.850868"
+       id="b-6"
+       gradientTransform="matrix(-0.04069215,0,0,0.1871583,16.251791,-8.2115158)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#7DB643"
+         offset="0"
+         id="stop2015"
+         style="stop-color:#000000;stop-opacity:0.60029238;" />
+      <stop
+         stop-color="#367533"
+         offset="1"
+         id="stop2017"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       x1="103.88464"
+       y1="-0.11535945"
+       x2="103.88464"
+       y2="178.55791"
+       id="c"
+       gradientTransform="matrix(0.07348395,0,0,0.10363996,-10.277977,-8.2115158)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#88C649"
+         stop-opacity=".8"
+         offset="0"
+         id="stop2020"
+         style="stop-color:#000000;stop-opacity:0.80000001;" />
+      <stop
+         stop-color="#439240"
+         stop-opacity=".84"
+         offset="1"
+         id="stop2022"
+         style="stop-color:#000000;stop-opacity:0.8392157;" />
+    </linearGradient>
+  </defs>
+  <g
+     id="path417"
+     style="fill:#000000"
+     transform="translate(14.13893,11.055139)">
+    <path
+       id="path6443"
+       style="color:#000000;fill:#000000;stroke-miterlimit:3.3;paint-order:stroke fill markers"
+       d="m -11.83597,-11.068575 c -1.175262,0 -2.130619,0.955874 -2.130619,2.1311361 1e-6,1.17526 0.955358,2.1290687 2.130619,2.129069 0.616838,-0.00173 1.202399,-0.2716182 1.605587,-0.7384562 l 0.05839,-0.068213 -0.203605,-0.1648478 0.01137,-0.4376994 -0.325045,0.1824178 -0.0832,-0.067179 -0.0031,-0.4299479 -0.324528,0.1638143 -0.08113,-0.065629 0.02067,-0.4103109 -0.346749,0.1457275 -0.240812,-0.1958537 0.284737,-0.2129069 0.414445,0.1312582 -0.09043,-0.3731039 0.08578,-0.064079 0.413412,0.109554 -0.07803,-0.3601847 0.08113,-0.060978 0.393258,0.1260905 -0.05219,-0.3808553 0.218074,-0.1627807 -0.05271,-0.07028 c -0.401904,-0.538515 -1.033369,-0.855653 -1.705322,-0.855762 z m -0.203605,0.752926 a 0.26742828,0.26742828 0 0 1 0.267167,0.267167 0.26742828,0.26742828 0 0 1 -0.267167,0.2676837 0.26742828,0.26742828 0 0 1 -0.267684,-0.2676837 0.26742828,0.26742828 0 0 1 0.267684,-0.267167 z" />
+  </g>
+</svg>
