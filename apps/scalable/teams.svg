@@ -103,35 +103,6 @@
          style="stop-color:#20245f;stop-opacity:1;" />
     </svg:linearGradient>
     <svg:linearGradient
-       id="linearGradient1040"
-       gradientUnits="userSpaceOnUse"
-       x1="198.099"
-       y1="1683.0726"
-       x2="942.23438"
-       y2="394.26071"
-       gradientTransform="matrix(0.05209002,0,0,-0.05209002,0,108.10415)">
-      <svg:stop
-         offset="0"
-         stop-color="#5a62c3"
-         id="stop26-5" />
-      <svg:stop
-         offset=".5"
-         stop-color="#4d55bd"
-         id="stop28-3" />
-      <svg:stop
-         offset="1"
-         stop-color="#3940ab"
-         id="stop30-5" />
-    </svg:linearGradient>
-    <svg:linearGradient
-       xlink:href="#linearGradient1053"
-       id="linearGradient2601"
-       x1="5.9500198"
-       y1="65.999947"
-       x2="65.349937"
-       y2="65.999947"
-       gradientUnits="userSpaceOnUse" />
-    <svg:linearGradient
        xlink:href="#linearGradient2607"
        id="linearGradient2609"
        x1="38.341604"
@@ -163,6 +134,15 @@
        x2="122.04996"
        y2="78.149971"
        gradientUnits="userSpaceOnUse" />
+    <svg:linearGradient
+       xlink:href="#linearGradient1053"
+       id="linearGradient2626"
+       x1="22.260439"
+       y1="86.257423"
+       x2="81.660355"
+       y2="86.257423"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-16.310418,-20.257476)" />
   </svg:defs>
   <svg:linearGradient
      id="a"
@@ -235,14 +215,14 @@
      style="stroke-width:0.05209" />
   <svg:path
      fill="url(#a)"
-     d="m 10.899093,36.299991 h 49.501771 c 2.73332,0 4.949073,2.215806 4.949073,4.949073 v 49.501769 c 0,2.733321 -2.215806,4.94907 -4.949073,4.94907 H 10.899093 c -2.73332,0 -4.949073,-2.2158 -4.949073,-4.94907 V 41.249064 c 0,-2.733267 2.215805,-4.949073 4.949073,-4.949073 z"
-     id="path33-6"
-     style="fill:url(#linearGradient2601);stroke-width:0.05209;fill-opacity:1.0" />
+     d="m 10.899093,36.299991 h 49.501771 c 2.73332,0 4.949073,2.215806 4.949073,4.949073 v 49.50177 c 0,2.73332 -2.215806,4.94907 -4.949073,4.94907 H 10.899093 c -2.73332,0 -4.949073,-2.2158 -4.949073,-4.94907 v -49.50177 c 0,-2.733267 2.215805,-4.949073 4.949073,-4.949073 z"
+     id="path33-5"
+     style="fill:url(#linearGradient2626);fill-opacity:1;stroke:none;stroke-width:0.05209" />
   <svg:path
      fill="url(#a)"
      d="m 10.899093,32.299989 h 49.501771 c 2.73332,0 4.949073,2.215806 4.949073,4.949073 v 49.501771 c 0,2.73332 -2.215806,4.949073 -4.949073,4.949073 H 10.899093 c -2.7333198,0 -4.949073,-2.215805 -4.949073,-4.949073 V 37.249062 c 0,-2.733267 2.2158053,-4.949073 4.949073,-4.949073 z"
      id="path33"
-     style="fill:url(#a);stroke-width:0.05209" />
+     style="fill:url(#a);stroke-width:0.05209;stroke:none" />
   <svg:path
      fill="#ffffff"
      d="M 48.674827,51.140585 H 38.779286 V 78.086596 H 32.474831 V 51.140585 h -9.849598 v -5.227181 h 26.049594 z"
