@@ -46,4 +46,4 @@ If the theme doesn't apply try the following command:
 `sudo gtk-update-icon-cache -f -t /usr/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
 
 ## The icons
-![MoreWaita](https://user-images.githubusercontent.com/15643750/205165406-f9d97cfa-8eb4-4aae-9f5b-8e620d7cab02.png)
+![MoreWaita](https://user-images.githubusercontent.com/15643750/205176736-2ebfaed4-d679-41ff-b4a9-6a9fd6fbdd24.png)
