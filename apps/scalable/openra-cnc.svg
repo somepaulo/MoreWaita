@@ -13,6 +13,33 @@
   <defs
      id="defs4132">
     <linearGradient
+       id="linearGradient907">
+      <stop
+         style="stop-color:#4a4a4a;stop-opacity:1;"
+         offset="0"
+         id="stop903" />
+      <stop
+         style="stop-color:#646464;stop-opacity:1;"
+         offset="0.06841333"
+         id="stop911" />
+      <stop
+         style="stop-color:#4a4a4a;stop-opacity:1;"
+         offset="0.15218189"
+         id="stop913" />
+      <stop
+         style="stop-color:#4a4a4a;stop-opacity:1;"
+         offset="0.84922093"
+         id="stop915" />
+      <stop
+         style="stop-color:#646464;stop-opacity:1;"
+         offset="0.92793941"
+         id="stop917" />
+      <stop
+         style="stop-color:#4a4a4a;stop-opacity:1;"
+         offset="1"
+         id="stop905" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient3822">
       <stop
          id="stop3824"
@@ -159,6 +186,14 @@
        id="linearGradient3036"
        xlink:href="#linearGradient5084"
        gradientTransform="matrix(-0.21185769,-0.35259038,0.35259053,-0.21185774,-52.617386,98.502885)" />
+    <linearGradient
+       xlink:href="#linearGradient907"
+       id="linearGradient909"
+       x1="8"
+       y1="68"
+       x2="120"
+       y2="68"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4135">
@@ -172,7 +207,7 @@
     </rdf:RDF>
   </metadata>
   <circle
-     style="fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:2"
+     style="fill:url(#linearGradient909);fill-opacity:1;stroke:none;stroke-width:2"
      cx="64"
      cy="68"
      r="56"

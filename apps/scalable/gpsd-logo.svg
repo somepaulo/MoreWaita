@@ -4,10 +4,95 @@
    height="128"
    version="1"
    id="svg54"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs58" />
+     id="defs58">
+    <linearGradient
+       id="linearGradient4248">
+      <stop
+         style="stop-color:#98aeb8;stop-opacity:1;"
+         offset="0"
+         id="stop4246" />
+      <stop
+         style="stop-color:#607d8b;stop-opacity:1;"
+         offset="1"
+         id="stop4244" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4238">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4234" />
+      <stop
+         style="stop-color:#d6d6d6;stop-opacity:1;"
+         offset="1"
+         id="stop4236" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4230">
+      <stop
+         style="stop-color:#455a64;stop-opacity:1;"
+         offset="0"
+         id="stop4226" />
+      <stop
+         style="stop-color:#303e45;stop-opacity:1;"
+         offset="1"
+         id="stop4228" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4220">
+      <stop
+         style="stop-color:#607d8b;stop-opacity:1;"
+         offset="0"
+         id="stop4216" />
+      <stop
+         style="stop-color:#6b8a99;stop-opacity:1;"
+         offset="0.5"
+         id="stop4224" />
+      <stop
+         style="stop-color:#4b636c;stop-opacity:1;"
+         offset="1"
+         id="stop4218" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4220"
+       id="linearGradient4222"
+       x1="74.709167"
+       y1="2.5936947"
+       x2="103.45979"
+       y2="2.5936947"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient4230"
+       id="linearGradient4232"
+       x1="-44.08459"
+       y1="89.091972"
+       x2="-23.208432"
+       y2="89.091972"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#linearGradient4238"
+       id="radialGradient4242"
+       cx="76.909531"
+       cy="20.806469"
+       fx="76.909531"
+       fy="20.806469"
+       r="25.873503"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.37193013,0,0,0.41778953,48.30456,17.0757)" />
+    <radialGradient
+       xlink:href="#linearGradient4248"
+       id="radialGradient4250"
+       cx="66.115288"
+       cy="85.999756"
+       fx="66.115288"
+       fy="85.999756"
+       r="7.4959273"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <circle
      style="fill:#303e45;fill-opacity:1;stroke-width:1.87398"
      cx="-36.498657"
@@ -180,7 +265,7 @@
      d="m 117.99463,54.902159 c -8.23221,8.232214 -19.747552,10.785576 -30.146541,7.568185 -0.202744,-0.06273 -0.0073,-3.969856 -0.0073,-3.969856 0,0 -9.269671,-0.153193 -12.714806,-3.598329 -11.837838,-11.837846 -11.837845,-31.030775 0,-42.868617 l 42.873037,38.852571 z"
      id="path48-6" />
   <circle
-     style="fill:#455a64;stroke-width:1.87398"
+     style="fill:url(#linearGradient4232);stroke-width:1.87398;fill-opacity:1"
      cx="-33.646511"
      cy="89.091972"
      r="10.438079"
@@ -199,14 +284,21 @@
      d="m 107.47523,18.519406 -7.890086,15.182165 -5.433428,15.38353 -7.49345,-9.748738 -9.748735,-7.493448 15.383529,-5.433429 z"
      id="path36" />
   <circle
-     style="fill:#607d8b;stroke-width:1.87398"
+     style="fill:url(#radialGradient4250);stroke-width:1.87398;fill-opacity:1"
      cx="62.901031"
      cy="89.091972"
      r="7.4959273"
      transform="rotate(-45)"
      id="circle40" />
+  <circle
+     r="1.5"
+     transform="scale(1,-1)"
+     cy="-14.060444"
+     cx="107.47523"
+     id="circle21711-7-41-9"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#98aeb8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.280251;marker:none;enable-background:new" />
   <rect
-     style="fill:#607d8b;stroke-width:1.87398"
+     style="fill:url(#linearGradient4222);stroke-width:1.87398;fill-opacity:1"
      width="28.750628"
      height="58.125294"
      x="74.709167"
@@ -216,7 +308,7 @@
      transform="rotate(45)"
      id="rect44" />
   <path
-     style="fill:#e4e4e4;stroke-width:1.87398"
+     style="fill:url(#radialGradient4242);stroke-width:1.87398;fill-opacity:1"
      d="m 117.99463,50.868616 c -11.83784,11.837849 -31.03078,11.837849 -42.868621,0 C 63.288164,39.030777 63.288164,19.837843 75.126009,8 Z"
      id="path48" />
 </svg>
