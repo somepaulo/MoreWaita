@@ -4,12 +4,49 @@
    height="128"
    version="1"
    id="svg22"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs26" />
+     id="defs26">
+    <linearGradient
+       id="linearGradient874">
+      <stop
+         style="stop-color:#9a1918;stop-opacity:1;"
+         offset="0"
+         id="stop870" />
+      <stop
+         style="stop-color:#e03c3b;stop-opacity:1;"
+         offset="0.07138296"
+         id="stop878" />
+      <stop
+         style="stop-color:#9a1918;stop-opacity:1;"
+         offset="0.14790227"
+         id="stop880" />
+      <stop
+         style="stop-color:#9a1918;stop-opacity:1;"
+         offset="0.85142165"
+         id="stop882" />
+      <stop
+         style="stop-color:#e03c3b;stop-opacity:1;"
+         offset="0.92990345"
+         id="stop884" />
+      <stop
+         style="stop-color:#9a1918;stop-opacity:1;"
+         offset="1"
+         id="stop872" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient874"
+       id="linearGradient876"
+       x1="14.212767"
+       y1="61.914894"
+       x2="113.78723"
+       y2="61.914894"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <path
-     style="fill:#9a1918;fill-opacity:1;stroke-width:2.07447"
+     style="fill:url(#linearGradient876);fill-opacity:1;stroke-width:2.07447"
      d="M 104.88279,3.8297876 A 41.489361,42.555638 0 0 1 91.485872,28.675691 c -7.870531,-5.20484 -17.305213,-8.250159 -27.486702,-8.250159 -10.185637,0 -19.632765,3.047393 -27.503297,8.257212 A 41.489361,42.555638 0 0 1 23.117629,4.1065216 41.489361,42.555638 0 0 0 22.509809,11.059308 41.489361,42.555638 0 0 0 29.365927,34.436489 C 20.027916,43.47702 14.212767,56.127127 14.212767,70.212765 14.212767,97.794895 36.417874,120 64.000001,120 c 27.582126,0 49.787229,-22.205105 49.787229,-49.787235 0,-14.08149 -5.81266,-26.727447 -15.143617,-35.767978 a 41.489361,42.555638 0 0 0 6.845747,-23.385479 41.489361,42.555638 0 0 0 -0.60574,-7.2291056 z"
      id="path2-3" />
   <path

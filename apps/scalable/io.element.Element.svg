@@ -6,17 +6,54 @@
    fill="none"
    version="1.1"
    id="svg12"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs16" />
+     id="defs16">
+    <linearGradient
+       id="linearGradient874">
+      <stop
+         style="stop-color:#0a8f69;stop-opacity:1;"
+         offset="0"
+         id="stop870" />
+      <stop
+         style="stop-color:#0dbd8b;stop-opacity:1;"
+         offset="0.07439716"
+         id="stop878" />
+      <stop
+         style="stop-color:#0a8f69;stop-opacity:1;"
+         offset="0.15108548"
+         id="stop880" />
+      <stop
+         style="stop-color:#0a8f69;stop-opacity:1;"
+         offset="0.8521353"
+         id="stop882" />
+      <stop
+         style="stop-color:#0dbd8b;stop-opacity:1;"
+         offset="0.9277907"
+         id="stop884" />
+      <stop
+         style="stop-color:#0a8f69;stop-opacity:1;"
+         offset="1"
+         id="stop872" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient874"
+       id="linearGradient876"
+       x1="9.982774"
+       y1="65.982775"
+       x2="118.01723"
+       y2="65.982775"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <path
      fill-rule="evenodd"
      clip-rule="evenodd"
      d="m 63.999999,120 c 29.832637,0 54.017231,-24.184591 54.017231,-54.017226 0,-29.832903 -24.184594,-54.017225 -54.017231,-54.017225 -29.832903,0 -54.017225,24.184322 -54.017225,54.017225 C 9.982774,95.815409 34.167096,120 63.999999,120 Z"
      fill="#0dbd8b"
      id="path2-6"
-     style="fill:#0a8f69;fill-opacity:1;stroke-width:0.540172" />
+     style="fill:url(#linearGradient876);fill-opacity:1;stroke-width:0.540172" />
   <path
      fill-rule="evenodd"
      clip-rule="evenodd"

@@ -4,15 +4,52 @@
    height="128"
    version="1"
    id="svg566"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs570" />
+     id="defs570">
+    <linearGradient
+       id="linearGradient871">
+      <stop
+         style="stop-color:#1b3455;stop-opacity:1;"
+         offset="0"
+         id="stop867" />
+      <stop
+         style="stop-color:#3364a3;stop-opacity:1;"
+         offset="0.07462252"
+         id="stop875" />
+      <stop
+         style="stop-color:#1b3455;stop-opacity:1;"
+         offset="0.15074745"
+         id="stop877" />
+      <stop
+         style="stop-color:#1b3455;stop-opacity:1;"
+         offset="0.84553409"
+         id="stop879" />
+      <stop
+         style="stop-color:#3364a3;stop-opacity:1;"
+         offset="0.92918044"
+         id="stop881" />
+      <stop
+         style="stop-color:#1b3455;stop-opacity:1;"
+         offset="1"
+         id="stop869" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient871"
+       id="linearGradient873"
+       x1="9.9643035"
+       y1="65.964308"
+       x2="118.0357"
+       y2="65.964308"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <path
      fill="#1ed760"
      d="m 118.0357,65.964308 v 0 c 0,-29.912616 -24.123088,-54.035693 -54.035705,-54.035693 v 0 c -29.912615,0 -54.0356915,24.123077 -54.0356915,54.035693 v 0 C 9.9643035,95.876918 34.08738,120 63.999995,120 v 0 C 93.912612,120 118.0357,95.876918 118.0357,65.964308 Z"
      id="path550-7"
-     style="fill:#1b3455;fill-opacity:1;stroke-width:1.92984" />
+     style="fill:url(#linearGradient873);fill-opacity:1;stroke-width:1.92984" />
   <path
      fill="#1ed760"
      d="m 118.0357,62.035692 v 0 c 0,-29.912615 -24.12309,-54.0356922 -54.035705,-54.0356922 v 0 c -29.912615,0 -54.0356916,24.1230772 -54.0356916,54.0356922 v 0 c 0,29.912614 24.1230766,54.035688 54.0356916,54.035688 v 0 c 29.912615,0 54.035705,-24.123074 54.035705,-54.035688 z"

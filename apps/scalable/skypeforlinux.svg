@@ -4,12 +4,65 @@
    height="128"
    version="1"
    id="svg22"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs26" />
+     id="defs26">
+    <linearGradient
+       id="linearGradient875">
+      <stop
+         style="stop-color:#0071ad;stop-opacity:1;"
+         offset="0"
+         id="stop871" />
+      <stop
+         style="stop-color:#0091df;stop-opacity:1;"
+         offset="0.07156137"
+         id="stop879" />
+      <stop
+         style="stop-color:#0071ad;stop-opacity:1;"
+         offset="0.15120755"
+         id="stop881" />
+      <stop
+         style="stop-color:#0071ad;stop-opacity:1;"
+         offset="0.85002255"
+         id="stop883" />
+      <stop
+         style="stop-color:#0091df;stop-opacity:1;"
+         offset="0.93128383"
+         id="stop885" />
+      <stop
+         style="stop-color:#0071ad;stop-opacity:1;"
+         offset="1"
+         id="stop873" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient875"
+       id="linearGradient877"
+       x1="13.85714"
+       y1="65.928574"
+       x2="114.14286"
+       y2="65.928574"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient875"
+       id="linearGradient1238"
+       x1="55.359989"
+       y1="88.608574"
+       x2="117.99999"
+       y2="88.608574"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient875"
+       id="linearGradient1254"
+       x1="10.000002"
+       y1="43.248573"
+       x2="72.640007"
+       y2="43.248573"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <circle
-     style="fill:#1069a8;fill-opacity:1;stroke-width:1.92858"
+     style="fill:url(#linearGradient1254);fill-opacity:1.0;stroke-width:1.92858"
      cx="41.320004"
      cy="43.248573"
      r="31.320002"
@@ -21,7 +74,7 @@
      r="31.320002"
      id="circle6" />
   <circle
-     style="fill:#1069a7;fill-opacity:1;stroke-width:1.92858"
+     style="fill:url(#linearGradient1238);fill-opacity:1.0;stroke-width:1.92858"
      cx="86.679993"
      cy="88.608574"
      r="31.320002"
@@ -33,7 +86,7 @@
      r="31.320002"
      id="circle10" />
   <circle
-     style="fill:#0071ad;fill-opacity:1;stroke-width:1.92858"
+     style="fill:url(#linearGradient877);fill-opacity:1;stroke-width:1.92858"
      cx="64"
      cy="65.928574"
      r="50.14286"

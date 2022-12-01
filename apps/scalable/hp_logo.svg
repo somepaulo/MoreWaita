@@ -4,12 +4,49 @@
    height="128"
    version="1"
    id="svg12"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs16" />
+     id="defs16">
+    <linearGradient
+       id="linearGradient872">
+      <stop
+         style="stop-color:#024d6e;stop-opacity:1;"
+         offset="0"
+         id="stop868" />
+      <stop
+         style="stop-color:#0393d1;stop-opacity:1;"
+         offset="0.06631235"
+         id="stop876" />
+      <stop
+         style="stop-color:#024d6e;stop-opacity:1;"
+         offset="0.15021221"
+         id="stop878" />
+      <stop
+         style="stop-color:#024d6e;stop-opacity:1;"
+         offset="0.84681118"
+         id="stop880" />
+      <stop
+         style="stop-color:#0393d1;stop-opacity:1;"
+         offset="0.92760289"
+         id="stop882" />
+      <stop
+         style="stop-color:#024d6e;stop-opacity:1;"
+         offset="1"
+         id="stop870" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient872"
+       id="linearGradient874"
+       x1="10.000001"
+       y1="66"
+       x2="118"
+       y2="66"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <rect
-     style="fill:#024d6e;fill-opacity:1;stroke-width:1.92857"
+     style="fill:url(#linearGradient874);fill-opacity:1;stroke-width:1.92857"
      width="108"
      height="108"
      x="10.000001"
