@@ -161,16 +161,16 @@
      rx="8"
      ry="8" />
   <circle
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.28574;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;paint-order:stroke fill markers"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.2286;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;paint-order:stroke fill markers"
      id="path9408"
      cx="64"
      cy="62"
-     r="45" />
+     r="43" />
   <path
      class="cls-1"
-     d="M 102.11099,61.995612 80.04795,49.904829 82.148777,57.651945 H 45.740129 l 2.100828,-7.747116 -21.951948,12.099559 21.9699,12.090783 -2.100828,-7.747116 h 36.408648 l -2.10083,7.747116 22.045091,-12.090783"
+     d="m 100.41717,61.995807 -21.082462,-11.553415 2.007457,7.4028 H 46.551679 l 2.007458,-7.4028 -20.976306,11.561801 20.99346,11.553415 -2.007458,-7.4028 h 34.790486 l -2.00746,7.4028 21.065311,-11.553415"
      fill="url(#b)"
-     stroke-width="1.3974"
+     stroke-width="1.33529"
      id="path6840"
      style="fill:#0979d9;fill-opacity:1" />
 </svg>
