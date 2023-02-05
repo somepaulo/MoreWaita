@@ -44,55 +44,6 @@
          id="stop953" />
     </linearGradient>
     <linearGradient
-       id="linearGradient974">
-      <stop
-         style="stop-color:#ca1003;stop-opacity:1;"
-         offset="0"
-         id="stop962" />
-      <stop
-         id="stop964"
-         offset="0.04166667"
-         style="stop-color:#fc4236;stop-opacity:1;" />
-      <stop
-         style="stop-color:#ca1003;stop-opacity:1;"
-         offset="0.08333334"
-         id="stop966" />
-      <stop
-         id="stop968"
-         offset="0.91666669"
-         style="stop-color:#ca1003;stop-opacity:1;" />
-      <stop
-         style="stop-color:#fc4236;stop-opacity:1;"
-         offset="0.95833331"
-         id="stop970" />
-      <stop
-         style="stop-color:#ca1003;stop-opacity:1;"
-         offset="1"
-         id="stop972" />
-    </linearGradient>
-    <linearGradient
-       y2="44"
-       x2="464"
-       y1="44"
-       x1="48"
-       gradientTransform="matrix(0.25,0,0,0.25,0,53)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient1747"
-       xlink:href="#linearGradient974" />
-    <clipPath
-       id="clipPath1784"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         ry="14"
-         rx="14"
-         y="202"
-         x="36"
-         height="28"
-         width="59.999996"
-         id="rect1786"
-         style="opacity:1;vector-effect:none;fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.85391253;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </clipPath>
-    <linearGradient
        xlink:href="#linearGradient955"
        id="linearGradient957"
        x1="-566.03276"
@@ -169,14 +120,13 @@
      id="path13104"
      d="m 19.42859,30.23085 h 89.14281 c 4.11543,0 7.42856,3.31314 7.42856,7.42856 V 84.152238 L 88.14277,112.00936 H 19.42859 c -4.11542,0 -7.42856,-3.31314 -7.42856,-7.42856 V 37.65941 c 0,-4.11542 3.31314,-7.42856 7.42856,-7.42856 z"
      style="display:inline;fill:#52d262;fill-opacity:1;stroke:none;stroke-width:0.116072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:sour;-inkscape-font-specification:sour;fill:#ffffff;fill-opacity:1;stroke:none"
-     x="41.525318"
-     y="96.506783"
-     id="text1027"><tspan
-       id="tspan1025"
-       x="41.525318"
-       y="96.506783"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;font-family:Cairo;-inkscape-font-specification:'Cairo Bold'">A</tspan></text>
+  <g
+     aria-label="A"
+     id="text1027"
+     style="font-size:74.6667px;line-height:1.25;font-family:sour;-inkscape-font-specification:sour;fill:#ffffff">
+    <path
+       d="M 42.421319,96.506783 55.413325,45.509425 H 73.408 L 86.32534,96.506783 H 76.021335 L 73.184,86.202778 H 55.338658 L 52.650657,96.506783 Z M 56.981326,77.914774 h 14.70934 L 65.94133,53.872096 h -3.136002 z"
+       style="font-weight:bold;font-family:Cairo;-inkscape-font-specification:'Cairo Bold'"
+       id="path746" />
+  </g>
 </svg>
