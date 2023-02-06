@@ -28,7 +28,7 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
 
-#### Debian Linux
+#### Ubuntu/Debian Linux
 
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-debian-based-linux-distributions)
 
