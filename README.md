@@ -26,6 +26,12 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 
 [AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)
 
+[Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
+
+#### Debian Linux
+
+[Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-debian-based-linux-distributions)
+
 #### Fedora Linux
 [COPR repository](https://copr.fedorainfracloud.org/coprs/dusansimic/themes)
 
