@@ -7,7 +7,7 @@
    version="1.1"
    id="svg43"
    sodipodi:docname="alacritty.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -74,15 +74,6 @@
        y2="43.25"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.4018804,0,0,1.3482131,21.364273,-32.960592)" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3639">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3641"
-         d="M 14.813062,26.75 19,15.945 23.186938,26.75 19,43.25 Z"
-         style="fill:none;stroke:#000000;stroke-width:0.03779528;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.41420996;stroke-dasharray:none;stroke-opacity:1" />
-    </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient47408"
@@ -175,6 +166,15 @@
        r="5.8248811"
        gradientTransform="matrix(-0.90937065,0,0,-3.8099604,91.649792,8.3728355)"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient1030"
+       id="radialGradient523"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.7273,-7.9e-7,3e-7,1.6364,-238.55,-221.766)"
+       cx="64"
+       cy="194.19"
+       r="44" />
   </defs>
   <sodipodi:namedview
      id="namedview45"
@@ -186,22 +186,25 @@
      inkscape:pagecheckerboard="1"
      showgrid="false"
      inkscape:object-paths="true"
-     inkscape:zoom="4.7624479"
-     inkscape:cx="71.076893"
-     inkscape:cy="48.92442"
-     inkscape:window-width="1920"
-     inkscape:window-height="1048"
+     inkscape:zoom="3.3675592"
+     inkscape:cx="40.088382"
+     inkscape:cy="55.084406"
+     inkscape:window-width="2560"
+     inkscape:window-height="1408"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer2"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <linearGradient
      id="linearGradient965"
      gradientUnits="userSpaceOnUse"
      x1="48"
      x2="464"
      y1="44"
-     y2="44">
+     y2="44"
+     gradientTransform="matrix(0.25,0,0,0.25,0,53)">
     <stop
        offset="0"
        stop-color="#77767b"
@@ -267,48 +270,41 @@
        stop-color="#282433"
        id="stop22" />
   </linearGradient>
-  <g
-     transform="translate(0,-172)"
-     id="g41"
-     style="display:inline">
-    <rect
-       fill="url(#linearGradient965)"
-       height="376"
-       rx="32"
-       transform="matrix(0.25,0,0,0.25,0,225)"
-       width="416"
-       x="48"
-       y="-124"
-       id="rect25"
-       style="display:inline" />
-    <rect
-       fill="#deddda"
-       height="96"
-       rx="8"
-       stroke-width="0.25"
-       width="104"
-       x="12"
-       y="184"
-       id="rect27"
-       style="display:inline" />
-    <rect
-       fill="#241f31"
-       height="88"
-       rx="4"
-       transform="scale(1,-1)"
-       width="96"
-       x="16"
-       y="-276"
-       id="rect29"
-       style="display:inline;fill:#14232b;fill-opacity:1" />
-    <path
-       d="m -108,-272 h 88 v 78 h -88 z"
-       fill="url(#radialGradient1030)"
-       opacity="0.05"
-       transform="scale(-1)"
-       id="path31"
-       style="display:inline" />
-  </g>
+  <rect
+     fill="url(#linearGradient965)"
+     height="94"
+     rx="8"
+     width="104"
+     x="12"
+     y="22"
+     id="rect25"
+     style="display:inline;fill:url(#linearGradient965);stroke-width:0.25" />
+  <rect
+     fill="#deddda"
+     height="96"
+     rx="8"
+     stroke-width="0.25"
+     width="104"
+     x="12"
+     y="12"
+     id="rect27"
+     style="display:inline" />
+  <rect
+     fill="#241f31"
+     height="88"
+     rx="4"
+     transform="scale(1,-1)"
+     width="96"
+     x="16"
+     y="-104"
+     id="rect29"
+     style="display:inline;fill:#14232b;fill-opacity:1" />
+  <path
+     d="M 108,100 H 20 V 22 h 88 z"
+     fill="url(#radialGradient1030)"
+     opacity="0.05"
+     id="path31"
+     style="display:inline;fill:url(#radialGradient523)" />
   <g
      inkscape:groupmode="layer"
      id="layer3"

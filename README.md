@@ -2,7 +2,7 @@
 An Adwaita styled theme with extra icons for popular apps to complement Gnome Shell's original icons.
 The purpose of this theme is to provide a consistent look and feel with Gnome Shell's design.
 
-This theme is built upon the work of Gnome's Adwaita designers, Gnome Circle apps' developers and Papirus theme designers with a touch of tinkering from myself and [@dusansimic](https://github.com/dusansimic) here and there. The theme covers the most frequently installed dependency GUI apps that almost nobody uses (like Avahi browsers, QT Designer, Software token, etc.) as well as some of the most popular apps people really do install and use.
+This theme is built upon the work of Gnome's Adwaita designers, Gnome Circle apps' developers and Papirus theme designers with a touch of tinkering from myself and [@dusansimic](https://github.com/dusansimic) and [@julianfairfax](https://github.com/julianfairfax) here and there. The theme covers the most frequently installed dependency GUI apps that almost nobody uses (like Avahi browsers, QT Designer, Software token, etc.) as well as some of the most popular apps people really do install and use.
 
 The purpose of MoreWaita is to add to Adwaita, not modify it, and to do roughly what Breeze does for KDE. This theme does not override any Adwaita icons, nor any Gnome Circle apps icons, nor icons that generally fit into the Adwaita paradigm (like Transmission GTK). Currently, this theme is way less all-inclusive than many others, but the aim is to be on par with Papirus some day. However, this is (mostly) a one-man hobby effort for now, so suggestions, requests, PRs and contributions are very welcome.
 
@@ -26,10 +26,16 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 
 [AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)
 
+[Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
+
+#### Ubuntu/Debian Linux
+
+[Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-debian-based-linux-distributions)
+
 #### Fedora Linux
 [COPR repository](https://copr.fedorainfracloud.org/coprs/dusansimic/themes)
 
-Package name is `morewaita-icon-theme`.
+The package name is `morewaita-icon-theme`.
 
 ## Activation
 Either use the `Tweaks` app to choose and activate the icon theme or run the following command:
