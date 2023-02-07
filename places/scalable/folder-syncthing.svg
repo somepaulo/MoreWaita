@@ -5,9 +5,32 @@
    width="128"
    version="1.1"
    id="svg5248"
+   sodipodi:docname="folder-syncthing.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1048"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="8.2265625"
+     inkscape:cx="61.447293"
+     inkscape:cy="64.121557"
+     inkscape:window-width="2560"
+     inkscape:window-height="1408"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5248" />
   <defs
      id="defs5252">
     <filter
@@ -155,7 +178,7 @@
        id="stop5233" />
   </linearGradient>
   <g
-     transform="matrix(0.26289801,0,0,0.26289801,-3.2972707,51.894364)"
+     transform="matrix(0.2511615,0,0,0.2511615,-0.29292947,52.434794)"
      id="g5798"
      style="fill:#c9b8a7;fill-opacity:1;stroke:#a08f7f;stroke-opacity:1">
     <path
@@ -189,7 +212,7 @@
   </g>
   <g
      id="g29"
-     transform="matrix(0.55598064,0,0,0.55598064,32.241663,44.770747)"
+     transform="matrix(0.53116009,0,0,0.53116009,33.659445,45.629196)"
      style="fill:#3f8ae5;fill-opacity:1">
     <path
        id="line27"
