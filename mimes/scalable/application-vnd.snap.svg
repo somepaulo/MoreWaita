@@ -298,7 +298,7 @@
      x="34.745667"
      y="40.968578"
      id="text18928"><tspan
-       id="tspan18926"></tspan></text>
+       id="tspan18926" /></text>
   <g
      id="g1893-1"
      transform="matrix(0.0952482,0,0,0.0952482,-386.6889,-779.1441)"
@@ -316,29 +316,29 @@
      style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#82bfa1;fill-opacity:1;stroke:none;stroke-width:6.37998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new;stop-color:#000000" />
   <g
      id="g28836"
-     transform="matrix(0.6324341,0,0,0.6324341,176.01089,7.526916)">
+     transform="matrix(0.54317635,0,0,0.54317635,160.20238,24.939217)">
     <polygon
        id="Fill-25"
        fill="#82bfa1"
-       points="24.719,18.2813 24.719,8.2803 31.643,11.3573 "
+       points="24.719,8.2803 31.643,11.3573 24.719,18.2813 "
        transform="matrix(3.9275151,0,0,3.9275151,-264.9247,41.792465)"
        style="fill:#ffffff;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <polygon
        id="Fill-27"
        fill="#82bfa1"
-       points="19.9892,15.58 11.5002,31.5 23.7162,19.284 "
+       points="11.5002,31.5 23.7162,19.284 19.9892,15.58 "
        transform="matrix(3.9275151,0,0,3.9275151,-264.9247,41.792465)"
        style="fill:#ffffff;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <polygon
        id="Fill-29"
        fill="#82bfa1"
-       points="24.1325,7.816 6.6575,1.5 24.1325,18.868 "
+       points="6.6575,1.5 24.1325,18.868 24.1325,7.816 "
        transform="matrix(3.9275151,0,0,3.9275151,-264.9247,41.792465)"
        style="fill:#ffffff;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1" />
     <polygon
        id="Fill-31"
        fill="#fa6340"
-       points="38.0598,13.5654 35.1848,7.8154 25.1218,7.8154 "
+       points="35.1848,7.8154 25.1218,7.8154 38.0598,13.5654 "
        transform="matrix(3.9275151,0,0,3.9275151,-264.9247,41.792465)"
        style="fill:#fa6340;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:1" />
   </g>

@@ -317,7 +317,7 @@
      style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#a80030;fill-opacity:1;stroke:none;stroke-width:6.37998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new;stop-color:#000000" />
   <g
      id="g25360"
-     transform="matrix(0.80344232,0,0,0.80344232,29.065859,20.159291)"
+     transform="matrix(0.59013914,0,0,0.59013914,38.340376,50.831207)"
      style="fill:#ffffff;fill-opacity:0.4">
     <path
        i:knockout="Off"
@@ -470,5 +470,5 @@
   <path
      id="path1875"
      d="M 77.684645,8.9006291 V 30.438992 c 0,4.339001 3.534766,7.757186 7.873766,7.757186 l 21.538719,-0.0054 z"
-     style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#860026;fill-opacity:1;stroke:none;stroke-width:6.37998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new;stop-color:#000000" />
+     style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:6.37998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new;stop-color:#000000" />
 </svg>
