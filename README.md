@@ -15,11 +15,11 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 #### Download the theme
 `git clone https://github.com/somepaulo/MoreWaita.git`
 
+#### Install system-wide (recommended)
+`sudo cp -r MoreWaita/ /usr/share/icons/`
+
 #### Install for local user
 `cp -r MoreWaita/ ~/.local/share/icons/`
-
-#### Install system-wide
-`sudo cp -r MoreWaita/ /usr/share/icons/`
 
 #### Arch Linux
 [AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
@@ -45,11 +45,11 @@ Either use the `Tweaks` app to choose and activate the icon theme or run the fol
 #### Troubleshooting
 If the theme doesn't apply try the following command:
 
-##### For local installation
-`gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
-
 ##### For system-wide installation
 `sudo gtk-update-icon-cache -f -t /usr/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
 
+##### For local installation
+`gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
+
 ## The icons
-![MoreWaita](https://user-images.githubusercontent.com/15643750/205176736-2ebfaed4-d679-41ff-b4a9-6a9fd6fbdd24.png)
+![MoreWaita](https://user-images.githubusercontent.com/15643750/218600606-48a13a60-1e3f-4937-b4e0-e5389a6ac1da.png)
