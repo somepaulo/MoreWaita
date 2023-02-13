@@ -8,19 +8,22 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs39">
-    <filter
-       height="1.0214333"
-       y="-0.010716652"
-       width="1.0272651"
-       x="-0.01363253"
-       id="filter16020"
-       style="color-interpolation-filters:sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur16022"
-         stdDeviation="2.0004419" />
-    </filter>
-  </defs>
+     id="defs39"><filter
+   height="1.0214333"
+   y="-0.010716652"
+   width="1.0272651"
+   x="-0.01363253"
+   id="filter16020"
+   style="color-interpolation-filters:sRGB">
+  <feGaussianBlur
+     id="feGaussianBlur16022"
+     stdDeviation="2.0004419" />
+</filter>
+
+	
+	
+	
+</defs>
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -121,7 +124,7 @@
      style="display:inline;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter16020);enable-background:new"
      transform="matrix(0.2447541,0,0,0.2447541,1.36336,52.875985)" />
   <path
-     style="display:inline;fill:#fc6a2a;fill-opacity:1;stroke:none;stroke-width:0.122377;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     style="display:inline;fill:#9c4221;fill-opacity:1;stroke:none;stroke-width:0.122377;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
      clip-path="none"
      d="m 28.73382,8.9006291 h 48.950824 l 29.412486,29.2901099 10e-4,72.505961 c 8e-5,4.339 -3.5364,7.85377 -7.875398,7.85377 H 28.73376 c -4.339,0 -7.83213,-3.49313 -7.83213,-7.83214 V 16.73276 c 0,-4.339 3.49313,-7.8321309 7.83213,-7.8321309 z"
      id="path4411" />
@@ -135,18 +138,37 @@
      x="34.745667"
      y="40.968578"
      id="text18928"><tspan
-       id="tspan18926"></tspan></text>
+       id="tspan18926" /></text>
   <g
-     aria-label="[]"
-     id="text19021"
-     style="font-size:56px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'">
-    <path
-       d="m 42.99987,99.99549 v -48.16 h 15.512 v 2.632 h -11.816 v 42.896 h 11.816 v 2.632 z"
-       style="fill:#ffffff"
-       id="path19023" />
-    <path
-       d="m 69.487891,99.99549 v -2.632 h 11.816 v -42.896 h -11.816 v -2.632 h 15.512 v 48.16 z"
-       style="fill:#ffffff"
-       id="path19025" />
-  </g>
+     id="XMLID_11_"
+     style="fill:#ffffff;fill-opacity:0.5"
+     transform="matrix(0.14222222,0,0,0.14222222,35.96077,47.577713)">
+		<path
+   id="XMLID_12_"
+   class="st1"
+   d="m 28.6,30.5 h 75.1 V 67.8 H 69 v 262.7 h 34.7 V 368 H 28.6 Z"
+   style="fill:#ffffff;fill-opacity:0.5" />
+
+	</g>
+  <g
+     id="XMLID_4_"
+     style="fill:#ffffff"
+     transform="matrix(0.14222222,0,0,0.14222222,35.96077,47.577713)">
+		<path
+   id="XMLID_6_"
+   d="m 276.4,101.5 v 39.1 H 216.3 V 322.5 H 174 V 140.6 h -60.4 v -39.1 z"
+   style="fill:#ffffff" />
+
+	</g>
+  <g
+     id="XMLID_3_"
+     style="fill:#ffffff;fill-opacity:0.5"
+     transform="matrix(0.14222222,0,0,0.14222222,35.96077,47.577713)">
+		<path
+   id="XMLID_5_"
+   class="st1"
+   d="m 365.7,368 h -75.1 v -37.3 h 34.7 V 68 H 290.6 V 30.5 h 75.1 z"
+   style="fill:#ffffff;fill-opacity:0.5" />
+
+	</g>
 </svg>
