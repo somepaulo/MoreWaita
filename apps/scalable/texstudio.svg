@@ -17,6 +17,28 @@
   <defs
      id="defs3">
     <linearGradient
+       id="linearGradient1200">
+      <stop
+         style="stop-color:#ffe601;stop-opacity:1;"
+         offset="0"
+         id="stop1196" />
+      <stop
+         style="stop-color:#222222;stop-opacity:0;"
+         offset="1"
+         id="stop1198" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient954">
+      <stop
+         style="stop-color:#222222;stop-opacity:1;"
+         offset="0"
+         id="stop950" />
+      <stop
+         style="stop-color:#3f43ef;stop-opacity:1;"
+         offset="1"
+         id="stop952" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient974">
       <stop
          style="stop-color:#5a008c;stop-opacity:1;"
@@ -78,6 +100,23 @@
        x2="86.207352"
        y2="93.170387"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient954"
+       id="linearGradient956"
+       x1="29.368111"
+       y1="21.462599"
+       x2="83.44751"
+       y2="98.633202"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient1200"
+       id="linearGradient1202"
+       x1="14.046728"
+       y1="14.645095"
+       x2="24.574314"
+       y2="23.539042"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.88782499,0,0,0.74612861,1.3461001,3.0464567)" />
   </defs>
   <metadata
      id="metadata4">
@@ -148,7 +187,7 @@
      id="rect1709"
      style="display:inline;fill:url(#linearGradient1747);fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
   <rect
-     style="display:inline;fill:url(#linearGradient2040);fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+     style="display:inline;fill:url(#linearGradient956);fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
      id="rect1711"
      width="104"
      height="100"
@@ -156,6 +195,15 @@
      y="12"
      rx="8"
      ry="8" />
+  <rect
+     style="display:inline;fill:url(#linearGradient1202);fill-opacity:1;stroke:none;stroke-width:0.203475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+     id="rect1711-7"
+     width="92.333801"
+     height="74.612862"
+     x="12"
+     y="12"
+     rx="7.1026001"
+     ry="5.9690289" />
   <g
      style="isolation:isolate"
      id="g132"
