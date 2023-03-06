@@ -28,14 +28,14 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
 
-#### Ubuntu/Debian Linux
-
-[Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-debian-based-linux-distributions)
-
 #### Fedora Linux
 [COPR repository](https://copr.fedorainfracloud.org/coprs/dusansimic/themes)
 
 The package name is `morewaita-icon-theme`.
+
+#### Ubuntu/Debian Linux
+
+[Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-debian-based-linux-distributions)
 
 ## Activation
 Either use the `Tweaks` app to choose and activate the icon theme or run the following command:
@@ -52,4 +52,5 @@ If the theme doesn't apply try the following command:
 `gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
 
 ## The icons
-![MoreWaita](https://user-images.githubusercontent.com/15643750/218600606-48a13a60-1e3f-4937-b4e0-e5389a6ac1da.png)
+![MoreWaita](https://user-images.githubusercontent.com/15643750/223144479-f399b46c-4737-429e-b1dc-d2e26de29e07.png)
+
