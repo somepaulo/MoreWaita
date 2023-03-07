@@ -12,13 +12,14 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 
 ## Installation
 
-#### Download the theme
+#### Manual installation
+##### Download the theme
 `git clone https://github.com/somepaulo/MoreWaita.git`
 
-#### Install system-wide (recommended)
+##### Install system-wide (recommended)
 `sudo cp -r MoreWaita/ /usr/share/icons/`
 
-#### Install for local user
+##### Install for local user
 `cp -r MoreWaita/ ~/.local/share/icons/`
 
 #### Arch Linux
@@ -42,7 +43,9 @@ Either use the `Tweaks` app to choose and activate the icon theme or run the fol
 
 `gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'`
 
-#### Troubleshooting
+## Troubleshooting
+
+#### Theme dosn't apply
 If the theme doesn't apply try the following command:
 
 ##### For system-wide installation
@@ -51,6 +54,8 @@ If the theme doesn't apply try the following command:
 ##### For local installation
 `gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
 
-## The icons
-![MoreWaita](https://user-images.githubusercontent.com/15643750/223144479-f399b46c-4737-429e-b1dc-d2e26de29e07.png)
+#### Some apps don't get themed
+If the theme applies, but a particular app doesn't get themed (and its icon is in MoreWaita), check its respective `.desktop` file. Some apps have icon paths hardcoded into their `.desktop` file or have a different icon name set there or no icon set at all. This can differ between distros. If you happen to have such apps, you'll need to copy their `.desktop` files into `~/.local/share/applications` and modify them there providing the correct icon name. Alternatively, use a menu editor like `MenuLibre` or `Alacarte`.
 
+## The icons
+![MoreWaita](https://user-images.githubusercontent.com/15643750/223574347-94ce872e-2e15-4f28-84a4-73f3913ae759.png)
