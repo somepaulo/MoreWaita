@@ -59,3 +59,7 @@ If the theme applies, but a particular app doesn't get themed (and its icon is i
 
 ## The icons
 ![MoreWaita](https://user-images.githubusercontent.com/15643750/223611077-083337d4-95e1-40af-9d61-6958884f76a8.png)
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
