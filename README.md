@@ -58,4 +58,4 @@ If the theme doesn't apply try the following command:
 If the theme applies, but a particular app doesn't get themed (and its icon is in MoreWaita), check its respective `.desktop` file. Some apps have icon paths hardcoded into their `.desktop` file or have a different icon name set there or no icon set at all. This can differ between distros. If you happen to have such apps, you'll need to copy their `.desktop` files into `~/.local/share/applications` and modify them there providing the correct icon name. Alternatively, use a menu editor like `MenuLibre` or `Alacarte`.
 
 ## The icons
-![MoreWaita](https://user-images.githubusercontent.com/15643750/223574347-94ce872e-2e15-4f28-84a4-73f3913ae759.png)
+![MoreWaita](https://user-images.githubusercontent.com/15643750/223611077-083337d4-95e1-40af-9d61-6958884f76a8.png)
