@@ -41,27 +41,27 @@
     <linearGradient
        id="linearGradient974">
       <stop
-         style="stop-color:#5a008c;stop-opacity:1;"
+         style="stop-color:#1f227a;stop-opacity:1;"
          offset="0"
          id="stop962" />
       <stop
          id="stop964"
          offset="0.04166667"
-         style="stop-color:#9a00f0;stop-opacity:1;" />
+         style="stop-color:#3f43ef;stop-opacity:1;" />
       <stop
-         style="stop-color:#5a008c;stop-opacity:1;"
+         style="stop-color:#1f227a;stop-opacity:1;"
          offset="0.08333334"
          id="stop966" />
       <stop
          id="stop968"
          offset="0.91666669"
-         style="stop-color:#5a008c;stop-opacity:1;" />
+         style="stop-color:#1f227a;stop-opacity:1;" />
       <stop
-         style="stop-color:#9a00f0;stop-opacity:1;"
+         style="stop-color:#3f43ef;stop-opacity:1;"
          offset="0.95833331"
          id="stop970" />
       <stop
-         style="stop-color:#5a008c;stop-opacity:1;"
+         style="stop-color:#1f227a;stop-opacity:1;"
          offset="1"
          id="stop972" />
     </linearGradient>
@@ -75,32 +75,6 @@
        id="linearGradient1747"
        xlink:href="#linearGradient974" />
     <linearGradient
-       id="a"
-       data-name="Degradado sin nombre"
-       x1="-88.511002"
-       y1="462.61401"
-       x2="-0.398"
-       y2="325.457"
-       gradientTransform="matrix(0.45784193,0,0,-0.45784193,-113.90993,250.11322)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#222"
-         id="stop2" />
-      <stop
-         offset="1"
-         stop-color="#3f43ef"
-         id="stop4" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#a"
-       id="linearGradient2040"
-       x1="39.995045"
-       y1="25.086615"
-       x2="86.207352"
-       y2="93.170387"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        xlink:href="#linearGradient954"
        id="linearGradient956"
        x1="29.368111"
@@ -113,10 +87,10 @@
        id="linearGradient1202"
        x1="14.046728"
        y1="14.645095"
-       x2="24.574314"
-       y2="23.539042"
+       x2="28.888647"
+       y2="29.806965"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.88782499,0,0,0.74612861,1.3461001,3.0464567)" />
+       gradientTransform="matrix(0.88461535,0,0,0.8800001,7.3846156,7.4399995)" />
   </defs>
   <metadata
      id="metadata4">
@@ -196,18 +170,18 @@
      rx="8"
      ry="8" />
   <rect
-     style="display:inline;fill:url(#linearGradient1202);fill-opacity:1;stroke:none;stroke-width:0.203475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+     style="display:inline;fill:url(#linearGradient1202);fill-opacity:1;stroke:none;stroke-width:0.220577;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
      id="rect1711-7"
-     width="92.333801"
-     height="74.612862"
-     x="12"
-     y="12"
-     rx="7.1026001"
-     ry="5.9690289" />
+     width="92"
+     height="88"
+     x="18"
+     y="18"
+     rx="7.0769229"
+     ry="7.0400009" />
   <g
      style="isolation:isolate"
      id="g132"
-     transform="matrix(0.4740431,0,0,0.4740431,-9.1140375,-24.543674)">
+     transform="matrix(0.4740431,0,0,0.4740431,-9.1140375,-8.3520314)">
     <g
        style="isolation:isolate"
        id="g130">
