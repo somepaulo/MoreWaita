@@ -1,0 +1,32 @@
+name: ➕ Icon request
+description: Suggest an icon for this theme!
+title: "Icon request: "
+labels: enhancement
+assignees: ''
+
+body:
+- type: markdown
+  attributes:
+    value: "# New icon submission form"
+- type: markdown
+  attributes:
+    value: "Please provide info for the icon(s) you're requesting."
+- type: textarea
+  id: icons
+  attributes:
+   label: Icons
+   placeholder: |
+      Please fill in what icons you are going to submit using Markdown checkboxes, like this:
+         - [ ] foobar
+      Replace "foobar" with the name of the app you would like to get an icon for.
+      Continue adding checkboxes if necessary.
+   value: |
+      - [ ] 
+      <!-- Continue on if you are submitting more than one icon. -->
+  validations:
+   required: true
+- type: textarea
+  id: additional
+  attributes:
+   label: "Additional context"
+   placeholder: "Add more information if needed."
