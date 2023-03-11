@@ -2,7 +2,6 @@ name: ➕ Icon request
 description: Suggest an icon for this theme!
 title: "Icon request: "
 labels: enhancement
-assignees: ''
 
 body:
 - type: markdown
