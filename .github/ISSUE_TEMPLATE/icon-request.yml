@@ -20,8 +20,11 @@ body:
       Replace "foobar" with the name of the app you would like to get an icon for.
       Continue adding checkboxes if necessary.
    value: |
-      - [ ] 
-      <!-- Continue on if you are submitting more than one icon. -->
+      - [ ] Foobar
+      <!-- 
+        Replace "Foobar" with the name of the app.
+        Continue on if you are submitting more than one icon.
+      -->
   validations:
    required: true
 - type: textarea
