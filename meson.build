@@ -5,7 +5,7 @@ project('morewaita',
 
 iconsdir = join_paths(get_option('prefix'), get_option('datadir'), 'icons', 'MoreWaita')
 
-icon_dirs = ['apps', 'panel', 'places', 'status']
+icon_dirs = ['apps', 'mimes', 'panel', 'places', 'status']
 
 foreach icon_dir : icon_dirs
     subdir(icon_dir)
