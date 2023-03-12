@@ -3,7 +3,7 @@ project('morewaita',
   meson_version : '>= 0.61.0'
 )
 
-iconsdir = join_paths(get_option('prefix'), get_option('datadir'), 'icons', meson.project_name())
+iconsdir = join_paths(get_option('prefix'), get_option('datadir'), 'icons', 'MoreWaita')
 
 icon_dirs = ['apps', 'panel', 'places', 'status']
 
