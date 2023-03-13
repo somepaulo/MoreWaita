@@ -10,21 +10,18 @@ body:
 - type: markdown
   attributes:
     value: "Please provide info for the icon(s) you're requesting."
-- type: textarea
-  id: icons
+- type: input
+  id: icon
   attributes:
-   label: Icons
-   placeholder: |
-      Please fill in what icons you are going to submit using Markdown checkboxes, like this:
-         - [ ] foobar
-      Replace "foobar" with the name of the app you would like to get an icon for.
-      Continue adding checkboxes if necessary.
-   value: |
-      - [ ] Foobar
-      <!-- 
-        Replace "Foobar" with the name of the app.
-        Continue on if you are submitting more than one icon.
-      -->
+   label: Name of app
+   placeholder: balenaEtcher
+  validations:
+   required: true
+- type: textarea
+  id: screenshot
+  attributes:
+   label: Image of the app icon
+   placeholder: Drag-and-drop an image or upload from the Markdown toolbar.
   validations:
    required: true
 - type: textarea
