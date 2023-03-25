@@ -3,7 +3,9 @@ symbolic_places_iconsdir = join_paths(places_iconsdir, 'symbolic')
 regular_files = [
     'folder-code-symbolic.svg',
     'folder-git-symbolic.svg',
+    'folder-nextcloud-symbolic.svg',
     'folder-projects-symbolic.svg',
+    'folder-syncthing-symbolic.svg',
 ]
 
 link_files = {

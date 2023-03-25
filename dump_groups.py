@@ -5,6 +5,7 @@
 
 import os
 import sys
+from graphlib import TopologicalSorter
 
 # take reading dir argument (where to look for icons)
 readdir = sys.argv[1] if len(sys.argv) > 1 else '.'
@@ -26,8 +27,15 @@ groups = {}
 for link in link_files:
     groups.setdefault(os.readlink(os.path.join(readdir, link)), []).append(link)
 
+# sort groups topologically
+# that way chain links will be created in correct order
+ts = TopologicalSorter(groups)
+# get a list of tuples so the order is maintained when pairing sorted keys with their values
+sorted_groups = [(file, groups[file]) for file in ts.static_order() if file in groups]
+
 # iterate over all groups
-for file, links in groups.items():
+# reverse the order of groups so first the dependencies are created
+for file, links in reversed(sorted_groups):
     # print a comment line indicating a group of links (file that they link to)
     print('\'{}\': ['.format(file))
     for link in links:

@@ -47,20 +47,14 @@ regular_files = [
 ]
 
 link_files = {
-    'application-x-php.svg': [
-        'text-x-php.svg',
+    'android-package-archive.svg': [
+        'application-vnd.android.package-archive.svg',
+        'application-apk.svg',
     ],
-    'text-x-javascript.svg': [
-        'application-javascript.svg',
-        'text-javascript.svg',
-        'application-x-javascript.svg',
-    ],
-    'application-x-cd-image.svg': [
-        'application-x-raw-disk-image.svg',
-        'application-x-apple-diskimage.svg',
-        'nero-disk-image.svg',
-        'application-vnd.squashfs.svg',
-        'gnome-mime-application-x-nero-disk-image.svg',
+    'application-octet-stream.svg': [
+        'application-x-firmware.svg',
+        'application-x-msdownload.svg',
+        'text-x-hex.svg',
     ],
     'application-vnd.comicbook+zip.svg': [
         'application-x-cbz.svg',
@@ -69,6 +63,34 @@ link_files = {
         'application-x-cbt.svg',
         'application-x-cbr.svg',
         'application-x-cb7.svg',
+    ],
+    'application-x-cd-image.svg': [
+        'application-x-raw-disk-image.svg',
+        'application-x-apple-diskimage.svg',
+        'nero-disk-image.svg',
+        'application-vnd.squashfs.svg',
+        'gnome-mime-application-x-nero-disk-image.svg',
+    ],
+    'application-x-deb.svg': [
+        'application-vnd.debian.binary-package.svg',
+    ],
+    'application-x-godot-project.svg': [
+        'application-x-gdscript.svg',
+        'application-x-godot-resource.svg',
+        'application-x-godot-shader.svg',
+        'application-x-godot-scene.svg',
+    ],
+    'application-x-iso9600-appimage.svg': [
+        'application-vnd.appimage.svg',
+    ],
+    'application-x-java-archive.svg': [
+        'application-x-jar.svg',
+    ],
+    'application-x-php.svg': [
+        'text-x-php.svg',
+    ],
+    'application-x-rpm.svg': [
+        'application-x-source-rpm.svg',
     ],
     'application-xml.svg': [
         'application-rss+xml.svg',
@@ -80,21 +102,6 @@ link_files = {
         'application-owl+xml.svg',
         'application-metalink+xml.svg',
     ],
-    'android-package-archive.svg': [
-        'application-vnd.android.package-archive.svg',
-        'application-apk.svg',
-    ],
-    'text-x-cpp.svg': [
-        'text-x-c++src.svg',
-        'text-x-cppsrc.svg',
-        'text-x-c++.svg',
-    ],
-    'text-x-java.svg': [
-        'application-x-java.svg',
-        'application-x-java-applet.svg',
-        'application-java.svg',
-        'text-x-java-source.svg',
-    ],
     'text-css.svg': [
         'text-less.svg',
         'text-x-less.svg',
@@ -102,71 +109,64 @@ link_files = {
         'text-x-css.svg',
         'text-x-scss.svg',
     ],
-    'virtualbox-vbox-extpack.svg': [
-        'application-x-virtualbox-vbox-extpack.svg',
+    'text-x-c.svg': [
+        'text-x-csrc.svg',
     ],
-    'virtualbox-hdd.svg': [
-        'application-x-virtualbox-hdd.svg',
+    'text-x-cpp.svg': [
+        'text-x-c++src.svg',
+        'text-x-cppsrc.svg',
+        'text-x-c++.svg',
     ],
-    'text-x-tex.svg': [
-        'text-x-texinfo.svg',
+    'text-x-cpphdr.svg': [
+        'text-x-c++hdr.svg',
     ],
-    'application-octet-stream.svg': [
-        'application-x-firmware.svg',
-        'application-x-msdownload.svg',
-        'text-x-hex.svg',
+    'text-x-java.svg': [
+        'application-x-java.svg',
+        'application-x-java-applet.svg',
+        'application-java.svg',
+        'text-x-java-source.svg',
+    ],
+    'text-x-javascript.svg': [
+        'application-javascript.svg',
+        'text-javascript.svg',
+        'application-x-javascript.svg',
+    ],
+    'text-x-markdown.svg': [
+        'text-markdown.svg',
+    ],
+    'text-x-python.svg': [
+        'text-x-python3.svg',
     ],
     'text-x-ruby.svg': [
         'application-x-ruby.svg',
         'text-ruby.svg',
     ],
-    'virtualbox-vdi.svg': [
-        'application-x-virtualbox-vdi.svg',
+    'text-x-tex.svg': [
+        'text-x-texinfo.svg',
     ],
-    'virtualbox-vmdk.svg': [
-        'application-x-virtualbox-vmdk.svg',
-    ],
-    'virtualbox-ovf.svg': [
-        'application-x-virtualbox-ovf.svg',
-    ],
-    'application-x-godot-project.svg': [
-        'application-x-gdscript.svg',
-        'application-x-godot-resource.svg',
-        'application-x-godot-shader.svg',
-        'application-x-godot-scene.svg',
-    ],
-    'text-x-c.svg': [
-        'text-x-csrc.svg',
-    ],
-    'text-x-cpphdr.svg': [
-        'text-x-c++hdr.svg',
-    ],
-    'application-x-deb.svg': [
-        'application-vnd.debian.binary-package.svg',
-    ],
-    'text-x-markdown.svg': [
-        'text-markdown.svg',
-    ],
-    'virtualbox-vhd.svg': [
-        'application-x-virtualbox-vhd.svg',
-    ],
-    'text-x-python.svg': [
-        'text-x-python3.svg',
-    ],
-    'virtualbox-vbox.svg': [
-        'application-x-virtualbox-vbox.svg',
-    ],
-    'application-x-iso9600-appimage.svg': [
-        'application-vnd.appimage.svg',
-    ],
-    'application-x-rpm.svg': [
-        'application-x-source-rpm.svg',
+    'virtualbox-hdd.svg': [
+        'application-x-virtualbox-hdd.svg',
     ],
     'virtualbox-ova.svg': [
         'application-x-virtualbox-ova.svg',
     ],
-    'application-x-java-archive.svg': [
-        'application-x-jar.svg',
+    'virtualbox-ovf.svg': [
+        'application-x-virtualbox-ovf.svg',
+    ],
+    'virtualbox-vbox-extpack.svg': [
+        'application-x-virtualbox-vbox-extpack.svg',
+    ],
+    'virtualbox-vbox.svg': [
+        'application-x-virtualbox-vbox.svg',
+    ],
+    'virtualbox-vdi.svg': [
+        'application-x-virtualbox-vdi.svg',
+    ],
+    'virtualbox-vhd.svg': [
+        'application-x-virtualbox-vhd.svg',
+    ],
+    'virtualbox-vmdk.svg': [
+        'application-x-virtualbox-vmdk.svg',
     ],
 }
 

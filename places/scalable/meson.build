@@ -2,8 +2,12 @@ scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
 
 regular_files = [
     'folder-code.svg',
+    'folder-games.svg',
     'folder-git.svg',
+    'folder-godot.svg',
+    'folder-nextcloud.svg',
     'folder-projects.svg',
+    'folder-syncthing.svg',
 ]
 
 link_files = {

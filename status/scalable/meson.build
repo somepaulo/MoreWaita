@@ -1,6 +1,8 @@
 scalable_status_iconsdir = join_paths(status_iconsdir, 'scalable')
 
 regular_files = [
+    'firewall-applet-error.svg',
+    'firewall-applet-panic.svg',
     'pamac-tray-no-update.svg',
     'pamac-tray-update.svg',
 ]
