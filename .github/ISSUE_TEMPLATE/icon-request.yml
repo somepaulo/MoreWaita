@@ -1,0 +1,31 @@
+name: ➕ Icon request
+description: Suggest an icon for this theme!
+title: "Icon request: "
+labels: enhancement
+
+body:
+- type: markdown
+  attributes:
+    value: "# New icon submission form"
+- type: markdown
+  attributes:
+    value: "Please provide info for the icon(s) you're requesting."
+- type: input
+  id: icon
+  attributes:
+   label: Name of app
+   placeholder: balenaEtcher
+  validations:
+   required: true
+- type: textarea
+  id: screenshot
+  attributes:
+   label: Image of the app icon
+   placeholder: Drag-and-drop an image or upload from the Markdown toolbar.
+  validations:
+   required: true
+- type: textarea
+  id: additional
+  attributes:
+   label: "Additional context"
+   placeholder: "Add more information if needed."
