@@ -132,17 +132,17 @@
        id="stop14" />
   </linearGradient>
   <path
-     style="display:inline;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     style="display:inline;fill:#0000b2;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
      clip-path="none"
      d="m 27.978085,7.9999995 h 50.000002 l 30.042893,29.9178935 0.001,74.060007 c 8e-5,4.432 -3.6122,8.0221 -8.044205,8.0221 H 27.978023 c -4.431999,0 -7.999998,-3.568 -7.999998,-8.00001 V 15.999998 c 0,-4.431999 3.567999,-7.9999984 7.999998,-7.9999984 z"
      id="path4411" />
   <path
-     style="display:inline;vector-effect:none;fill:#000000;fill-opacity:0.200017;stroke:none;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+     style="display:inline;vector-effect:none;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
      d="M 77.978087,7.9999995 V 30 c 0,4.432001 3.610528,7.923449 8.042528,7.923449 l 22.000365,-0.0055 z"
      id="path4413" />
   <g
      id="g18"
-     transform="matrix(0.05071279,0,0,0.05071199,39.987874,51.983727)">
+     transform="matrix(0.06339099,0,0,0.06338999,33.984841,44.310263)">
     <path
        id="path2"
        style="fill:#ffffff"

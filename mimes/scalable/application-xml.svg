@@ -8,19 +8,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs39">
-    <filter
-       height="1.0214333"
-       y="-0.010716652"
-       width="1.0272651"
-       x="-0.01363253"
-       id="filter16020"
-       style="color-interpolation-filters:sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur16022"
-         stdDeviation="2.0004419" />
-    </filter>
-  </defs>
+     id="defs39" />
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -79,22 +67,8 @@
      style="display:inline;vector-effect:none;fill:#000000;fill-opacity:0.200017;stroke:none;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
      d="M 77.978074,8.0000006 V 30.000002 c 0,4.432 3.610527,7.923448 8.042527,7.923448 l 22.000369,-0.0055 z"
      id="path4413" />
-  <g
-     aria-label="&lt;/&gt;"
-     id="text18877"
-     style="font-size:56px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:-12px"
-     transform="matrix(0.98522167,0,0,0.98522167,0.94592185,1.6803161)">
-    <path
-       d="m 53.207859,91.347492 -20.888,-14.168 v -3.472 l 20.888,-14.168 v 4.424 l -16.856,11.368 v 0.224 l 16.856,11.368 z"
-       style="fill:#ffffff"
-       id="path18930" />
-    <path
-       d="m 52.743881,99.995492 18.368,-48.72 h 4.144 l -18.368,48.72 z"
-       style="fill:#ffffff"
-       id="path18932" />
-    <path
-       d="m 74.791902,91.347492 v -4.424 l 16.856,-11.368 v -0.224 l -16.856,-11.368 v -4.424 l 20.888,14.168 v 3.472 z"
-       style="fill:#ffffff"
-       id="path18934" />
-  </g>
+  <path
+     id="path7558-7-2-9"
+     style="color:#000000;fill:#ffffff;stroke:none;stroke-width:5.12075;stroke-linecap:round;-inkscape-stroke:none"
+     d="m 76.290046,66.321971 a 2.5603776,2.5603776 0 0 0 -1.809893,0.749579 2.5603776,2.5603776 0 0 0 0,3.621963 L 86.758259,82.971609 74.480153,95.251892 a 2.5603776,2.5603776 0 0 0 0,3.619757 2.5603776,2.5603776 0 0 0 3.619774,0 L 93.999991,82.971609 78.099927,67.07155 a 2.5603776,2.5603776 0 0 0 -1.809881,-0.749579 z m -24.580121,0 a 2.5603776,2.5603776 0 0 0 -1.809881,0.749579 l -15.900053,15.900059 15.900053,15.90004 a 2.5603776,2.5603776 0 0 0 3.619775,0 2.5603776,2.5603776 0 0 0 0,-3.619757 L 41.241711,82.971609 53.519819,70.693513 a 2.5603776,2.5603776 0 0 0 0,-3.621962 2.5603776,2.5603776 0 0 0 -1.809894,-0.74958 z m 17.90114,-4.293321 a 2.5603776,2.5603776 0 0 0 -3.135253,1.809877 l -9.896788,36.940783 a 2.5603776,2.5603776 0 0 0 1.809882,3.13525 2.5603776,2.5603776 0 0 0 3.135255,-1.80988 L 71.423128,65.163897 A 2.5603776,2.5603776 0 0 0 69.611065,62.02865 Z" />
 </svg>
