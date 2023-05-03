@@ -17,15 +17,20 @@ body:
    placeholder: balenaEtcher
   validations:
    required: true
-- type: textarea
-  id: screenshot
+- type: input
+  id: link
   attributes:
-   label: Image of the app icon
-   placeholder: Drag-and-drop an image or upload from the Markdown toolbar.
+   label: Link to official icon
+   placeholder: Paste a link to the official icon on the project site, WikiMedia, etc.
   validations:
    required: true
 - type: textarea
+  id: screenshot
+  attributes:
+   label: Optional image of the app icon
+   placeholder: Drag-and-drop an image or upload from the Markdown toolbar.
+- type: textarea
   id: additional
   attributes:
-   label: "Additional context"
-   placeholder: "Add more information if needed."
+   label: Additional context
+   placeholder: Add more information if needed.
