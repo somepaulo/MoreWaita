@@ -21,7 +21,7 @@ body:
   id: link
   attributes:
    label: Link to official icon
-   placeholder: Paste here a link to the official icon on the project website, WikiMedia, etc.
+   placeholder: Paste a link to the official icon on the project site, WikiMedia, etc.
   validations:
    required: true
 - type: textarea
