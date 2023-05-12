@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg135"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs139" />
+  <path
+     style="color:#dfdfdf;fill:#000000"
+     class="ColorScheme-Text"
+     d="m 8,-2e-7 a 8,8 0 0 0 -8,8 A 8,8 0 0 0 8,16 8,8 0 0 0 16,7.9999998 8,8 0 0 0 8,-2e-7 Z M 7,3.9999999 h 2 v 3.9999999 h 2 L 7.982422,12 5,7.9999998 h 2 z"
+     id="path5" />
+</svg>

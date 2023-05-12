@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg4"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8">
+    <linearGradient
+       id="linearGradient1062"
+       x1="399.57001"
+       x2="399.57001"
+       y1="545.79999"
+       y2="517.79999"
+       gradientTransform="matrix(2.1429152,0,0,2.1429152,-1084.3971,-1165.5276)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3889e9"
+         offset="0"
+         id="stop5635" />
+      <stop
+         stop-color="#5ea5fb"
+         offset="1"
+         id="stop5637" />
+    </linearGradient>
+  </defs>
+  <circle
+     cx="-226.01099"
+     cy="-25.975443"
+     r="0"
+     fill="url(#linearGradient1062)"
+     stroke-width="1.57151"
+     id="circle5662"
+     style="display:inline;fill:url(#linearGradient1062);enable-background:new" />
+  <path
+     id="rect1986"
+     style="fill:#000000"
+     d="m 5,-2.5e-7 c -1.661998,0 -3,1.33800165 -3,2.99999995 V 13 c 0,1.661997 1.338002,3 3,3 h 6 c 1.661998,0 3,-1.338003 3,-3 V 2.9999997 C 14,1.3380014 12.661998,-2.5e-7 11,-2.5e-7 Z M 6.5,5.0000002 c 0.828425,0 1.5,0.671574 1.5,1.5 0,-0.828426 0.671574,-1.5 1.5,-1.5 0.828425,0 1.5,0.671574 1.5,1.5 C 10.97905,8.5504792 8.662117,10.212812 8,11 7.337883,10.212812 5.020953,8.5504792 5,6.5000002 c 0,-0.828426 0.671574,-1.5 1.5,-1.5 z" />
+</svg>

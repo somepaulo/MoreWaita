@@ -19,27 +19,27 @@
     <linearGradient
        id="linearGradient974">
       <stop
-         style="stop-color:#074574;stop-opacity:1;"
+         style="stop-color:#2b2f6c;stop-opacity:1;"
          offset="0"
          id="stop962" />
       <stop
          id="stop964"
          offset="0.04166667"
-         style="stop-color:#0979d9;stop-opacity:1;" />
+         style="stop-color:#9b9dba;stop-opacity:1;" />
       <stop
-         style="stop-color:#074574;stop-opacity:1;"
+         style="stop-color:#2b2f6c;stop-opacity:1;"
          offset="0.08333334"
          id="stop966" />
       <stop
          id="stop968"
          offset="0.91666669"
-         style="stop-color:#074574;stop-opacity:1;" />
+         style="stop-color:#2b2f6c;stop-opacity:1;" />
       <stop
-         style="stop-color:#0979d9;stop-opacity:1;"
+         style="stop-color:#9b9dba;stop-opacity:1;"
          offset="0.95833331"
          id="stop970" />
       <stop
-         style="stop-color:#074574;stop-opacity:1;"
+         style="stop-color:#2b2f6c;stop-opacity:1;"
          offset="1"
          id="stop972" />
     </linearGradient>
@@ -52,36 +52,6 @@
        gradientUnits="userSpaceOnUse"
        id="linearGradient1747"
        xlink:href="#linearGradient974" />
-    <clipPath
-       id="clipPath1784"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         ry="14"
-         rx="14"
-         y="202"
-         x="36"
-         height="28"
-         width="59.999996"
-         id="rect1786"
-         style="opacity:1;vector-effect:none;fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.85391253;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </clipPath>
-    <linearGradient
-       id="b"
-       x1="494.67999"
-       x2="494.67999"
-       y1="474.10001"
-       y2="624.51001"
-       gradientTransform="matrix(0.068493,0,0,0.068493,-85.318754,23.616126)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#fff"
-         offset="0"
-         id="stop6782" />
-      <stop
-         stop-color="#c7d7e7"
-         offset="1"
-         id="stop6784" />
-    </linearGradient>
   </defs>
   <metadata
      id="metadata4">
@@ -152,7 +122,7 @@
      id="rect1709"
      style="display:inline;fill:url(#linearGradient1747);fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
   <rect
-     style="display:inline;fill:#0979d9;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+     style="display:inline;fill:#050a52;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
      id="rect1711"
      width="104"
      height="100"
@@ -160,17 +130,14 @@
      y="12"
      rx="8"
      ry="8" />
-  <circle
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.2286;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;paint-order:stroke fill markers"
-     id="path9408"
-     cx="64"
-     cy="62"
-     r="43" />
   <path
+     d="M 63.99999,101.99106 C 41.90884,101.99106 24,84.08222 24,61.991067 24,39.899915 41.90884,22.000005 63.99999,22.000005 c 22.09116,0 40.00001,17.908847 40.00001,40 C 104,84.091157 86.09115,102 63.99999,102 Z"
+     style="fill:#ffffff;stroke-width:0.893655"
+     id="path552" />
+  <polygon
      class="cls-1"
-     d="m 100.41717,61.995807 -21.082462,-11.553415 2.007457,7.4028 H 46.551679 l 2.007458,-7.4028 -20.976306,11.561801 20.99346,11.553415 -2.007458,-7.4028 h 34.790486 l -2.00746,7.4028 21.065311,-11.553415"
-     fill="url(#b)"
-     stroke-width="1.33529"
-     id="path6840"
-     style="fill:#0979d9;fill-opacity:1" />
+     points="43.47,49.83 46.64,39.88 17.76,55.67 46.64,71.46 43.47,61.5 67.87,61.5 64.69,71.46 93.57,55.66 64.69,39.88 67.87,49.83 "
+     id="polygon32-3"
+     style="display:inline;fill:#050a52;enable-background:new"
+     transform="matrix(0.89697929,0,0,0.89697929,14.069648,12.06517)" />
 </svg>
