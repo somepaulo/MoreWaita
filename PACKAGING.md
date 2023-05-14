@@ -31,18 +31,23 @@ prints groups (a Meson dictionary) of files where the key is a regular or a link
 list of links that point to the corresponding file in the key. Keys can also be links since a link
 may point to a file which is also a link.
 
+Once some new icons are added, files renamed or links are changed, new list of regular and link
+files must be generated for that icons directory. To do that, maintainer needs to dump a list of
+regular files and groups of link files for the directory containing the changes.
+
+```sh
+$ ./dump_regulars.sh apps/scalable/ # mind the trainling slash, it's required
+$ ./dump_groups.sh apps/scalable # trailing slash is not required here
+```
+
+The output of these comands needs to be put into the array of regular files and dictionary of link
+files in the respective Meson build specification (in this example, that's
+[apps/scalable/meson.build](./apps/scalable/meson.build)).
+
+The process needs to be repeated for all changed directories.
+
 That way we install all regular files into a target directory and for all links we install them
 pointing to the corresponding destination file.
-
-```meson
-install_data(regular_files, install_dir: target_iconsdir)
-
-foreach dest_file, link_files_for_dest : link_files
-    foreach link_file : link_files_for_dest
-        install_symlink(link_file, install_dir: target_iconsdir, pointing_to: dest_file)
-    endforeach
-endforeach
-```
 
 Before each release, MoreWaita maintainers are expected to replace the list of regular files in each
 icon directory with a fresh list that's printed from `dump_regulars.sh` script and replace the
