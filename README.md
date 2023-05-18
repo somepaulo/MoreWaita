@@ -43,9 +43,21 @@ Either use the `Tweaks` app to choose and activate the icon theme or run the fol
 
 `gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'`
 
+## Using custom folder icons
+1. Open Files (Nautilus).
+2. Find the folder you wish to change the icon for.
+3. Right click on the folder.
+4. Click on `Properties`.
+5. Click on the folder image.
+6. Navigate to the MoreWaita installation folder and into the `places` subfolder (typically `/usr/share/icons/MoreWaita/places/scalable/`).
+7. Select the icon you wish to use.
+8. Click `Open`.
+9. Follow the same procedure to revert the icon. Just click `Revert` instead of selecting a new icon in step 7.
+![change_folder_icon](https://github.com/somepaulo/MoreWaita/assets/15643750/05e88cbc-3c77-4e1b-a8bd-3e15b84972fa)
+
 ## Troubleshooting
 
-#### Theme dosn't apply
+#### Theme doesn't apply
 If the theme doesn't apply try the following command:
 
 ##### For system-wide installation
@@ -55,8 +67,8 @@ If the theme doesn't apply try the following command:
 `gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
 
 #### Some apps don't get themed
-If the theme applies, but a particular app doesn't get themed (and its icon is in MoreWaita), check its respective `.desktop` file. Some apps have icon paths hardcoded into their `.desktop` file or have a different icon name set there or no icon set at all. This can differ between distros. If you happen to have such apps, you'll need to copy their `.desktop` files into `~/.local/share/applications` and modify them there providing the correct icon name. Alternatively, use a menu editor like `MenuLibre` or `Alacarte`.
+If the theme applies, but a particular app doesn't get themed (and its icon is in MoreWaita), check its respective `.desktop` file. Some apps have icon paths hardcoded into their `.desktop` file or have a different icon name set there or no icon set at all. This can differ between distros. If you happen to have such apps, you'll need to copy their `.desktop` files into `~/.local/share/applications` and modify them there providing the correct icon name. Alternatively, use a menu editor like `MenuLibre` or `Alacarte`.  
+If your app's `.desktop` file references an icon name not present in Moreaita's `apps/scalable` folder, please report it in an issue providing the icon name from your system. 
 
 ## The icons
-![MoreWaita](https://user-images.githubusercontent.com/15643750/235933593-a9f0bb43-f05b-4ce1-97a5-150c44197345.png)
-
+![MoreWaita](https://github.com/somepaulo/MoreWaita/assets/15643750/ad829802-0788-41e8-93bf-94e548cf444b)

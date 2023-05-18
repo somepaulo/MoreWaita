@@ -167,6 +167,6 @@
      d="M 32.500002,11.999999 V 112 h 10 V 11.999999 Z m 20,11.25 v 7.5 h 39.999999 v -7.5 z m 14.999999,17.5 v 7.5 H 107.5 v -7.5 z m 0,17.5 v 7.5 H 107.5 v -7.5 z m 0,17.5 v 7.5 H 107.5 v -7.5 z m -15,17.5 V 100.75 h 40 v -7.500001 z" />
   <path
      id="rect1253"
-     style="fill:#b2b2b2;stroke-width:1.32323;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;paint-order:stroke fill markers"
-     d="m 32.500002,112 h 10 l 0,4.00228 h -10 z" />
+     style="fill:#b2b2b2;stroke-width:1.32285;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;paint-order:stroke fill markers"
+     d="m 32.500002,112 h 10 v 4 h -10 z" />
 </svg>
