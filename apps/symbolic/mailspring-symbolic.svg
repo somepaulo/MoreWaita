@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg9605"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9601">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <path
+     id="rect2922-2"
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.390233;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;paint-order:stroke fill markers"
+     d="M 0.892216,2.0000002 7.60067,8.5830996 c 0.195471,0.1918027 0.510606,0.1918024 0.706077,0 L 15.015196,2.0000002 Z M 16,2.6717935 10.915181,7.6612363 16,13.099657 Z M 0,2.7626369 V 13.015021 L 4.726661,7.4221598 c 0.0034,-0.00399 0.0078,-0.00661 0.0112,-0.01052 z M 5.57454,8.2326154 0.700228,14 H 15.240323 L 10.079974,8.4807727 8.483143,10.047654 c -0.293203,0.287702 -0.765669,0.287703 -1.058872,0 z" />
+</svg>
