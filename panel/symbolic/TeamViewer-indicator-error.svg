@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg10446"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10440">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <g
+     id="g10444"
+     transform="matrix(0.8125,0,0,0.8125,-2.687,-2.043)">
+    <path
+       style="fill:currentColor"
+       class="ColorScheme-NegativeText"
+       d="m 10,9 v 2 h 4 V 9 l 3,3 -3,3 v -2 h -4 v 2 L 7,12 Z m 2,-5 c -4.4179185,-10e-8 -8.0000001,3.5820815 -8,8 -10e-8,4.417918 3.5820815,8 8,8 4.417918,0 8,-3.582082 8,-8 0,-4.4179185 -3.582082,-8.0000001 -8,-8 z"
+       id="path10442" />
+  </g>
+</svg>
