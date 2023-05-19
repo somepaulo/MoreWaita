@@ -1,7 +1,12 @@
-scalable_panel_iconsdir = join_paths(panel_iconsdir, 'scalable')
+scalable_panel_iconsdir = join_paths(panel_iconsdir, 'symbolic')
 
 regular_files = [
     'bitwarden-tray.svg',
+    'firewall-applet-error.svg',
+    'firewall-applet-panic.svg',
+    'jdownloader-indicator.svg',
+    'pamac-tray-no-update.svg',
+    'pamac-tray-update.svg',
     'protonvpngui-connected.svg',
     'protonvpngui-disconnected.svg',
     'protonvpngui-no-network.svg',
@@ -37,9 +42,11 @@ regular_files = [
 ]
 
 link_files = {
-    'user-available.svg': [
-        'pidgin-tray-available.svg',
-        'pidgin-tray-connect.svg',
+    'user-invisible.svg': [
+        'pidgin-tray-invisible.svg',
+    ],
+    'user-status-new.svg': [
+        'pidgin-tray-xa.svg',
     ],
     'user-away.svg': [
         'pidgin-tray-away.svg',
@@ -47,14 +54,12 @@ link_files = {
     'user-busy.svg': [
         'pidgin-tray-busy.svg',
     ],
-    'user-invisible.svg': [
-        'pidgin-tray-invisible.svg',
+    'user-available.svg': [
+        'pidgin-tray-connect.svg',
+        'pidgin-tray-available.svg',
     ],
     'user-offline.svg': [
         'pidgin-tray-offline.svg',
-    ],
-    'user-status-new.svg': [
-        'pidgin-tray-xa.svg',
     ],
     'user-status-pending.svg': [
         'pidgin-tray-pending.svg',

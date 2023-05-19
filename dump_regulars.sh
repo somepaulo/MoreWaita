@@ -27,4 +27,4 @@ fi
 readdirlen="$((${#readdir} + 1))"
 
 # find all non-link files in readdir, strip the prefix path, sort them and add quotes and commas
-find "$readdir" -type f | cut -c "$readdirlen-" | grep -v 'meson.build' | sort | sed "s~\(.*\)~'\1',~"
+find "$readdir" -type f | cut -c "$readdirlen-" | grep -v 'meson.build' | sort | sed "s~\(.*\)~    '\1',~"

@@ -35,8 +35,8 @@ sorted_groups = [(file, groups[file]) for file in ts.static_order() if file in g
 # reverse the order of groups so first the dependencies are created
 for file, links in reversed(sorted_groups):
     # print a comment line indicating a group of links (file that they link to)
-    print("'{}': [".format(file))
+    print("    '{}': [".format(file))
     for link in links:
         # print a line for each link file
-        print("    '{}',".format(link))
-    print("],")
+        print("        '{}',".format(link))
+    print("    ],")

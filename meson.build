@@ -1,11 +1,11 @@
 project('morewaita',
-        version : '43.2',
+        version : '44.2',
   meson_version : '>= 0.61.0'
 )
 
 iconsdir = join_paths(get_option('prefix'), get_option('datadir'), 'icons', 'MoreWaita')
 
-icon_dirs = ['apps', 'mimes', 'panel', 'places', 'status']
+icon_dirs = ['apps', 'mimes', 'panel', 'places']
 
 foreach icon_dir : icon_dirs
     subdir(icon_dir)
