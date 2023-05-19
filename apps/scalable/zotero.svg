@@ -32,12 +32,24 @@
          id="stop2142" />
       <stop
          style="stop-color:#9c9c9c;stop-opacity:1;"
-         offset="0.92597139"
+         offset="0.44135615"
          id="stop2144" />
       <stop
          style="stop-color:#e7e7e7;stop-opacity:1;"
-         offset="0.95647818"
+         offset="0.50123543"
          id="stop2146" />
+      <stop
+         style="stop-color:#9c9c9c;stop-opacity:1;"
+         offset="0.563963"
+         id="stop971" />
+      <stop
+         style="stop-color:#9c9c9c;stop-opacity:1;"
+         offset="0.93046349"
+         id="stop973" />
+      <stop
+         style="stop-color:#e7e7e7;stop-opacity:1;"
+         offset="0.9622153"
+         id="stop975" />
       <stop
          style="stop-color:#9c9c9c;stop-opacity:1;"
          offset="1"
