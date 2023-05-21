@@ -6,7 +6,7 @@ This theme is built upon the work of Gnome's Adwaita designers, Gnome Circle app
 
 The purpose of MoreWaita is to add to Adwaita, not modify it, and to do roughly what Breeze does for KDE. This theme does not override any Adwaita icons, nor any Gnome Circle apps icons, nor icons that generally fit into the Adwaita paradigm (like Transmission GTK). Currently, this theme is way less all-inclusive than many others, but the aim is to be on par with Papirus some day. However, this is (mostly) a one-man hobby effort for now, so suggestions, requests, PRs and contributions are very welcome.
 
-For most icons, especially branded ones, the general idea is to stay as close as possible to the original icons – to the point of using them in full – and giving them the distinct Adwaita 'perspective' and general flatness. One thing this theme deviates from is the Gnome colour palette in brand icons – MoreWaita keeps the brand colours.   
+For most icons, especially branded ones, the general idea is to stay as close as possible to the original icons – to the point of using them in full – and giving them the distinct Adwaita 'perspective' and general flatness. One thing this theme deviates from is the Gnome colour palette in brand icons – MoreWaita keeps the brand colours.
 
 This theme is built and tested against vanilla Gnome on Arch Linux. If an icon is in the theme, but is not applying to your app, please open an issue and mention the icon name referenced in your app's `.desktop` file.
 
@@ -16,11 +16,19 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 ##### Download the theme
 `git clone https://github.com/somepaulo/MoreWaita.git`
 
+##### Enter the downloaded folder
+`cd Morewaita`
+
 ##### Install system-wide (recommended)
-`sudo cp -r MoreWaita/ /usr/share/icons/`
+`./system-install.sh`  
+This copies the whole theme folder without the build files into `/usr/share/icons/`. You will be prompted for your password.
 
 ##### Install for local user
-`cp -r MoreWaita/ ~/.local/share/icons/`
+`./local-install.sh`  
+This copies the whole theme folder without the build files into `~/.local/share/icons/`.
+
+##### Uninstall
+Simply chose another theme and then delete the entire MoreWaita folder from wherever you installed it to. 
 
 #### Arch Linux
 [AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
