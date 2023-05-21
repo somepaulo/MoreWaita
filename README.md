@@ -28,7 +28,7 @@ This copies the whole theme folder without the build files into `/usr/share/icon
 This copies the whole theme folder without the build files into `~/.local/share/icons/`.
 
 ##### Uninstall
-Simply chose another theme and then delete the entire MoreWaita folder from wherever you installed it to. 
+Simply chose another theme and then delete the entire `MoreWaita` folder from either `/usr/share/icons/` or `~/.local/share/icons/` depending on your installation choice above. 
 
 #### Arch Linux
 [AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
