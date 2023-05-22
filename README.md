@@ -27,6 +27,9 @@ This copies the whole theme folder without the build files into `/usr/share/icon
 `./local-install.sh`  
 This copies the whole theme folder without the build files into `~/.local/share/icons/`.
 
+##### Update
+Use the same steps as for installation.
+
 ##### Uninstall
 Simply chose another theme and then delete the entire `MoreWaita` folder from either `/usr/share/icons/` or `~/.local/share/icons/` depending on your installation choice above. 
 
