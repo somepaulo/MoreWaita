@@ -25,7 +25,7 @@ That however requires us to track for each release which links point to which fi
 some links that point to other links, they need to be topographically sorted so there would be no
 errors when linking.
 
-That is done with `dump_regulars.sh` and `dump_groups.py` scripts. The former prints an
+That is done with `dump_regulars.sh` and `dump_groups.py` scripts from the `_dev` folder. The former prints an
 alphabetically sorted list of all regular (non link) files in the specified directory and the latter
 prints groups (a Meson dictionary) of files where the key is a regular or a link file and value is a
 list of links that point to the corresponding file in the key. Keys can also be links since a link
@@ -36,11 +36,11 @@ files must be generated for that icons directory. To do that, maintainer needs t
 regular files and groups of link files for the directory containing the changes.
 
 ```sh
-$ ./dump_regulars.sh apps/scalable/ # mind the trainling slash, it's required
-$ ./dump_groups.sh apps/scalable # trailing slash is not required here
+$ ./_dev/dump_regulars.sh apps/scalable/ # mind the trainling slash, it's required
+$ ./_dev/dump_groups.sh apps/scalable # trailing slash is not required here
 ```
 
-The output of these comands needs to be put into the array of regular files and dictionary of link
+The output of these commands needs to be put into the array of regular files and dictionary of link
 files in the respective Meson build specification (in this example, that's
 [apps/scalable/meson.build](./apps/scalable/meson.build)).
 
