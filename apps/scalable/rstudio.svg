@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="128"
+   viewBox="0 0 128 128"
+   width="128"
+   version="1.1"
+   id="svg21"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs25" />
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="10.000004"
+     x2="118"
+     y1="66"
+     y2="66">
+    <stop
+       offset="0"
+       stop-color="#429aea"
+       id="stop2"
+       style="stop-color:#50789b;stop-opacity:1;" />
+    <stop
+       offset="0.0686186"
+       stop-color="#75aadb"
+       id="stop4" />
+    <stop
+       offset="0.151761"
+       stop-color="#429aea"
+       id="stop6"
+       style="stop-color:#50789b;stop-opacity:1;" />
+    <stop
+       offset="0.85068297"
+       stop-color="#429aea"
+       id="stop8"
+       style="stop-color:#50789b;stop-opacity:1;" />
+    <stop
+       offset="0.928503"
+       stop-color="#75aadb"
+       id="stop10" />
+    <stop
+       offset="1"
+       stop-color="#429aea"
+       id="stop12"
+       style="stop-color:#50789b;stop-opacity:1;" />
+  </linearGradient>
+  <path
+     d="M 118,66 C 118,95.824219 93.824219,120 64,120 34.175781,120 10,95.824219 10,66 10,36.175781 34.175781,12 64,12 c 29.824219,0 54,24.175781 54,54 z m 0,0"
+     fill="url(#a)"
+     id="path15"
+     style="fill:url(#a)" />
+  <path
+     d="M 118,62 C 118,91.824219 93.824219,116 64,116 34.175781,116 10,91.824219 10,62 10,32.175781 34.175781,8 64,8 c 29.824219,0 54,24.175781 54,54 z m 0,0"
+     fill="#75aadb"
+     id="path17" />
+  <path
+     d="m 80.578125,82.796875 h 6.132813 V 87.5625 H 77.347656 L 61.828125,64.300781 h -8.273437 v 18.496094 h 8.089843 V 87.5625 H 41.289062 V 82.796875 H 48.28125 V 41.808594 L 41.289062,40.949219 V 36.4375 c 2.644532,0.605469 4.945313,1.023438 7.832032,1.023438 4.34375,0 8.78125,-1.023438 13.125,-1.023438 8.4375,0 16.269531,3.835938 16.269531,13.203125 0,7.246094 -4.347656,11.847656 -11.082031,13.800781 z m -27.023437,-23.097656 4.4375,0.08984 c 10.828124,0.167969 14.992187,-3.996093 14.992187,-9.546874 0,-6.480469 -4.695313,-9.039063 -10.644531,-9.039063 -2.8125,0 -5.714844,0.257813 -8.785156,0.605469 z m 0,0"
+     fill="#ffffff"
+     id="path19" />
+</svg>
