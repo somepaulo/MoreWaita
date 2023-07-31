@@ -1,20 +1,21 @@
 symbolic_places_iconsdir = join_paths(places_iconsdir, 'symbolic')
 
 regular_files = [
+    # DO NOT REMOVE: Begining of regular segment
     'folder-books-legacy-symbolic.svg',
     'folder-books-symbolic.svg',
+    'folder-c-symbolic.svg',
     'folder-code-legacy-symbolic.svg',
     'folder-code-symbolic.svg',
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
-    'folder-c-symbolic.svg',
     'folder-dropbox-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
     'folder-games-symbolic.svg',
     'folder-git-legacy-symbolic.svg',
     'folder-git-symbolic.svg',
-    'folder-godot-symbolic.svg',
     'folder-go-symbolic.svg',
+    'folder-godot-symbolic.svg',
     'folder-java-symbolic.svg',
     'folder-lua-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
@@ -29,9 +30,18 @@ regular_files = [
     'folder-syncthing-legacy-symbolic.svg',
     'folder-syncthing-symbolic.svg',
     'folder-vala-symbolic.svg',
+    # DO NOT REMOVE: End of regular segment
 ]
 
 link_files = {
+    # DO NOT REMOVE: Begining of link segment
+    'folder-godot-symbolic.svg': [
+        'folder-godot-legacy-symbolic.svg',
+    ],
+    'folder-dropbox-symbolic.svg': [
+        'folder-dropbox-legacy-symbolic.svg',
+    ],
+    # DO NOT REMOVE: End of link segment
 }
 
 install_data(regular_files, install_dir: symbolic_places_iconsdir)

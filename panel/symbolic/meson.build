@@ -1,16 +1,24 @@
 scalable_panel_iconsdir = join_paths(panel_iconsdir, 'symbolic')
 
 regular_files = [
+    # DO NOT REMOVE: Begining of regular segment
+    'TeamViewer-indicator-away.svg',
+    'TeamViewer-indicator-busy.svg',
+    'TeamViewer-indicator-connected.svg',
+    'TeamViewer-indicator-error.svg',
+    'TeamViewer-indicator-offline.svg',
+    'TeamViewer-indicator.svg',
+    'Zoom-indicator.svg',
     'bitwarden-tray.svg',
     'firewall-applet-error.svg',
     'firewall-applet-panic.svg',
     'jdownloader-indicator.svg',
     'pamac-tray-no-update.svg',
     'pamac-tray-update.svg',
+    'protonvpn-tray.svg',
     'protonvpngui-connected.svg',
     'protonvpngui-disconnected.svg',
     'protonvpngui-no-network.svg',
-    'protonvpn-tray.svg',
     'skype-indicator.svg',
     'skype-status-away-notification.svg',
     'skype-status-away.svg',
@@ -24,12 +32,6 @@ regular_files = [
     'skype-status-offline-notification.svg',
     'skype-status-offline.svg',
     'strawberry-panel.svg',
-    'TeamViewer-indicator-away.svg',
-    'TeamViewer-indicator-busy.svg',
-    'TeamViewer-indicator-connected.svg',
-    'TeamViewer-indicator-error.svg',
-    'TeamViewer-indicator-offline.svg',
-    'TeamViewer-indicator.svg',
     'user-available.svg',
     'user-away.svg',
     'user-busy.svg',
@@ -38,32 +40,34 @@ regular_files = [
     'user-status-new.svg',
     'user-status-pending.svg',
     'vlc-panel.svg',
-    'Zoom-indicator.svg',
+    # DO NOT REMOVE: End of regular segment
 ]
 
 link_files = {
-    'user-invisible.svg': [
-        'pidgin-tray-invisible.svg',
-    ],
+    # DO NOT REMOVE: Begining of link segment
     'user-status-new.svg': [
         'pidgin-tray-xa.svg',
-    ],
-    'user-away.svg': [
-        'pidgin-tray-away.svg',
-    ],
-    'user-busy.svg': [
-        'pidgin-tray-busy.svg',
-    ],
-    'user-available.svg': [
-        'pidgin-tray-connect.svg',
-        'pidgin-tray-available.svg',
-    ],
-    'user-offline.svg': [
-        'pidgin-tray-offline.svg',
     ],
     'user-status-pending.svg': [
         'pidgin-tray-pending.svg',
     ],
+    'user-offline.svg': [
+        'pidgin-tray-offline.svg',
+    ],
+    'user-invisible.svg': [
+        'pidgin-tray-invisible.svg',
+    ],
+    'user-busy.svg': [
+        'pidgin-tray-busy.svg',
+    ],
+    'user-away.svg': [
+        'pidgin-tray-away.svg',
+    ],
+    'user-available.svg': [
+        'pidgin-tray-available.svg',
+        'pidgin-tray-connect.svg',
+    ],
+    # DO NOT REMOVE: End of link segment
 }
 
 install_data(regular_files, install_dir: scalable_panel_iconsdir)

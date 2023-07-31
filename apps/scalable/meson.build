@@ -1,6 +1,11 @@
 scalable_apps_iconsdir = join_paths(apps_iconsdir, 'scalable')
 
 regular_files = [
+    # DO NOT REMOVE: Begining of regular segment
+    'CMakeSetup.svg',
+    'QtProject-designer.svg',
+    'TeamViewer.svg',
+    'Zoom.svg',
     'abiword.svg',
     'accessories-character-map.svg',
     'alacritty.svg',
@@ -16,15 +21,14 @@ regular_files = [
     'brave-desktop.svg',
     'btop.svg',
     'calibre-ebook-edit.svg',
-    'calibre.svg',
     'calibre-viewer.svg',
+    'calibre.svg',
     'carla-control.svg',
     'carla.svg',
     'cawbird.svg',
     'chromium-browser.svg',
     'clamtk.svg',
     'clion.svg',
-    'CMakeSetup.svg',
     'code-oss.svg',
     'com.github.eneshecan.WhatsAppForLinux.svg',
     'com.obsproject.Studio.svg',
@@ -49,9 +53,9 @@ regular_files = [
     'fish.svg',
     'fleet.svg',
     'foobar2000.svg',
+    'fr.handbrake.ghb.svg',
     'freac.svg',
     'freetube.svg',
-    'fr.handbrake.ghb.svg',
     'fuse-emulator.svg',
     'gda-browser-5.0.svg',
     'gda-control-center.svg',
@@ -103,8 +107,8 @@ regular_files = [
     'mattermost.svg',
     'mediainfo.svg',
     'menulibre.svg',
-    'microsoft-edge.svg',
     'micro.svg',
+    'microsoft-edge.svg',
     'minecraft.svg',
     'mpv.svg',
     'net.poedit.Poedit.svg',
@@ -139,7 +143,6 @@ regular_files = [
     'pycharm.svg',
     'qdbusviewer.svg',
     'qt5ct.svg',
-    'QtProject-designer.svg',
     'qutebrowser.svg',
     'qv4l2.svg',
     'rawtherapee.svg',
@@ -165,7 +168,6 @@ regular_files = [
     'syncthing-gtk.svg',
     'system-software-install.svg',
     'teams.svg',
-    'TeamViewer.svg',
     'telegram.svg',
     'texstudio.svg',
     'thunderbird.svg',
@@ -183,279 +185,158 @@ regular_files = [
     'windscribe.svg',
     'xdvi.svg',
     'xsane.svg',
-    'Zoom.svg',
     'zotero.svg',
     'zrythm.svg',
+    # DO NOT REMOVE: End of regular segment
 ]
 
 link_files = {
-    'freac.svg': [
-        'org.freac.freac.svg',
-        'appimagekit-org.freac.freac.svg',
-    ],
-    'mediainfo.svg': [
-        'net.mediaarea.MediaInfo.svg',
-    ],
-    'prismlauncher.svg': [
-        'org.prismlauncher.PrismLauncher.svg',
-    ],
-    'etcher.svg': [
-        'etcher-electron.svg',
-        'balena-etcher-electron.svg',
-        'appimagekit-balena-etcher-electron.svg',
-    ],
-    'headlines.svg': [
-        'io.gitlab.caveman250.headlines.svg',
-    ],
-    'saber.svg': [
-        'com.adilhanney.saber.svg',
-    ],
-    'cawbird.svg': [
-        'uk.co.ibboard.cawbird.svg',
-    ],
-    'calibre-ebook-edit.svg': [
-        'com.calibre_ebook.calibre.ebook-edit.svg',
-        'com.calibre_ebook.calibre.ebook_edit.svg',
-    ],
-    'calibre-viewer.svg': [
-        'com.calibre_ebook.calibre.lrfviewer.svg',
-        'com.calibre_ebook.calibre.ebook-viewer.svg',
-        'com.calibre_ebook.calibre.ebook_viewer.svg',
-    ],
-    'calibre.svg': [
-        'calibre-gui.svg',
-        'com.calibre_ebook.calibre.svg',
-    ],
-    'abiword.svg': [
-        'com.abisource.AbiWord.svg',
-    ],
-    'geany.svg': [
-        'org.geany.Geany.svg',
-    ],
-    'freetube.svg': [
-        'freetube-bin.svg',
-        'io.freetubeapp.FreeTube.svg',
-    ],
-    'genymotion.svg': [
-        'genymotion-bin.svg',
-        'genymotion-player.svg',
-    ],
-    'mailspring.svg': [
-        'com.getmailspring.Mailspring.svg',
-    ],
-    'blender.svg': [
-        'Blender.svg',
-        'org.blender.Blender.svg',
-        'lutris_blender.svg',
-    ],
-    'dbeaver.svg': [
-        'dbeaver-ee.svg',
-        'io.dbeaver.DBeaverCommunity.svg',
-    ],
-    'jdownloader.svg': [
-        'org.jdownloader.JDownloader.svg',
-    ],
-    'gnome-aisleriot.svg': [
-        'org.gnome.Aisleriot.svg',
-    ],
-    'spyder.svg': [
-        'spyder3.svg',
-    ],
-    'figma.svg': [
-        'figma-linux.svg',
-        'io.github.Figma_Linux.figma_linux.svg',
-    ],
-    'sublime-merge.svg': [
-        'com.sublimemerge.App.svg',
-    ],
-    'sublime-text.svg': [
-        'sublime_text.svg',
-        'sublime-text2.svg',
-        'sublime-text-2.svg',
-        'sublime-text-3.svg',
-        'sublimetext.svg',
-        'sublime.svg',
-        'com.sublimetext.three.svg',
-    ],
-    'qutebrowser.svg': [
-        'org.qutebrowser.qutebrowser.svg',
-    ],
-    'protonvpn-gui.svg': [
-        'protonvpn-logo.svg',
-    ],
-    'qt5ct.svg': [
-        'qtconfig.svg',
-        'qtconfig-qt4.svg',
-        'qtconfig-qt5.svg',
-        'qtconfig-qt6.svg',
-        'qt6ct.svg',
-    ],
-    'texstudio.svg': [
-        'org.texstudio.TeXstudio.svg',
-    ],
-    'android-studio-canary.svg': [
-        'androidstudio-preview.svg',
-        'android-studio-beta.svg',
-    ],
-    'carla.svg': [
-        'studio.kx.carla.svg',
-    ],
-    'libreoffice-basic.svg': [
-        'libreoffice7.5-basic.svg',
-        'org.libreoffice.LibreOffice.basic.svg',
-    ],
-    'libreoffice-chart.svg': [
-        'libreoffice7.5-chart.svg',
-        'org.libreoffice.LibreOffice.chart.svg',
-    ],
-    'godot.svg': [
-        'godot-mono.svg',
-        'lutris_godot-engine.svg',
-        'org.godotengine.Godot.svg',
-    ],
-    'alacritty.svg': [
-        'Alacritty.svg',
-        'com.alacritty.Alacritty.svg',
-    ],
-    'firewall-config.svg': [
-        'firewall-applet.svg',
-    ],
-    'nvidia.svg': [
-        'nvidia-ddm-mx.svg',
-        'nvidia-settings.svg',
-        'nvidia-310-settings.svg',
-        'nvidia-current-settings.svg',
-        'nvidia-drivers-settings.svg',
-        'nvidia-x-server-settings.svg',
-        'nvidia-current-updates-settings.svg',
-    ],
-    'bitwarden.svg': [
-        'com.bitwarden.desktop.svg',
-        'appimagekit-bitwarden.svg',
-    ],
-    'strawberry.svg': [
-        'org.strawberrymusicplayer.strawberry.svg',
-    ],
-    'pure-maps.svg': [
-        'harbour-pure-maps.svg',
-        'io.github.rinigus.PureMaps.svg',
-    ],
-    'osmscout-server.svg': [
-        'io.github.rinigus.OSMScoutServer.svg',
-    ],
-    'hp_logo.svg': [
-        'hp-logo.svg',
-        'hplip.svg',
-        'hp-toolbox.svg',
-        'hplj1020_icon.svg',
-    ],
-    'xsane.svg': [
-        'gscan2pdf.svg',
-        'vuescan.svg',
-        'yast-scanner.svg',
-        'deepin-scanner.svg',
-        'blueman-scanner.svg',
-        'com.hamrick.VueScan.svg',
-    ],
-    'pacseek.svg': [
-        'org.moson.pacseek.svg',
-        'org.moson.Pacseek.svg',
-    ],
-    'standard-notes.svg': [
-        'appimagekit-standard-notes.svg',
-        'org.standardnotes.standardnotes.svg',
-    ],
-    'thunderbird.svg': [
-        'thunderbird-3.0.svg',
-        'thunderbird-bin.svg',
-        'thunderbird-icon.svg',
-        'thunderbird-mozilla-build.svg',
-        'org.mozilla.Thunderbird.svg',
-    ],
-    'btop.svg': [
-        'bashtop.svg',
-    ],
-    'brave-desktop.svg': [
-        'brave-browser.svg',
-    ],
+    # DO NOT REMOVE: Begining of link segment
     'vivaldi.svg': [
         'vivaldi-stable.svg',
     ],
-    'firefox-developer-edition.svg': [
-        'firefox-developer-icon.svg',
-        'org.mozilla.FirefoxDevEdition.svg',
+    'virtualbox.svg': [
+        'virtualbox-ose.svg',
     ],
-    'chromium-browser.svg': [
-        'chromium.svg',
-        'chromium-freeworld.svg',
-        'chromium-browser-privacy.svg',
-        'org.chromium.Chromium.svg',
+    'Zoom.svg': [
+        'us.zoom.Zoom.svg',
+        'zoom-desktop.svg',
+        'zoom-icon.svg',
     ],
-    'slack.svg': [
-        'com.slack.Slack.svg',
-    ],
-    'signal-desktop.svg': [
-        'org.signal.Signal.svg',
-    ],
-    'github-desktop.svg': [
-        'appimagekit-github-desktop.svg',
-        'io.github.shiftey.Desktop.svg',
-    ],
-    'viber.svg': [
-        'com.viber.Viber.svg',
-    ],
-    'discord-canary.svg': [
-        'com.discordapp.DiscordCanary.svg',
-    ],
-    'discord.svg': [
-        'com.discordapp.Discord.svg',
-    ],
-    'facebook-messenger.svg': [
-        'caprine.svg',
-        'com.sindresorhus.Caprine.svg',
-    ],
-    'telegram.svg': [
-        'telegram-desktop.svg',
-        'telegram-desktop-bin.svg',
-        'org.telegram.desktop.svg',
+    'cawbird.svg': [
+        'uk.co.ibboard.cawbird.svg',
     ],
     'TeamViewer.svg': [
         'teamviewer.svg',
     ],
     'system-software-install.svg': [
+        'synaptic.svg',
         'system-software-installer.svg',
         'system-software-update.svg',
-        'synaptic.svg',
     ],
-    'soundconverter.svg': [
-        'org.soundconverter.SoundConverter.svg',
+    'carla.svg': [
+        'studio.kx.carla.svg',
     ],
-    'rawtherapee.svg': [
-        'com.rawtherapee.RawTherapee.svg',
+    'spyder.svg': [
+        'spyder3.svg',
     ],
-    'qdbusviewer.svg': [
-        'io.qt.Qdbusviewer.svg',
-        'qdbusviewer5.svg',
-        'qdbusviewer-qt5.svg',
-        'qdbusviewer-qt4.svg',
-        'qtdbusviewer.svg',
-        'QtProject-qdbusviewer.svg',
+    'insomnia.svg': [
+        'rest.insomnia.Insomnia.svg',
+    ],
+    'qv4l2.svg': [
+        'qvidcap.svg',
+    ],
+    'scrcpy.svg': [
+        'qtscrcpy.svg',
+    ],
+    'qt5ct.svg': [
+        'qt6ct.svg',
+        'qtconfig-qt4.svg',
+        'qtconfig-qt5.svg',
+        'qtconfig-qt6.svg',
+        'qtconfig.svg',
+    ],
+    'protonvpn-gui.svg': [
+        'protonvpn-logo.svg',
     ],
     'popcorntime.svg': [
         'popcorn-time.svg',
         'popcorntime-ru.svg',
     ],
-    'org.parlatype.Parlatype.svg': [
-        'parlatype.svg',
-        'com.github.gkarsay.parlatype.svg',
+    'net.poedit.Poedit.svg': [
+        'poedit.svg',
     ],
-    'org.inkscape.Inkscape.svg': [
-        'inkscape.svg',
-        'inkscape-logo.svg',
+    'pamac.svg': [
+        'pamac-manager.svg',
+        'pamac-updater.svg',
     ],
-    'org.gnome.PowerStats.svg': [
-        'org.gnome.powerstats.svg',
-        'gnome-power-statistics.svg',
+    'zotero.svg': [
+        'org.zotero.Zotero.svg',
+    ],
+    'vlc.svg': [
+        'org.videolan.VLC.svg',
+    ],
+    'texstudio.svg': [
+        'org.texstudio.TeXstudio.svg',
+    ],
+    'telegram.svg': [
+        'org.telegram.desktop.svg',
+        'telegram-desktop-bin.svg',
+        'telegram-desktop.svg',
+    ],
+    'strawberry.svg': [
+        'org.strawberrymusicplayer.strawberry.svg',
+    ],
+    'stellarium.svg': [
+        'org.stellarium.Stellarium.svg',
+    ],
+    'soundconverter.svg': [
+        'org.soundconverter.SoundConverter.svg',
+    ],
+    'signal-desktop.svg': [
+        'org.signal.Signal.svg',
+    ],
+    'qutebrowser.svg': [
+        'org.qutebrowser.qutebrowser.svg',
+    ],
+    'prismlauncher.svg': [
+        'org.prismlauncher.PrismLauncher.svg',
+    ],
+    'thunderbird.svg': [
+        'org.mozilla.Thunderbird.svg',
+        'thunderbird-3.0.svg',
+        'thunderbird-bin.svg',
+        'thunderbird-icon.svg',
+        'thunderbird-mozilla-build.svg',
+    ],
+    'pacseek.svg': [
+        'org.moson.Pacseek.svg',
+        'org.moson.pacseek.svg',
+    ],
+    'kdenlive.svg': [
+        'org.kde.kdenlive.svg',
+    ],
+    'jdownloader.svg': [
+        'org.jdownloader.JDownloader.svg',
+    ],
+    'shotwell.svg': [
+        'org.gnome.Shotwell.svg',
+    ],
+    'gnome-aisleriot.svg': [
+        'org.gnome.Aisleriot.svg',
+    ],
+    'gimp.svg': [
+        'org.gimp.GIMP.svg',
+    ],
+    'geany.svg': [
+        'org.geany.Geany.svg',
+    ],
+    'filezilla.svg': [
+        'org.filezillaproject.Filezilla.svg',
+    ],
+    'darktable.svg': [
+        'org.darktable.Darktable.svg',
+    ],
+    'menulibre.svg': [
+        'org.bluesabre.MenuLibre.svg',
+    ],
+    'audacity.svg': [
+        'org.audacityteam.Audacity.svg',
+    ],
+    'com.obsproject.Studio.svg': [
+        'obs.svg',
+    ],
+    'nvidia.svg': [
+        'nvidia-310-settings.svg',
+        'nvidia-current-settings.svg',
+        'nvidia-current-updates-settings.svg',
+        'nvidia-ddm-mx.svg',
+        'nvidia-drivers-settings.svg',
+        'nvidia-settings.svg',
+        'nvidia-x-server-settings.svg',
+    ],
+    'projectM.svg': [
+        'net.sourceforge.projectM.svg',
     ],
     'openra-ra.svg': [
         'net.openra.OpenRA.svg',
@@ -466,55 +347,27 @@ link_files = {
     'openra-cnc.svg': [
         'net.openra.OpenRA.openra-cnc.svg',
     ],
-    'net.poedit.Poedit.svg': [
-        'poedit.svg',
+    'mediainfo.svg': [
+        'net.mediaarea.MediaInfo.svg',
     ],
-    'QtProject-designer.svg': [
-        'io.qt.Designer.svg',
+    'pavucontrol.svg': [
+        'multimedia-volume-control.svg',
+        'org.pulseaudio.pavucontrol.svg',
     ],
-    'gnome-nettool.svg': [
-        'gnome-nettools.svg',
+    'syncthing-gtk.svg': [
+        'me.kozec.syncthingtk.svg',
+        'syncthing.svg',
+        'syncthingtray.svg',
     ],
-    'com.obsproject.Studio.svg': [
-        'obs.svg',
+    'libreoffice-chart.svg': [
+        'libreoffice7.5-chart.svg',
+        'org.libreoffice.LibreOffice.chart.svg',
     ],
-    'com.github.eneshecan.WhatsAppForLinux.svg': [
-        'whatsapp.svg',
-        'whatsapp-desktop.svg',
-        'whatsdesk.svg',
-        'whatsapp-for-linux.svg',
-        'whatsapp-nativefier.svg',
-        'io.bit3.WhatsAppQT.svg',
-        'io.github.mimbrero.WhatsAppDesktop.svg',
-        'com.gigitux.gtkwhats.svg',
-    ],
-    'CMakeSetup.svg': [
-        'cmake.svg',
-        'cmake-gui.svg',
-        'CMakeSetup32.svg',
-    ],
-    'vlc.svg': [
-        'org.videolan.VLC.svg',
-    ],
-    'stellarium.svg': [
-        'org.stellarium.Stellarium.svg',
-    ],
-    'firefox.svg': [
-        'org.mozilla.firefox.svg',
-        'firefox-bin.svg',
-        'firefox-esr.svg',
-        'firefox-beta.svg',
-        'firefox-gtk3.svg',
-        'firefox-icon.svg',
-        'firefox-default.svg',
-        'firefox-beta-bin.svg',
-        'firefox-original.svg',
-        'firefox-mozilla-build.svg',
-        'mozilla-firefox.svg',
-        'org.mozilla.Firefox.svg',
+    'libreoffice-basic.svg': [
+        'libreoffice7.5-basic.svg',
+        'org.libreoffice.LibreOffice.basic.svg',
     ],
     'libreoffice-writer.svg': [
-        'org.libreoffice.LibreOffice.writer.svg',
         'libreoffice4.2-writer.svg',
         'libreoffice5.0-writer.svg',
         'libreoffice5.1-writer.svg',
@@ -522,8 +375,8 @@ link_files = {
         'libreoffice5.3-writer.svg',
         'libreoffice5.4-writer.svg',
         'libreoffice6.0-writer.svg',
-        'libreoffice6.3-writer.svg',
         'libreoffice6.2-writer.svg',
+        'libreoffice6.3-writer.svg',
         'libreoffice6.4-writer.svg',
         'libreoffice7.0-writer.svg',
         'libreoffice7.1-writer.svg',
@@ -531,51 +384,9 @@ link_files = {
         'libreoffice7.3-writer.svg',
         'libreoffice7.4-writer.svg',
         'libreoffice7.5-writer.svg',
-    ],
-    'libreoffice-startcenter.svg': [
-        'org.libreoffice.LibreOffice.startcenter.svg',
-        'libreoffice5.0.svg',
-        'libreoffice5.1.svg',
-        'libreoffice5.2.svg',
-        'libreoffice5.3.svg',
-        'libreoffice5.4.svg',
-        'libreoffice6.0.svg',
-        'libreoffice-main.svg',
-        'libreoffice5.0-main.svg',
-        'libreoffice5.1-main.svg',
-        'libreoffice5.2-main.svg',
-        'libreoffice5.3-main.svg',
-        'libreoffice5.4-main.svg',
-        'libreoffice6.0-main.svg',
-        'libreoffice6.2-main.svg',
-        'libreoffice6.3-main.svg',
-        'libreoffice6.4-main.svg',
-        'libreoffice7.0-main.svg',
-        'libreoffice7.1-main.svg',
-        'libreoffice7.2-main.svg',
-        'libreoffice7.3-main.svg',
-        'libreoffice7.4-main.svg',
-        'libreoffice4.2-startcenter.svg',
-        'libreoffice5.0-startcenter.svg',
-        'libreoffice5.1-startcenter.svg',
-        'libreoffice5.2-startcenter.svg',
-        'libreoffice5.3-startcenter.svg',
-        'libreoffice5.4-startcenter.svg',
-        'libreoffice6.0-startcenter.svg',
-        'libreoffice6.2-startcenter.svg',
-        'libreoffice6.3-startcenter.svg',
-        'libreoffice6.4-startcenter.svg',
-        'libreoffice7.1-startcenter.svg',
-        'libreoffice7.2-startcenter.svg',
-        'libreoffice7.3-startcenter.svg',
-        'libreoffice7.4-startcenter.svg',
-        'libreoffice7.0-startcenter.svg',
-        'libreoffice7.5-startcenter.svg',
-        'libreoffice7.5-main.svg',
-        'org.libreoffice.LibreOffice.main.svg',
+        'org.libreoffice.LibreOffice.writer.svg',
     ],
     'libreoffice-math.svg': [
-        'org.libreoffice.LibreOffice.math.svg',
         'libreoffice4.2-math.svg',
         'libreoffice5.0-math.svg',
         'libreoffice5.1-math.svg',
@@ -592,9 +403,9 @@ link_files = {
         'libreoffice7.3-math.svg',
         'libreoffice7.4-math.svg',
         'libreoffice7.5-math.svg',
+        'org.libreoffice.LibreOffice.math.svg',
     ],
     'libreoffice-impress.svg': [
-        'org.libreoffice.LibreOffice.impress.svg',
         'libreoffice4.2-impress.svg',
         'libreoffice5.0-impress.svg',
         'libreoffice5.1-impress.svg',
@@ -611,9 +422,9 @@ link_files = {
         'libreoffice7.3-impress.svg',
         'libreoffice7.4-impress.svg',
         'libreoffice7.5-impress.svg',
+        'org.libreoffice.LibreOffice.impress.svg',
     ],
     'libreoffice-draw.svg': [
-        'org.libreoffice.LibreOffice.draw.svg',
         'libreoffice4.2-draw.svg',
         'libreoffice5.0-draw.svg',
         'libreoffice5.1-draw.svg',
@@ -630,9 +441,9 @@ link_files = {
         'libreoffice7.3-draw.svg',
         'libreoffice7.4-draw.svg',
         'libreoffice7.5-draw.svg',
+        'org.libreoffice.LibreOffice.draw.svg',
     ],
     'libreoffice-calc.svg': [
-        'org.libreoffice.LibreOffice.calc.svg',
         'libreoffice4.2-calc.svg',
         'libreoffice5.0-calc.svg',
         'libreoffice5.1-calc.svg',
@@ -649,9 +460,9 @@ link_files = {
         'libreoffice7.3-calc.svg',
         'libreoffice7.4-calc.svg',
         'libreoffice7.5-calc.svg',
+        'org.libreoffice.LibreOffice.calc.svg',
     ],
     'libreoffice-base.svg': [
-        'org.libreoffice.LibreOffice.base.svg',
         'libreoffice4.2-base.svg',
         'libreoffice5.0-base.svg',
         'libreoffice5.1-base.svg',
@@ -668,302 +479,220 @@ link_files = {
         'libreoffice7.3-base.svg',
         'libreoffice7.4-base.svg',
         'libreoffice7.5-base.svg',
+        'org.libreoffice.LibreOffice.base.svg',
     ],
-    'kdenlive.svg': [
-        'org.kde.kdenlive.svg',
-    ],
-    'gimp.svg': [
-        'org.gimp.GIMP.svg',
-    ],
-    'filezilla.svg': [
-        'org.filezillaproject.Filezilla.svg',
-    ],
-    'darktable.svg': [
-        'org.darktable.Darktable.svg',
-    ],
-    'menulibre.svg': [
-        'org.bluesabre.MenuLibre.svg',
-    ],
-    'audacity.svg': [
-        'org.audacityteam.Audacity.svg',
-    ],
-    'projectM.svg': [
-        'net.sourceforge.projectM.svg',
-    ],
-    'fuse-emulator.svg': [
-        'net.sf.fuse_emulator.svg',
-        'fuse.svg',
-    ],
-    'linguist.svg': [
-        'io.qt.Linguist.svg',
-        'linguist5.svg',
-        'linguist-qt5.svg',
-        'linguist-qt4.svg',
-        'qtlinguist.svg',
-        'QtProject-linguist.svg',
-    ],
-    'mpv.svg': [
-        'io.mpv.Mpv.svg',
-        'mpv-icon-8bit-64x64.svg',
-    ],
-    'visual-studio-code.svg': [
-        'com.visualstudio.code.svg',
-        'code.svg',
-        'vscode.svg',
-    ],
-    'skypeforlinux.svg': [
-        'com.skype.Client.svg',
-        'skype.svg',
-        'ms-skype.svg',
-    ],
-    'microsoft-edge.svg': [
-        'com.microsoft.Edge.svg',
-    ],
-    'clamtk.svg': [
-        'com.gitlab.davem.ClamTk.svg',
-        'clamav.svg',
-    ],
-    'tor-browser.svg': [
-        'com.github.micahflee.torbrowser-launcher.svg',
-        'tor.svg',
-        'torbrowser.svg',
-        'tor-browser-en.svg',
-        'tor-browser-ru.svg',
-    ],
-    'anydesk.svg': [
-        'com.anydesk.Anydesk.svg',
-    ],
-    'assistant.svg': [
-        'assistant5.svg',
-        'assistant-qt4.svg',
-        'assistant-qt5.svg',
-        'qtassistant.svg',
-        'QtProject-assistant.svg',
-        'io.qt.Assistant.svg',
-    ],
-    'Zoom.svg': [
-        'zoom-icon.svg',
-        'zoom-desktop.svg',
-        'us.zoom.Zoom.svg',
-    ],
-    'pavucontrol.svg': [
-        'multimedia-volume-control.svg',
-        'org.pulseaudio.pavucontrol.svg',
-    ],
-    'google-chrome.svg': [
-        'googlechrome.svg',
-        'com.google.Chrome.svg',
-        'chrome-ighkikkfkalojiibipjigpccggljgdff-Default.svg',
-        'google-chrome2.svg',
-    ],
-    'qv4l2.svg': [
-        'qvidcap.svg',
-    ],
-    'java-openjdk.svg': [
-        'java15-openjdk.svg',
-        'java19-openjdk.svg',
-        'java18-openjdk.svg',
-        'java17-openjdk.svg',
-        'java16-openjdk.svg',
-        'java20-openjdk.svg',
-        'javaws.svg',
-        'java-jdk.svg',
-        'java-1.6.0.svg',
-        'java-1.7.0.svg',
-        'java-1.8.0.svg',
-        'java9-openjdk.svg',
-        'java8-openjdk.svg',
-        'java10-openjdk.svg',
-        'java11-openjdk.svg',
-        'java12-openjdk.svg',
-        'java13-openjdk.svg',
-        'java14-openjdk.svg',
-        'java-10-openjdk.svg',
-        'java-11-openjdk.svg',
-        'java-12-openjdk.svg',
-        'java-13-openjdk.svg',
-        'java-14-openjdk.svg',
-        'java-1.8.0-openjdk.svg',
-        'sun-java-jdk5.svg',
-        'sun-java-jdk6.svg',
-        'sun-java-jdk7.svg',
-        'sun-java-jdk8.svg',
-        'sun-java-jdk9.svg',
-        'sun-java-jre8.svg',
-        'sun-java-jre10.svg',
-        'sun-java-jdk10.svg',
-        'sun-java32-jdk5.svg',
-        'sun-java32-jdk6.svg',
-        'sun-java32-jdk7.svg',
-        'sun-java32-jdk8.svg',
-        'sun-javaws-jdk6.svg',
-        'sun-javaws-jdk7.svg',
-        'sun-javaws-jdk8.svg',
-        'sun-javaws-jdk9.svg',
-        'sun-javaws-jre8.svg',
-        'sun-javaws-jdk10.svg',
-        'sun-javaws-jre10.svg',
-        'sun-javaws32-jdk6.svg',
-        'sun-javaws32-jdk7.svg',
-        'sun-javaws32-jdk8.svg',
-        'oracle_java6.svg',
-        'oracle_java7.svg',
-        'oracle_java8.svg',
-        'oracle_java9.svg',
-        'oracle-javaws.svg',
-        'applications-java.svg',
-    ],
-    'google-earth.svg': [
-        'google-earth-pro.svg',
-        'googleearth.svg',
-    ],
-    'spotify.svg': [
-        'spotify-client.svg',
-        'com.spotify.Client.svg',
-        'Spotify.svg',
-        'spotify-linux-48x48.svg',
-        'spotify-linux-512x512.svg',
-        'spotify-qt.svg',
-        'nuvolaplayer3_spotify.svg',
-        'eu.tiliado.NuvolaAppSpotify.svg',
-    ],
-    'kruler.svg': [
-        'gnome-screenruler.svg',
-        'screenruler-icon.svg',
-        'screenruler.svg',
-        'org.kde.kruler.svg',
-    ],
-    'pamac.svg': [
-        'pamac-manager.svg',
-        'pamac-updater.svg',
-    ],
-    'accessories-character-map.svg': [
-        'gnome-character-map.svg',
-    ],
-    'io.element.Element.svg': [
-        'im.riot.Riot.svg',
-        'element.svg',
-        'Element.svg',
-        'element-desktop-bin.svg',
-    ],
-    'steam-icon.svg': [
-        'com.valvesoftware.Steam.svg',
-        'steam.svg',
-        'steam-launcher.svg',
-        'steampowered.svg',
+    'libreoffice-startcenter.svg': [
+        'libreoffice-main.svg',
+        'libreoffice4.2-startcenter.svg',
+        'libreoffice5.0-main.svg',
+        'libreoffice5.0-startcenter.svg',
+        'libreoffice5.0.svg',
+        'libreoffice5.1-main.svg',
+        'libreoffice5.1-startcenter.svg',
+        'libreoffice5.1.svg',
+        'libreoffice5.2-main.svg',
+        'libreoffice5.2-startcenter.svg',
+        'libreoffice5.2.svg',
+        'libreoffice5.3-main.svg',
+        'libreoffice5.3-startcenter.svg',
+        'libreoffice5.3.svg',
+        'libreoffice5.4-main.svg',
+        'libreoffice5.4-startcenter.svg',
+        'libreoffice5.4.svg',
+        'libreoffice6.0-main.svg',
+        'libreoffice6.0-startcenter.svg',
+        'libreoffice6.0.svg',
+        'libreoffice6.2-main.svg',
+        'libreoffice6.2-startcenter.svg',
+        'libreoffice6.3-main.svg',
+        'libreoffice6.3-startcenter.svg',
+        'libreoffice6.4-main.svg',
+        'libreoffice6.4-startcenter.svg',
+        'libreoffice7.0-main.svg',
+        'libreoffice7.0-startcenter.svg',
+        'libreoffice7.1-main.svg',
+        'libreoffice7.1-startcenter.svg',
+        'libreoffice7.2-main.svg',
+        'libreoffice7.2-startcenter.svg',
+        'libreoffice7.3-main.svg',
+        'libreoffice7.3-startcenter.svg',
+        'libreoffice7.4-main.svg',
+        'libreoffice7.4-startcenter.svg',
+        'libreoffice7.5-main.svg',
+        'libreoffice7.5-startcenter.svg',
+        'org.libreoffice.LibreOffice.main.svg',
+        'org.libreoffice.LibreOffice.startcenter.svg',
     ],
     'kate.svg': [
         'kate2.svg',
         'org.kde.kate.svg',
         'org.kde.plasma.katesessions.svg',
     ],
-    'syncthing-gtk.svg': [
-        'syncthing.svg',
-        'syncthingtray.svg',
-        'me.kozec.syncthingtk.svg',
+    'QtProject-designer.svg': [
+        'io.qt.Designer.svg',
     ],
-    'shotwell.svg': [
-        'org.gnome.Shotwell.svg',
+    'nvim.svg': [
+        'io.neovim.nvim.svg',
+        'nvim-gtk.svg',
+        'nvim-qt.svg',
+        'org.daa.NeovimGtk.svg',
+        'pynvim.svg',
     ],
-    'postman.svg': [
-        'com.getpostman.Postman.svg',
+    'mpv.svg': [
+        'io.mpv.Mpv.svg',
+        'mpv-icon-8bit-64x64.svg',
     ],
-    'zotero.svg': [
-        'org.zotero.Zotero.svg',
+    'headlines.svg': [
+        'io.gitlab.caveman250.headlines.svg',
     ],
-    'nextcloud.svg': [
-        'Nextcloud.svg',
-        'org.nextcloud.Nextcloud.svg',
-        'com.nextcloud.desktopclient.nextcloud.svg',
+    'osmscout-server.svg': [
+        'io.github.rinigus.OSMScoutServer.svg',
     ],
-    'guiscrcpy.svg': [
-        'appimagekit-guiscrcpy.svg',
+    'org.inkscape.Inkscape.svg': [
+        'inkscape-logo.svg',
+        'inkscape.svg',
     ],
-    'fleet.svg': [
-        'com.jetbrains.Fleet.svg',
+    'pidgin.svg': [
+        'im.pidgin.Pidgin.svg',
     ],
-    'intellij.svg': [
-        'com.jetbrains.IntelliJ-IDEA-Ultimate.svg',
-        'com.jetbrains.IntelliJ-IDEA-Community.svg',
+    'hp_logo.svg': [
+        'hp-logo.svg',
+        'hp-toolbox.svg',
+        'hplip.svg',
+        'hplj1020_icon.svg',
     ],
-    'pycharm.svg': [
-        'com.jetbrains.PyCharm-Community.svg',
-        'com.jetbrains.PyCharm-Professional.svg',
-    ],
-    'webstorm.svg': [
-        'com.jetbrains.WebStorm.svg',
-    ],
-    'rubymine.svg': [
-        'com.jetbrains.RubyMine.svg',
-    ],
-    'phpstorm.svg': [
-        'com.jetbrains.PhpStorm.svg',
-    ],
-    'datagrip.svg': [
-        'com.jetbrains.DataGrip.svg',
-    ],
-    'goland.svg': [
-        'com.jetbrains.GoLand.svg',
-    ],
-    'rider.svg': [
-        'com.jetbrains.Rider.svg',
-    ],
-    'clion.svg': [
-        'com.jetbrains.CLion.svg',
-    ],
-    'dataspell.svg': [
-        'jetbrains-dataspell.svg',
-        'com.jetbrains.dataspell.svg',
-        'com.jetbrains.DataSpell.svg',
-    ],
-    'teams.svg': [
-        'teams-for-linux.svg',
-        'appimagekit-teams-for-linux.svg',
-        'com.microsoft.Teams.svg',
-        'com.github.IsmaelMartinez.teams_for_linux.svg',
-        'msedge-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
-        'chrome-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
-        'opera-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
-        'brave-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
-        'vivaldi-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
-    ],
-    'code-oss.svg': [
-        'com.visualstudio.code.oss.svg',
-        'com.visualstudio.code-oss.svg',
+    'pure-maps.svg': [
+        'harbour-pure-maps.svg',
+        'io.github.rinigus.PureMaps.svg',
     ],
     'vim.svg': [
         'gvim.svg',
-        'vim-qt.svg',
         'org.vim.Vim.svg',
+        'vim-qt.svg',
     ],
-    'nvim.svg': [
-        'nvim-qt.svg',
-        'nvim-gtk.svg',
-        'pynvim.svg',
-        'io.neovim.nvim.svg',
-        'org.daa.NeovimGtk.svg',
+    'google-earth.svg': [
+        'google-earth-pro.svg',
+        'googleearth.svg',
     ],
-    'scrcpy.svg': [
-        'qtscrcpy.svg',
+    'godot.svg': [
+        'godot-mono.svg',
+        'lutris_godot-engine.svg',
+        'org.godotengine.Godot.svg',
     ],
-    'krita.svg': [
-        'lutris_krita-gemini.svg',
-        'calligrakrita.svg',
-        'org.kde.krita.svg',
-        'calligrakrita2.svg',
+    'kruler.svg': [
+        'gnome-screenruler.svg',
+        'org.kde.kruler.svg',
+        'screenruler-icon.svg',
+        'screenruler.svg',
     ],
-    'androidstudio.svg': [
-        'android-studio.svg',
-        'com.google.AndroidStudio.svg',
+    'org.gnome.PowerStats.svg': [
+        'gnome-power-statistics.svg',
+        'org.gnome.powerstats.svg',
     ],
-    'insomnia.svg': [
-        'rest.insomnia.Insomnia.svg',
+    'gnome-nettool.svg': [
+        'gnome-nettools.svg',
+    ],
+    'accessories-character-map.svg': [
+        'gnome-character-map.svg',
+    ],
+    'genymotion.svg': [
+        'genymotion-bin.svg',
+        'genymotion-player.svg',
+    ],
+    'fuse-emulator.svg': [
+        'fuse.svg',
+        'net.sf.fuse_emulator.svg',
+    ],
+    'freetube.svg': [
+        'freetube-bin.svg',
+        'io.freetubeapp.FreeTube.svg',
+    ],
+    'firewall-config.svg': [
+        'firewall-applet.svg',
+    ],
+    'firefox-developer-edition.svg': [
+        'firefox-developer-icon.svg',
+        'org.mozilla.FirefoxDevEdition.svg',
+    ],
+    'firefox.svg': [
+        'firefox-beta-bin.svg',
+        'firefox-beta.svg',
+        'firefox-bin.svg',
+        'firefox-default.svg',
+        'firefox-esr.svg',
+        'firefox-gtk3.svg',
+        'firefox-icon.svg',
+        'firefox-mozilla-build.svg',
+        'firefox-original.svg',
+        'mozilla-firefox.svg',
+        'org.mozilla.Firefox.svg',
+        'org.mozilla.firefox.svg',
+    ],
+    'figma.svg': [
+        'figma-linux.svg',
+        'io.github.Figma_Linux.figma_linux.svg',
+    ],
+    'electron.svg': [
+        'electron12.svg',
+        'electron16.svg',
+        'electron17.svg',
+        'electron18.svg',
+        'electron19.svg',
+        'electron2.svg',
+        'electron20.svg',
+        'electron4.svg',
+        'electron6.svg',
+        'electron9.svg',
+        'io.atom.electron.BaseApp.svg',
     ],
     'eclipse.svg': [
+        'eclipse-cdt.svg',
+        'org.eclipse.Committers.svg',
         'org.eclipse.Java.svg',
         'org.eclipse.Javascript.svg',
-        'org.eclipse.Committers.svg',
-        'eclipse-cdt.svg',
+    ],
+    'dbeaver.svg': [
+        'dbeaver-ee.svg',
+        'io.dbeaver.DBeaverCommunity.svg',
+    ],
+    'vscodium.svg': [
+        'com.vscodium.codium.svg',
+    ],
+    'code-oss.svg': [
+        'com.visualstudio.code-oss.svg',
+        'com.visualstudio.code.oss.svg',
+    ],
+    'viber.svg': [
+        'com.viber.Viber.svg',
+    ],
+    'steam-icon.svg': [
+        'com.valvesoftware.Steam.svg',
+        'steam-launcher.svg',
+        'steam.svg',
+        'steampowered.svg',
+    ],
+    'sublime-text.svg': [
+        'com.sublimetext.three.svg',
+        'sublime-text-2.svg',
+        'sublime-text-3.svg',
+        'sublime-text2.svg',
+        'sublime.svg',
+        'sublime_text.svg',
+        'sublimetext.svg',
+    ],
+    'sublime-merge.svg': [
+        'com.sublimemerge.App.svg',
+    ],
+    'slack.svg': [
+        'com.slack.Slack.svg',
+    ],
+    'skypeforlinux.svg': [
+        'com.skype.Client.svg',
+        'ms-skype.svg',
+        'skype.svg',
+    ],
+    'rawtherapee.svg': [
+        'com.rawtherapee.RawTherapee.svg',
     ],
     'minecraft.svg': [
         'com.mojang.Minecraft.svg',
@@ -971,34 +700,308 @@ link_files = {
         'minecraft-launcher.svg',
         'minecraft-pi.svg',
     ],
-    'vscodium.svg': [
-        'com.vscodium.codium.svg',
-    ],
-    'electron.svg': [
-        'io.atom.electron.BaseApp.svg',
-        'electron2.svg',
-        'electron4.svg',
-        'electron6.svg',
-        'electron9.svg',
-        'electron12.svg',
-        'electron16.svg',
-        'electron17.svg',
-        'electron18.svg',
-        'electron19.svg',
-        'electron20.svg',
-    ],
-    'virtualbox.svg': [
-        'virtualbox-ose.svg',
-    ],
-    'pidgin.svg': [
-        'im.pidgin.Pidgin.svg',
+    'microsoft-edge.svg': [
+        'com.microsoft.Edge.svg',
     ],
     'mattermost.svg': [
-        'mattermost-desktop.svg',
-        'mattermost-desktop-bin.svg',
         'com.mattermost.Desktop.svg',
+        'mattermost-desktop-bin.svg',
+        'mattermost-desktop.svg',
     ],
-
+    'webstorm.svg': [
+        'com.jetbrains.WebStorm.svg',
+    ],
+    'rubymine.svg': [
+        'com.jetbrains.RubyMine.svg',
+    ],
+    'rider.svg': [
+        'com.jetbrains.Rider.svg',
+    ],
+    'pycharm.svg': [
+        'com.jetbrains.PyCharm-Community.svg',
+        'com.jetbrains.PyCharm-Professional.svg',
+    ],
+    'phpstorm.svg': [
+        'com.jetbrains.PhpStorm.svg',
+    ],
+    'intellij.svg': [
+        'com.jetbrains.IntelliJ-IDEA-Community.svg',
+        'com.jetbrains.IntelliJ-IDEA-Ultimate.svg',
+    ],
+    'goland.svg': [
+        'com.jetbrains.GoLand.svg',
+    ],
+    'fleet.svg': [
+        'com.jetbrains.Fleet.svg',
+    ],
+    'dataspell.svg': [
+        'com.jetbrains.DataSpell.svg',
+        'com.jetbrains.dataspell.svg',
+        'jetbrains-dataspell.svg',
+    ],
+    'datagrip.svg': [
+        'com.jetbrains.DataGrip.svg',
+    ],
+    'clion.svg': [
+        'com.jetbrains.CLion.svg',
+    ],
+    'tor-browser.svg': [
+        'com.github.micahflee.torbrowser-launcher.svg',
+        'tor-browser-en.svg',
+        'tor-browser-ru.svg',
+        'tor.svg',
+        'torbrowser.svg',
+    ],
+    'org.parlatype.Parlatype.svg': [
+        'com.github.gkarsay.parlatype.svg',
+        'parlatype.svg',
+    ],
+    'com.github.eneshecan.WhatsAppForLinux.svg': [
+        'com.gigitux.gtkwhats.svg',
+        'io.bit3.WhatsAppQT.svg',
+        'io.github.mimbrero.WhatsAppDesktop.svg',
+        'whatsapp-desktop.svg',
+        'whatsapp-for-linux.svg',
+        'whatsapp-nativefier.svg',
+        'whatsapp.svg',
+        'whatsdesk.svg',
+    ],
+    'postman.svg': [
+        'com.getpostman.Postman.svg',
+    ],
+    'mailspring.svg': [
+        'com.getmailspring.Mailspring.svg',
+    ],
+    'discord-canary.svg': [
+        'com.discordapp.DiscordCanary.svg',
+    ],
+    'discord.svg': [
+        'com.discordapp.Discord.svg',
+    ],
+    'calibre-viewer.svg': [
+        'com.calibre_ebook.calibre.ebook-viewer.svg',
+        'com.calibre_ebook.calibre.ebook_viewer.svg',
+        'com.calibre_ebook.calibre.lrfviewer.svg',
+    ],
+    'calibre-ebook-edit.svg': [
+        'com.calibre_ebook.calibre.ebook-edit.svg',
+        'com.calibre_ebook.calibre.ebook_edit.svg',
+    ],
+    'anydesk.svg': [
+        'com.anydesk.Anydesk.svg',
+    ],
+    'saber.svg': [
+        'com.adilhanney.saber.svg',
+    ],
+    'abiword.svg': [
+        'com.abisource.AbiWord.svg',
+    ],
+    'visual-studio-code.svg': [
+        'code.svg',
+        'com.visualstudio.code.svg',
+        'vscode.svg',
+    ],
+    'clamtk.svg': [
+        'clamav.svg',
+        'com.gitlab.davem.ClamTk.svg',
+    ],
+    'chromium-browser.svg': [
+        'chromium-browser-privacy.svg',
+        'chromium-freeworld.svg',
+        'chromium.svg',
+        'org.chromium.Chromium.svg',
+    ],
+    'google-chrome.svg': [
+        'chrome-ighkikkfkalojiibipjigpccggljgdff-Default.svg',
+        'com.google.Chrome.svg',
+        'google-chrome2.svg',
+        'googlechrome.svg',
+    ],
+    'facebook-messenger.svg': [
+        'caprine.svg',
+        'com.sindresorhus.Caprine.svg',
+    ],
+    'krita.svg': [
+        'calligrakrita.svg',
+        'calligrakrita2.svg',
+        'lutris_krita-gemini.svg',
+        'org.kde.krita.svg',
+    ],
+    'calibre.svg': [
+        'calibre-gui.svg',
+        'com.calibre_ebook.calibre.svg',
+    ],
+    'brave-desktop.svg': [
+        'brave-browser.svg',
+    ],
+    'xsane.svg': [
+        'blueman-scanner.svg',
+        'com.hamrick.VueScan.svg',
+        'deepin-scanner.svg',
+        'gscan2pdf.svg',
+        'vuescan.svg',
+        'yast-scanner.svg',
+    ],
+    'btop.svg': [
+        'bashtop.svg',
+    ],
+    'java-openjdk.svg': [
+        'applications-java.svg',
+        'java-1.6.0.svg',
+        'java-1.7.0.svg',
+        'java-1.8.0-openjdk.svg',
+        'java-1.8.0.svg',
+        'java-10-openjdk.svg',
+        'java-11-openjdk.svg',
+        'java-12-openjdk.svg',
+        'java-13-openjdk.svg',
+        'java-14-openjdk.svg',
+        'java-jdk.svg',
+        'java10-openjdk.svg',
+        'java11-openjdk.svg',
+        'java12-openjdk.svg',
+        'java13-openjdk.svg',
+        'java14-openjdk.svg',
+        'java15-openjdk.svg',
+        'java16-openjdk.svg',
+        'java17-openjdk.svg',
+        'java18-openjdk.svg',
+        'java19-openjdk.svg',
+        'java20-openjdk.svg',
+        'java8-openjdk.svg',
+        'java9-openjdk.svg',
+        'javaws.svg',
+        'oracle-javaws.svg',
+        'oracle_java6.svg',
+        'oracle_java7.svg',
+        'oracle_java8.svg',
+        'oracle_java9.svg',
+        'sun-java-jdk10.svg',
+        'sun-java-jdk5.svg',
+        'sun-java-jdk6.svg',
+        'sun-java-jdk7.svg',
+        'sun-java-jdk8.svg',
+        'sun-java-jdk9.svg',
+        'sun-java-jre10.svg',
+        'sun-java-jre8.svg',
+        'sun-java32-jdk5.svg',
+        'sun-java32-jdk6.svg',
+        'sun-java32-jdk7.svg',
+        'sun-java32-jdk8.svg',
+        'sun-javaws-jdk10.svg',
+        'sun-javaws-jdk6.svg',
+        'sun-javaws-jdk7.svg',
+        'sun-javaws-jdk8.svg',
+        'sun-javaws-jdk9.svg',
+        'sun-javaws-jre10.svg',
+        'sun-javaws-jre8.svg',
+        'sun-javaws32-jdk6.svg',
+        'sun-javaws32-jdk7.svg',
+        'sun-javaws32-jdk8.svg',
+    ],
+    'teams.svg': [
+        'appimagekit-teams-for-linux.svg',
+        'brave-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
+        'chrome-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
+        'com.github.IsmaelMartinez.teams_for_linux.svg',
+        'com.microsoft.Teams.svg',
+        'msedge-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
+        'opera-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
+        'teams-for-linux.svg',
+        'vivaldi-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
+    ],
+    'standard-notes.svg': [
+        'appimagekit-standard-notes.svg',
+        'org.standardnotes.standardnotes.svg',
+    ],
+    'freac.svg': [
+        'appimagekit-org.freac.freac.svg',
+        'org.freac.freac.svg',
+    ],
+    'guiscrcpy.svg': [
+        'appimagekit-guiscrcpy.svg',
+    ],
+    'github-desktop.svg': [
+        'appimagekit-github-desktop.svg',
+        'io.github.shiftey.Desktop.svg',
+    ],
+    'bitwarden.svg': [
+        'appimagekit-bitwarden.svg',
+        'com.bitwarden.desktop.svg',
+    ],
+    'etcher.svg': [
+        'appimagekit-balena-etcher-electron.svg',
+        'balena-etcher-electron.svg',
+        'etcher-electron.svg',
+    ],
+    'androidstudio.svg': [
+        'android-studio.svg',
+        'com.google.AndroidStudio.svg',
+    ],
+    'android-studio-canary.svg': [
+        'android-studio-beta.svg',
+        'androidstudio-preview.svg',
+    ],
+    'spotify.svg': [
+        'Spotify.svg',
+        'com.spotify.Client.svg',
+        'eu.tiliado.NuvolaAppSpotify.svg',
+        'nuvolaplayer3_spotify.svg',
+        'spotify-client.svg',
+        'spotify-linux-48x48.svg',
+        'spotify-linux-512x512.svg',
+        'spotify-qt.svg',
+    ],
+    'qdbusviewer.svg': [
+        'QtProject-qdbusviewer.svg',
+        'io.qt.Qdbusviewer.svg',
+        'qdbusviewer-qt4.svg',
+        'qdbusviewer-qt5.svg',
+        'qdbusviewer5.svg',
+        'qtdbusviewer.svg',
+    ],
+    'linguist.svg': [
+        'QtProject-linguist.svg',
+        'io.qt.Linguist.svg',
+        'linguist-qt4.svg',
+        'linguist-qt5.svg',
+        'linguist5.svg',
+        'qtlinguist.svg',
+    ],
+    'assistant.svg': [
+        'QtProject-assistant.svg',
+        'assistant-qt4.svg',
+        'assistant-qt5.svg',
+        'assistant5.svg',
+        'io.qt.Assistant.svg',
+        'qtassistant.svg',
+    ],
+    'nextcloud.svg': [
+        'Nextcloud.svg',
+        'com.nextcloud.desktopclient.nextcloud.svg',
+        'org.nextcloud.Nextcloud.svg',
+    ],
+    'io.element.Element.svg': [
+        'Element.svg',
+        'element-desktop-bin.svg',
+        'element.svg',
+        'im.riot.Riot.svg',
+    ],
+    'CMakeSetup.svg': [
+        'CMakeSetup32.svg',
+        'cmake-gui.svg',
+        'cmake.svg',
+    ],
+    'blender.svg': [
+        'Blender.svg',
+        'lutris_blender.svg',
+        'org.blender.Blender.svg',
+    ],
+    'alacritty.svg': [
+        'Alacritty.svg',
+        'com.alacritty.Alacritty.svg',
+    ],
+    # DO NOT REMOVE: End of link segment
 }
 
 install_data(regular_files, install_dir: scalable_apps_iconsdir)
