@@ -112,6 +112,7 @@ regular_files = [
     'micro.svg',
     'microsoft-edge.svg',
     'minecraft.svg',
+    'mockoon.svg',
     'mpv.svg',
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',

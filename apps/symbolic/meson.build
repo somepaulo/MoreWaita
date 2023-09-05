@@ -98,6 +98,7 @@ regular_files = [
     'micro-symbolic.svg',
     'microsoft-edge-symbolic.svg',
     'minecraft-symbolic.svg',
+    'mockoon-symbolic.svg',
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
     'nextcloud-symbolic.svg',
