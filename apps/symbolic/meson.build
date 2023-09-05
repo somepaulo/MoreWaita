@@ -160,6 +160,7 @@ regular_files = [
     'thunderbird-symbolic.svg',
     'todoist-symbolic.svg',
     'tor-browser-symbolic.svg',
+    'unityhub-symbolic.svg',
     'viber-symbolic.svg',
     'vim-symbolic.svg',
     'virt-manager-symbolic.svg',
@@ -173,6 +174,7 @@ regular_files = [
     'windscribe-symbolic.svg',
     'xdvi-symbolic.svg',
     'xsane-symbolic.svg',
+    'yuzu-symbolic.svg',
     'zotero-symbolic.svg',
     'zrythm-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
@@ -867,6 +869,18 @@ link_files = {
         'sun-javaws32-jdk6-symbolic.svg',
         'sun-javaws32-jdk7-symbolic.svg',
         'sun-javaws32-jdk8-symbolic.svg',
+    ],
+    'yuzu-symbolic.svg': [
+        'appimagekit-yuzu-symbolic.svg',
+        'org.yuzu_emu.yuzu-symbolic.svg',
+    ],
+    'unityhub-symbolic.svg': [
+        'appimagekit-unityeditor-symbolic.svg',
+        'appimagekit-unityhub-symbolic.svg',
+        'com.unityhub.UnityEditor-symbolic.svg',
+        'com.unityhub.UnityHub-symbolic.svg',
+        'unity-editor-icon-symbolic.svg',
+        'unityeditor-symbolic.svg',
     ],
     'teams-symbolic.svg': [
         'appimagekit-teams-for-linux-symbolic.svg',

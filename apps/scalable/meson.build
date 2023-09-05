@@ -180,6 +180,8 @@ regular_files = [
     'thunderbird.svg',
     'todoist.svg',
     'tor-browser.svg',
+    'unity-editor-icon.svg',
+    'unityhub.svg',
     'viber.svg',
     'vim.svg',
     'virt-manager.svg',
@@ -193,6 +195,7 @@ regular_files = [
     'windscribe.svg',
     'xdvi.svg',
     'xsane.svg',
+    'yuzu.svg',
     'zotero.svg',
     'zrythm.svg',
     # DO NOT REMOVE: End of regular segment
@@ -919,6 +922,19 @@ link_files = {
         'sun-javaws32-jdk6.svg',
         'sun-javaws32-jdk7.svg',
         'sun-javaws32-jdk8.svg',
+    ],
+    'yuzu.svg': [
+        'appimagekit-yuzu.svg',
+        'org.yuzu_emu.yuzu.svg',
+    ],
+    'unityhub.svg': [
+        'appimagekit-unityhub.svg',
+        'com.unityhub.UnityHub.svg',
+    ],
+    'unity-editor-icon.svg': [
+        'appimagekit-unityeditor.svg',
+        'com.unityhub.UnityEditor.svg',
+        'unityeditor.svg',
     ],
     'teams.svg': [
         'appimagekit-teams-for-linux.svg',
