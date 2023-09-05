@@ -14,6 +14,7 @@ regular_files = [
     'atomix-symbolic.svg',
     'audacity-symbolic.svg',
     'bitwarden-symbolic.svg',
+    'bitwig-studio-symbolic.svg',
     'bleachbit-symbolic.svg',
     'blender-symbolic.svg',
     'brave-desktop-symbolic.svg',
@@ -751,6 +752,9 @@ link_files = {
     ],
     'discord-canary-symbolic.svg': [
         'com.discordapp.DiscordCanary-symbolic.svg',
+    ],
+    'bitwig-studio-symbolic.svg': [
+        'com.bitwig.BitwigStudio-symbolic.svg',
     ],
     'anydesk-symbolic.svg': [
         'com.anydesk.Anydesk-symbolic.svg',

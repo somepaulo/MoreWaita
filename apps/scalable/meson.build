@@ -16,6 +16,7 @@ regular_files = [
     'atomix.svg',
     'audacity.svg',
     'bitwarden.svg',
+    'bitwig-studio.svg',
     'bleachbit.svg',
     'blender.svg',
     'brave-desktop.svg',
@@ -808,6 +809,9 @@ link_files = {
     'calibre-ebook-edit.svg': [
         'com.calibre_ebook.calibre.ebook-edit.svg',
         'com.calibre_ebook.calibre.ebook_edit.svg',
+    ],
+    'bitwig-studio.svg': [
+        'com.bitwig.BitwigStudio.svg',
     ],
     'anydesk.svg': [
         'com.anydesk.Anydesk.svg',
