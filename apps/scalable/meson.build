@@ -123,6 +123,7 @@ regular_files = [
     'nufraw.svg',
     'nvidia.svg',
     'nvim.svg',
+    'obsidian.svg',
     'one.alynx.showmethekey.svg',
     'onetagger.svg',
     'openra-cnc.svg',
@@ -959,6 +960,10 @@ link_files = {
     'freac.svg': [
         'appimagekit-org.freac.freac.svg',
         'org.freac.freac.svg',
+    ],
+    'obsidian.svg': [
+        'appimagekit-obsidian.svg',
+        'md.obsidian.Obsidian.svg',
     ],
     'heroic.svg': [
         'appimagekit-heroic.svg',

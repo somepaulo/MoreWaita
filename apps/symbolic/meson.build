@@ -107,6 +107,7 @@ regular_files = [
     'nufraw-symbolic.svg',
     'nvidia-symbolic.svg',
     'nvim-symbolic.svg',
+    'obsidian-symbolic.svg',
     'one.alynx.showmethekey-symbolic.svg',
     'onetagger-symbolic.svg',
     'openra-cnc-symbolic.svg',
@@ -905,6 +906,10 @@ link_files = {
     'freac-symbolic.svg': [
         'appimagekit-org.freac.freac-symbolic.svg',
         'org.freac.freac-symbolic.svg',
+    ],
+    'obsidian-symbolic.svg': [
+        'appimagekit-obsidian-symbolic.svg',
+        'md.obsidian.Obsidian-symbolic.svg',
     ],
     'heroic-symbolic.svg': [
         'appimagekit-heroic-symbolic.svg',
