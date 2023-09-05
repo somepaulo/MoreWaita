@@ -1,12 +1,15 @@
 scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
 
 regular_files = [
+<<<<<<< Updated upstream
     # DO NOT REMOVE: Begining of regular segment
     'folder-books-legacy.svg',
     'folder-books.svg',
     'folder-c-legacy.svg',
     'folder-c.svg',
     'folder-code-legacy.svg',
+=======
+>>>>>>> Stashed changes
     'folder-code.svg',
     'folder-cplusplus-legacy.svg',
     'folder-cplusplus.svg',

@@ -22,7 +22,7 @@
        id="stop2"
        style="stop-color:#50789b;stop-opacity:1;" />
     <stop
-       offset="0.0686186"
+       offset="0.05"
        stop-color="#75aadb"
        id="stop4" />
     <stop
@@ -36,7 +36,7 @@
        id="stop8"
        style="stop-color:#50789b;stop-opacity:1;" />
     <stop
-       offset="0.928503"
+       offset="0.94999999"
        stop-color="#75aadb"
        id="stop10" />
     <stop
