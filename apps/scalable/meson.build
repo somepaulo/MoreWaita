@@ -32,12 +32,14 @@ regular_files = [
     'code-oss.svg',
     'com.github.eneshecan.WhatsAppForLinux.svg',
     'com.obsproject.Studio.svg',
+    'com.tonikelope.MegaBasterd.svg',
     'corectrl.svg',
     'cups.svg',
     'darktable.svg',
     'datagrip.svg',
     'dataspell.svg',
     'dbeaver.svg',
+    'dev.bsnes.bsnes.svg',
     'discord-canary.svg',
     'discord.svg',
     'eclipse.svg',
@@ -111,6 +113,7 @@ regular_files = [
     'microsoft-edge.svg',
     'minecraft.svg',
     'mpv.svg',
+    'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',
     'network-wired.svg',
     'nextcloud.svg',
@@ -123,6 +126,7 @@ regular_files = [
     'openra-d2k.svg',
     'openra-ra.svg',
     'opera.svg',
+    'org.DolphinEmu.dolphin-emu.svg',
     'org.gnome.PowerStats.svg',
     'org.inkscape.Inkscape.svg',
     'org.onlyoffice.desktopeditors.svg',
@@ -325,6 +329,9 @@ link_files = {
     'audacity.svg': [
         'org.audacityteam.Audacity.svg',
     ],
+    'org.onlyoffice.desktopeditors.svg': [
+        'onlyoffice-desktopeditors.svg',
+    ],
     'com.obsproject.Studio.svg': [
         'obs.svg',
     ],
@@ -355,6 +362,9 @@ link_files = {
     'pavucontrol.svg': [
         'multimedia-volume-control.svg',
         'org.pulseaudio.pavucontrol.svg',
+    ],
+    'com.tonikelope.MegaBasterd.svg': [
+        'megabasterd.svg',
     ],
     'syncthing-gtk.svg': [
         'me.kozec.syncthingtk.svg',
@@ -832,6 +842,9 @@ link_files = {
     'calibre.svg': [
         'calibre-gui.svg',
         'com.calibre_ebook.calibre.svg',
+    ],
+    'dev.bsnes.bsnes.svg': [
+        'bsnes.svg',
     ],
     'brave-desktop.svg': [
         'brave-browser.svg',

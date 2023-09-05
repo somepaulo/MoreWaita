@@ -26,12 +26,14 @@ regular_files = [
     'code-oss-symbolic.svg',
     'com.github.eneshecan.WhatsAppForLinux-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
+    'com.tonikelope.MegaBasterd-symbolic.svg',
     'corectrl-symbolic.svg',
     'cups-symbolic.svg',
     'darktable-symbolic.svg',
     'datagrip-symbolic.svg',
     'dataspell-symbolic.svg',
     'dbeaver-symbolic.svg',
+    'dev.bsnes.bsnes-symbolic.svg',
     'discord-symbolic.svg',
     'eclipse-symbolic.svg',
     'electron-symbolic.svg',
@@ -96,6 +98,7 @@ regular_files = [
     'micro-symbolic.svg',
     'microsoft-edge-symbolic.svg',
     'minecraft-symbolic.svg',
+    'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
     'nextcloud-symbolic.svg',
     'nufraw-symbolic.svg',
@@ -107,6 +110,7 @@ regular_files = [
     'openra-d2k-symbolic.svg',
     'openra-ra-symbolic.svg',
     'opera-symbolic.svg',
+    'org.DolphinEmu.dolphin-emu-symbolic.svg',
     'org.inkscape.Inkscape-symbolic.svg',
     'org.onlyoffice.desktopeditors-symbolic.svg',
     'osmscout-server-symbolic.svg',
@@ -301,6 +305,9 @@ link_files = {
     'audacity-symbolic.svg': [
         'org.audacityteam.Audacity-symbolic.svg',
     ],
+    'org.onlyoffice.desktopeditors-symbolic.svg': [
+        'onlyoffice-desktopeditors-symbolic.svg',
+    ],
     'postman-symbolic.svg': [
         'om.getpostman.Postman-symbolic.svg',
     ],
@@ -330,6 +337,9 @@ link_files = {
     ],
     'mediainfo-symbolic.svg': [
         'net.mediaarea.MediaInfo-symbolic.svg',
+    ],
+    'com.tonikelope.MegaBasterd-symbolic.svg': [
+        'megabasterd-symbolic.svg',
     ],
     'syncthing-gtk-symbolic.svg': [
         'me.kozec.syncthingtk-symbolic.svg',
@@ -783,6 +793,9 @@ link_files = {
         'com.calibre_ebook.calibre.ebook_edit-symbolic.svg',
         'com.calibre_ebook.calibre.ebook_viewer-symbolic.svg',
         'com.calibre_ebook.calibre.lrfviewer-symbolic.svg',
+    ],
+    'dev.bsnes.bsnes-symbolic.svg': [
+        'bsnes-symbolic.svg',
     ],
     'brave-desktop-symbolic.svg': [
         'brave-browser-symbolic.svg',

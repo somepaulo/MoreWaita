@@ -37,7 +37,7 @@ regular files and groups of link files for the directory containing the changes.
 
 ```sh
 $ ./_dev/dump_regulars.sh apps/scalable/ # mind the trainling slash, it's required
-$ ./_dev/dump_groups.sh apps/scalable # trailing slash is not required here
+$ ./_dev/dump_groups.py apps/scalable # trailing slash is not required here
 ```
 
 The output of these commands needs to be put into the array of regular files and dictionary of link
