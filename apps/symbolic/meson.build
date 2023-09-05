@@ -157,6 +157,7 @@ regular_files = [
     'telegram-symbolic.svg',
     'texstudio-symbolic.svg',
     'thunderbird-symbolic.svg',
+    'todoist-symbolic.svg',
     'tor-browser-symbolic.svg',
     'viber-symbolic.svg',
     'vim-symbolic.svg',
@@ -648,6 +649,10 @@ link_files = {
         'steam-launcher-symbolic.svg',
         'steam-symbolic.svg',
         'steampowered-symbolic.svg',
+    ],
+    'todoist-symbolic.svg': [
+        'com.todoist.Todoist-symbolic.svg',
+        'goa-account-todoist-symbolic.svg',
     ],
     'sublime-text-symbolic.svg': [
         'com.sublimetext.three-symbolic.svg',

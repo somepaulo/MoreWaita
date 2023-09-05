@@ -177,6 +177,7 @@ regular_files = [
     'telegram.svg',
     'texstudio.svg',
     'thunderbird.svg',
+    'todoist.svg',
     'tor-browser.svg',
     'viber.svg',
     'vim.svg',
@@ -682,6 +683,10 @@ link_files = {
         'steam-launcher.svg',
         'steam.svg',
         'steampowered.svg',
+    ],
+    'todoist.svg': [
+        'com.todoist.Todoist.svg',
+        'goa-account-todoist.svg',
     ],
     'sublime-text.svg': [
         'com.sublimetext.three.svg',
