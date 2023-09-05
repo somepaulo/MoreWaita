@@ -13,6 +13,8 @@ regular_files = [
     'firewall-applet-error.svg',
     'firewall-applet-panic.svg',
     'jdownloader-indicator.svg',
+    'keepassxc-locked.svg',
+    'keepassxc-unlocked.svg',
     'pamac-tray-no-update.svg',
     'pamac-tray-update.svg',
     'protonvpn-tray.svg',
@@ -66,6 +68,12 @@ link_files = {
     'user-available.svg': [
         'pidgin-tray-available.svg',
         'pidgin-tray-connect.svg',
+    ],
+    'keepassxc-unlocked.svg': [
+        'org.keepassxc.KeePassXC-unlocked.svg',
+    ],
+    'keepassxc-locked.svg': [
+        'org.keepassxc.KeePassXC-locked.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

@@ -134,7 +134,6 @@ regular_files = [
     'org.DolphinEmu.dolphin-emu.svg',
     'org.gnome.PowerStats.svg',
     'org.inkscape.Inkscape.svg',
-    'org.keepassxc.KeePassXC.svg',
     'org.onlyoffice.desktopeditors.svg',
     'org.parlatype.Parlatype.svg',
     'osmscout-server.svg',
@@ -308,6 +307,9 @@ link_files = {
     'pacseek.svg': [
         'org.moson.Pacseek.svg',
         'org.moson.pacseek.svg',
+    ],
+    'keepassxc.svg': [
+        'org.keepassxc.KeePassXC.svg',
     ],
     'kdenlive.svg': [
         'org.kde.kdenlive.svg',

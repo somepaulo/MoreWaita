@@ -117,7 +117,6 @@ regular_files = [
     'opera-symbolic.svg',
     'org.DolphinEmu.dolphin-emu-symbolic.svg',
     'org.inkscape.Inkscape-symbolic.svg',
-    'org.keepassxc.KeePassXC-symbolic.svg',
     'org.onlyoffice.desktopeditors-symbolic.svg',
     'osmscout-server-symbolic.svg',
     'pacseek-symbolic.svg',
@@ -283,6 +282,9 @@ link_files = {
     'pacseek-symbolic.svg': [
         'org.moson.Pacseek-symbolic.svg',
         'org.moson.pacseek-symbolic.svg',
+    ],
+    'keepassxc-symbolic.svg': [
+        'org.keepassxc.KeePassXC-symbolic.svg',
     ],
     'kdenlive-symbolic.svg': [
         'org.kde.kdenlive-symbolic.svg',
