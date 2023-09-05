@@ -79,6 +79,7 @@ regular_files = [
     'guiscrcpy.svg',
     'hardinfo.svg',
     'headlines.svg',
+    'heroic.svg',
     'hp_logo.svg',
     'htop.svg',
     'hwloc.svg',
@@ -954,6 +955,10 @@ link_files = {
     'freac.svg': [
         'appimagekit-org.freac.freac.svg',
         'org.freac.freac.svg',
+    ],
+    'heroic.svg': [
+        'appimagekit-heroic.svg',
+        'com.heroicgameslauncher.hgl.svg',
     ],
     'guiscrcpy.svg': [
         'appimagekit-guiscrcpy.svg',

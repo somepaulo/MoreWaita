@@ -68,6 +68,7 @@ regular_files = [
     'gufw-symbolic.svg',
     'hardinfo-symbolic.svg',
     'headlines-symbolic.svg',
+    'heroic-symbolic.svg',
     'hp_logo-symbolic.svg',
     'htop-symbolic.svg',
     'insomnia-symbolic.svg',
@@ -900,6 +901,10 @@ link_files = {
     'freac-symbolic.svg': [
         'appimagekit-org.freac.freac-symbolic.svg',
         'org.freac.freac-symbolic.svg',
+    ],
+    'heroic-symbolic.svg': [
+        'appimagekit-heroic-symbolic.svg',
+        'com.heroicgameslauncher.hgl-symbolic.svg',
     ],
     'scrcpy-symbolic.svg': [
         'appimagekit-guiscrcpy-symbolic.svg',
