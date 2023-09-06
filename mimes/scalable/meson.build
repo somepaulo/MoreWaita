@@ -48,6 +48,8 @@ regular_files = [
     'text-x-meson.svg',
     'text-x-patch.svg',
     'text-x-python.svg',
+    'text-x-r-markdown.svg',
+    'text-x-r.svg',
     'text-x-ruby.svg',
     'text-x-script.svg',
     'text-x-sql.svg',
@@ -131,6 +133,10 @@ link_files = {
     'text-x-ruby.svg': [
         'application-x-ruby.svg',
         'text-ruby.svg',
+    ],
+    'text-x-r.svg': [
+        'application-x-rdata.svg',
+        'text-x-r-source.svg',
     ],
     'text-x-script.svg': [
         'application-x-ptoptimizer-script.svg',

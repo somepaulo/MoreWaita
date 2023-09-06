@@ -25,6 +25,7 @@ regular_files = [
     'folder-projects-legacy-symbolic.svg',
     'folder-projects-symbolic.svg',
     'folder-python-symbolic.svg',
+    'folder-r-symbolic.svg',
     'folder-ruby-symbolic.svg',
     'folder-rust-symbolic.svg',
     'folder-syncthing-legacy-symbolic.svg',
