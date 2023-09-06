@@ -10,45 +10,6 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs290">
-    <pattern
-       xlink:href="#red-stripes"
-       id="pattern1870"
-       patternTransform="matrix(0.87499998,0,0,0.87499998,42.5625,25)" />
-    <pattern
-       id="red-stripes"
-       width="341"
-       height="90"
-       patternUnits="userSpaceOnUse">
-      <rect
-         width="341"
-         height="16"
-         fill="#f00"
-         id="rect2" />
-      <rect
-         y="16"
-         width="341"
-         height="16"
-         fill="#d70000"
-         id="rect4" />
-      <rect
-         y="32"
-         width="341"
-         height="16"
-         fill="#af0000"
-         id="rect6" />
-      <rect
-         y="48"
-         width="341"
-         height="16"
-         fill="#870000"
-         id="rect8" />
-      <rect
-         y="64"
-         width="341"
-         height="16"
-         fill="#5f0000"
-         id="rect10" />
-    </pattern>
     <linearGradient
        id="aj"
        x1="42.304001"
@@ -79,13 +40,13 @@
     </linearGradient>
     <filter
        id="f"
-       x="-0.06396258"
-       y="-0.025050849"
-       width="1.1279252"
-       height="1.0501017"
+       x="-7.5642075e-06"
+       y="-2.9625105e-06"
+       width="1.0000151"
+       height="1.0000059"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
-         stdDeviation="0.072789412"
+         stdDeviation="8.6080679e-06"
          id="feGaussianBlur12" />
     </filter>
     <linearGradient
@@ -118,13 +79,13 @@
     </linearGradient>
     <filter
        id="l"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
+       x="-1.1660099e-05"
+       y="-2.9445232e-06"
+       width="1.0000233"
+       height="1.0000059"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
-         stdDeviation="0.065909587"
+         stdDeviation="8.6080679e-06"
          id="feGaussianBlur25" />
     </filter>
     <linearGradient
@@ -138,13 +99,13 @@
        xlink:href="#c" />
     <filter
        id="e"
-       x="-0.063963048"
-       y="-0.025049412"
-       width="1.1279261"
-       height="1.0500988"
+       x="-7.5642629e-06"
+       y="-2.9623406e-06"
+       width="1.0000151"
+       height="1.0000059"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
-         stdDeviation="0.072789412"
+         stdDeviation="8.6080679e-06"
          id="feGaussianBlur29" />
     </filter>
     <linearGradient
@@ -158,13 +119,13 @@
        xlink:href="#a-3" />
     <filter
        id="k"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
+       x="-1.1660099e-05"
+       y="-2.9445232e-06"
+       width="1.0000233"
+       height="1.0000059"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
-         stdDeviation="0.065909587"
+         stdDeviation="8.6080679e-06"
          id="feGaussianBlur33" />
     </filter>
     <linearGradient
@@ -178,13 +139,13 @@
        xlink:href="#a-3" />
     <filter
        id="j"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
+       x="-1.1660099e-05"
+       y="-2.9445232e-06"
+       width="1.0000233"
+       height="1.0000059"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
-         stdDeviation="0.065909587"
+         stdDeviation="8.6080679e-06"
          id="feGaussianBlur37" />
     </filter>
     <linearGradient
@@ -198,13 +159,13 @@
        xlink:href="#a-3" />
     <filter
        id="am"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
-         stdDeviation="0.065909587"
+         stdDeviation="2.3832251e-06"
          id="feGaussianBlur41" />
     </filter>
     <linearGradient
@@ -218,13 +179,13 @@
        xlink:href="#a-3" />
     <filter
        id="al"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
-         stdDeviation="0.065909587"
+         stdDeviation="2.3832251e-06"
          id="feGaussianBlur45" />
     </filter>
     <linearGradient
@@ -238,13 +199,13 @@
        xlink:href="#a-3" />
     <filter
        id="ak"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
-         stdDeviation="0.065909587"
+         stdDeviation="2.3832251e-06"
          id="feGaussianBlur49" />
     </filter>
     <linearGradient
@@ -258,13 +219,13 @@
        xlink:href="#a-3" />
     <filter
        id="i"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
-         stdDeviation="0.065909587"
+         stdDeviation="2.3832251e-06"
          id="feGaussianBlur53" />
     </filter>
     <linearGradient
@@ -297,13 +258,13 @@
     </linearGradient>
     <filter
        id="h"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
+       x="-1.1660099e-05"
+       y="-2.9445232e-06"
+       width="1.0000233"
+       height="1.0000059"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
-         stdDeviation="0.065909587"
+         stdDeviation="8.6080679e-06"
          id="feGaussianBlur66" />
     </filter>
     <linearGradient
@@ -317,13 +278,13 @@
        xlink:href="#b-6" />
     <filter
        id="g"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
+       x="-1.1660099e-05"
+       y="-2.9445232e-06"
+       width="1.0000233"
+       height="1.0000059"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
-         stdDeviation="0.065909587"
+         stdDeviation="8.6080679e-06"
          id="feGaussianBlur70" />
     </filter>
     <linearGradient
@@ -335,17 +296,6 @@
        gradientTransform="translate(41.404,210.02)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#c" />
-    <filter
-       id="filter669"
-       x="-0.063962579"
-       y="-0.025050849"
-       width="1.1279252"
-       height="1.0501018"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.072789412"
-         id="feGaussianBlur667" />
-    </filter>
     <linearGradient
        id="y"
        x1="44.761002"
@@ -355,28 +305,6 @@
        gradientTransform="translate(41.508,210)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#a-3" />
-    <filter
-       id="filter684"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur682" />
-    </filter>
-    <filter
-       id="filter700"
-       x="-0.063963048"
-       y="-0.025049413"
-       width="1.1279261"
-       height="1.0500988"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.072789412"
-         id="feGaussianBlur698" />
-    </filter>
     <linearGradient
        id="x"
        x1="44.761002"
@@ -386,17 +314,6 @@
        gradientTransform="translate(44.242,210)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#a-3" />
-    <filter
-       id="filter715"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur713" />
-    </filter>
     <linearGradient
        id="w"
        x1="44.761002"
@@ -406,17 +323,6 @@
        gradientTransform="translate(46.976,210)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#a-3" />
-    <filter
-       id="filter730"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur728" />
-    </filter>
     <linearGradient
        id="v"
        x1="44.761002"
@@ -426,17 +332,6 @@
        gradientTransform="translate(57.91,210)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#a-3" />
-    <filter
-       id="filter745"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur743" />
-    </filter>
     <linearGradient
        id="u"
        x1="44.761002"
@@ -446,17 +341,6 @@
        gradientTransform="translate(63.376,210)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#b-6" />
-    <filter
-       id="filter760"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur758" />
-    </filter>
     <linearGradient
        id="t"
        x1="42.304001"
@@ -466,17 +350,6 @@
        gradientTransform="translate(41.404,232.87)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#c" />
-    <filter
-       id="filter775"
-       x="-0.063962579"
-       y="-0.025050849"
-       width="1.1279252"
-       height="1.0501018"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.072789412"
-         id="feGaussianBlur773" />
-    </filter>
     <linearGradient
        id="s"
        x1="44.761002"
@@ -486,28 +359,6 @@
        gradientTransform="translate(41.508,232.85)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#a-3" />
-    <filter
-       id="filter790"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur788" />
-    </filter>
-    <filter
-       id="filter806"
-       x="-0.063963048"
-       y="-0.025049413"
-       width="1.1279261"
-       height="1.0500988"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.072789412"
-         id="feGaussianBlur804" />
-    </filter>
     <linearGradient
        id="r"
        x1="44.761002"
@@ -517,17 +368,6 @@
        gradientTransform="translate(44.242,232.85)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#a-3" />
-    <filter
-       id="filter821"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur819" />
-    </filter>
     <linearGradient
        id="q"
        x1="44.761002"
@@ -537,17 +377,6 @@
        gradientTransform="translate(46.976,232.85)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#a-3" />
-    <filter
-       id="filter836"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur834" />
-    </filter>
     <linearGradient
        id="p"
        x1="44.761002"
@@ -557,17 +386,6 @@
        gradientTransform="translate(60.644,232.85)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#b-6" />
-    <filter
-       id="filter851"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur849" />
-    </filter>
     <linearGradient
        id="o"
        x1="44.761002"
@@ -577,17 +395,6 @@
        gradientTransform="translate(63.376,232.85)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#b-6" />
-    <filter
-       id="filter866"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur864" />
-    </filter>
     <linearGradient
        id="n"
        x1="44.761002"
@@ -597,17 +404,6 @@
        gradientTransform="translate(57.91,232.85)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#b-6" />
-    <filter
-       id="filter881"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur879" />
-    </filter>
     <linearGradient
        id="m"
        x1="44.761002"
@@ -617,314 +413,6 @@
        gradientTransform="translate(60.644,210)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#a-3" />
-    <filter
-       id="filter896"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur894" />
-    </filter>
-    <filter
-       id="f-3"
-       x="-0.06396258"
-       y="-0.025050849"
-       width="1.1279252"
-       height="1.0501017"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.072789412"
-         id="feGaussianBlur12-5" />
-    </filter>
-    <filter
-       id="l-7"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur25-0" />
-    </filter>
-    <filter
-       id="e-9"
-       x="-0.063963048"
-       y="-0.025049412"
-       width="1.1279261"
-       height="1.0500988"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.072789412"
-         id="feGaussianBlur29-3" />
-    </filter>
-    <filter
-       id="k-6"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur33-0" />
-    </filter>
-    <filter
-       id="j-6"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur37-2" />
-    </filter>
-    <filter
-       id="am-6"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur41-1" />
-    </filter>
-    <filter
-       id="al-8"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur45-7" />
-    </filter>
-    <filter
-       id="ak-9"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur49-2" />
-    </filter>
-    <filter
-       id="i-0"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur53-2" />
-    </filter>
-    <filter
-       id="h-2"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur66-8" />
-    </filter>
-    <filter
-       id="g-9"
-       x="-0.08927814"
-       y="-0.022545396"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur70-7" />
-    </filter>
-    <filter
-       id="filter757"
-       x="-0.063962579"
-       y="-0.025050849"
-       width="1.1279252"
-       height="1.0501018"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.072789412"
-         id="feGaussianBlur755" />
-    </filter>
-    <filter
-       id="filter772"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur770" />
-    </filter>
-    <filter
-       id="filter788"
-       x="-0.063963048"
-       y="-0.025049413"
-       width="1.1279261"
-       height="1.0500988"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.072789412"
-         id="feGaussianBlur786" />
-    </filter>
-    <filter
-       id="filter803"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur801" />
-    </filter>
-    <filter
-       id="filter818"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur816" />
-    </filter>
-    <filter
-       id="filter833"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur831" />
-    </filter>
-    <filter
-       id="filter848"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur846" />
-    </filter>
-    <filter
-       id="filter863"
-       x="-0.063962579"
-       y="-0.025050849"
-       width="1.1279252"
-       height="1.0501018"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.072789412"
-         id="feGaussianBlur861" />
-    </filter>
-    <filter
-       id="filter878"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur876" />
-    </filter>
-    <filter
-       id="filter894"
-       x="-0.063963048"
-       y="-0.025049413"
-       width="1.1279261"
-       height="1.0500988"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.072789412"
-         id="feGaussianBlur892" />
-    </filter>
-    <filter
-       id="filter909"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur907" />
-    </filter>
-    <filter
-       id="filter924"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur922" />
-    </filter>
-    <filter
-       id="filter939"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur937" />
-    </filter>
-    <filter
-       id="filter954"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur952" />
-    </filter>
-    <filter
-       id="filter969"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur967" />
-    </filter>
-    <filter
-       id="filter984"
-       x="-0.089278139"
-       y="-0.022545395"
-       width="1.1785563"
-       height="1.0450908"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.065909587"
-         id="feGaussianBlur982" />
-    </filter>
     <linearGradient
        xlink:href="#c"
        id="linearGradient2099"
@@ -943,6 +431,182 @@
        y1="57.521999"
        x2="42.244999"
        y2="50.606998" />
+    <filter
+       id="filter2"
+       x="-2.2690372e-06"
+       y="-8.8866503e-07"
+       width="1.0000045"
+       height="1.0000018"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.5821643e-06"
+         id="feGaussianBlur2" />
+    </filter>
+    <filter
+       id="filter3"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.3832251e-06"
+         id="feGaussianBlur3" />
+    </filter>
+    <filter
+       id="filter4"
+       x="-2.2691498e-06"
+       y="-8.8865162e-07"
+       width="1.0000045"
+       height="1.0000018"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.5822736e-06"
+         id="feGaussianBlur4" />
+    </filter>
+    <filter
+       id="filter5"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.3832251e-06"
+         id="feGaussianBlur5" />
+    </filter>
+    <filter
+       id="filter6"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.3832251e-06"
+         id="feGaussianBlur6" />
+    </filter>
+    <filter
+       id="filter7"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.3832251e-06"
+         id="feGaussianBlur7" />
+    </filter>
+    <filter
+       id="filter8"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.3832251e-06"
+         id="feGaussianBlur8" />
+    </filter>
+    <filter
+       id="filter9"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.3832251e-06"
+         id="feGaussianBlur9" />
+    </filter>
+    <filter
+       id="filter13"
+       x="-2.2691498e-06"
+       y="-8.8865162e-07"
+       width="1.0000045"
+       height="1.0000018"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.5822736e-06"
+         id="feGaussianBlur13" />
+    </filter>
+    <filter
+       id="filter14"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.3832251e-06"
+         id="feGaussianBlur14" />
+    </filter>
+    <filter
+       id="filter15"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.3832251e-06"
+         id="feGaussianBlur15" />
+    </filter>
+    <filter
+       id="filter16"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.3832251e-06"
+         id="feGaussianBlur16" />
+    </filter>
+    <filter
+       id="filter17"
+       x="-3.2282088e-06"
+       y="-8.1521911e-07"
+       width="1.0000065"
+       height="1.0000016"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.3832251e-06"
+         id="feGaussianBlur17" />
+    </filter>
+    <filter
+       id="filter18"
+       x="-1.1660099e-05"
+       y="-2.9445232e-06"
+       width="1.0000233"
+       height="1.0000059"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="8.6080679e-06"
+         id="feGaussianBlur18" />
+    </filter>
+    <filter
+       id="filter65"
+       x="-3.1416808e-06"
+       y="-7.9336822e-07"
+       width="1.0000063"
+       height="1.0000016"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.3193459e-06"
+         id="feGaussianBlur65" />
+    </filter>
+    <filter
+       id="filter67"
+       x="-9.0761481e-06"
+       y="-3.5546598e-06"
+       width="1.0000182"
+       height="1.0000071"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.0328657e-05"
+         id="feGaussianBlur67" />
+    </filter>
   </defs>
   <linearGradient
      id="a"
@@ -1018,187 +682,241 @@
      fill="url(#aj)"
      filter="url(#f)"
      id="path89"
-     style="fill:url(#aj);fill-rule:evenodd;filter:url(#f-3)" />
+     style="fill:url(#aj);fill-rule:evenodd;filter:url(#filter2)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-758.84375)"
      d="m 85.401,271.95 v 7.0132 h 1.7718 V 271.947 H 85.401 Z"
      fill="url(#ai)"
      filter="url(#l)"
      id="path91"
-     style="fill:url(#ai);fill-rule:evenodd;filter:url(#l-7)" />
+     style="fill:url(#ai);fill-rule:evenodd;filter:url(#filter3)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(-2.3017105,0,0,2.9729562,248.25641,-72.929311)"
      d="m 65.017,41.255 0.02508,6.963 2.7061,-0.0084 v -1.2194 h -1.0357 v -4.602 h 1.019 V 41.244 Z"
      fill="url(#d)"
      filter="url(#e)"
      id="path93"
-     style="fill:url(#linearGradient2099);fill-rule:evenodd;filter:url(#e-9)" />
+     style="fill:url(#linearGradient2099);fill-rule:evenodd;filter:url(#filter4)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-758.84375)"
      d="m 88.135,271.95 v 7.0132 h 1.7718 V 271.947 H 88.135 Z"
      fill="url(#ah)"
      filter="url(#k)"
      id="path95"
-     style="fill:url(#ah);fill-rule:evenodd;filter:url(#k-6)" />
+     style="fill:url(#ah);fill-rule:evenodd;filter:url(#filter5)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-758.84375)"
      d="m 90.868,271.95 v 7.0132 h 1.7718 V 271.947 H 90.868 Z"
      fill="url(#ag)"
      filter="url(#j)"
      id="path97"
-     style="fill:url(#ag);fill-rule:evenodd;filter:url(#j-6)" />
+     style="fill:url(#ag);fill-rule:evenodd;filter:url(#filter6)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-758.84375)"
      d="m 93.602,271.95 v 7.0132 h 1.7718 V 271.947 H 93.602 Z"
      fill="url(#af)"
      filter="url(#am)"
      id="path99"
-     style="fill:url(#af);fill-rule:evenodd;filter:url(#am-6)" />
+     style="fill:url(#af);fill-rule:evenodd;filter:url(#am)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-758.84375)"
      d="m 96.335,271.95 v 7.0132 h 1.7718 V 271.947 H 96.335 Z"
      fill="url(#ae)"
      filter="url(#al)"
      id="path101"
-     style="fill:url(#ae);fill-rule:evenodd;filter:url(#al-8)" />
+     style="fill:url(#ae);fill-rule:evenodd;filter:url(#al)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-758.84375)"
      d="m 99.069,271.95 v 7.0132 h 1.7718 V 271.947 H 99.069 Z"
      fill="url(#ad)"
      filter="url(#ak)"
      id="path103"
-     style="fill:url(#ad);fill-rule:evenodd;filter:url(#ak-9)" />
+     style="fill:url(#ad);fill-rule:evenodd;filter:url(#ak)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-758.84375)"
      d="m 101.8,271.95 v 7.0132 h 1.7718 V 271.947 H 101.8 Z"
      fill="url(#ac)"
      filter="url(#i)"
      id="path105"
-     style="fill:url(#ac);fill-rule:evenodd;filter:url(#i-0)" />
+     style="fill:url(#ac);fill-rule:evenodd;filter:url(#filter7)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-758.84375)"
      d="m 104.54,271.95 v 7.0132 h 1.7718 V 271.947 H 104.54 Z"
      fill="url(#ab)"
      filter="url(#h)"
      id="path107"
-     style="fill:url(#ab);fill-rule:evenodd;filter:url(#h-2)" />
+     style="fill:url(#ab);fill-rule:evenodd;filter:url(#filter8)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-758.84375)"
      d="m 107.27,271.95 v 7.0132 h 1.7718 V 271.947 H 107.27 Z"
      fill="url(#aa)"
      filter="url(#g)"
      id="path109"
-     style="fill:url(#aa);fill-rule:evenodd;filter:url(#g-9)" />
+     style="fill:url(#aa);fill-rule:evenodd;filter:url(#filter9)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-749.02312)"
      d="m 82.188,260.54 0.0251,6.963 2.7061,-0.008 v -1.2194 h -1.0357 v -4.602 h 1.019 v -1.1442 z"
      fill="url(#z)"
      filter="url(#f)"
      id="path111"
-     style="fill:url(#z);fill-rule:evenodd;filter:url(#f-3)" />
+     style="fill:url(#z);fill-rule:evenodd;stroke-width:1.00004176;stroke-dasharray:none;filter:url(#filter67)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-749.02312)"
      d="m 85.401,260.52 v 7.0132 h 1.7718 V 260.517 H 85.401 Z"
      fill="url(#y)"
      filter="url(#l)"
      id="path113"
-     style="fill:url(#y);fill-rule:evenodd;filter:url(#l-7)" />
+     style="fill:url(#y);fill-rule:evenodd;filter:url(#filter65)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(-2.3017105,0,0,2.9729562,248.25641,-97.090982)"
      d="m 65.017,41.255 0.02508,6.963 2.7061,-0.0084 v -1.2194 h -1.0357 v -4.602 h 1.019 V 41.244 Z"
      fill="url(#d)"
      filter="url(#e)"
      id="path115"
-     style="fill:url(#linearGradient2101);fill-rule:evenodd;filter:url(#e-9)" />
+     style="fill:url(#linearGradient2101);fill-rule:evenodd;filter:url(#filter13)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-749.02312)"
      d="m 88.135,260.52 v 7.0132 h 1.7718 V 260.517 H 88.135 Z"
      fill="url(#x)"
      filter="url(#k)"
      id="path117"
-     style="fill:url(#x);fill-rule:evenodd;filter:url(#k-6)" />
+     style="fill:url(#x);fill-rule:evenodd;filter:url(#filter14)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-749.02312)"
      d="m 90.868,260.52 v 7.0132 h 1.7718 V 260.517 H 90.868 Z"
      fill="url(#w)"
      filter="url(#j)"
      id="path119"
-     style="fill:url(#w);fill-rule:evenodd;filter:url(#j-6)" />
+     style="fill:url(#w);fill-rule:evenodd;filter:url(#filter15)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-749.02312)"
      d="m 101.8,260.52 v 7.0132 h 1.7718 V 260.517 H 101.8 Z"
      fill="url(#v)"
      filter="url(#i)"
      id="path121"
-     style="fill:url(#v);fill-rule:evenodd;filter:url(#i-0)" />
+     style="fill:url(#v);fill-rule:evenodd;filter:url(#filter16)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-749.02312)"
      d="m 107.27,260.52 v 7.0132 h 1.7718 V 260.517 H 107.27 Z"
      fill="url(#u)"
      filter="url(#g)"
      id="path123"
-     style="fill:url(#u);fill-rule:evenodd;filter:url(#g-9)" />
+     style="fill:url(#u);fill-rule:evenodd;filter:url(#filter17)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-768.76679)"
      d="m 82.188,283.39 0.0251,6.963 2.7061,-0.008 v -1.2194 h -1.0357 v -4.602 h 1.019 v -1.1442 z"
      fill="url(#t)"
      filter="url(#f)"
      id="path125"
-     style="fill:url(#t);fill-rule:evenodd;filter:url(#f-3)" />
+     style="fill:url(#t);fill-rule:evenodd;filter:url(#f)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-768.76679)"
      d="m 85.401,283.37 v 7.0132 h 1.7718 V 283.367 H 85.401 Z"
      fill="url(#s)"
      filter="url(#l)"
      id="path127"
-     style="fill:url(#s);fill-rule:evenodd;filter:url(#l-7)" />
+     style="fill:url(#s);fill-rule:evenodd;filter:url(#l)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(-2.3017105,0,0,2.9729562,248.25641,-48.884027)"
      d="m 65.017,41.255 0.02508,6.963 2.7061,-0.0084 v -1.2194 h -1.0357 v -4.602 h 1.019 V 41.244 Z"
      fill="url(#d)"
      filter="url(#e)"
      id="path129"
-     style="fill:url(#d);fill-rule:evenodd;filter:url(#e-9)" />
+     style="fill:url(#d);fill-rule:evenodd;filter:url(#e)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-768.76679)"
      d="m 88.135,283.37 v 7.0132 h 1.7718 V 283.367 H 88.135 Z"
      fill="url(#r)"
      filter="url(#k)"
      id="path131"
-     style="fill:url(#r);fill-rule:evenodd;filter:url(#k-6)" />
+     style="fill:url(#r);fill-rule:evenodd;filter:url(#k)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-768.76679)"
      d="m 90.868,283.37 v 7.0132 h 1.7718 V 283.367 H 90.868 Z"
      fill="url(#q)"
      filter="url(#j)"
      id="path133"
-     style="fill:url(#q);fill-rule:evenodd;filter:url(#j-6)" />
+     style="fill:url(#q);fill-rule:evenodd;filter:url(#j)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-768.76679)"
      d="m 104.54,283.37 v 7.0132 h 1.7718 V 283.367 H 104.54 Z"
      fill="url(#p)"
      filter="url(#h)"
      id="path135"
-     style="fill:url(#p);fill-rule:evenodd;filter:url(#h-2)" />
+     style="fill:url(#p);fill-rule:evenodd;filter:url(#filter18)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-768.76679)"
      d="m 107.27,283.37 v 7.0132 h 1.7718 V 283.367 H 107.27 Z"
      fill="url(#o)"
      filter="url(#g)"
      id="path137"
-     style="fill:url(#o);fill-rule:evenodd;filter:url(#g-9)" />
+     style="fill:url(#o);fill-rule:evenodd;filter:url(#g)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-768.76679)"
      d="m 101.8,283.37 v 7.0132 h 1.7718 V 283.367 H 101.8 Z"
      fill="url(#n)"
      filter="url(#h)"
      id="path139"
-     style="fill:url(#n);fill-rule:evenodd;filter:url(#h-2)" />
+     style="fill:url(#n);fill-rule:evenodd;filter:url(#h)"
+     mask="none"
+     clip-path="none" />
   <path
      transform="matrix(2.3017105,0,0,2.9729562,-159.77909,-749.02312)"
      d="m 104.54,260.52 v 7.0132 h 1.7718 V 260.517 H 104.54 Z"
      fill="url(#m)"
      filter="url(#i)"
      id="path141"
-     style="fill:url(#m);fill-rule:evenodd;filter:url(#i-0)" />
+     style="fill:url(#m);fill-rule:evenodd;filter:url(#i)"
+     mask="none"
+     clip-path="none" />
 </svg>
