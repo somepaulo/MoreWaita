@@ -43,7 +43,8 @@ Simply chose another theme and then delete the entire `MoreWaita` folder from ei
 #### Fedora Linux
 [COPR repository](https://copr.fedorainfracloud.org/coprs/dusansimic/themes)
 
-The package name is `morewaita-icon-theme`.
+1. Enable COPR repository `dnf copr enable dusansimic/themes`
+2. Install the package (the package name is `morewaita-icon-theme`)
 
 #### Ubuntu/Debian Linux
 
