@@ -248,6 +248,7 @@ link_files = {
         'application-pgp.svg',
         'application-pkcs8.svg',
         'application-x-pem-key.svg',
+        'org.keepassxc.KeePassXC-application-x-keepassxc.svg',
     ],
     'text-x-javascript.svg': [
         'application-javascript.svg',
