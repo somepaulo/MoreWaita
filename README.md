@@ -83,4 +83,6 @@ If the theme applies, but a particular app doesn't get themed (and its icon is i
 If your app's `.desktop` file references an icon name not present in Moreaita's `apps/scalable` folder, please report it in an issue providing the icon name from your system. 
 
 ## The icons
-![MoreWaita](https://github.com/somepaulo/MoreWaita/assets/15643750/e208f299-83b3-420f-8e72-0b1eedaf37f9)
+_This screenshot shows icons currently in git, versioned releases may be behind_
+
+![MoreWaita](https://github.com/somepaulo/MoreWaita/assets/15643750/6565bca5-ad2e-42ae-9269-9043913091f8)
