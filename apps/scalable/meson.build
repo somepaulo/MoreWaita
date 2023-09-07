@@ -45,6 +45,7 @@ regular_files = [
     'discord.svg',
     'eclipse.svg',
     'electron.svg',
+    'electrum.svg',
     'enpass.svg',
     'etcher.svg',
     'facebook-messenger.svg',
@@ -335,6 +336,9 @@ link_files = {
     ],
     'filezilla.svg': [
         'org.filezillaproject.Filezilla.svg',
+    ],
+    'electrum.svg': [
+        'org.electrum.electrum.svg',
     ],
     'darktable.svg': [
         'org.darktable.Darktable.svg',

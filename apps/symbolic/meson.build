@@ -38,6 +38,7 @@ regular_files = [
     'discord-symbolic.svg',
     'eclipse-symbolic.svg',
     'electron-symbolic.svg',
+    'electrum-symbolic.svg',
     'enpass-symbolic.svg',
     'etcher-symbolic.svg',
     'facebook-messenger-symbolic.svg',
@@ -310,6 +311,9 @@ link_files = {
     ],
     'filezilla-symbolic.svg': [
         'org.filezillaproject.Filezilla-symbolic.svg',
+    ],
+    'electrum-symbolic.svg': [
+        'org.electrum.electrum-symbolic.svg',
     ],
     'darktable-symbolic.svg': [
         'org.darktable.Darktable-symbolic.svg',
