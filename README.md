@@ -85,4 +85,4 @@ If your app's `.desktop` file references an icon name not present in Moreaita's 
 ## The icons
 _This screenshot shows icons currently in git, versioned releases may be behind_
 
-![MoreWaita](https://github.com/somepaulo/MoreWaita/assets/15643750/0bf121cb-e510-4fba-b851-c0fed680c61b)
+![MoreWaita](https://github.com/somepaulo/MoreWaita/assets/15643750/d7a4efb0-ed79-4992-976a-8bea933fd356)
