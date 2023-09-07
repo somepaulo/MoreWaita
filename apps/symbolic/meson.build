@@ -64,6 +64,9 @@ regular_files = [
     'google-earth-symbolic.svg',
     'gparted-symbolic.svg',
     'gpsd-logo-symbolic.svg',
+    'grapejuice-roblox-player-symbolic.svg',
+    'grapejuice-roblox-studio-symbolic.svg',
+    'grapejuice-symbolic.svg',
     'grub-customizer-symbolic.svg',
     'gsmartcontrol-symbolic.svg',
     'gufw-symbolic.svg',
@@ -116,6 +119,7 @@ regular_files = [
     'openra-ra-symbolic.svg',
     'opera-symbolic.svg',
     'org.DolphinEmu.dolphin-emu-symbolic.svg',
+    'org.fdroid.Repomaker-symbolic.svg',
     'org.inkscape.Inkscape-symbolic.svg',
     'org.onlyoffice.desktopeditors-symbolic.svg',
     'osmscout-server-symbolic.svg',
@@ -348,6 +352,15 @@ link_files = {
     ],
     'mediainfo-symbolic.svg': [
         'net.mediaarea.MediaInfo-symbolic.svg',
+    ],
+    'grapejuice-roblox-studio-symbolic.svg': [
+        'net.brinkervii.grapejuice.robloxstudio-symbolic.svg',
+    ],
+    'grapejuice-roblox-player-symbolic.svg': [
+        'net.brinkervii.grapejuice.robloxplayer-symbolic.svg',
+    ],
+    'grapejuice-symbolic.svg': [
+        'net.brinkervii.grapejuice-symbolic.svg',
     ],
     'com.tonikelope.MegaBasterd-symbolic.svg': [
         'megabasterd-symbolic.svg',

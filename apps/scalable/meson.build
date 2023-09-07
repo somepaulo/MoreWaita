@@ -74,6 +74,9 @@ regular_files = [
     'google-earth.svg',
     'gparted.svg',
     'gpsd-logo.svg',
+    'grapejuice-roblox-player.svg',
+    'grapejuice-roblox-studio.svg',
+    'grapejuice.svg',
     'grub-customizer.svg',
     'gsmartcontrol.svg',
     'gufw.svg',
@@ -132,6 +135,7 @@ regular_files = [
     'openra-ra.svg',
     'opera.svg',
     'org.DolphinEmu.dolphin-emu.svg',
+    'org.fdroid.Repomaker.svg',
     'org.gnome.PowerStats.svg',
     'org.inkscape.Inkscape.svg',
     'org.onlyoffice.desktopeditors.svg',
@@ -370,6 +374,15 @@ link_files = {
     ],
     'mediainfo.svg': [
         'net.mediaarea.MediaInfo.svg',
+    ],
+    'grapejuice.svg': [
+        'net.brinkervii.grapejuice.svg',
+    ],
+    'grapejuice-roblox-studio.svg': [
+        'net.brinkervii.grapejuice.robloxstudio.svg',
+    ],
+    'grapejuice-roblox-player.svg': [
+        'net.brinkervii.grapejuice.robloxplayer.svg',
     ],
     'pavucontrol.svg': [
         'multimedia-volume-control.svg',

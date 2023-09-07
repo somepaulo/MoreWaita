@@ -23,10 +23,10 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -44,10 +44,12 @@
   </metadata>
   <g
      id="layer1"
-     transform="translate(0,-1004.3622)">
+     transform="translate(0,-1004.3622)"
+     style="fill:#000000">
     <g
        id="g5012"
-       transform="translate(-0.54552186,-0.11842658)">
+       transform="translate(-0.54552186,-0.11842658)"
+       style="fill:#000000">
       <g
          id="g4179"
          transform="matrix(-0.64984794,0,0,0.64984002,17.415256,351.6391)"
