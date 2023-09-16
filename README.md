@@ -1,3 +1,9 @@
+# MoreWaita Plus
+What is this? MoreWaita with more icons for my **personal** use
+I am thinking of upstreaming it, but my stuff are messy so idk
+
+Original Project description:
+
 # MoreWaita
 An Adwaita styled theme with extra icons for popular apps to complement Gnome Shell's original icons.  
 The purpose of this theme is to provide third-party apps with a consistent look and feel in Gnome Shell.
