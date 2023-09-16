@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   fill="none"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="worldpainter.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.2734375"
+     inkscape:cx="50.450809"
+     inkscape:cy="44.234122"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7" />
+  <g
+     clip-path="url(#clip0_18_315)"
+     id="g7">
+    <mask
+       id="mask0_18_315"
+       style="mask-type:alpha"
+       maskUnits="userSpaceOnUse"
+       x="43"
+       y="84"
+       width="42"
+       height="43">
+      <path
+         d="M77.8303 117.062C72.6836 129.319 55.3164 129.319 50.1697 117.062L45.0239 104.807C40.8732 94.922 48.1329 84 58.8542 84L69.1458 84C79.8671 84 87.1268 94.922 82.9761 104.807L77.8303 117.062Z"
+         fill="#C0BFBC"
+         id="path1" />
+    </mask>
+    <g
+       mask="url(#mask0_18_315)"
+       id="g1">
+      <rect
+         x="85"
+         y="71"
+         width="62"
+         height="42"
+         transform="rotate(90 85 71)"
+         fill="url(#paint0_linear_18_315)"
+         id="rect1" />
+    </g>
+    <path
+       d="M77.8303 115.062C72.6836 127.319 55.3164 127.319 50.1697 115.062L45.0239 102.807C40.8732 92.922 48.1329 82 58.8542 82L69.1458 82C79.8671 82 87.1268 92.922 82.9761 102.807L77.8303 115.062Z"
+       fill="#D9D9D9"
+       id="path2" />
+    <mask
+       id="path-4-inside-1_18_315"
+       fill="white">
+      <rect
+         x="77"
+         y="3"
+         width="18"
+         height="27"
+         rx="3"
+         transform="rotate(90 77 3)"
+         id="rect2" />
+    </mask>
+    <mask
+       id="path-5-inside-2_18_315"
+       fill="white">
+      <rect
+         x="50"
+         y="2"
+         width="27"
+         height="18"
+         rx="3"
+         id="rect4" />
+    </mask>
+    <rect
+       x="50"
+       y="2"
+       width="27"
+       height="18"
+       rx="3"
+       stroke="#f8e45c"
+       stroke-width="8"
+       mask="url(#path-5-inside-2_18_315-3)"
+       id="rect5-5"
+       transform="translate(0.0067043,0.84719887)"
+       style="stroke:url(#linearGradient21);stroke-opacity:1" />
+    <rect
+       x="50"
+       y="2"
+       width="27"
+       height="18"
+       rx="3"
+       stroke="#F8E45C"
+       stroke-width="8"
+       mask="url(#path-5-inside-2_18_315)"
+       id="rect5" />
+    <rect
+       x="60"
+       y="16"
+       width="7"
+       height="53"
+       fill="#F8E45C"
+       id="rect6" />
+    <rect
+       x="60"
+       y="65"
+       width="7"
+       height="5"
+       fill="black"
+       fill-opacity="0.06"
+       id="rect7" />
+    <path
+       d="M65.4606 88.2651C65.0296 90.4052 61.9704 90.4052 61.5394 88.2651L57.4871 68.1449C57.2377 66.9065 58.1846 65.75 59.4478 65.75L67.5522 65.75C68.8154 65.75 69.7623 66.9065 69.5129 68.1449L65.4606 88.2651Z"
+       fill="#F6F5F4"
+       id="path7" />
+  </g>
+  <defs
+     id="defs18">
+    <linearGradient
+       id="linearGradient20"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ebca2a;stop-opacity:1;"
+         offset="0.04544144"
+         id="stop20" />
+      <stop
+         style="stop-color:#faf06b;stop-opacity:1;"
+         offset="0.07336923"
+         id="stop22" />
+      <stop
+         style="stop-color:#ebca2a;stop-opacity:1;"
+         offset="0.10473301"
+         id="stop23" />
+      <stop
+         style="stop-color:#ebca2a;stop-opacity:1;"
+         offset="0.89876372"
+         id="stop25" />
+      <stop
+         style="stop-color:#faf06b;stop-opacity:1;"
+         offset="0.93225121"
+         id="stop24" />
+      <stop
+         style="stop-color:#ebca2a;stop-opacity:1;"
+         offset="0.9666869"
+         id="stop21" />
+    </linearGradient>
+    <linearGradient
+       id="paint0_linear_18_315"
+       x1="116"
+       y1="71"
+       x2="116"
+       y2="113"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.286458"
+         stop-color="#C0BFBC"
+         id="stop7" />
+      <stop
+         offset="0.348958"
+         stop-color="#E0E0E0"
+         id="stop8" />
+      <stop
+         offset="0.395833"
+         stop-color="#C0BFBC"
+         id="stop9" />
+      <stop
+         offset="0.661458"
+         stop-color="#C0BFBC"
+         id="stop10" />
+      <stop
+         offset="0.713542"
+         stop-color="#E0E0E0"
+         id="stop11" />
+      <stop
+         offset="0.760417"
+         stop-color="#C0BFBC"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_18_315"
+       x1="86"
+       y1="3"
+       x2="86"
+       y2="30"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F5C211"
+         id="stop13" />
+      <stop
+         offset="0.0416667"
+         stop-color="#F9F06B"
+         id="stop14" />
+      <stop
+         offset="0.078125"
+         stop-color="#F5C211"
+         id="stop15" />
+      <stop
+         offset="0.901042"
+         stop-color="#F5C211"
+         id="stop16" />
+      <stop
+         offset="0.953125"
+         stop-color="#F9F06B"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#F5C211"
+         id="stop18" />
+    </linearGradient>
+    <clipPath
+       id="clip0_18_315">
+      <rect
+         width="128"
+         height="128"
+         fill="white"
+         id="rect18" />
+    </clipPath>
+    <mask
+       id="path-5-inside-2_18_315-3"
+       fill="#ffffff">
+      <rect
+         x="50"
+         y="2"
+         width="27"
+         height="18"
+         rx="3"
+         id="rect4-6" />
+    </mask>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20"
+       id="linearGradient21"
+       x1="50"
+       y1="11"
+       x2="77"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+</svg>
