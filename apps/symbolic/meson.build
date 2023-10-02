@@ -277,9 +277,6 @@ link_files = {
         'qtconfig-qt6-symbolic.svg',
         'qtconfig-symbolic.svg',
     ],
-    'protonvpn-gui-symbolic.svg': [
-        'protonvpn-logo-symbolic.svg',
-    ],
     'popcorntime-symbolic.svg': [
         'popcorn-time-symbolic.svg',
         'popcorntime-ru-symbolic.svg',
@@ -729,6 +726,10 @@ link_files = {
     ],
     'rawtherapee-symbolic.svg': [
         'com.rawtherapee.RawTherapee-symbolic.svg',
+    ],
+    'protonvpn-gui-symbolic.svg': [
+        'com.protonvpn.www-symbolic.svg',
+        'protonvpn-logo-symbolic.svg',
     ],
     'minecraft-symbolic.svg': [
         'com.mojang.Minecraft-symbolic.svg',

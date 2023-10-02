@@ -304,9 +304,6 @@ link_files = {
         'qtconfig-qt6.svg',
         'qtconfig.svg',
     ],
-    'protonvpn-gui.svg': [
-        'protonvpn-logo.svg',
-    ],
     'popcorntime.svg': [
         'popcorn-time.svg',
         'popcorntime-ru.svg',
@@ -767,6 +764,10 @@ link_files = {
     ],
     'rawtherapee.svg': [
         'com.rawtherapee.RawTherapee.svg',
+    ],
+    'protonvpn-gui.svg': [
+        'com.protonvpn.www.svg',
+        'protonvpn-logo.svg',
     ],
     'minecraft.svg': [
         'com.mojang.Minecraft.svg',
