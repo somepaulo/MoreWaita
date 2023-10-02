@@ -207,6 +207,7 @@ regular_files = [
     'vlc.svg',
     'vmware-workstation.svg',
     'vscodium.svg',
+    'warpinator.svg',
     'webstorm.svg',
     'windscribe.svg',
     'xdvi.svg',
@@ -319,6 +320,9 @@ link_files = {
     ],
     'zotero.svg': [
         'org.zotero.Zotero.svg',
+    ],
+    'warpinator.svg': [
+        'org.x.Warpinator.svg',
     ],
     'vlc.svg': [
         'org.videolan.VLC.svg',

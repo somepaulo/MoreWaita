@@ -186,6 +186,7 @@ regular_files = [
     'vlc-symbolic.svg',
     'vmware-workstation-symbolic.svg',
     'vscodium-symbolic.svg',
+    'warpinator-symbolic.svg',
     'webstorm-symbolic.svg',
     'windscribe-symbolic.svg',
     'xdvi-symbolic.svg',
@@ -295,6 +296,9 @@ link_files = {
     ],
     'zotero-symbolic.svg': [
         'org.zotero.Zotero-symbolic.svg',
+    ],
+    'warpinator-symbolic.svg': [
+        'org.x.Warpinator-symbolic.svg',
     ],
     'vlc-symbolic.svg': [
         'org.videolan.VLC-symbolic.svg',
