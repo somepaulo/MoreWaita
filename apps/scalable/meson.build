@@ -99,6 +99,7 @@ regular_files = [
     'java-openjdk.svg',
     'jdownloader.svg',
     'jetbrains-toolbox.svg',
+    'josm.svg',
     'kate.svg',
     'kdenlive.svg',
     'keepassxc.svg',
@@ -348,6 +349,9 @@ link_files = {
     ],
     'prismlauncher.svg': [
         'org.prismlauncher.PrismLauncher.svg',
+    ],
+    'josm.svg': [
+        'org.openstreetmap.josm.svg',
     ],
     'thunderbird.svg': [
         'org.mozilla.Thunderbird.svg',

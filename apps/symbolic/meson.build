@@ -85,6 +85,7 @@ regular_files = [
     'java-openjdk-symbolic.svg',
     'jdownloader-symbolic.svg',
     'jetbrains-toolbox-symbolic.svg',
+    'josm-symbolic.svg',
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
     'keepassxc-symbolic.svg',
@@ -324,6 +325,9 @@ link_files = {
     ],
     'prismlauncher-symbolic.svg': [
         'org.prismlauncher.PrismLauncher-symbolic.svg',
+    ],
+    'josm-symbolic.svg': [
+        'org.openstreetmap.josm-symbolic.svg',
     ],
     'thunderbird-symbolic.svg': [
         'org.mozilla.Thunderbird-symbolic.svg',
