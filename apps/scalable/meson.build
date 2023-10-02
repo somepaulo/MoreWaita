@@ -101,6 +101,7 @@ regular_files = [
     'jdownloader.svg',
     'jetbrains-toolbox.svg',
     'josm.svg',
+    'jupyter.svg',
     'kate.svg',
     'kdenlive.svg',
     'keepassxc.svg',
@@ -611,6 +612,10 @@ link_files = {
         'kate2.svg',
         'org.kde.kate.svg',
         'org.kde.plasma.katesessions.svg',
+    ],
+    'jupyter.svg': [
+        'jupyterlab-desktop.svg',
+        'org.jupyter.JupyterLab.svg',
     ],
     'QtProject-designer.svg': [
         'io.qt.Designer.svg',

@@ -87,6 +87,7 @@ regular_files = [
     'jdownloader-symbolic.svg',
     'jetbrains-toolbox-symbolic.svg',
     'josm-symbolic.svg',
+    'jupyter-symbolic.svg',
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
     'keepassxc-symbolic.svg',
@@ -585,6 +586,10 @@ link_files = {
         'kate2-symbolic.svg',
         'org.kde.kate-symbolic.svg',
         'org.kde.plasma.katesessions-symbolic.svg',
+    ],
+    'jupyter-symbolic.svg': [
+        'jupyterlab-desktop-symbolic.svg',
+        'org.jupyter.JupyterLab-symbolic.svg',
     ],
     'QtProject-designer-symbolic.svg': [
         'io.qt.Designer-symbolic.svg',
