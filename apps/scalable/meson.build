@@ -69,6 +69,7 @@ regular_files = [
     'genymotion.svg',
     'gimp.svg',
     'github-desktop.svg',
+    'gitkraken.svg',
     'gnome-aisleriot.svg',
     'gnome-nettool.svg',
     'godot.svg',
@@ -1077,6 +1078,10 @@ link_files = {
         'Nextcloud.svg',
         'com.nextcloud.desktopclient.nextcloud.svg',
         'org.nextcloud.Nextcloud.svg',
+    ],
+    'gitkraken.svg': [
+        'GitKraken.svg',
+        'com.axosoft.GitKraken.svg',
     ],
     'io.element.Element.svg': [
         'Element.svg',

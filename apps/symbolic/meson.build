@@ -60,6 +60,7 @@ regular_files = [
     'genymotion-symbolic.svg',
     'gimp-symbolic.svg',
     'github-desktop-symbolic.svg',
+    'gitkraken-symbolic.svg',
     'gnome-aisleriot-symbolic.svg',
     'godot-symbolic.svg',
     'goland-symbolic.svg',
@@ -1024,6 +1025,10 @@ link_files = {
         'Nextcloud-symbolic.svg',
         'com.nextcloud.desktopclient.nextcloud-symbolic.svg',
         'org.nextcloud.Nextcloud-symbolic.svg',
+    ],
+    'gitkraken-symbolic.svg': [
+        'GitKraken-symbolic.svg',
+        'com.axosoft.GitKraken-symbolic.svg',
     ],
     'io.element.Element-symbolic.svg': [
         'Element-symbolic.svg',
