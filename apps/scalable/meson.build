@@ -158,6 +158,7 @@ regular_files = [
     'preferences-system-network.svg',
     'prismlauncher.svg',
     'projectM.svg',
+    'protonmail-bridge.svg',
     'protonvpn-gui.svg',
     'pure-maps.svg',
     'pycharm.svg',
@@ -1078,6 +1079,10 @@ link_files = {
         'assistant5.svg',
         'io.qt.Assistant.svg',
         'qtassistant.svg',
+    ],
+    'protonmail-bridge.svg': [
+        'ProtonMail_Bridge.svg',
+        'ch.protonmail.protonmail-bridge.svg',
     ],
     'nextcloud.svg': [
         'Nextcloud.svg',

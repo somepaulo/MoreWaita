@@ -138,6 +138,7 @@ regular_files = [
     'preferences-system-network-symbolic.svg',
     'prismlauncher-symbolic.svg',
     'projectM-symbolic.svg',
+    'protonmail-bridge-symbolic.svg',
     'protonvpn-gui-symbolic.svg',
     'pure-maps-symbolic.svg',
     'pycharm-symbolic.svg',
@@ -1025,6 +1026,10 @@ link_files = {
         'assistant5-symbolic.svg',
         'io.qt.Assistant-symbolic.svg',
         'qtassistant-symbolic.svg',
+    ],
+    'protonmail-bridge-symbolic.svg': [
+        'ProtonMail_Bridge-symbolic.svg',
+        'ch.protonmail.protonmail-bridge-symbolic.svg',
     ],
     'nextcloud-symbolic.svg': [
         'Nextcloud-symbolic.svg',
