@@ -89,6 +89,7 @@ regular_files = [
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
     'keepassxc-symbolic.svg',
+    'kitty-symbolic.svg',
     'krita-symbolic.svg',
     'kruler-symbolic.svg',
     'kvantum-symbolic.svg',
@@ -963,6 +964,9 @@ link_files = {
     'obsidian-symbolic.svg': [
         'appimagekit-obsidian-symbolic.svg',
         'md.obsidian.Obsidian-symbolic.svg',
+    ],
+    'kitty-symbolic.svg': [
+        'appimagekit-kitty-symbolic.svg',
     ],
     'heroic-symbolic.svg': [
         'appimagekit-heroic-symbolic.svg',

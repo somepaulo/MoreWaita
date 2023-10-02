@@ -103,6 +103,7 @@ regular_files = [
     'kate.svg',
     'kdenlive.svg',
     'keepassxc.svg',
+    'kitty.svg',
     'krita.svg',
     'kruler.svg',
     'kvantum.svg',
@@ -1017,6 +1018,9 @@ link_files = {
     'obsidian.svg': [
         'appimagekit-obsidian.svg',
         'md.obsidian.Obsidian.svg',
+    ],
+    'kitty.svg': [
+        'appimagekit-kitty.svg',
     ],
     'heroic.svg': [
         'appimagekit-heroic.svg',
