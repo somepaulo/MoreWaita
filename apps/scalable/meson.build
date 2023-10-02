@@ -174,6 +174,7 @@ regular_files = [
     'rubymine.svg',
     'saber.svg',
     'scrcpy.svg',
+    'scribus.svg',
     'shotwell.svg',
     'signal-desktop.svg',
     'skypeforlinux.svg',
@@ -430,6 +431,11 @@ link_files = {
     ],
     'liferea.svg': [
         'net.sourceforge.liferea.svg',
+    ],
+    'scribus.svg': [
+        'net.scribus.Scribus.svg',
+        'scribus-ng.svg',
+        'scribus-trunk.svg',
     ],
     'openra-ra.svg': [
         'net.openra.OpenRA.svg',

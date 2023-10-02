@@ -154,6 +154,7 @@ regular_files = [
     'rubymine-symbolic.svg',
     'saber-symbolic.svg',
     'scrcpy-symbolic.svg',
+    'scribus-symbolic.svg',
     'shotwell-symbolic.svg',
     'signal-desktop-symbolic.svg',
     'skypeforlinux-symbolic.svg',
@@ -409,6 +410,11 @@ link_files = {
     ],
     'liferea-symbolic.svg': [
         'net.sourceforge.liferea-symbolic.svg',
+    ],
+    'scribus-symbolic.svg': [
+        'net.scribus.Scribus-symbolic.svg',
+        'scribus-ng-symbolic.svg',
+        'scribus-trunk-symbolic.svg',
     ],
     'openra-d2k-symbolic.svg': [
         'net.openra.OpenRA.openra-d2k-symbolic.svg',
