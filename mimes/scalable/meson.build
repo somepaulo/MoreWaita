@@ -29,6 +29,7 @@ regular_files = [
     'application-x-python-bytecode.svg',
     'application-x-rpm.svg',
     'application-x-theme.svg',
+    'application-x-xopp.svg',
     'application-x-yaml.svg',
     'application-xml.svg',
     'text-css.svg',
@@ -102,6 +103,11 @@ link_files = {
     'text-x-makefile.svg': [
         'gnome-mime-text-x-makefile.svg',
         'text-x-cmake.svg',
+    ],
+    'application-x-xopp.svg': [
+        'application-x-xopt.svg',
+        'gnome-mime-application-x-xopp.svg',
+        'gnome-mime-application-x-xopt.svg',
     ],
     'virtualbox-vmdk.svg': [
         'application-x-virtualbox-vmdk.svg',
