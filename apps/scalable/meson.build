@@ -49,6 +49,7 @@ regular_files = [
     'enpass.svg',
     'etcher.svg',
     'facebook-messenger.svg',
+    'fgcom.svg',
     'figma.svg',
     'filezilla.svg',
     'firefox-developer-edition.svg',
@@ -56,6 +57,7 @@ regular_files = [
     'firewall-config.svg',
     'fish.svg',
     'fleet.svg',
+    'flightgear.svg',
     'foobar2000.svg',
     'fr.handbrake.ghb.svg',
     'freac.svg',
@@ -111,6 +113,7 @@ regular_files = [
     'libreoffice-math.svg',
     'libreoffice-startcenter.svg',
     'libreoffice-writer.svg',
+    'liferea.svg',
     'linguist.svg',
     'mailspring.svg',
     'mattermost.svg',
@@ -377,6 +380,12 @@ link_files = {
     'geany.svg': [
         'org.geany.Geany.svg',
     ],
+    'flightgear.svg': [
+        'org.flightgear.FlightGear.svg',
+    ],
+    'fgcom.svg': [
+        'org.flightgear.FGCom.svg',
+    ],
     'filezilla.svg': [
         'org.filezillaproject.Filezilla.svg',
     ],
@@ -409,6 +418,9 @@ link_files = {
     ],
     'projectM.svg': [
         'net.sourceforge.projectM.svg',
+    ],
+    'liferea.svg': [
+        'net.sourceforge.liferea.svg',
     ],
     'openra-ra.svg': [
         'net.openra.OpenRA.svg',
@@ -931,6 +943,7 @@ link_files = {
         'java18-openjdk.svg',
         'java19-openjdk.svg',
         'java20-openjdk.svg',
+        'java21-openjdk.svg',
         'java8-openjdk.svg',
         'java9-openjdk.svg',
         'javaws.svg',

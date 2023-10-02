@@ -42,12 +42,14 @@ regular_files = [
     'enpass-symbolic.svg',
     'etcher-symbolic.svg',
     'facebook-messenger-symbolic.svg',
+    'fgcom-symbolic.svg',
     'figma-symbolic.svg',
     'filezilla-symbolic.svg',
     'firefox-symbolic.svg',
     'firewall-config-symbolic.svg',
     'fish-symbolic.svg',
     'fleet-symbolic.svg',
+    'flightgear-symbolic.svg',
     'foobar2000-symbolic.svg',
     'fr.handbrake.ghb-symbolic.svg',
     'freac-symbolic.svg',
@@ -97,6 +99,7 @@ regular_files = [
     'libreoffice-math-symbolic.svg',
     'libreoffice-startcenter-symbolic.svg',
     'libreoffice-writer-symbolic.svg',
+    'liferea-symbolic.svg',
     'linguist-symbolic.svg',
     'mailspring-symbolic.svg',
     'mattermost-symbolic.svg',
@@ -353,6 +356,12 @@ link_files = {
     'geany-symbolic.svg': [
         'org.geany.Geany-symbolic.svg',
     ],
+    'flightgear-symbolic.svg': [
+        'org.flightgear.FlightGear-symbolic.svg',
+    ],
+    'fgcom-symbolic.svg': [
+        'org.flightgear.FGCom-symbolic.svg',
+    ],
     'filezilla-symbolic.svg': [
         'org.filezillaproject.Filezilla-symbolic.svg',
     ],
@@ -388,6 +397,9 @@ link_files = {
     ],
     'projectM-symbolic.svg': [
         'net.sourceforge.projectM-symbolic.svg',
+    ],
+    'liferea-symbolic.svg': [
+        'net.sourceforge.liferea-symbolic.svg',
     ],
     'openra-d2k-symbolic.svg': [
         'net.openra.OpenRA.openra-d2k-symbolic.svg',
@@ -878,6 +890,7 @@ link_files = {
         'java18-openjdk-symbolic.svg',
         'java19-openjdk-symbolic.svg',
         'java20-openjdk-symbolic.svg',
+        'java21-openjdk-symbolic.svg',
         'java8-openjdk-symbolic.svg',
         'java9-openjdk-symbolic.svg',
         'javaws-symbolic.svg',
