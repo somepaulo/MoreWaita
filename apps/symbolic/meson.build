@@ -25,6 +25,7 @@ regular_files = [
     'clamtk-symbolic.svg',
     'clion-symbolic.svg',
     'code-oss-symbolic.svg',
+    'codeblocks-symbolic.svg',
     'com.github.eneshecan.WhatsAppForLinux-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
     'com.tonikelope.MegaBasterd-symbolic.svg',
@@ -380,6 +381,9 @@ link_files = {
     ],
     'darktable-symbolic.svg': [
         'org.darktable.Darktable-symbolic.svg',
+    ],
+    'codeblocks-symbolic.svg': [
+        'org.codeblocks.codeblocks-symbolic.svg',
     ],
     'menulibre-symbolic.svg': [
         'org.bluesabre.MenuLibre-symbolic.svg',

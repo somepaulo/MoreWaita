@@ -31,6 +31,7 @@ regular_files = [
     'clamtk.svg',
     'clion.svg',
     'code-oss.svg',
+    'codeblocks.svg',
     'com.github.eneshecan.WhatsAppForLinux.svg',
     'com.obsproject.Studio.svg',
     'com.tonikelope.MegaBasterd.svg',
@@ -404,6 +405,9 @@ link_files = {
     ],
     'darktable.svg': [
         'org.darktable.Darktable.svg',
+    ],
+    'codeblocks.svg': [
+        'org.codeblocks.codeblocks.svg',
     ],
     'menulibre.svg': [
         'org.bluesabre.MenuLibre.svg',
