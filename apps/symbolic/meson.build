@@ -148,6 +148,7 @@ regular_files = [
     'qutebrowser-symbolic.svg',
     'qv4l2-symbolic.svg',
     'rawtherapee-symbolic.svg',
+    'resolve-symbolic.svg',
     'rider-symbolic.svg',
     'rstudio-symbolic.svg',
     'rubymine-symbolic.svg',
@@ -1053,6 +1054,10 @@ link_files = {
         'element-desktop-bin-symbolic.svg',
         'element-symbolic.svg',
         'im.riot.Riot-symbolic.svg',
+    ],
+    'resolve-symbolic.svg': [
+        'DV_Resolve-symbolic.svg',
+        'davinci-resolve-symbolic.svg',
     ],
     'CMakeSetup-symbolic.svg': [
         'CMakeSetup32-symbolic.svg',

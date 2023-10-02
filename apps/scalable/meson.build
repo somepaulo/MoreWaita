@@ -168,6 +168,7 @@ regular_files = [
     'qutebrowser.svg',
     'qv4l2.svg',
     'rawtherapee.svg',
+    'resolve.svg',
     'rider.svg',
     'rstudio.svg',
     'rubymine.svg',
@@ -1106,6 +1107,10 @@ link_files = {
         'element-desktop-bin.svg',
         'element.svg',
         'im.riot.Riot.svg',
+    ],
+    'resolve.svg': [
+        'DV_Resolve.svg',
+        'davinci-resolve.svg',
     ],
     'CMakeSetup.svg': [
         'CMakeSetup32.svg',

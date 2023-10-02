@@ -43,7 +43,7 @@
          offset="0"
          id="stop39" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:0.80000001;"
          offset="0.02925029"
          id="stop40" />
       <stop
@@ -55,7 +55,7 @@
          offset="0.92560208"
          id="stop44" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:0.80000001;"
          offset="0.96775371"
          id="stop45" />
       <stop
