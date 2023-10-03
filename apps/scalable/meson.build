@@ -106,6 +106,7 @@ regular_files = [
     'kdenlive.svg',
     'keepassxc.svg',
     'kitty.svg',
+    'kolourpaint.svg',
     'krita.svg',
     'kruler.svg',
     'kvantum.svg',
@@ -373,6 +374,9 @@ link_files = {
     ],
     'keepassxc.svg': [
         'org.keepassxc.KeePassXC.svg',
+    ],
+    'kolourpaint.svg': [
+        'org.kde.kolourpaint.svg',
     ],
     'kdenlive.svg': [
         'org.kde.kdenlive.svg',
