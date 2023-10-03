@@ -89,4 +89,4 @@ _These screenshots show icons currently in git, versioned releases may be behind
 
 ![apps](https://github.com/somepaulo/MoreWaita/assets/15643750/46342b1f-5261-446d-8157-bea7230de711)
 ![mimes](https://github.com/somepaulo/MoreWaita/assets/15643750/fd95b762-d609-4747-97ff-a6a3e40d3114)
-![places](https://github.com/somepaulo/MoreWaita/assets/15643750/faa9ac46-f08c-417d-9e0b-58f0a75cbbdd)
+![places](https://github.com/somepaulo/MoreWaita/assets/15643750/81c65814-6746-49c5-a486-6da6a84d0ab4)
