@@ -27,6 +27,7 @@ regular_files = [
     'code-oss-symbolic.svg',
     'codeblocks-symbolic.svg',
     'com.github.eneshecan.WhatsAppForLinux-symbolic.svg',
+    'com.github.rafostar.Clapper-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
     'com.tonikelope.MegaBasterd-symbolic.svg',
     'corectrl-symbolic.svg',

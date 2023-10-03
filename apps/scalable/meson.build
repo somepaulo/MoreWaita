@@ -33,6 +33,7 @@ regular_files = [
     'code-oss.svg',
     'codeblocks.svg',
     'com.github.eneshecan.WhatsAppForLinux.svg',
+    'com.github.rafostar.Clapper.svg',
     'com.obsproject.Studio.svg',
     'com.tonikelope.MegaBasterd.svg',
     'corectrl.svg',

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg135"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:figma="http://www.figma.com/figma/ns">
+  <defs
+     id="defs139" />
+  <g
+     id="g8"
+     style="mix-blend-mode:normal;fill:#767677;fill-opacity:1;stroke-width:3.12531"
+     figma:type="group"
+     transform="matrix(0.31996847,0,0,0.31996847,-523.40777,-785.10341)">
+    <g
+       id="path16 fill"
+       style="mix-blend-mode:normal;fill:#767677;fill-opacity:1;stroke-width:3.12531"
+       figma:type="vector" />
+  </g>
+  <g
+     id="g9"
+     style="mix-blend-mode:normal;stroke-width:2.4631;fill:#000000"
+     figma:type="group"
+     transform="matrix(0.40599244,0,0,0.40599244,-666.72137,-997.88069)">
+    <g
+       id="path17 fill"
+       style="mix-blend-mode:normal;stroke-width:2.4631;fill:#000000"
+       figma:type="vector" />
+  </g>
+  <path
+     id="rect11201"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal"
+     d="M 2.2851562 1.1425781 C 1.0188718 1.1425781 -2.9605918e-16 2.1614499 0 3.4277344 L 0 12.572266 C 0 13.83855 1.0188718 14.857422 2.2851562 14.857422 L 13.714844 14.857422 C 14.981128 14.857422 16 13.83855 16 12.572266 L 16 1.1425781 L 13.714844 1.1425781 L 14.857422 3.4277344 L 13.714844 5.7148438 L 11.427734 5.7148438 L 12.572266 3.4277344 L 11.427734 1.1425781 L 9.1425781 1.1425781 L 10.285156 3.4277344 L 9.1425781 5.7148438 L 6.8574219 5.7148438 L 8 3.4277344 L 6.8574219 1.1425781 L 4.5722656 1.1425781 L 5.7148438 3.4277344 L 4.5722656 5.7148438 L 2.2851562 5.7148438 L 3.4277344 3.4277344 L 2.2851562 1.1425781 z M 6.2246094 8.0351562 A 0.20327108 0.20327108 0 0 1 6.3046875 8.0605469 L 9.8984375 10.115234 A 0.20015588 0.20015588 0 0 1 9.8984375 10.462891 L 6.3046875 12.515625 A 0.20327115 0.20327115 0 0 1 6 12.339844 L 6 8.2363281 A 0.20327108 0.20327108 0 0 1 6.2246094 8.0351562 z " />
+</svg>
