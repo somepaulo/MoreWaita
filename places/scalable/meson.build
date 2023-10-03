@@ -4,6 +4,8 @@ regular_files = [
 <<<<<<< Updated upstream
     # DO NOT REMOVE: Begining of regular segment
     '_meson.build',
+    'folder-backup-legacy.svg',
+    'folder-backup.svg',
     'folder-books-legacy.svg',
     'folder-books.svg',
     'folder-c-legacy.svg',
