@@ -159,6 +159,7 @@ regular_files = [
     'saber-symbolic.svg',
     'scrcpy-symbolic.svg',
     'scribus-symbolic.svg',
+    'session-desktop-symbolic.svg',
     'shotwell-symbolic.svg',
     'signal-desktop-symbolic.svg',
     'skypeforlinux-symbolic.svg',
@@ -981,6 +982,9 @@ link_files = {
     'standard-notes-symbolic.svg': [
         'appimagekit-standard-notes-symbolic.svg',
         'org.standardnotes.standardnotes-symbolic.svg',
+    ],
+    'session-desktop-symbolic.svg': [
+        'appimagekit-session-desktop-symbolic.svg',
     ],
     'freac-symbolic.svg': [
         'appimagekit-org.freac.freac-symbolic.svg',
