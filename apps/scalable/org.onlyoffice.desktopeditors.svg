@@ -24,31 +24,38 @@
       <stop
          offset="0"
          stop-color="#d84627"
-         id="stop1" />
+         id="stop1"
+         style="stop-color:#d04425;stop-opacity:1;" />
       <stop
          offset="0.06"
          stop-color="#e2653e"
-         id="stop2" />
+         id="stop2"
+         style="stop-color:#e0592f;stop-opacity:1;" />
       <stop
-         offset="0.3"
+         offset="0.30000001"
          stop-color="#e87e5a"
-         id="stop3" />
+         id="stop3"
+         style="stop-color:#e6744c;stop-opacity:1;" />
       <stop
          offset="0.5"
          stop-color="#ef9778"
-         id="stop4" />
+         id="stop4"
+         style="stop-color:#ed8b68;stop-opacity:1;" />
       <stop
-         offset="0.7"
+         offset="0.69999999"
          stop-color="#e87e5a"
-         id="stop5" />
+         id="stop5"
+         style="stop-color:#e6734c;stop-opacity:1;" />
       <stop
-         offset="0.92"
+         offset="0.92000002"
          stop-color="#e2653e"
-         id="stop6" />
+         id="stop6"
+         style="stop-color:#e0592f;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#d84627"
-         id="stop7" />
+         id="stop7"
+         style="stop-color:#d04425;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linear-gradient-2"
@@ -82,23 +89,28 @@
       <stop
          offset="0.06"
          stop-color="#8bbc40"
-         id="stop11" />
+         id="stop11"
+         style="stop-color:#7ca739;stop-opacity:1;" />
       <stop
-         offset="0.3"
+         offset="0.30000001"
          stop-color="#a4c967"
-         id="stop12" />
+         id="stop12"
+         style="stop-color:#9ac356;stop-opacity:1;" />
       <stop
          offset="0.5"
          stop-color="#bed891"
-         id="stop13" />
+         id="stop13"
+         style="stop-color:#b6d383;stop-opacity:1;" />
       <stop
-         offset="0.7"
+         offset="0.69999999"
          stop-color="#a4c967"
-         id="stop14" />
+         id="stop14"
+         style="stop-color:#9ac356;stop-opacity:1;" />
       <stop
-         offset="0.92"
+         offset="0.92000002"
          stop-color="#8bbc40"
-         id="stop15" />
+         id="stop15"
+         style="stop-color:#7ca739;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#71924c"
@@ -138,21 +150,25 @@
          stop-color="#64b8e7"
          id="stop20" />
       <stop
-         offset="0.3"
+         offset="0.30000001"
          stop-color="#84c6ea"
-         id="stop21" />
+         id="stop21"
+         style="stop-color:#6fbce6;stop-opacity:1;" />
       <stop
          offset="0.5"
          stop-color="#a1d4f0"
-         id="stop22" />
+         id="stop22"
+         style="stop-color:#91cdee;stop-opacity:1;" />
       <stop
-         offset="0.7"
+         offset="0.69999999"
          stop-color="#84c6ea"
-         id="stop23" />
+         id="stop23"
+         style="stop-color:#6fbce6;stop-opacity:1;" />
       <stop
-         offset="0.92"
+         offset="0.92000002"
          stop-color="#64b8e7"
-         id="stop24" />
+         id="stop24"
+         style="stop-color:#4eaee4;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#26a7c9"
