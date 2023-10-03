@@ -1,6 +1,8 @@
 # MoreWaita
-An Adwaita styled theme with extra icons for popular apps to complement Gnome Shell's original icons.  
+An Adwaita styled companion icon theme with extra icons for popular apps to fit with Gnome Shell's original icons.  
 The purpose of this theme is to provide third-party apps with a consistent look and feel in Gnome Shell.
+
+**NB**: This theme requires Adwaita in order to work.
 
 This theme is built mostly upon the work of Gnome's Adwaita designers and Gnome Circle apps' developers, as well as Papirus theme designers, with a touch of tinkering from myself, [@dusansimic](https://github.com/dusansimic), [@julianfairfax](https://github.com/julianfairfax) and others here and there. The theme provides icons for the most popular apps people really do install and use, and also covers the most frequently installed dependency GUI apps that almost nobody uses (like Avahi browsers, QT Designer, Software token, etc.).
 
