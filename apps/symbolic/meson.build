@@ -116,6 +116,7 @@ regular_files = [
     'microsoft-edge-symbolic.svg',
     'minecraft-symbolic.svg',
     'mockoon-symbolic.svg',
+    'monero-symbolic.svg',
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
     'nextcloud-symbolic.svg',
@@ -453,6 +454,10 @@ link_files = {
     ],
     'grapejuice-symbolic.svg': [
         'net.brinkervii.grapejuice-symbolic.svg',
+    ],
+    'monero-symbolic.svg': [
+        'monero-gui-symbolic.svg',
+        'org.getmonero.Monero-symbolic.svg',
     ],
     'com.tonikelope.MegaBasterd-symbolic.svg': [
         'megabasterd-symbolic.svg',

@@ -130,6 +130,7 @@ regular_files = [
     'microsoft-edge.svg',
     'minecraft.svg',
     'mockoon.svg',
+    'monero.svg',
     'mpv.svg',
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',
@@ -478,6 +479,10 @@ link_files = {
     'pavucontrol.svg': [
         'multimedia-volume-control.svg',
         'org.pulseaudio.pavucontrol.svg',
+    ],
+    'monero.svg': [
+        'monero-gui.svg',
+        'org.getmonero.Monero.svg',
     ],
     'com.tonikelope.MegaBasterd.svg': [
         'megabasterd.svg',
