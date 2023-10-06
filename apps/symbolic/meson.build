@@ -145,6 +145,7 @@ regular_files = [
     'projectM-symbolic.svg',
     'protonmail-bridge-symbolic.svg',
     'protonvpn-gui-symbolic.svg',
+    'pulsar-symbolic.svg',
     'pure-maps-symbolic.svg',
     'pycharm-symbolic.svg',
     'qdbusviewer-symbolic.svg',
@@ -711,6 +712,9 @@ link_files = {
         'org.eclipse.Committers-symbolic.svg',
         'org.eclipse.Java-symbolic.svg',
         'org.eclipse.Javascript-symbolic.svg',
+    ],
+    'pulsar-symbolic.svg': [
+        'dev.pulsar_edit.Pulsar-symbolic.svg',
     ],
     'dbeaver-symbolic.svg': [
         'dbeaver-ee-symbolic.svg',

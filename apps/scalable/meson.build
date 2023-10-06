@@ -165,6 +165,7 @@ regular_files = [
     'projectM.svg',
     'protonmail-bridge.svg',
     'protonvpn-gui.svg',
+    'pulsar.svg',
     'pure-maps.svg',
     'pycharm.svg',
     'qdbusviewer.svg',
@@ -746,6 +747,9 @@ link_files = {
         'org.eclipse.Committers.svg',
         'org.eclipse.Java.svg',
         'org.eclipse.Javascript.svg',
+    ],
+    'pulsar.svg': [
+        'dev.pulsar_edit.Pulsar.svg',
     ],
     'dbeaver.svg': [
         'dbeaver-ee.svg',
