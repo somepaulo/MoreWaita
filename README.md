@@ -22,11 +22,11 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 `cd Morewaita`
 
 ##### Install system-wide (recommended)
-`./system-install.sh`  
+`sudo ./install.sh`  
 This copies the whole theme folder without the build files into `/usr/share/icons/`. You will be prompted for your password.
 
 ##### Install for local user
-`./local-install.sh`  
+`./install.sh`  
 This copies the whole theme folder without the build files into `~/.local/share/icons/`.
 
 ##### Update
