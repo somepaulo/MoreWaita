@@ -223,6 +223,7 @@ regular_files = [
     'windscribe.svg',
     'xdvi.svg',
     'xsane.svg',
+    'yandex-browser.svg',
     'yuzu.svg',
     'zotero.svg',
     'zrythm.svg',
@@ -301,6 +302,10 @@ link_files = {
     ],
     'spyder.svg': [
         'spyder3.svg',
+    ],
+    'yandex-browser.svg': [
+        'ru.yandex.Browser.svg',
+        'yandex-browser-beta.svg',
     ],
     'insomnia.svg': [
         'rest.insomnia.Insomnia.svg',

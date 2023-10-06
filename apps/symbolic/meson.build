@@ -202,6 +202,7 @@ regular_files = [
     'windscribe-symbolic.svg',
     'xdvi-symbolic.svg',
     'xsane-symbolic.svg',
+    'yandex-browser-symbolic.svg',
     'yuzu-symbolic.svg',
     'zotero-symbolic.svg',
     'zrythm-symbolic.svg',
@@ -277,6 +278,10 @@ link_files = {
     ],
     'spyder-symbolic.svg': [
         'spyder3-symbolic.svg',
+    ],
+    'yandex-browser-symbolic.svg': [
+        'ru.yandex.Browser-symbolic.svg',
+        'yandex-browser-beta-symbolic.svg',
     ],
     'insomnia-symbolic.svg': [
         'rest.insomnia.Insomnia-symbolic.svg',
