@@ -3,7 +3,6 @@ scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
 regular_files = [
 <<<<<<< Updated upstream
     # DO NOT REMOVE: Begining of regular segment
-    '_meson.build',
     'folder-backup-legacy.svg',
     'folder-backup.svg',
     'folder-books-legacy.svg',
