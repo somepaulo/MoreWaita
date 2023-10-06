@@ -195,6 +195,7 @@ regular_files = [
     'strawberry.svg',
     'sublime-merge.svg',
     'sublime-text.svg',
+    'surfshark.svg',
     'syncthing-gtk.svg',
     'system-software-install.svg',
     'teams.svg',

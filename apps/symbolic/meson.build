@@ -175,6 +175,7 @@ regular_files = [
     'strawberry-symbolic.svg',
     'sublime-merge-symbolic.svg',
     'sublime-text-symbolic.svg',
+    'surfshark-symbolic.svg',
     'syncthing-gtk-symbolic.svg',
     'system-software-install-symbolic.svg',
     'teams-symbolic.svg',
