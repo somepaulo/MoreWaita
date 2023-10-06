@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 mkdir -p ~/.local/share/icons/MoreWaita/
 shopt -s extglob
