@@ -181,6 +181,7 @@ regular_files = [
     'scrcpy.svg',
     'scribus.svg',
     'session-desktop.svg',
+    'setzer.svg',
     'shotwell.svg',
     'signal-desktop.svg',
     'skypeforlinux.svg',
@@ -414,6 +415,9 @@ link_files = {
     ],
     'darktable.svg': [
         'org.darktable.Darktable.svg',
+    ],
+    'setzer.svg': [
+        'org.cvfosammmm.Setzer.svg',
     ],
     'codeblocks.svg': [
         'org.codeblocks.codeblocks.svg',

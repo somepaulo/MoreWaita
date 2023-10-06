@@ -161,6 +161,7 @@ regular_files = [
     'scrcpy-symbolic.svg',
     'scribus-symbolic.svg',
     'session-desktop-symbolic.svg',
+    'setzer-symbolic.svg',
     'shotwell-symbolic.svg',
     'signal-desktop-symbolic.svg',
     'skypeforlinux-symbolic.svg',
@@ -390,6 +391,9 @@ link_files = {
     ],
     'darktable-symbolic.svg': [
         'org.darktable.Darktable-symbolic.svg',
+    ],
+    'setzer-symbolic.svg': [
+        'org.cvfosammmm.Setzer-symbolic.svg',
     ],
     'codeblocks-symbolic.svg': [
         'org.codeblocks.codeblocks-symbolic.svg',
