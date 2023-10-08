@@ -795,6 +795,10 @@ link_files = {
     'webstorm-symbolic.svg': [
         'com.jetbrains.WebStorm-symbolic.svg',
     ],
+    'jetbrains-toolbox-symbolic.svg': [
+        'com.jetbrains.ToolBox-symbolic.svg',
+        'toolbox-symbolic.svg',
+    ],
     'rubymine-symbolic.svg': [
         'com.jetbrains.RubyMine-symbolic.svg',
     ],
@@ -811,6 +815,7 @@ link_files = {
     'intellij-symbolic.svg': [
         'com.jetbrains.IntelliJ-IDEA-Community-symbolic.svg',
         'com.jetbrains.IntelliJ-IDEA-Ultimate-symbolic.svg',
+        'idea-symbolic.svg',
     ],
     'goland-symbolic.svg': [
         'com.jetbrains.GoLand-symbolic.svg',

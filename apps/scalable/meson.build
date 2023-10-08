@@ -833,6 +833,10 @@ link_files = {
     'webstorm.svg': [
         'com.jetbrains.WebStorm.svg',
     ],
+    'jetbrains-toolbox.svg': [
+        'com.jetbrains.ToolBox.svg',
+        'toolbox.svg',
+    ],
     'rubymine.svg': [
         'com.jetbrains.RubyMine.svg',
     ],
@@ -849,6 +853,7 @@ link_files = {
     'intellij.svg': [
         'com.jetbrains.IntelliJ-IDEA-Community.svg',
         'com.jetbrains.IntelliJ-IDEA-Ultimate.svg',
+        'idea.svg',
     ],
     'goland.svg': [
         'com.jetbrains.GoLand.svg',
