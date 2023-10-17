@@ -108,6 +108,7 @@ regular_files = [
     'libreoffice-writer-symbolic.svg',
     'liferea-symbolic.svg',
     'linguist-symbolic.svg',
+    'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
     'mattermost-symbolic.svg',
     'mediainfo-symbolic.svg',
