@@ -139,6 +139,7 @@ regular_files = [
     'nufraw.svg',
     'nvidia.svg',
     'nvim.svg',
+    'nvtop.svg',
     'obsidian.svg',
     'one.alynx.showmethekey.svg',
     'onetagger.svg',

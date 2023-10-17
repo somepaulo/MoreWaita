@@ -123,6 +123,7 @@ regular_files = [
     'nufraw-symbolic.svg',
     'nvidia-symbolic.svg',
     'nvim-symbolic.svg',
+    'nvtop-symbolic.svg',
     'obsidian-symbolic.svg',
     'one.alynx.showmethekey-symbolic.svg',
     'onetagger-symbolic.svg',
