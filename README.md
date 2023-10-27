@@ -19,7 +19,7 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 `git clone https://github.com/somepaulo/MoreWaita.git`
 
 ##### Enter the downloaded folder
-`cd Morewaita`
+`cd MoreWaita`
 
 ##### Install system-wide (recommended)
 `sudo ./install.sh`  
