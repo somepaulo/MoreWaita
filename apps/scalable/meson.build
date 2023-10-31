@@ -133,6 +133,7 @@ regular_files = [
     'mockoon.svg',
     'monero.svg',
     'mpv.svg',
+    'mumble.svg',
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',
     'network-wired.svg',
@@ -654,6 +655,9 @@ link_files = {
     'mpv.svg': [
         'io.mpv.Mpv.svg',
         'mpv-icon-8bit-64x64.svg',
+    ],
+    'mumble.svg': [
+        'info.mumble.Mumble.svg',
     ],
     'headlines.svg': [
         'io.gitlab.caveman250.headlines.svg',

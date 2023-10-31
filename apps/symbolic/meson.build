@@ -118,6 +118,7 @@ regular_files = [
     'minecraft-symbolic.svg',
     'mockoon-symbolic.svg',
     'monero-symbolic.svg',
+    'mumble-symbolic.svg',
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
     'nextcloud-symbolic.svg',
@@ -465,6 +466,9 @@ link_files = {
     'monero-symbolic.svg': [
         'monero-gui-symbolic.svg',
         'org.getmonero.Monero-symbolic.svg',
+    ],
+    'mumble-symbolic.svg': [
+        'info.mumble.Mumble-symbolic.svg',
     ],
     'com.tonikelope.MegaBasterd-symbolic.svg': [
         'megabasterd-symbolic.svg',
