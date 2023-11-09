@@ -90,15 +90,9 @@
      style="display:inline;vector-effect:none;fill:#330000;fill-opacity:0.2;stroke:none;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
      d="M 77.978074,8.0000006 V 30.000002 c 0,4.432 3.610527,7.923448 8.042527,7.923448 l 22.000369,-0.0055 z"
      id="path4413" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.1611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff;stroke-width:1.25336"
-     x="37.011959"
-     y="105.95623"
-     id="text1"><tspan
-       sodipodi:role="line"
-       id="tspan1"
-       x="37.011959"
-       y="105.95623"
-       style="fill:#ffffff;stroke-width:1.25336">Ai</tspan></text>
+  <path
+     d="m 36.951798,105.95623 h 8.24207 L 57.526894,68.235221 h -1.684511 l 12.212703,37.721009 h 8.603037 L 62.159298,64.204428 h -9.926581 z m 9.806259,-10.40787 h 19.973485 l -1.0829,-6.918526 H 47.840957 Z m 34.231688,10.40787 h 7.64046 V 76.717936 h -7.64046 z m 3.85031,-34.592631 c 2.887733,0 4.752727,-1.864995 4.752727,-4.752727 0,-2.887733 -1.864994,-4.752727 -4.752727,-4.752727 -2.827571,0 -4.692565,1.864994 -4.692565,4.752727 0,2.887732 1.864994,4.752727 4.692565,4.752727 z"
+     id="text1"
+     style="font-weight:bold;font-size:60.1611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff;stroke-width:1.25336"
+     aria-label="Ai" />
 </svg>

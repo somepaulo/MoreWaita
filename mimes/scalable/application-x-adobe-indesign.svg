@@ -5,7 +5,7 @@
    width="128px"
    version="1.1"
    id="svg35"
-   sodipodi:docname="application-x-adobe-indesign .svg"
+   sodipodi:docname="application-x-adobe-indesign.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -90,15 +90,9 @@
      style="display:inline;vector-effect:none;fill:#49021f;fill-opacity:0.2;stroke:none;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
      d="M 77.978074,8.0000006 V 30.000002 c 0,4.432 3.610527,7.923448 8.042527,7.923448 l 22.000369,-0.0055 z"
      id="path4413" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.1611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff;stroke-width:1.25336"
-     x="39.011959"
-     y="105.95623"
-     id="text1"><tspan
-       sodipodi:role="line"
-       id="tspan1"
-       x="39.011959"
-       y="105.95623"
-       style="fill:#ffffff;stroke-width:1.25336">Id</tspan></text>
+  <path
+     d="m 43.885008,105.95623 h 7.820943 V 64.204428 h -7.820943 z m 27.974866,0.60161 c 4.572244,0 8.18191,-2.22596 10.40787,-6.01611 l -1.744672,-3.970631 c -1.323544,2.22596 -3.549504,3.549501 -6.316915,3.549501 -4.451921,0 -7.279493,-3.48934 -7.279493,-9.024161 0,-5.173855 2.586927,-8.482715 6.978688,-8.482715 2.887732,0 5.234015,1.383705 6.61772,3.729988 l 2.1658,-4.632405 c -1.985316,-3.609665 -5.414499,-5.594982 -9.86642,-5.594982 -8.18191,0 -13.65657,6.196593 -13.65657,15.461403 0,9.024162 5.173855,14.980112 12.693992,14.980112 z m 10.588354,-0.60161 h 4.93321 V 61.497178 h -7.459977 v 39.164872 z"
+     id="text1"
+     style="font-weight:bold;font-size:60.1611px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff;stroke-width:1.25336"
+     aria-label="Id" />
 </svg>
