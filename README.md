@@ -19,7 +19,7 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 `git clone https://github.com/somepaulo/MoreWaita.git`
 
 ##### Enter the downloaded folder
-`cd Morewaita`
+`cd MoreWaita`
 
 ##### Install system-wide (recommended)
 `sudo ./install.sh`  
@@ -82,7 +82,7 @@ If the theme doesn't apply try the following command:
 
 #### Some apps don't get themed
 If the theme applies, but a particular app doesn't get themed (and its icon is in MoreWaita), check its respective `.desktop` file. Some apps have icon paths hardcoded into their `.desktop` file or have a different icon name set there or no icon set at all. This can differ between distros. If you happen to have such apps, you'll need to copy their `.desktop` files into `~/.local/share/applications` and modify them there providing the correct icon name. Alternatively, use a menu editor like `MenuLibre` or `Alacarte`.  
-If your app's `.desktop` file references an icon name not present in Moreaita's `apps/scalable` folder, please report it in an issue providing the icon name from your system. 
+If your app's `.desktop` file references an icon name not present in MoreWaita's `apps/scalable` folder, please report it in an issue providing the icon name from your system. 
 
 ## The icons
 _These screenshots show icons currently in git, versioned releases may be behind_
