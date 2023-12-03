@@ -143,6 +143,7 @@ regular_files = [
     'nvim.svg',
     'nvtop.svg',
     'obsidian.svg',
+    'okular.svg',
     'one.alynx.showmethekey.svg',
     'onetagger.svg',
     'openra-cnc.svg',
@@ -222,8 +223,8 @@ regular_files = [
     'vmware-workstation.svg',
     'vscodium.svg',
     'warpinator.svg',
-    'webstorm.svg',
     'webcord.svg',
+    'webstorm.svg',
     'windscribe.svg',
     'xdvi.svg',
     'xsane.svg',
@@ -1183,6 +1184,9 @@ link_files = {
     ],
     'mathematica.svg': [
       'wolfram-mathematica.svg',
+    ],
+    'okular.svg': [
+        'org.kde.okular.svg',
     ]
     # DO NOT REMOVE: End of link segment
 }
