@@ -35,6 +35,25 @@ regular_files = [
     'application-x-xopp.svg',
     'application-x-yaml.svg',
     'application-xml.svg',
+    'gdlink.svg',
+    'oasis-database-template.svg',
+    'oasis-database.svg',
+    'oasis-drawing-template.svg',
+    'oasis-drawing.svg',
+    'oasis-empty-template.svg',
+    'oasis-empty.svg',
+    'oasis-formula-template.svg',
+    'oasis-formula.svg',
+    'oasis-master-document-template.svg',
+    'oasis-master-document.svg',
+    'oasis-presentation-template.svg',
+    'oasis-presentation.svg',
+    'oasis-spreadsheet-template.svg',
+    'oasis-spreadsheet.svg',
+    'oasis-text-template.svg',
+    'oasis-text.svg',
+    'oasis-web-template.svg',
+    'oasis-web.svg',
     'text-css.svg',
     'text-rust.svg',
     'text-x-c.svg',
@@ -68,6 +87,7 @@ regular_files = [
     'virtualbox-vdi.svg',
     'virtualbox-vhd.svg',
     'virtualbox-vmdk.svg',
+    'x-office-spreadsheet.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
@@ -310,7 +330,103 @@ link_files = {
     ],
     'application-vnd.wolfram.cdf.svg': [
         'application-vnd.wolfram.player.svg',
-    ]
+    ],
+    'oasis-spreadsheet.svg': [
+        'libreoffice-spreadsheet.svg',
+        'libreoffice-oasis-spreadsheet.svg',
+        'application-vnd.ms-excel.svg',
+        'application-vnd.insync.link.drive.sheet.svg',
+        'gdsheet.svg',
+    ],
+    'gdlink.svg': [
+        'application-vnd.insync.link.drive.link.svg',
+    ],
+    'oasis-text.svg': [
+        'libreoffice-text.svg',
+        'libreoffice-oasis-text.svg',
+        'application-vnd.ms-word.svg',
+        'application-vnd.insync.link.drive.doc.svg',
+        'gddoc.svg',
+
+    ],
+    'oasis-master-document.svg': [
+        'libreoffice-master-document.svg',
+        'libreoffice-oasis-master-document.svg',
+    ],
+    'oasis-presentation.svg': [
+        'libreoffice-presentation.svg',
+        'libreoffice-oasis-presentation.svg',
+        'application-vnd.ms-powerpoint.svg',
+        'application-vnd.ms-powerpoint.presentation.macroEnabled.12.svg',
+        'application-vnd.insync.link.drive.slides.svg',
+        'gdslides.svg',
+    ],
+    'oasis-web-template.svg': [
+        'libreoffice-web-template.svg',
+        'libreoffice-oasis-web-template.svg',
+    ],
+    'oasis-formula-template.svg': [
+        'libreoffice-formula-template.svg',
+        'libreoffice-oasis-formula-template.svg',
+    ],
+    'oasis-empty-template.svg': [
+        'libreoffice-empty-template.svg',
+        'libreoffice-oasis-empty-template.svg',
+    ],
+    'oasis-drawing.svg': [
+        'libreoffice-drawing.svg',
+        'libreoffice-oasis-drawing.svg',
+        'application-vnd.insync.link.drive.draw.svg',
+        'gddraw.svg',
+    ],
+    'oasis-database-template.svg': [
+        'libreoffice-database-template.svg',
+        'libreoffice-oasis-database-template.svg',
+    ],
+    'oasis-database.svg': [
+        'libreoffice-database.svg',
+        'libreoffice-oasis-database.svg',
+        'application-vnd.insync.link.drive.form.svg',
+        'gdform.svg',
+    ],
+    'oasis-empty.svg': [
+        'libreoffice-empty.svg',
+        'libreoffice-oasis-empty.svg',
+    ],
+    'oasis-spreadsheet-template.svg': [
+        'libreoffice-spreadsheet-template.svg',
+        'libreoffice-oasis-spreadsheet-template.svg',
+    ],
+    'oasis-text-template.svg': [
+        'libreoffice-text-template.svg',
+        'libreoffice-oasis-text-template.svg',
+    ],
+    'oasis-formula.svg': [
+        'libreoffice-formula.svg',
+        'libreoffice-oasis-formula.svg',
+    ],
+    'oasis-web.svg': [
+        'libreoffice-web.svg',
+        'libreoffice-oasis-web.svg',
+        'gdsite.svg',
+    ],
+    'x-office-spreadsheet.svg': [
+        'gdtable.svg',
+        'application-vnd.google-apps.fusiontable.svg',
+        'application-vnd.insync.link.drive.table.svg',
+    ],
+    'oasis-master-document-template.svg': [
+        'libreoffice-master-document-template.svg',
+        'libreoffice-oasis-master-document-template.svg',
+    ],
+    'oasis-presentation-template.svg': [
+        'libreoffice-presentation-template.svg',
+        'libreoffice-oasis-presentation-template.svg',
+    ],
+    'oasis-drawing-template.svg': [
+        'libreoffice-drawing-template.svg',
+        'libreoffice-oasis-drawing-template.svg',
+    ],
     # DO NOT REMOVE: End of link segment
 }
 

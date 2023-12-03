@@ -77,7 +77,11 @@ regular_files = [
     'godot.svg',
     'goland.svg',
     'google-chrome.svg',
+    'google-contacts.svg',
+    'google-drive.svg',
     'google-earth.svg',
+    'google-messages.svg',
+    'google-photos.svg',
     'gparted.svg',
     'gpsd-logo.svg',
     'grapejuice-roblox-player.svg',
@@ -130,6 +134,12 @@ regular_files = [
     'menulibre.svg',
     'micro.svg',
     'microsoft-edge.svg',
+    'microsoft-excel.svg',
+    'microsoft-onenote.svg',
+    'microsoft-outlook.svg',
+    'microsoft-powerpoint.svg',
+    'microsoft-teams.svg',
+    'microsoft-word.svg',
     'minecraft.svg',
     'mockoon.svg',
     'monero.svg',
@@ -205,7 +215,6 @@ regular_files = [
     'surfshark.svg',
     'syncthing-gtk.svg',
     'system-software-install.svg',
-    'teams.svg',
     'telegram.svg',
     'texstudio.svg',
     'thunderbird.svg',
@@ -1051,7 +1060,19 @@ link_files = {
         'com.unityhub.UnityEditor.svg',
         'unityeditor.svg',
     ],
-    'teams.svg': [
+    'microsoft-onenote.svg': [
+        'ms-onenote.svg',
+    ],
+    'microsoft-powerpoint.svg': [
+        'ms-powerpoint.svg',
+    ],
+    'microsoft-outlook.svg': [
+        'ms-outlook.svg',
+    ],
+    'microsoft-excel.svg': [
+        'ms-excel.svg',
+    ],
+    'microsoft-teams.svg': [
         'appimagekit-teams-for-linux.svg',
         'brave-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
         'chrome-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
@@ -1060,7 +1081,12 @@ link_files = {
         'msedge-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
         'opera-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
         'teams-for-linux.svg',
+        'teams.svg',
         'vivaldi-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
+        'ms-teams.svg'
+    ],
+    'microsoft-word.svg': [
+        'ms-word.svg',
     ],
     'standard-notes.svg': [
         'appimagekit-standard-notes.svg',
