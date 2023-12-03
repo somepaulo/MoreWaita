@@ -153,6 +153,7 @@ regular_files = [
     'nvim.svg',
     'nvtop.svg',
     'obsidian.svg',
+    'octave.svg',
     'okular.svg',
     'one.alynx.showmethekey.svg',
     'onetagger.svg',
@@ -1213,7 +1214,12 @@ link_files = {
     ],
     'okular.svg': [
         'org.kde.okular.svg',
-    ]
+    ],
+    'octave.svg': [
+        'qtoctave.svg',
+        'org.octave.Octave.svg',
+
+    ],
     # DO NOT REMOVE: End of link segment
 }
 
