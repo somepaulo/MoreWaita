@@ -222,6 +222,7 @@ regular_files = [
     'vscodium.svg',
     'warpinator.svg',
     'webstorm.svg',
+    'webcord.svg',
     'windscribe.svg',
     'xdvi.svg',
     'xsane.svg',
@@ -1175,6 +1176,9 @@ link_files = {
     'alacritty.svg': [
         'Alacritty.svg',
         'com.alacritty.Alacritty.svg',
+    ],
+    'webcord.svg': [
+        'io.github.spacingbat3.webcord.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
