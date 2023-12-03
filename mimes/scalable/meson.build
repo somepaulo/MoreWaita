@@ -347,7 +347,6 @@ link_files = {
         'application-vnd.ms-word.svg',
         'application-vnd.insync.link.drive.doc.svg',
         'gddoc.svg',
-
     ],
     'oasis-master-document.svg': [
         'libreoffice-master-document.svg',
