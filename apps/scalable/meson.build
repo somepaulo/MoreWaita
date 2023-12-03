@@ -76,6 +76,7 @@ regular_files = [
     'gnome-nettool.svg',
     'godot.svg',
     'goland.svg',
+    'google-agenda.svg',
     'google-chrome.svg',
     'google-contacts.svg',
     'google-drive.svg',
@@ -1220,6 +1221,9 @@ link_files = {
         'org.octave.Octave.svg',
 
     ],
+    'google-agenda.svg': [
+        'google-calendar.svg',
+    ]
     # DO NOT REMOVE: End of link segment
 }
 
