@@ -5,6 +5,7 @@ regular_files = [
     'android-package-archive.svg',
     'application-epub+zip.svg',
     'application-json.svg',
+    'application-mathematica.svg',
     'application-octet-stream.svg',
     'application-pgp-encrypted.svg',
     'application-pgp-keys.svg',
@@ -16,6 +17,8 @@ regular_files = [
     'application-vnd.flatpak.svg',
     'application-vnd.iccprofile.svg',
     'application-vnd.snap.svg',
+    'application-vnd.wolfram.cdf.svg',
+    'application-vnd.wolfram.mathematica.package.svg',
     'application-x-audacity-project.svg',
     'application-x-bittorrent.svg',
     'application-x-cd-image.svg',
@@ -298,6 +301,16 @@ link_files = {
         'application-apk.svg',
         'application-vnd.android.package-archive.svg',
     ],
+    'application-mathematica.svg': [
+        'application-vnd.wolfram.nb.svg',
+    ],
+    'application-vnd.wolfram.mathematica.package.svg': [
+        'application-vnd.wolfram.wl.svg',
+        'application-vnd.wolfram.wls.svg',
+    ],
+    'application-vnd.wolfram.cdf.svg': [
+        'application-vnd.wolfram.player.svg',
+    ]
     # DO NOT REMOVE: End of link segment
 }
 

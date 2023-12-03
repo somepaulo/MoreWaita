@@ -124,6 +124,7 @@ regular_files = [
     'linguist.svg',
     'lvim.svg',
     'mailspring.svg',
+    'mathematica.svg',
     'mattermost.svg',
     'mediainfo.svg',
     'menulibre.svg',
@@ -1180,6 +1181,9 @@ link_files = {
     'webcord.svg': [
         'io.github.spacingbat3.webcord.svg',
     ],
+    'mathematica.svg': [
+      'wolfram-mathematica.svg',
+    ]
     # DO NOT REMOVE: End of link segment
 }
 
