@@ -129,6 +129,7 @@ regular_files = [
     'linguist.svg',
     'lvim.svg',
     'mailspring.svg',
+    'maple.svg',
     'mathematica.svg',
     'mattermost.svg',
     'mediainfo.svg',
