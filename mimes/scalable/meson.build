@@ -24,8 +24,11 @@ regular_files = [
     'application-x-cd-image.svg',
     'application-x-deb.svg',
     'application-x-godot-project.svg',
+    'application-x-ipynb+json.svg',
     'application-x-iso9600-appimage.svg',
     'application-x-java-archive.svg',
+    'application-x-kdenlive.svg',
+    'application-x-krita.svg',
     'application-x-model.svg',
     'application-x-perl.svg',
     'application-x-php.svg',
@@ -427,6 +430,13 @@ link_files = {
         'libreoffice-drawing-template.svg',
         'libreoffice-oasis-drawing-template.svg',
     ],
+    'application-x-kdenlive.svg': [
+        'application-x-kdenlivetitle.svg',
+    ],
+    'application-x-krita.svg': [
+        'application-x-krita-assistant.svg',
+        'application-x-krita-paintoppresent.svg',
+    ]
     # DO NOT REMOVE: End of link segment
 }
 
