@@ -5,6 +5,7 @@ regular_files = [
     'android-package-archive.svg',
     'application-epub+zip.svg',
     'application-json.svg',
+    'application-mathematica.svg',
     'application-octet-stream.svg',
     'application-pgp-encrypted.svg',
     'application-pgp-keys.svg',
@@ -16,13 +17,18 @@ regular_files = [
     'application-vnd.flatpak.svg',
     'application-vnd.iccprofile.svg',
     'application-vnd.snap.svg',
+    'application-vnd.wolfram.cdf.svg',
+    'application-vnd.wolfram.mathematica.package.svg',
     'application-x-audacity-project.svg',
     'application-x-bittorrent.svg',
     'application-x-cd-image.svg',
     'application-x-deb.svg',
     'application-x-godot-project.svg',
+    'application-x-ipynb+json.svg',
     'application-x-iso9600-appimage.svg',
     'application-x-java-archive.svg',
+    'application-x-kdenlive.svg',
+    'application-x-krita.svg',
     'application-x-model.svg',
     'application-x-perl.svg',
     'application-x-php.svg',
@@ -32,6 +38,25 @@ regular_files = [
     'application-x-xopp.svg',
     'application-x-yaml.svg',
     'application-xml.svg',
+    'gdlink.svg',
+    'oasis-database-template.svg',
+    'oasis-database.svg',
+    'oasis-drawing-template.svg',
+    'oasis-drawing.svg',
+    'oasis-empty-template.svg',
+    'oasis-empty.svg',
+    'oasis-formula-template.svg',
+    'oasis-formula.svg',
+    'oasis-master-document-template.svg',
+    'oasis-master-document.svg',
+    'oasis-presentation-template.svg',
+    'oasis-presentation.svg',
+    'oasis-spreadsheet-template.svg',
+    'oasis-spreadsheet.svg',
+    'oasis-text-template.svg',
+    'oasis-text.svg',
+    'oasis-web-template.svg',
+    'oasis-web.svg',
     'text-css.svg',
     'text-rust.svg',
     'text-x-c.svg',
@@ -47,6 +72,7 @@ regular_files = [
     'text-x-makefile.svg',
     'text-x-markdown.svg',
     'text-x-meson.svg',
+    'text-x-octave.svg',
     'text-x-patch.svg',
     'text-x-python.svg',
     'text-x-r-markdown.svg',
@@ -65,6 +91,7 @@ regular_files = [
     'virtualbox-vdi.svg',
     'virtualbox-vhd.svg',
     'virtualbox-vmdk.svg',
+    'x-office-spreadsheet.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
@@ -298,6 +325,118 @@ link_files = {
         'application-apk.svg',
         'application-vnd.android.package-archive.svg',
     ],
+    'application-mathematica.svg': [
+        'application-vnd.wolfram.nb.svg',
+    ],
+    'application-vnd.wolfram.mathematica.package.svg': [
+        'application-vnd.wolfram.wl.svg',
+        'application-vnd.wolfram.wls.svg',
+    ],
+    'application-vnd.wolfram.cdf.svg': [
+        'application-vnd.wolfram.player.svg',
+    ],
+    'oasis-spreadsheet.svg': [
+        'libreoffice-spreadsheet.svg',
+        'libreoffice-oasis-spreadsheet.svg',
+        'application-vnd.ms-excel.svg',
+        'application-vnd.insync.link.drive.sheet.svg',
+        'gdsheet.svg',
+    ],
+    'gdlink.svg': [
+        'application-vnd.insync.link.drive.link.svg',
+    ],
+    'oasis-text.svg': [
+        'libreoffice-text.svg',
+        'libreoffice-oasis-text.svg',
+        'application-vnd.ms-word.svg',
+        'application-vnd.insync.link.drive.doc.svg',
+        'gddoc.svg',
+    ],
+    'oasis-master-document.svg': [
+        'libreoffice-master-document.svg',
+        'libreoffice-oasis-master-document.svg',
+    ],
+    'oasis-presentation.svg': [
+        'libreoffice-presentation.svg',
+        'libreoffice-oasis-presentation.svg',
+        'application-vnd.ms-powerpoint.svg',
+        'application-vnd.ms-powerpoint.presentation.macroEnabled.12.svg',
+        'application-vnd.insync.link.drive.slides.svg',
+        'gdslides.svg',
+    ],
+    'oasis-web-template.svg': [
+        'libreoffice-web-template.svg',
+        'libreoffice-oasis-web-template.svg',
+    ],
+    'oasis-formula-template.svg': [
+        'libreoffice-formula-template.svg',
+        'libreoffice-oasis-formula-template.svg',
+    ],
+    'oasis-empty-template.svg': [
+        'libreoffice-empty-template.svg',
+        'libreoffice-oasis-empty-template.svg',
+    ],
+    'oasis-drawing.svg': [
+        'libreoffice-drawing.svg',
+        'libreoffice-oasis-drawing.svg',
+        'application-vnd.insync.link.drive.draw.svg',
+        'gddraw.svg',
+    ],
+    'oasis-database-template.svg': [
+        'libreoffice-database-template.svg',
+        'libreoffice-oasis-database-template.svg',
+    ],
+    'oasis-database.svg': [
+        'libreoffice-database.svg',
+        'libreoffice-oasis-database.svg',
+        'application-vnd.insync.link.drive.form.svg',
+        'gdform.svg',
+    ],
+    'oasis-empty.svg': [
+        'libreoffice-empty.svg',
+        'libreoffice-oasis-empty.svg',
+    ],
+    'oasis-spreadsheet-template.svg': [
+        'libreoffice-spreadsheet-template.svg',
+        'libreoffice-oasis-spreadsheet-template.svg',
+    ],
+    'oasis-text-template.svg': [
+        'libreoffice-text-template.svg',
+        'libreoffice-oasis-text-template.svg',
+    ],
+    'oasis-formula.svg': [
+        'libreoffice-formula.svg',
+        'libreoffice-oasis-formula.svg',
+    ],
+    'oasis-web.svg': [
+        'libreoffice-web.svg',
+        'libreoffice-oasis-web.svg',
+        'gdsite.svg',
+    ],
+    'x-office-spreadsheet.svg': [
+        'gdtable.svg',
+        'application-vnd.google-apps.fusiontable.svg',
+        'application-vnd.insync.link.drive.table.svg',
+    ],
+    'oasis-master-document-template.svg': [
+        'libreoffice-master-document-template.svg',
+        'libreoffice-oasis-master-document-template.svg',
+    ],
+    'oasis-presentation-template.svg': [
+        'libreoffice-presentation-template.svg',
+        'libreoffice-oasis-presentation-template.svg',
+    ],
+    'oasis-drawing-template.svg': [
+        'libreoffice-drawing-template.svg',
+        'libreoffice-oasis-drawing-template.svg',
+    ],
+    'application-x-kdenlive.svg': [
+        'application-x-kdenlivetitle.svg',
+    ],
+    'application-x-krita.svg': [
+        'application-x-krita-assistant.svg',
+        'application-x-krita-paintoppresent.svg',
+    ]
     # DO NOT REMOVE: End of link segment
 }
 

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="128px" viewBox="0 0 128 128" width="128px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="14" x2="122" y1="66" y2="66">
+        <stop offset="0" stop-color="#82311c"/>
+        <stop offset="0.0722844" stop-color="#d35230"/>
+        <stop offset="0.147038" stop-color="#82311c"/>
+        <stop offset="0.851844" stop-color="#82311c"/>
+        <stop offset="0.932467" stop-color="#d35230"/>
+        <stop offset="1" stop-color="#82311c"/>
+    </linearGradient>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="5.999999" x2="67.999991" y1="92.999987" y2="92.999987">
+        <stop offset="0" stop-color="#6f2411"/>
+        <stop offset="0.045" stop-color="#c5401e"/>
+        <stop offset="0.091" stop-color="#6f2411"/>
+        <stop offset="0.909" stop-color="#5c180a"/>
+        <stop offset="0.955" stop-color="#b62f14"/>
+        <stop offset="1" stop-color="#5c180a"/>
+    </linearGradient>
+    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="5.999999" x2="67.999991" y1="26.999994" y2="88.999986">
+        <stop offset="0" stop-color="#ca4c28"/>
+        <stop offset="0.5" stop-color="#c5401e"/>
+        <stop offset="1" stop-color="#b62f14"/>
+    </linearGradient>
+    <path d="m 68 12 c -29.824219 0 -54 24.175781 -54 54 s 24.175781 54 54 54 s 54 -24.175781 54 -54 v -4 h -0.164062 c -2.09375 -28.1875 -25.570313 -49.992188 -53.835938 -50 z m 0 0" fill="url(#a)"/>
+    <path d="m 68 8 v 54 h 54 c 0 -29.824219 -24.175781 -54 -54 -54 z m 0 0" fill="#ff8f6b"/>
+    <path d="m 14 62 c 0 29.824219 24.175781 54 54 54 s 54 -24.175781 54 -54 z m 0 0" fill="#d35230"/>
+    <path d="m 14 62 h 54 v -54 c -29.824219 0 -54 24.175781 -54 54 z m 0 0" fill="#ed6c47"/>
+    <path d="m 14 31 h 46 c 4.417969 0 8 3.582031 8 8 v 46 c 0 4.417969 -3.582031 8 -8 8 h -46 c -4.417969 0 -8 -3.582031 -8 -8 v -46 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0" fill="url(#b)"/>
+    <path d="m 14 27 h 46 c 4.417969 0 8 3.582031 8 8 v 46 c 0 4.417969 -3.582031 8 -8 8 h -46 c -4.417969 0 -8 -3.582031 -8 -8 v -46 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0" fill="url(#c)"/>
+    <path d="m 37.5625 40.777344 c 3.363281 -0.226563 6.699219 0.75 9.410156 2.757812 c 2.257813 2.015625 3.464844 4.960938 3.273438 7.984375 c 0.035156 2.101563 -0.523438 4.167969 -1.617188 5.964844 c -1.101562 1.765625 -2.695312 3.171875 -4.582031 4.050781 c -2.160156 1.003906 -4.519531 1.5 -6.898437 1.449219 h -6.535157 v 12.148437 h -6.691406 v -34.355468 z m -6.953125 16.960937 h 5.757813 c 1.828124 0.132813 3.640624 -0.40625 5.09375 -1.519531 c 1.203124 -1.152344 1.832031 -2.78125 1.722656 -4.445312 c 0 -3.785157 -2.199219 -5.675782 -6.601563 -5.675782 h -5.972656 z m 0 0" fill="#ffffff"/>
+</svg>
