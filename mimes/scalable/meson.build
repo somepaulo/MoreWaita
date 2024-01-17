@@ -29,6 +29,7 @@ regular_files = [
     'application-x-php.svg',
     'application-x-python-bytecode.svg',
     'application-x-rpm.svg',
+    'application-x-subrip.svg',
     'application-x-theme.svg',
     'application-x-xopp.svg',
     'application-x-yaml.svg',
