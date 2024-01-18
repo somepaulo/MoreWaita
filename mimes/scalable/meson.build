@@ -4,6 +4,7 @@ regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'android-package-archive.svg',
     'application-epub+zip.svg',
+    'application-illustrator.svg',
     'application-json.svg',
     'application-octet-stream.svg',
     'application-pgp-encrypted.svg',
@@ -12,10 +13,13 @@ regular_files = [
     'application-pkix-cert.svg',
     'application-postscript.svg',
     'application-toml.svg',
+    'application-vnd.adobe.aftereffects.project.svg',
+    'application-vnd.adobe.xd.svg',
     'application-vnd.comicbook+zip.svg',
     'application-vnd.flatpak.svg',
     'application-vnd.iccprofile.svg',
     'application-vnd.snap.svg',
+    'application-x-adobe-indesign.svg',
     'application-x-audacity-project.svg',
     'application-x-bittorrent.svg',
     'application-x-cd-image.svg',
@@ -26,6 +30,7 @@ regular_files = [
     'application-x-java-archive.svg',
     'application-x-model.svg',
     'application-x-perl.svg',
+    'application-x-photoshop.svg',
     'application-x-php.svg',
     'application-x-python-bytecode.svg',
     'application-x-rpm.svg',
@@ -232,6 +237,9 @@ link_files = {
         'application-x-zip-compressed-fb2.svg',
         'x-content-ebook-reader.svg',
     ],
+    'application-vnd.adobe.aftereffects.project.svg': [
+        'application-vnd.adobe.aftereffects.template.svg',
+    ],
     'text-x-typescript.svg': [
         'application-typescript.svg',
         'application-x-typescript.svg',
@@ -259,6 +267,11 @@ link_files = {
     'application-pgp-signature.svg': [
         'application-pkcs7-signature.svg',
         'multipart-signed.svg',
+    ],
+    'application-x-photoshop.svg': [
+        'application-photoshop.svg',
+        'image-vnd.adobe.photoshop.svg',
+        'image-x-photoshop.svg',
     ],
     'application-pgp-keys.svg': [
         'application-pgp.svg',
