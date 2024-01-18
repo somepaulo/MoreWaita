@@ -134,6 +134,7 @@ regular_files = [
     'mockoon.svg',
     'monero.svg',
     'mpv.svg',
+    'mumble.svg',
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',
     'network-wired.svg',
@@ -665,6 +666,9 @@ link_files = {
     'org.inkscape.Inkscape.svg': [
         'inkscape-logo.svg',
         'inkscape.svg',
+    ],
+    'mumble.svg': [
+        'info.mumble.Mumble.svg',
     ],
     'pidgin.svg': [
         'im.pidgin.Pidgin.svg',

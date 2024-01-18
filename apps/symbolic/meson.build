@@ -120,6 +120,7 @@ regular_files = [
     'minecraft-symbolic.svg',
     'mockoon-symbolic.svg',
     'monero-symbolic.svg',
+    'mumble-symbolic.svg',
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
     'nextcloud-symbolic.svg',
@@ -636,6 +637,9 @@ link_files = {
     'org.inkscape.Inkscape-symbolic.svg': [
         'inkscape-logo-symbolic.svg',
         'inkscape-symbolic.svg',
+    ],
+    'mumble-symbolic.svg': [
+        'info.mumble.Mumble-symbolic.svg',
     ],
     'pidgin-symbolic.svg': [
         'im.pidgin.Pidgin-symbolic.svg',
