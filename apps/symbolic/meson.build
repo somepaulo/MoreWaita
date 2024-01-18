@@ -767,6 +767,9 @@ link_files = {
         'sublime_text-symbolic.svg',
         'sublimetext-symbolic.svg',
     ],
+    'sublime-merge-symbolic.svg': [
+        'com.sublimemerge.App-symbolic.svg',
+    ],
     'slack-symbolic.svg': [
         'com.slack.Slack-symbolic.svg',
     ],
