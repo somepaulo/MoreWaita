@@ -881,6 +881,7 @@ link_files = {
     ],
     'tor-browser.svg': [
         'com.github.micahflee.torbrowser-launcher.svg',
+        'org.torproject.torbrowser-launcher.svg',
         'tor-browser-en.svg',
         'tor-browser-ru.svg',
         'tor.svg',

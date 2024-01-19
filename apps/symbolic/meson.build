@@ -847,6 +847,7 @@ link_files = {
     ],
     'tor-browser-symbolic.svg': [
         'com.github.micahflee.torbrowser-launcher-symbolic.svg',
+        'org.torproject.torbrowser-launcher-symbolic.svg',
         'tor-browser-en-symbolic.svg',
         'tor-browser-ru-symbolic.svg',
         'tor-symbolic.svg',
