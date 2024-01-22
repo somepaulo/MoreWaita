@@ -129,6 +129,7 @@ link_files = {
     'oasis-web.svg': [
         'libreoffice-oasis-web.svg',
         'libreoffice-web.svg',
+        'vnd.google-apps.site.svg',
     ],
     'oasis-web-template.svg': [
         'libreoffice-oasis-web-template.svg',
