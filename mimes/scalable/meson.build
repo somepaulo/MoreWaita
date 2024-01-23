@@ -379,6 +379,7 @@ link_files = {
     'oasis-database.svg': [
         'application-sql.svg',
         'application-vnd.insync.link.drive.form.svg',
+        'application-vnd.ms-access.svg',
         'application-vnd.oasis.opendocument.database.svg',
         'application-vnd.sqlite2.svg',
         'application-vnd.sqlite3.svg',
