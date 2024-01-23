@@ -126,11 +126,6 @@ link_files = {
         'text-x-sass.svg',
         'text-x-scss.svg',
     ],
-    'oasis-web.svg': [
-        'libreoffice-oasis-web.svg',
-        'libreoffice-web.svg',
-        'vnd.google-apps.site.svg',
-    ],
     'oasis-web-template.svg': [
         'libreoffice-oasis-web-template.svg',
         'libreoffice-web-template.svg',
@@ -291,6 +286,11 @@ link_files = {
         'libreoffice-database-template.svg',
         'libreoffice-oasis-database-template.svg',
     ],
+    'oasis-web.svg': [
+        'application-vnd.google-apps.site.svg',
+        'libreoffice-oasis-web.svg',
+        'libreoffice-web.svg',
+    ],
     'oasis-presentation.svg': [
         'application-vnd.google-apps.presentation.svg',
         'application-vnd.insync.link.drive.slides.svg',
@@ -308,6 +308,9 @@ link_files = {
     'oasis-spreadsheet.svg': [
         'application-vnd.google-apps.fusiontable.svg',
         'application-vnd.google-apps.spreadsheet.svg',
+        'application-vnd.insync.link.drive.table.svg',
+        'application-vnd.ms-excel.spreadsheet.macroenabled.12.svg',
+        'application-vnd.ms-excel.svg',
         'application-vnd.oasis.opendocument.spreadsheet.svg',
         'application-vnd.openxmlformats-officedocument.spreadsheetml.sheet.svg',
         'application-x-applix-spreadsheet.svg',
@@ -316,7 +319,6 @@ link_files = {
         'libreoffice-spreadsheet.svg',
         'openoffice4-oasis-spreadsheet.svg',
         'openoffice4-spreadsheet.svg',
-        'pplication-vnd.insync.link.drive.table.svg',
         'text-spreadsheet.svg',
     ],
     'oasis-drawing.svg': [
