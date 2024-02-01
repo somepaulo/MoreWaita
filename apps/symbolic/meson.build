@@ -30,7 +30,6 @@ regular_files = [
     'com.github.eneshecan.WhatsAppForLinux-symbolic.svg',
     'com.github.rafostar.Clapper-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
-    'com.raggesilver.BlackBox-symbolic.svg',
     'com.tonikelope.MegaBasterd-symbolic.svg',
     'corectrl-symbolic.svg',
     'cups-symbolic.svg',
