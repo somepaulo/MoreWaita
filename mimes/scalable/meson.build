@@ -19,6 +19,7 @@ regular_files = [
     'application-vnd.comicbook+zip.svg',
     'application-vnd.flatpak.svg',
     'application-vnd.iccprofile.svg',
+    'application-vnd.scribus.svg',
     'application-vnd.snap.svg',
     'application-x-adobe-indesign.svg',
     'application-x-audacity-project.svg',
