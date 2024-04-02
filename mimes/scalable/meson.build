@@ -6,6 +6,7 @@ regular_files = [
     'application-epub+zip.svg',
     'application-illustrator.svg',
     'application-json.svg',
+    'application-mathematica.svg',
     'application-octet-stream.svg',
     'application-pgp-encrypted.svg',
     'application-pgp-keys.svg',
