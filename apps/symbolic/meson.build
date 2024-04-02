@@ -111,6 +111,7 @@ regular_files = [
     'linguist-symbolic.svg',
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
+    'mathematica-symbolic.svg',
     'mattermost-symbolic.svg',
     'mediainfo-symbolic.svg',
     'menulibre-symbolic.svg',
@@ -262,6 +263,9 @@ link_files = {
     'discord-symbolic.svg': [
         'com.discordapp.Discord-symbolic.svg',
         'discord-canary-symbolic.svg',
+    ],
+    'mathematica-symbolic.svg': [
+        'wolfram-mathematica-symbolic.svg',
     ],
     'vivaldi-symbolic.svg': [
         'vivaldi-stable-symbolic.svg',

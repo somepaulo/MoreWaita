@@ -125,6 +125,7 @@ regular_files = [
     'linguist.svg',
     'lvim.svg',
     'mailspring.svg',
+    'mathematica.svg',
     'mattermost.svg',
     'mediainfo.svg',
     'menulibre.svg',
@@ -278,6 +279,9 @@ link_files = {
         'libreoffice7.6-startcenter.svg',
         'org.libreoffice.LibreOffice.main.svg',
         'org.libreoffice.LibreOffice.startcenter.svg',
+    ],
+    'mathematica.svg': [
+        'wolfram-mathematica.svg',
     ],
     'vivaldi.svg': [
         'vivaldi-stable.svg',
