@@ -38,6 +38,7 @@ regular_files = [
     'dataspell-symbolic.svg',
     'dbeaver-symbolic.svg',
     'dev.bsnes.bsnes-symbolic.svg',
+    'dev.suyu_emu.suyu-symbolic.svg',
     'discord-symbolic.svg',
     'eclipse-symbolic.svg',
     'electron-symbolic.svg',
@@ -928,6 +929,9 @@ link_files = {
     ],
     'dev.bsnes.bsnes-symbolic.svg': [
         'bsnes-symbolic.svg',
+    ],
+    'dev.suyu_emu.suyu-symbolic.svg': [
+        'org.suyu_emu.suyu-symbolic.svg'
     ],
     'brave-desktop-symbolic.svg': [
         'brave-browser-symbolic.svg',

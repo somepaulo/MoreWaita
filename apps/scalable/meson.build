@@ -44,6 +44,7 @@ regular_files = [
     'dataspell.svg',
     'dbeaver.svg',
     'dev.bsnes.bsnes.svg',
+    'dev.suyu_emu.suyu.svg'
     'discord-canary.svg',
     'discord.svg',
     'eclipse.svg',
@@ -975,6 +976,9 @@ link_files = {
     ],
     'dev.bsnes.bsnes.svg': [
         'bsnes.svg',
+    ],
+    'dev.suyu_emu.suyu.svg': [
+        'org.suyu_emu.suyu.svg'
     ],
     'brave-desktop.svg': [
         'brave-browser.svg',
