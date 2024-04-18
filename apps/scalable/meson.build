@@ -683,6 +683,9 @@ link_files = {
         'hplip.svg',
         'hplj1020_icon.svg',
     ],
+    'hardinfo.svg': [
+        'hardinfo2.svg',
+    ],
     'pure-maps.svg': [
         'harbour-pure-maps.svg',
         'io.github.rinigus.PureMaps.svg',
