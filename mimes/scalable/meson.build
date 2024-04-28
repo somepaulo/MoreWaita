@@ -348,6 +348,7 @@ link_files = {
     ],
     'application-x-cd-image.svg': [
         'application-vnd.efi.img.svg',
+        'application-vnd.efi.iso.svg',
         'application-vnd.squashfs.svg',
         'application-x-apple-diskimage.svg',
         'application-x-compressed-iso.svg',
