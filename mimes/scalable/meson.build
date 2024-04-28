@@ -98,6 +98,10 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'application-x-yaml.svg': [
+        'text-x-yaml.svg',
+        'text-yaml.svg',
+    ],
     'text-x-tex.svg': [
         'text-x-texinfo.svg',
     ],
