@@ -98,10 +98,6 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
-    'application-x-yaml.svg': [
-        'text-x-yaml.svg',
-        'text-yaml.svg',
-    ],
     'text-x-tex.svg': [
         'text-x-texinfo.svg',
     ],
@@ -178,6 +174,11 @@ link_files = {
     'text-x-makefile.svg': [
         'gnome-mime-text-x-makefile.svg',
         'text-x-cmake.svg',
+    ],
+    'application-x-yaml.svg': [
+        'application-yaml.svg',
+        'text-x-yaml.svg',
+        'text-yaml.svg',
     ],
     'application-x-xopp.svg': [
         'application-x-xopt.svg',
