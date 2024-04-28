@@ -277,15 +277,13 @@ link_files = {
     'application-x-cd-image.svg': [
         'application-vnd.squashfs.svg',
         'application-x-apple-diskimage.svg',
+        'application-x-compressed-iso.svg',
         'application-x-iso.svg',
         'application-x-raw-disk-image-xz-compressed.svg',
         'application-x-raw-disk-image.svg',
         'application-x-raw-floppy-disk-image.svg',
         'gnome-mime-application-x-nero-disk-image.svg',
         'nero-disk-image.svg',
-        'vnd.efi.img.svg',
-        'vnd.efi.iso.svg',
-        'x-compressed-iso.svg',
     ],
     'oasis-text-template.svg': [
         'application-vnd.oasis.opendocument.text-template.svg',
