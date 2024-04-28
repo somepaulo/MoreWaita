@@ -284,6 +284,7 @@ link_files = {
         'vnd.efi.img.svg',
         'vnd.efi.iso.svg',
         'x-compressed-iso.svg',
+        'x-raw-disk-image-xz-compressed.svg',
     ],
     'oasis-text-template.svg': [
         'application-vnd.oasis.opendocument.text-template.svg',
