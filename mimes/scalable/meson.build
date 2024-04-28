@@ -283,6 +283,7 @@ link_files = {
         'nero-disk-image.svg',
         'vnd.efi.img.svg',
         'vnd.efi.iso.svg',
+        'x-compressed-iso.svg',
     ],
     'oasis-text-template.svg': [
         'application-vnd.oasis.opendocument.text-template.svg',
