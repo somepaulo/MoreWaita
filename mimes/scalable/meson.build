@@ -281,6 +281,7 @@ link_files = {
         'application-x-raw-disk-image.svg',
         'gnome-mime-application-x-nero-disk-image.svg',
         'nero-disk-image.svg',
+        'vnd.efi.iso.svg',
     ],
     'oasis-text-template.svg': [
         'application-vnd.oasis.opendocument.text-template.svg',
