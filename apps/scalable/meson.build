@@ -97,6 +97,7 @@ regular_files = [
     'insomnia.svg',
     'intellij.svg',
     'io.element.Element.svg',
+    'io.github.alainm23.planify.svg',
     'io.github.quodlibet.ExFalso.svg',
     'io.github.quodlibet.QuodLibet.svg',
     'java-openjdk.svg',
