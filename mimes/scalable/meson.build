@@ -274,17 +274,6 @@ link_files = {
     'application-x-audacity-project.svg': [
         'application-x-audacity-project+sqlite3.svg',
     ],
-    'application-x-cd-image.svg': [
-        'application-vnd.squashfs.svg',
-        'application-x-apple-diskimage.svg',
-        'application-x-compressed-iso.svg',
-        'application-x-iso.svg',
-        'application-x-raw-disk-image-xz-compressed.svg',
-        'application-x-raw-disk-image.svg',
-        'application-x-raw-floppy-disk-image.svg',
-        'gnome-mime-application-x-nero-disk-image.svg',
-        'nero-disk-image.svg',
-    ],
     'oasis-text-template.svg': [
         'application-vnd.oasis.opendocument.text-template.svg',
         'libreoffice-oasis-text-template.svg',
@@ -356,6 +345,18 @@ link_files = {
         'libreoffice-oasis-text.svg',
         'libreoffice-text.svg',
         'openoffice4-oasis-text.svg',
+    ],
+    'application-x-cd-image.svg': [
+        'application-vnd.efi.img.svg',
+        'application-vnd.squashfs.svg',
+        'application-x-apple-diskimage.svg',
+        'application-x-compressed-iso.svg',
+        'application-x-iso.svg',
+        'application-x-raw-disk-image-xz-compressed.svg',
+        'application-x-raw-disk-image.svg',
+        'application-x-raw-floppy-disk-image.svg',
+        'gnome-mime-application-x-nero-disk-image.svg',
+        'nero-disk-image.svg',
     ],
     'application-x-deb.svg': [
         'application-vnd.debian.binary-package.svg',
