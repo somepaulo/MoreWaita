@@ -272,6 +272,7 @@ link_files = {
     'application-x-cd-image.svg': [
         'application-vnd.squashfs.svg',
         'application-x-apple-diskimage.svg',
+        'application-x-iso.svg',
         'application-x-raw-disk-image.svg',
         'gnome-mime-application-x-nero-disk-image.svg',
         'nero-disk-image.svg',
