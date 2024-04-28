@@ -280,6 +280,7 @@ link_files = {
         'application-x-iso.svg',
         'application-x-raw-disk-image-xz-compressed.svg',
         'application-x-raw-disk-image.svg',
+        'application-x-raw-floppy-disk-image.svg',
         'gnome-mime-application-x-nero-disk-image.svg',
         'nero-disk-image.svg',
         'vnd.efi.img.svg',
