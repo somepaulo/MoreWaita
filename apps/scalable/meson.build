@@ -122,6 +122,7 @@ regular_files = [
     'libreoffice-math.svg',
     'libreoffice-startcenter.svg',
     'libreoffice-writer.svg',
+    'librewolf.svg',
     'liferea.svg',
     'linguist.svg',
     'lvim.svg',
@@ -639,6 +640,9 @@ link_files = {
         'libreoffice7.6-base.svg',
         'org.libreoffice.LibreOffice.base.svg',
     ],
+    'librewolf.svg': [
+        'io.gitlab.librewolf-community.svg',
+    ]
     'kate.svg': [
         'kate2.svg',
         'org.kde.kate.svg',
