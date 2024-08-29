@@ -107,6 +107,7 @@ regular_files = [
     'libreoffice-math-symbolic.svg',
     'libreoffice-startcenter-symbolic.svg',
     'libreoffice-writer-symbolic.svg',
+    'librewolf-symbolic.svg',
     'liferea-symbolic.svg',
     'linguist-symbolic.svg',
     'lvim-symbolic.svg',
@@ -611,6 +612,9 @@ link_files = {
         'libreoffice7.5-base-symbolic.svg',
         'libreoffice7.6-base-symbolic.svg',
         'org.libreoffice.LibreOffice.base-symbolic.svg',
+    ],
+    'librewolf.svg': [
+        'io.gitlab.librewolf-community-symbolic.svg'
     ],
     'kate-symbolic.svg': [
         'kate2-symbolic.svg',
