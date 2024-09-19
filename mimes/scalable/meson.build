@@ -24,6 +24,7 @@ regular_files = [
     'application-x-adobe-indesign.svg',
     'application-x-audacity-project.svg',
     'application-x-bittorrent.svg',
+    'application-x-bitwig-studio.svg',
     'application-x-cd-image.svg',
     'application-x-deb.svg',
     'application-x-gettext-translation.svg',
@@ -226,6 +227,9 @@ link_files = {
     ],
     'application-x-bittorrent.svg': [
         'application-x-kgetlist.svg',
+    ],
+    'application-x-bitwig-studio.svg': [
+        'application-x-bitwig-studio.svg',
     ],
     'application-pgp-encrypted.svg': [
         'application-x-keepass.svg',
