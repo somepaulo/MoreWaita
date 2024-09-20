@@ -45,6 +45,8 @@ regular_files = [
     'folder-rust.svg',
     'folder-syncthing-legacy.svg',
     'folder-syncthing.svg',
+    'folder-temp-legacy.svg',
+    'folder-temp.svg',
     'folder-vala-legacy.svg',
     'folder-vala.svg',
     # DO NOT REMOVE: End of regular segment

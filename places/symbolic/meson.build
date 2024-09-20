@@ -31,17 +31,57 @@ regular_files = [
     'folder-rust-symbolic.svg',
     'folder-syncthing-legacy-symbolic.svg',
     'folder-syncthing-symbolic.svg',
+    'folder-temp-symbolic.svg',
     'folder-vala-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'folder-vala-symbolic.svg': [
+        'folder-vala-legacy-symbolic.svg',
+    ],
+    'folder-temp-symbolic.svg': [
+        'folder-temp-legacy-symbolic.svg',
+    ],
+    'folder-rust-symbolic.svg': [
+        'folder-rust-legacy-symbolic.svg',
+    ],
+    'folder-ruby-symbolic.svg': [
+        'folder-ruby-legacy-symbolic.svg',
+    ],
+    'folder-r-symbolic.svg': [
+        'folder-r-legacy-symbolic.svg',
+    ],
+    'folder-python-symbolic.svg': [
+        'folder-python-legacy-symbolic.svg',
+    ],
+    'folder-lua-symbolic.svg': [
+        'folder-lua-legacy-symbolic.svg',
+    ],
+    'folder-java-symbolic.svg': [
+        'folder-java-legacy-symbolic.svg',
+    ],
     'folder-godot-symbolic.svg': [
         'folder-godot-legacy-symbolic.svg',
     ],
+    'folder-go-symbolic.svg': [
+        'folder-go-legacy-symbolic.svg',
+    ],
     'folder-dropbox-symbolic.svg': [
         'folder-dropbox-legacy-symbolic.svg',
+    ],
+    'folder-csharp-symbolic.svg': [
+        'folder-csharp-legacy-symbolic.svg',
+    ],
+    'folder-cplusplus-symbolic.svg': [
+        'folder-cplusplus-legacy-symbolic.svg',
+    ],
+    'folder-c-symbolic.svg': [
+        'folder-c-legacy-symbolic.svg',
+    ],
+    'folder-backup-symbolic.svg': [
+        'folder-backup-legacy-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
