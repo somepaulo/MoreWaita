@@ -613,9 +613,6 @@ link_files = {
         'libreoffice7.6-base-symbolic.svg',
         'org.libreoffice.LibreOffice.base-symbolic.svg',
     ],
-    'librewolf.svg': [
-        'io.gitlab.librewolf-community-symbolic.svg'
-    ],
     'kate-symbolic.svg': [
         'kate2-symbolic.svg',
         'org.kde.kate-symbolic.svg',
@@ -1037,6 +1034,11 @@ link_files = {
     'obsidian-symbolic.svg': [
         'appimagekit-obsidian-symbolic.svg',
         'md.obsidian.Obsidian-symbolic.svg',
+    ],
+    'librewolf-symbolic.svg': [
+        'appimagekit-librewolf-symbolic.svg',
+        'io.gitlab.LibreWolf-symbolic.svg',
+        'io.gitlab.librewolf-community-symbolic.svg',
     ],
     'kitty-symbolic.svg': [
         'appimagekit-kitty-symbolic.svg',
