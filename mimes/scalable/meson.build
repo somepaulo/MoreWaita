@@ -26,7 +26,6 @@ regular_files = [
     'application-x-bittorrent.svg',
     'application-x-bitwig-studio.svg',
     'application-x-cd-image.svg',
-    'application-x-com.bitwig.BitwigStudio.svg',
     'application-x-deb.svg',
     'application-x-gettext-translation.svg',
     'application-x-godot-project.svg',
@@ -449,6 +448,15 @@ link_files = {
         'application-x-java-applet.svg',
         'application-x-java.svg',
         'text-x-java-source.svg',
+    ],
+    'application-x-bitwig-studio.svg': [
+        'application-bitwig-clip.svg',
+        'application-bitwig-device.svg',
+        'application-x-bitwig-clip.svg',
+        'application-x-bitwig-device.svg',
+        'application-x-com.bitwig-clip.BitwigStudio.svg',
+        'application-x-com.bitwig-device.BitwigStudio.svg',
+        'application-x-com.bitwig.BitwigStudio.svg',
     ],
     'application-xml.svg': [
         'application-atom+xml.svg',
