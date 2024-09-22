@@ -1,5 +1,6 @@
 # MoreWaita
-**NOTICE:** v46 was skipped due to many reasons. The project is still maintained. v47 coming out early October. Stay tuned.
+> [!NOTE]
+> v46 was skipped due to many reasons. The project is still maintained. v47 coming out early October. Stay tuned.
 
 An Adwaita styled companion icon theme with extra icons for popular apps to fit with Gnome Shell's original icons.  
 The purpose of this theme is to provide third-party apps with a consistent look and feel in Gnome Shell.
@@ -40,7 +41,7 @@ Simply chose another theme and then delete the entire `MoreWaita` folder from ei
 #### Arch Linux
 [AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
 
-~~[AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)~~ Temporarily hijacked
+[AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)
 
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
 
