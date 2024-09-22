@@ -5,6 +5,8 @@ regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'folder-backup-legacy.svg',
     'folder-backup.svg',
+    'folder-bitwig-legacy.svg',
+    'folder-bitwig.svg',
     'folder-books-legacy.svg',
     'folder-books.svg',
     'folder-c-legacy.svg',
@@ -54,6 +56,9 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'folder-bitwig.svg': [
+        'com.bitwig.BitwigStudio.application-bitwig-project-folder.svg',
+    ],
     # DO NOT REMOVE: End of link segment
 }
 
