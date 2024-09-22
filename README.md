@@ -40,7 +40,7 @@ Simply chose another theme and then delete the entire `MoreWaita` folder from ei
 #### Arch Linux
 [AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
 
-[AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)
+~~[AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)~~ Temporarily hijacked
 
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
 
@@ -88,6 +88,6 @@ If your app's `.desktop` file references an icon name not present in MoreWaita's
 
 ## The icons
 _These screenshots show icons currently in git, versioned releases may be behind_
-![apps](https://github.com/somepaulo/MoreWaita/assets/15643750/b5800d54-51d0-448e-93b1-b7b6bd49584e)
-![mimes](https://github.com/somepaulo/MoreWaita/assets/15643750/5dd03a63-2682-46dd-b13d-19f74c7cca07)
-![places](https://github.com/user-attachments/assets/38c29264-e93f-4171-b305-d45fcca92017)
+![apps](https://github.com/user-attachments/assets/b6df7893-efc6-4a0c-8163-d582778bd3a1)
+![mimes](https://github.com/user-attachments/assets/7ca16620-aa3a-4606-8241-10715db66190)
+![places](https://github.com/user-attachments/assets/2898f016-c8f2-4647-b49b-24214fa8829d)
