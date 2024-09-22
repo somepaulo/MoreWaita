@@ -1,4 +1,6 @@
 # MoreWaita
+**NOTICE:** v46 was skipped due to many reasons. The project is still maintained. v47 coming out early October. Stay tuned.
+
 An Adwaita styled companion icon theme with extra icons for popular apps to fit with Gnome Shell's original icons.  
 The purpose of this theme is to provide third-party apps with a consistent look and feel in Gnome Shell.
 
