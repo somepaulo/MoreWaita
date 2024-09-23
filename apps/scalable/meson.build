@@ -238,6 +238,10 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'protonvpn-gui.svg': [
+        'com.protonvpn.www.svg',
+        'protonvpn-logo.svg',
+    ],
     'libreoffice-startcenter.svg': [
         'libreoffice-main.svg',
         'libreoffice4.2-startcenter.svg',
@@ -331,6 +335,9 @@ link_files = {
         'qtconfig-qt5.svg',
         'qtconfig-qt6.svg',
         'qtconfig.svg',
+    ],
+    'protonvpn-logo.svg': [
+        'proton-vpn-logo.svg',
     ],
     'popcorntime.svg': [
         'popcorn-time.svg',
@@ -823,10 +830,6 @@ link_files = {
     ],
     'rawtherapee.svg': [
         'com.rawtherapee.RawTherapee.svg',
-    ],
-    'protonvpn-gui.svg': [
-        'com.protonvpn.www.svg',
-        'protonvpn-logo.svg',
     ],
     'minecraft.svg': [
         'com.mojang.Minecraft.svg',
