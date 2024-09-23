@@ -210,7 +210,6 @@ regular_files = [
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
     'yuzu-symbolic.svg',
-    'zotero-symbolic.svg',
     'zrythm-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -318,9 +317,6 @@ link_files = {
         'pamac-updater-symbolic.svg',
         'system-software-installer-symbolic.svg',
         'system-software-update-symbolic.svg',
-    ],
-    'zotero-symbolic.svg': [
-        'org.zotero.Zotero-symbolic.svg',
     ],
     'warpinator-symbolic.svg': [
         'org.x.Warpinator-symbolic.svg',

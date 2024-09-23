@@ -232,7 +232,6 @@ regular_files = [
     'xsane.svg',
     'yandex-browser.svg',
     'yuzu.svg',
-    'zotero.svg',
     'zrythm.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -343,9 +342,6 @@ link_files = {
     'pamac.svg': [
         'pamac-manager.svg',
         'pamac-updater.svg',
-    ],
-    'zotero.svg': [
-        'org.zotero.Zotero.svg',
     ],
     'warpinator.svg': [
         'org.x.Warpinator.svg',
