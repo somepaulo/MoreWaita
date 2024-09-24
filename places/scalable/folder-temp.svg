@@ -45,6 +45,180 @@
          offset="1"
          id="stop2021" />
     </linearGradient>
+    <clipPath
+       id="s">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path18" />
+    </clipPath>
+    <mask
+       id="r">
+      <g
+         filter="url(#a)"
+         id="g17"
+         style="filter:url(#a-2)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.5"
+           id="path17" />
+      </g>
+    </mask>
+    <filter
+       id="a-2"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix1" />
+    </filter>
+    <clipPath
+       id="q">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path16" />
+    </clipPath>
+    <mask
+       id="p">
+      <g
+         filter="url(#a)"
+         id="g15"
+         style="filter:url(#a-2)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.3"
+           id="path15" />
+      </g>
+    </mask>
+    <clipPath
+       id="o">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path14" />
+    </clipPath>
+    <mask
+       id="n">
+      <g
+         filter="url(#a)"
+         id="g13"
+         style="filter:url(#a-2)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path13" />
+      </g>
+    </mask>
+    <clipPath
+       id="m">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path12" />
+    </clipPath>
+    <mask
+       id="l">
+      <g
+         filter="url(#a)"
+         id="g11"
+         style="filter:url(#a-2)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path11" />
+      </g>
+    </mask>
+    <clipPath
+       id="k">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path10" />
+    </clipPath>
+    <mask
+       id="j">
+      <g
+         filter="url(#a)"
+         id="g9"
+         style="filter:url(#a-2)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path9" />
+      </g>
+    </mask>
+    <clipPath
+       id="i">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path8" />
+    </clipPath>
+    <mask
+       id="h">
+      <g
+         filter="url(#a)"
+         id="g7"
+         style="filter:url(#a-2)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path7" />
+      </g>
+    </mask>
+    <clipPath
+       id="g">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path6" />
+    </clipPath>
+    <mask
+       id="f">
+      <g
+         filter="url(#a)"
+         id="g5"
+         style="filter:url(#a-2)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path5" />
+      </g>
+    </mask>
+    <clipPath
+       id="e">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path4" />
+    </clipPath>
+    <mask
+       id="d">
+      <g
+         filter="url(#a)"
+         id="g3"
+         style="filter:url(#a-2)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path3" />
+      </g>
+    </mask>
+    <clipPath
+       id="c">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path2-7" />
+    </clipPath>
+    <mask
+       id="b-0">
+      <g
+         filter="url(#a)"
+         id="g1"
+         style="filter:url(#a-2)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.3"
+           id="path1" />
+      </g>
+    </mask>
   </defs>
   <linearGradient
      id="a"
@@ -119,10 +293,104 @@
        style="fill:#a4caee;fill-opacity:1;stroke-width:8.79091;stroke-linecap:round;stop-color:#000000"
        d="m 2808.014,-1282.4259 c -6.0429,0 -11.5016,2.4179 -15.4646,6.3426 -5.0031,4.9549 -11.8483,11.2197 -18.9936,11.2197 h -62.3494 c -12.1618,0 -21.9544,9.791 -21.9544,21.9528 v 122.8867 c 0,12.1618 9.7926,21.9528 21.9544,21.9528 h 184.9089 c 12.1619,0 21.9545,-9.791 21.9545,-21.9528 v -109.7149 -13.1718 -17.5623 c 0,-12.1618 -9.7926,-21.9528 -21.9545,-21.9528 z" />
   </g>
+  <g
+     clip-path="url(#c)"
+     mask="url(#b-0)"
+     transform="translate(-384,-268)"
+     id="g19">
+    <path
+       d="m 562.46094,212.05859 h 10.44922 c -1.1836,0.49219 -1.29688,2.46094 0,3 h -10.44922 z m 0,0"
+       fill="#2e3436"
+       id="path19" />
+  </g>
   <path
-     id="path1-56"
-     clip-path="none"
-     mask="none"
-     style="fill:#438de6;fill-opacity:1;stroke-width:2.13723"
-     d="m 65.696086,59.983965 c -8.827381,0 -16.000011,7.172609 -16.000011,16.000011 0,8.82738 7.17263,15.999988 16.000011,15.999988 8.82738,0 16.00001,-7.172608 16.00001,-15.999988 0,-8.827402 -7.17263,-16.000011 -16.00001,-16.000011 z m 0,4.216007 c 6.517291,0 11.783982,5.266712 11.783982,11.784004 0,6.517291 -5.266691,11.783982 -11.783982,11.783982 -6.517292,0 -11.783982,-5.266691 -11.783982,-11.783982 0,-6.517292 5.26669,-11.784004 11.783982,-11.784004 z m -6.442799,4.294414 c -0.813857,-0.0075 -1.327838,1.049319 -0.823506,1.685871 1.167505,1.21351 2.37966,2.38665 3.564534,3.584454 1.017645,1.00859 2.017899,2.036058 3.046475,3.032782 0.483143,0.344006 1.100228,0.176131 1.654089,0.216418 2.125379,-0.004 4.251168,0.0079 6.376288,-0.006 1.002867,-0.08405 1.122508,-1.708948 0.205428,-2.020794 -0.608824,-0.10298 -1.236775,-0.02895 -1.854169,-0.05137 -1.774621,0 -3.549243,0 -5.323864,0 -2.063711,-2.07348 -4.135441,-4.139421 -6.203114,-6.208687 -0.177772,-0.148522 -0.40512,-0.256718 -0.642161,-0.232713 z" />
+     id="path21"
+     d="m 60.571419,69.126821 h 6.85714 l -3.42857,3 z m 0,0 m -13.71429,-9.142857 v 4.571429 h 4.57143 v 5.642857 l 6.85714,5.714285 v 0.142858 l -6.85714,5.714285 v 5.642857 h -4.57143 v 4.571429 h 34.28571 v -4.571429 h -4.57142 v -5.642857 l -6.85715,-5.714285 v -0.142858 l 6.85715,-5.714285 v -5.642857 h 4.57142 v -4.571429 z m 9.14286,4.571429 h 16 v 3.5 l -6.85715,5.714285 v 4.428572 l 6.85715,5.714285 v 3.5 h -2.28572 l -5.71428,-5 -5.71429,5 h -2.28571 v -3.5 l 6.85714,-5.714285 v -4.428572 l -6.85714,-5.714285 z m 0,0"
+     style="fill:#438de6;fill-opacity:1;stroke-width:2.28571" />
+  <g
+     clip-path="url(#e)"
+     mask="url(#d)"
+     transform="translate(-384,-268)"
+     id="g22">
+    <path
+       d="m 16,748 h 1 v 1 h -1 z m 0,0"
+       fill="#2e3436"
+       fill-rule="evenodd"
+       id="path22" />
+  </g>
+  <g
+     clip-path="url(#g)"
+     mask="url(#f)"
+     transform="translate(-384,-268)"
+     id="g23">
+    <path
+       d="m 17,747 h 1 v 1 h -1 z m 0,0"
+       fill="#2e3436"
+       fill-rule="evenodd"
+       id="path23" />
+  </g>
+  <g
+     clip-path="url(#i)"
+     mask="url(#h)"
+     transform="translate(-384,-268)"
+     id="g24">
+    <path
+       d="m 18,750 h 1 v 1 h -1 z m 0,0"
+       fill="#2e3436"
+       fill-rule="evenodd"
+       id="path24" />
+  </g>
+  <g
+     clip-path="url(#k)"
+     mask="url(#j)"
+     transform="translate(-384,-268)"
+     id="g25">
+    <path
+       d="m 16,750 h 1 v 1 h -1 z m 0,0"
+       fill="#2e3436"
+       fill-rule="evenodd"
+       id="path25" />
+  </g>
+  <g
+     clip-path="url(#m)"
+     mask="url(#l)"
+     transform="translate(-384,-268)"
+     id="g26">
+    <path
+       d="m 17,751 h 1 v 1 h -1 z m 0,0"
+       fill="#2e3436"
+       fill-rule="evenodd"
+       id="path26" />
+  </g>
+  <g
+     clip-path="url(#o)"
+     mask="url(#n)"
+     transform="translate(-384,-268)"
+     id="g27">
+    <path
+       d="m 19,751 h 1 v 1 h -1 z m 0,0"
+       fill="#2e3436"
+       fill-rule="evenodd"
+       id="path27" />
+  </g>
+  <g
+     clip-path="url(#q)"
+     mask="url(#p)"
+     transform="translate(-384,-268)"
+     id="g28">
+    <path
+       d="m 136,776 v 7 h 7 v -7 z m 0,0"
+       fill="#2e3436"
+       id="path28" />
+  </g>
+  <g
+     clip-path="url(#s)"
+     mask="url(#r)"
+     transform="translate(-384,-268)"
+     id="g29">
+    <path
+       d="m 219,758 h 3 v 12 h -3 z m 0,0"
+       fill="#2e3436"
+       id="path29" />
+  </g>
 </svg>
