@@ -31,6 +31,8 @@ regular_files = [
     'folder-java.svg',
     'folder-lua-legacy.svg',
     'folder-lua.svg',
+    'folder-money-legacy.svg',
+    'folder-money.svg',
     'folder-nextcloud-legacy.svg',
     'folder-nextcloud.svg',
     'folder-private-legacy.svg',
@@ -58,6 +60,9 @@ link_files = {
     # DO NOT REMOVE: Begining of link segment
     'folder-bitwig.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder.svg',
+    ],
+    'folder-bitwig-legacy.svg': [
+        'com.bitwig.BitwigStudio.application-bitwig-project-folder-legacy.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

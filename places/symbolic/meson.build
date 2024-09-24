@@ -20,6 +20,7 @@ regular_files = [
     'folder-godot-symbolic.svg',
     'folder-java-symbolic.svg',
     'folder-lua-symbolic.svg',
+    'folder-money-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
     'folder-private-legacy-symbolic.svg',
@@ -56,6 +57,9 @@ link_files = {
     ],
     'folder-python-symbolic.svg': [
         'folder-python-legacy-symbolic.svg',
+    ],
+    'folder-money-symbolic.svg': [
+        'folder-money-legacy-symbolic.svg',
     ],
     'folder-lua-symbolic.svg': [
         'folder-lua-legacy-symbolic.svg',
