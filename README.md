@@ -5,11 +5,11 @@
 
 ## Introduction
 
-An expansive Adwaita-styled companion icon theme, built mostly upon the work of Gnome's Adwaita designers and Gnome Circle apps' developers, as well as Papirus theme designers, with a touch of tinkering from myself, [@dusansimic](https://github.com/dusansimic), [@julianfairfax](https://github.com/julianfairfax) and others.
+An expansive Adwaita-styled companion icon theme, built mostly upon the work of GNOME's Adwaita designers and GNOME Circle apps' developers, as well as Papirus theme designers, with a touch of tinkering from myself, [@dusansimic](https://github.com/dusansimic), [@julianfairfax](https://github.com/julianfairfax) and others.
 
 ## Installation
 
-#### Manual installation & Update
+#### Manual installation & update
 ```sh
 # local user installation
 git clone https://github.com/somepaulo/MoreWaita.git && cd MoreWaita && ./install.sh
