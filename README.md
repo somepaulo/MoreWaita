@@ -23,15 +23,20 @@ git clone https://github.com/somepaulo/MoreWaita.git && cd MoreWaita && sudo ./i
 Simply chose another theme and then delete the entire `MoreWaita` folder from either `/usr/share/icons/` or `~/.local/share/icons/` depending on your installation choice above. 
 
 #### Arch Linux
-- [AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
-- [AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)
+- git : `pacman -S morewaita-git`
+- versioned : `pacman -S morewaita`
 - [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
 
 #### Fedora Linux
-[COPR repository](https://copr.fedorainfracloud.org/coprs/dusansimic/themes)
+Install via [@dusansimic's COPR](https://copr.fedorainfracloud.org/coprs/dusansimic/themes):
 
-1. Enable COPR repository `dnf copr enable dusansimic/themes`
-2. Install the package `dnf install morewaita-icon-theme`
+```sh
+# enable dusansimic's COPR
+dnf copr enable dusansimic/themes
+
+# install the package
+dnf install morewaita-icon-theme
+```
 
 #### Ubuntu/Debian Linux
 
