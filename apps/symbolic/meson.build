@@ -110,6 +110,7 @@ regular_files = [
     'librewolf-symbolic.svg',
     'liferea-symbolic.svg',
     'linguist-symbolic.svg',
+    'logseq-symbolic.svg',
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
     'mathematica-symbolic.svg',
@@ -210,6 +211,7 @@ regular_files = [
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
     'yuzu-symbolic.svg',
+    'zed.svg',
     'zrythm-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -615,6 +617,10 @@ link_files = {
         'libreoffice7.5-base-symbolic.svg',
         'libreoffice7.6-base-symbolic.svg',
         'org.libreoffice.LibreOffice.base-symbolic.svg',
+    ],
+    'logseq-symbolic.svg': [
+        'appimagekit-logseq-symbolic.svg',
+        'com.logseq.Logseq-symbolic.svg'
     ],
     'kate-symbolic.svg': [
         'kate2-symbolic.svg',
@@ -1152,6 +1158,9 @@ link_files = {
     'alacritty-symbolic.svg': [
         'Alacritty-symbolic.svg',
         'com.alacritty.Alacritty-symbolic.svg',
+    ],
+    'zed-symbolic.svg': [
+        'dev.zed.Zed-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
