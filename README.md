@@ -5,7 +5,7 @@
 
 ## Introduction
 
-An expansive Adwaita-styled companion icon theme, built mostly upon the work of GNOME's Adwaita designers and GNOME Circle apps' developers, as well as Papirus theme designers, with a touch of tinkering from myself, [@dusansimic](https://github.com/dusansimic), [@julianfairfax](https://github.com/julianfairfax) and others.
+An expanded Adwaita-styled companion icon theme, built mostly upon the work of GNOME's Adwaita designers and GNOME Circle apps' developers, as well as Papirus theme designers, with a touch of tinkering from myself, [@dusansimic](https://github.com/dusansimic), [@julianfairfax](https://github.com/julianfairfax) and others.
 
 ## Installation
 
