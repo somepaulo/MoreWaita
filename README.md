@@ -1,9 +1,7 @@
 > [!NOTE]
 > v46 was skipped due to many reasons. The project is still maintained. v47 coming out early October. Stay tuned.
 
-![icons showcase][showcase]                                                                                  
-
-[showcase]: showcase.png "Showcase image"
+![showcase](https://github.com/user-attachments/assets/d96965ad-6093-493f-90e8-3b19256bdaa6)
 
 ## Introduction
 
@@ -24,11 +22,9 @@ git clone https://github.com/somepaulo/MoreWaita.git && cd MoreWaita && sudo ./i
 Simply chose another theme and then delete the entire `MoreWaita` folder from either `/usr/share/icons/` or `~/.local/share/icons/` depending on your installation choice above. 
 
 #### Arch Linux
-[AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
-
-[AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)
-
-[Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
+- [AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
+- [AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)
+- [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
 
 #### Fedora Linux
 [COPR repository](https://copr.fedorainfracloud.org/coprs/dusansimic/themes)
@@ -43,7 +39,9 @@ Simply chose another theme and then delete the entire `MoreWaita` folder from ei
 ## Activation
 Either use the `Tweaks` app to choose and activate the icon theme or run the following command:
 
-`gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'`
+```sh
+gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
+```
 
 ## Using custom folder icons
 1. Open Files (Nautilus).
@@ -62,19 +60,14 @@ Either use the `Tweaks` app to choose and activate the icon theme or run the fol
 #### Theme doesn't apply
 If the theme doesn't apply try the following command:
 
-##### For system-wide installation
-`sudo gtk-update-icon-cache -f -t /usr/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
+```sh
+# local user installation
+gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate
 
-##### For local installation
-`gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate`
+# system-wide installation
+sudo gtk-update-icon-cache -f -t /usr/share/icons/MoreWaita && xdg-desktop-menu forceupdate
+```
 
 #### Some apps don't get themed
 If the theme applies, but a particular app doesn't get themed (and its icon is in MoreWaita), check its respective `.desktop` file. Some apps have icon paths hardcoded into their `.desktop` file or have a different icon name set there or no icon set at all. This can differ between distros. If you happen to have such apps, you'll need to copy their `.desktop` files into `~/.local/share/applications` and modify them there providing the correct icon name. Alternatively, use a menu editor like `MenuLibre` or `Alacarte`.  
 If your app's `.desktop` file references an icon name not present in MoreWaita's `apps/scalable` folder, please report it in an issue providing the icon name from your system. 
-
-## The icons
-_These screenshots show icons currently in git, versioned releases may be behind_
-
-![apps](https://github.com/user-attachments/assets/6abe100f-15cb-4a61-83ee-fb3cbd76f803)
-![mimes](https://github.com/user-attachments/assets/2fabef69-0c0c-406d-8ae1-7c9b7cea02d9)
-![places](https://github.com/user-attachments/assets/453458f3-04a4-4e23-a219-8abc21dcf12e)
