@@ -1,7 +1,7 @@
 > [!NOTE]
 > v46 was skipped due to many reasons. The project is still maintained. v47 coming out early October. Stay tuned.
 
-![showcase](https://github.com/user-attachments/assets/d96965ad-6093-493f-90e8-3b19256bdaa6)
+[showcase]: showcase.png "Showcase image"
 
 ## Introduction
 
