@@ -1,39 +1,24 @@
-# MoreWaita
 > [!NOTE]
 > v46 was skipped due to many reasons. The project is still maintained. v47 coming out early October. Stay tuned.
 
-An Adwaita styled companion icon theme with extra icons for popular apps to fit with Gnome Shell's original icons.  
-The purpose of this theme is to provide third-party apps with a consistent look and feel in Gnome Shell.
+![icons showcase][showcase]                                                                                  
 
-**NB**: This theme requires Adwaita in order to work.
+[showcase]: showcase.png "Showcase image"
 
-This theme is built mostly upon the work of Gnome's Adwaita designers and Gnome Circle apps' developers, as well as Papirus theme designers, with a touch of tinkering from myself, [@dusansimic](https://github.com/dusansimic), [@julianfairfax](https://github.com/julianfairfax) and others here and there. The theme provides icons for the most popular apps people really do install and use, and also covers the most frequently installed dependency GUI apps that almost nobody uses (like Avahi browsers, QT Designer, Software token, etc.).
+## Introduction
 
-The goal of MoreWaita is to add to Adwaita, not modify it, and to do roughly what Breeze does for KDE. This theme does not override any Adwaita icons, nor any Gnome Circle apps icons, nor icons that generally fit into the Adwaita paradigm (like Transmission GTK). Currently, this theme is way less all-inclusive than many others, but the aim is to be on par with Papirus some day. However, this is (mostly) a one-man hobby effort, albeit with some greatly appreciated help, so suggestions, requests, PRs and contributions are very welcome. In the meantime, I'll focus on adding icons that the community is requesting.
-
-For most icons, especially branded ones, the general idea is to stay as close as possible to the original icons – to the point of using them in full – and giving them the distinct Adwaita 'perspective' and general flatness. One thing this theme deviates from is the Gnome colour palette in brand icons – MoreWaita keeps the brand colours.
-
-This theme is built and tested against vanilla Gnome on Arch Linux. If an icon is in the theme, but is not applying to your app, please open an issue and mention the icon name referenced in your app's `.desktop` file.
+An expansive Adwaita-styled companion icon theme, built mostly upon the work of Gnome's Adwaita designers and Gnome Circle apps' developers, as well as Papirus theme designers, with a touch of tinkering from myself, [@dusansimic](https://github.com/dusansimic), [@julianfairfax](https://github.com/julianfairfax) and others.
 
 ## Installation
 
-#### Manual installation
-##### Download the theme
-`git clone https://github.com/somepaulo/MoreWaita.git`
+#### Manual installation & Update
+```sh
+# local user installation
+git clone https://github.com/somepaulo/MoreWaita.git && cd MoreWaita && ./install.sh
 
-##### Enter the downloaded folder
-`cd MoreWaita`
-
-##### Install system-wide (recommended)
-`sudo ./install.sh`  
-This copies the whole theme folder without the build files into `/usr/share/icons/`. You will be prompted for your password.
-
-##### Install for local user
-`./install.sh`  
-This copies the whole theme folder without the build files into `~/.local/share/icons/`.
-
-##### Update
-Use the same steps as for installation.
+# system-wide installation
+git clone https://github.com/somepaulo/MoreWaita.git && cd MoreWaita && sudo ./install.sh
+```
 
 ##### Uninstall
 Simply chose another theme and then delete the entire `MoreWaita` folder from either `/usr/share/icons/` or `~/.local/share/icons/` depending on your installation choice above. 
