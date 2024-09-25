@@ -13,7 +13,8 @@ An expanded Adwaita-styled companion icon theme, built mostly upon the work of G
 ```sh
 # local user installation
 git clone https://github.com/somepaulo/MoreWaita.git && cd MoreWaita && ./install.sh
-
+```
+```sh
 # system-wide installation
 git clone https://github.com/somepaulo/MoreWaita.git && cd MoreWaita && sudo ./install.sh
 ```
@@ -63,7 +64,8 @@ If the theme doesn't apply try the following command:
 ```sh
 # local user installation
 gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate
-
+```
+```sh
 # system-wide installation
 sudo gtk-update-icon-cache -f -t /usr/share/icons/MoreWaita && xdg-desktop-menu forceupdate
 ```
