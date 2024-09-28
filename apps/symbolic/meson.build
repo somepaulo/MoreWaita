@@ -162,6 +162,7 @@ regular_files = [
     'qv4l2-symbolic.svg',
     'rawtherapee-symbolic.svg',
     'resolve-symbolic.svg',
+    'retroarch-symbolic.svg',
     'rider-symbolic.svg',
     'rstudio-symbolic.svg',
     'rubymine-symbolic.svg',
@@ -1133,6 +1134,10 @@ link_files = {
     'resolve-symbolic.svg': [
         'DV_Resolve-symbolic.svg',
         'davinci-resolve-symbolic.svg',
+    ],
+    'retroarch-symbolic.svg': [
+        'appimagekit-retroarch-symbolic.svg',
+        'org.libretro.RetroArch-symbolic.svg',
     ],
     'CMakeSetup-symbolic.svg': [
         'CMakeSetup32-symbolic.svg',
