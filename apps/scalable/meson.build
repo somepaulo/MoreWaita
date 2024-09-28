@@ -183,6 +183,7 @@ regular_files = [
     'qv4l2.svg',
     'rawtherapee.svg',
     'resolve.svg',
+    'retroarch.svg',
     'rider.svg',
     'rstudio.svg',
     'rubymine.svg',
@@ -1186,6 +1187,10 @@ link_files = {
     'resolve.svg': [
         'DV_Resolve.svg',
         'davinci-resolve.svg',
+    ],
+    'retroarch.svg: [
+        'appimagekit-retroarch.svg',
+        'org.libretro.RetroArch.svg',
     ],
     'CMakeSetup.svg': [
         'CMakeSetup32.svg',
