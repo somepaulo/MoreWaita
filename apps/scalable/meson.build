@@ -125,6 +125,7 @@ regular_files = [
     'librewolf.svg',
     'liferea.svg',
     'linguist.svg',
+    'logseq.svg',
     'lvim.svg',
     'mailspring.svg',
     'mathematica.svg',
@@ -182,6 +183,7 @@ regular_files = [
     'qv4l2.svg',
     'rawtherapee.svg',
     'resolve.svg',
+    'retroarch.svg',
     'rider.svg',
     'rstudio.svg',
     'rubymine.svg',
@@ -232,6 +234,7 @@ regular_files = [
     'xsane.svg',
     'yandex-browser.svg',
     'yuzu.svg',
+    'zed.svg',
     'zrythm.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -1093,6 +1096,10 @@ link_files = {
         'io.gitlab.LibreWolf.svg',
         'io.gitlab.librewolf-community.svg',
     ],
+    'logseq.svg': [
+        'appimagekit-logseq.svg',
+        'com.logseq.Logseq.svg',
+    ],
     'kitty.svg': [
         'appimagekit-kitty.svg',
     ],
@@ -1181,6 +1188,10 @@ link_files = {
         'DV_Resolve.svg',
         'davinci-resolve.svg',
     ],
+    'retroarch.svg: [
+        'appimagekit-retroarch.svg',
+        'org.libretro.RetroArch.svg',
+    ],
     'CMakeSetup.svg': [
         'CMakeSetup32.svg',
         'cmake-gui.svg',
@@ -1205,6 +1216,9 @@ link_files = {
     'alacritty.svg': [
         'Alacritty.svg',
         'com.alacritty.Alacritty.svg',
+    ],
+    'zed.svg': [
+        'dev.zed.Zed.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
