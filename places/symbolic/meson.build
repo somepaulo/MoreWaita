@@ -18,6 +18,7 @@ regular_files = [
     'folder-git-symbolic.svg',
     'folder-go-symbolic.svg',
     'folder-godot-symbolic.svg',
+    'folder-kicad-symbolic.svg',
     'folder-java-symbolic.svg',
     'folder-lua-symbolic.svg',
     'folder-money-symbolic.svg',
@@ -91,6 +92,9 @@ link_files = {
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
         'folder-bitwig-legacy-symbolic.svg',
+    ],
+    'folder-kicad-symbolic.svg': [
+        'folder-kicad-legacy-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

@@ -26,6 +26,8 @@ regular_files = [
     'folder-go.svg',
     'folder-godot-legacy.svg',
     'folder-godot.svg',
+    'folder-kicad-legacy.svg',
+    'folder-kicad.svg',
     'folder-java-legacy.svg',
     'folder-java.svg',
     'folder-lua-legacy.svg',
