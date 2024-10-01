@@ -12,6 +12,7 @@ regular_files = [
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
     'folder-dropbox-symbolic.svg',
+    'folder-freecad-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
     'folder-games-symbolic.svg',
     'folder-git-legacy-symbolic.svg',
@@ -91,6 +92,9 @@ link_files = {
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
         'folder-bitwig-legacy-symbolic.svg',
+    ],
+    'folder-freecad-symbolic.svg': [
+        'folder-freecad-legacy-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

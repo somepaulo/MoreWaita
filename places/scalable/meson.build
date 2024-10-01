@@ -18,6 +18,8 @@ regular_files = [
     'folder-csharp.svg',
     'folder-dropbox-legacy.svg',
     'folder-dropbox.svg',
+    'folder-freecad-legacy.svg',
+    'folder-freecad.svg',
     'folder-games-legacy.svg',
     'folder-games.svg',
     'folder-git-legacy.svg',
