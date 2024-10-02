@@ -28,6 +28,8 @@ regular_files = [
     'folder-godot.svg',
     'folder-java-legacy.svg',
     'folder-java.svg',
+    'folder-kde-legacy.svg',
+    'folder-kde.svg',
     'folder-lua-legacy.svg',
     'folder-lua.svg',
     'folder-money-legacy.svg',
