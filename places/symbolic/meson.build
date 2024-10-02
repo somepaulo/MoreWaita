@@ -17,16 +17,16 @@ regular_files = [
     'folder-freecad-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
     'folder-games-symbolic.svg',
-    'folder-gnome-symbolic.svg',
     'folder-git-legacy-symbolic.svg',
     'folder-git-symbolic.svg',
     'folder-github-symbolic.svg',
     'folder-gitlab-symbolic.svg',
+    'folder-gnome-symbolic.svg',
     'folder-go-symbolic.svg',
     'folder-godot-symbolic.svg',
-    'folder-kicad-symbolic.svg',
     'folder-java-symbolic.svg',
     'folder-kde-symbolic.svg',
+    'folder-kicad-symbolic.svg',
     'folder-lua-symbolic.svg',
     'folder-money-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
@@ -67,11 +67,20 @@ link_files = {
     'folder-python-symbolic.svg': [
         'folder-python-legacy-symbolic.svg',
     ],
+    'folder-openscad-symbolic.svg': [
+        'folder-openscad-legacy-symbolic.svg',
+    ],
     'folder-money-symbolic.svg': [
         'folder-money-legacy-symbolic.svg',
     ],
     'folder-lua-symbolic.svg': [
         'folder-lua-legacy-symbolic.svg',
+    ],
+    'folder-kicad-symbolic.svg': [
+        'folder-kicad-legacy-symbolic.svg',
+    ],
+    'folder-kde-symbolic.svg': [
+        'folder-kde-legacy-symbolic.svg',
     ],
     'folder-java-symbolic.svg': [
         'folder-java-legacy-symbolic.svg',
@@ -82,6 +91,18 @@ link_files = {
     'folder-go-symbolic.svg': [
         'folder-go-legacy-symbolic.svg',
     ],
+    'folder-gnome-symbolic.svg': [
+        'folder-gnome-legacy-symbolic.svg',
+    ],
+    'folder-gitlab-symbolic.svg': [
+        'folder-gitlab-legacy-symbolic.svg',
+    ],
+    'folder-github-symbolic.svg': [
+        'folder-github-legacy-symbolic.svg',
+    ],
+    'folder-freecad-symbolic.svg': [
+        'folder-freecad-legacy-symbolic.svg',
+    ],
     'folder-dropbox-symbolic.svg': [
         'folder-dropbox-legacy-symbolic.svg',
     ],
@@ -91,34 +112,21 @@ link_files = {
     'folder-cplusplus-symbolic.svg': [
         'folder-cplusplus-legacy-symbolic.svg',
     ],
+    'folder-codeberg-symbolic.svg': [
+        'folder-codeberg-legacy-symbolic.svg',
+    ],
     'folder-c-symbolic.svg': [
         'folder-c-legacy-symbolic.svg',
     ],
     'folder-backup-symbolic.svg': [
         'folder-backup-legacy-symbolic.svg',
     ],
+    'folder-arduino-symbolic.svg': [
+        'folder-arduino-legacy-symbolic.svg',
+    ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
         'folder-bitwig-legacy-symbolic.svg',
-    ],
-    'folder-gnome-symbolic.svg': [
-        'folder-gnome-legacy-symbolic.svg',
-    'folder-kde-symbolic.svg': [
-        'folder-kde-legacy-symbolic.svg',
-    'folder-openscad-symbolic.svg': [
-        'folder-openscad-legacy-symbolic.svg',
-    'folder-kicad-symbolic.svg': [
-        'folder-kicad-legacy-symbolic.svg',
-    'folder-freecad-symbolic.svg': [
-        'folder-freecad-legacy-symbolic.svg',
-    'folder-arduino-symbolic.svg': [
-        'folder-arduino-legacy-symbolic.svg',
-    'folder-codeberg-symbolic.svg': [
-        'folder-codeberg-legacy-symbolic.svg',
-    'folder-github-symbolic.svg': [
-        'folder-github-legacy-symbolic.svg',
-    'folder-gitlab-symbolic.svg': [
-        'folder-gitlab-legacy-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
