@@ -17,6 +17,7 @@ regular_files = [
     'folder-freecad-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
     'folder-games-symbolic.svg',
+    'folder-gnome-symbolic.svg',
     'folder-git-legacy-symbolic.svg',
     'folder-git-symbolic.svg',
     'folder-github-symbolic.svg',
@@ -100,6 +101,8 @@ link_files = {
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
         'folder-bitwig-legacy-symbolic.svg',
     ],
+    'folder-gnome-symbolic.svg': [
+        'folder-gnome-legacy-symbolic.svg',
     'folder-kde-symbolic.svg': [
         'folder-kde-legacy-symbolic.svg',
     'folder-openscad-symbolic.svg': [

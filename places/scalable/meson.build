@@ -28,6 +28,8 @@ regular_files = [
     'folder-games.svg',
     'folder-git-legacy.svg',
     'folder-git.svg',
+    'folder-gnome-legacy.svg',
+    'folder-gnome.svg',
     'folder-github-legacy.svg',
     'folder-github.svg',
     'folder-gitlab-legacy.svg',
