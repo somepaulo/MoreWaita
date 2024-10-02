@@ -25,6 +25,7 @@ regular_files = [
     'folder-godot-symbolic.svg',
     'folder-kicad-symbolic.svg',
     'folder-java-symbolic.svg',
+    'folder-kde-symbolic.svg',
     'folder-lua-symbolic.svg',
     'folder-money-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
@@ -99,6 +100,8 @@ link_files = {
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
         'folder-bitwig-legacy-symbolic.svg',
     ],
+    'folder-kde-symbolic.svg': [
+        'folder-kde-legacy-symbolic.svg',
     'folder-openscad-symbolic.svg': [
         'folder-openscad-legacy-symbolic.svg',
     'folder-kicad-symbolic.svg': [
