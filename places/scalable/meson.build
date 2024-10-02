@@ -46,6 +46,8 @@ regular_files = [
     'folder-money.svg',
     'folder-nextcloud-legacy.svg',
     'folder-nextcloud.svg',
+    'folder-openscad-legacy.svg',
+    'folder-openscad.svg',
     'folder-private-legacy.svg',
     'folder-private.svg',
     'folder-projects-legacy.svg',
