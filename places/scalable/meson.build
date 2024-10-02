@@ -12,6 +12,8 @@ regular_files = [
     'folder-c.svg',
     'folder-code-legacy.svg',
     'folder-code.svg',
+    'folder-codeberg-legacy.svg',
+    'folder-codeberg.svg',
     'folder-cplusplus-legacy.svg',
     'folder-cplusplus.svg',
     'folder-csharp-legacy.svg',

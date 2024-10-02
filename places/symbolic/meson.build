@@ -9,6 +9,7 @@ regular_files = [
     'folder-c-symbolic.svg',
     'folder-code-legacy-symbolic.svg',
     'folder-code-symbolic.svg',
+    'folder-codeberg-symbolic.svg',
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
     'folder-dropbox-symbolic.svg',
@@ -91,6 +92,9 @@ link_files = {
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
         'folder-bitwig-legacy-symbolic.svg',
+    ],
+    'folder-codeberg-symbolic.svg': [
+        'folder-codeberg-legacy-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
