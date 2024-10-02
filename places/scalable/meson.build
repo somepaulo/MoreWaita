@@ -24,6 +24,8 @@ regular_files = [
     'folder-git.svg',
     'folder-github-legacy.svg',
     'folder-github.svg',
+    'folder-gitlab-legacy.svg',
+    'folder-gitlab.svg',
     'folder-go-legacy.svg',
     'folder-go.svg',
     'folder-godot-legacy.svg',

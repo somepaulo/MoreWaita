@@ -17,6 +17,7 @@ regular_files = [
     'folder-git-legacy-symbolic.svg',
     'folder-git-symbolic.svg',
     'folder-github-symbolic.svg',
+    'folder-gitlab-symbolic.svg',
     'folder-go-symbolic.svg',
     'folder-godot-symbolic.svg',
     'folder-java-symbolic.svg',
@@ -95,6 +96,8 @@ link_files = {
     ],
     'folder-github-symbolic.svg': [
         'folder-github-legacy-symbolic.svg',
+    'folder-gitlab-symbolic.svg': [
+        'folder-gitlab-legacy-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
