@@ -2,6 +2,7 @@ symbolic_places_iconsdir = join_paths(places_iconsdir, 'symbolic')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
+    'folder-arduino-symbolic.svg',
     'folder-backup-symbolic.svg',
     'folder-bitwig-symbolic.svg',
     'folder-books-legacy-symbolic.svg',
@@ -9,21 +10,27 @@ regular_files = [
     'folder-c-symbolic.svg',
     'folder-code-legacy-symbolic.svg',
     'folder-code-symbolic.svg',
+    'folder-codeberg-symbolic.svg',
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
     'folder-dropbox-symbolic.svg',
+    'folder-freecad-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
     'folder-games-symbolic.svg',
     'folder-git-legacy-symbolic.svg',
     'folder-git-symbolic.svg',
+    'folder-github-symbolic.svg',
+    'folder-gitlab-symbolic.svg',
     'folder-go-symbolic.svg',
     'folder-godot-symbolic.svg',
+    'folder-kicad-symbolic.svg',
     'folder-java-symbolic.svg',
     'folder-kde-symbolic.svg',
     'folder-lua-symbolic.svg',
     'folder-money-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
+    'folder-openscad-symbolic.svg',
     'folder-private-legacy-symbolic.svg',
     'folder-private-symbolic.svg',
     'folder-projects-legacy-symbolic.svg',
@@ -95,6 +102,20 @@ link_files = {
     ],
     'folder-kde-symbolic.svg': [
         'folder-kde-legacy-symbolic.svg',
+    'folder-openscad-symbolic.svg': [
+        'folder-openscad-legacy-symbolic.svg',
+    'folder-kicad-symbolic.svg': [
+        'folder-kicad-legacy-symbolic.svg',
+    'folder-freecad-symbolic.svg': [
+        'folder-freecad-legacy-symbolic.svg',
+    'folder-arduino-symbolic.svg': [
+        'folder-arduino-legacy-symbolic.svg',
+    'folder-codeberg-symbolic.svg': [
+        'folder-codeberg-legacy-symbolic.svg',
+    'folder-github-symbolic.svg': [
+        'folder-github-legacy-symbolic.svg',
+    'folder-gitlab-symbolic.svg': [
+        'folder-gitlab-legacy-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
