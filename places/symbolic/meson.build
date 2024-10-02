@@ -23,6 +23,7 @@ regular_files = [
     'folder-money-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
+    'folder-openscad-symbolic.svg',
     'folder-private-legacy-symbolic.svg',
     'folder-private-symbolic.svg',
     'folder-projects-legacy-symbolic.svg',
@@ -91,6 +92,9 @@ link_files = {
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
         'folder-bitwig-legacy-symbolic.svg',
+    ],
+    'folder-openscad-symbolic.svg': [
+        'folder-openscad-legacy-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
