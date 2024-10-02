@@ -14,6 +14,7 @@ regular_files = [
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
     'folder-dropbox-symbolic.svg',
+    'folder-freecad-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
     'folder-games-symbolic.svg',
     'folder-git-legacy-symbolic.svg',
@@ -96,6 +97,8 @@ link_files = {
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
         'folder-bitwig-legacy-symbolic.svg',
     ],
+    'folder-freecad-symbolic.svg': [
+        'folder-freecad-legacy-symbolic.svg',
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     'folder-codeberg-symbolic.svg': [
