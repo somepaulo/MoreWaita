@@ -22,6 +22,8 @@ regular_files = [
     'folder-games.svg',
     'folder-git-legacy.svg',
     'folder-git.svg',
+    'folder-gnome-legacy.svg',
+    'folder-gnome.svg',
     'folder-go-legacy.svg',
     'folder-go.svg',
     'folder-godot-legacy.svg',
