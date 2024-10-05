@@ -159,6 +159,7 @@ regular_files = [
     'org.inkscape.Inkscape.svg',
     'org.onlyoffice.desktopeditors.svg',
     'org.parlatype.Parlatype.svg',
+    'org.qbittorrent.qBittorrent.svg',
     'osmscout-server.svg',
     'pacseek.svg',
     'pamac.svg',

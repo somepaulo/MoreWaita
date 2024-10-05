@@ -140,6 +140,7 @@ regular_files = [
     'org.fdroid.Repomaker-symbolic.svg',
     'org.inkscape.Inkscape-symbolic.svg',
     'org.onlyoffice.desktopeditors-symbolic.svg',
+    'org.qbittorrent.qBittorrent-symbolic.svg',
     'osmscout-server-symbolic.svg',
     'pacseek-symbolic.svg',
     'phpstorm-symbolic.svg',
