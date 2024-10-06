@@ -495,6 +495,9 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 ```
 
 ## Using custom folder icons
+
+### GUI method
+
 1. Open Files (Nautilus).
 2. Find the folder you wish to change the icon for.
 3. Right click on the folder.
@@ -505,6 +508,29 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 8. Click `Open`.
 9. Follow the same procedure to revert the icon. Just click `Revert` instead of selecting a new icon in step 7.
 ![change_folder_icon](https://github.com/somepaulo/MoreWaita/assets/15643750/05e88cbc-3c77-4e1b-a8bd-3e15b84972fa)
+
+### CLI method
+
+If you need to assign the icons using the CLI you have to use the GIO command-line tool.
+
+- Set a custom (C programming language) icon on a folder:
+
+    ```sh
+    gio set $HOME/Coding/C metadata::custom-icon \
+           file:///usr/share/icons/MoreWaita/places/scalable/folder-c.svg
+    ```
+
+- You can confirm the change showing the `metadata::custom-icon` attribute with:
+
+    ```sh
+    gio info --attributes="metadata::custom-icon" $HOME/Coding/C
+    ```
+
+- To delete the `metadata::custom-icon` attribute use `-d` flag:
+
+    ```sh
+    gio set $HOME/Coding/C metadata::custom-icon -d
+    ```
 
 ## Troubleshooting
 
