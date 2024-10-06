@@ -2,6 +2,8 @@ scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
+    'folder-appimage-legacy.svg',
+    'folder-appimage.svg',
     'folder-arduino-legacy.svg',
     'folder-arduino.svg',
     'folder-backup-legacy.svg',
