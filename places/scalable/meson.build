@@ -64,6 +64,8 @@ regular_files = [
     'folder-ruby.svg',
     'folder-rust-legacy.svg',
     'folder-rust.svg',
+    'folder-script-legacy.svg',
+    'folder-script.svg',
     'folder-syncthing-legacy.svg',
     'folder-syncthing.svg',
     'folder-temp-legacy.svg',
