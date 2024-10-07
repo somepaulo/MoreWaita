@@ -38,6 +38,8 @@ regular_files = [
     'folder-go.svg',
     'folder-godot-legacy.svg',
     'folder-godot.svg',
+    'folder-inkscape-legacy.svg',
+    'folder-inkscape.svg',
     'folder-java-legacy.svg',
     'folder-java.svg',
     'folder-kde-legacy.svg',
