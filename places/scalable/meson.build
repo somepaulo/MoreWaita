@@ -48,6 +48,8 @@ regular_files = [
     'folder-lua.svg',
     'folder-money-legacy.svg',
     'folder-money.svg',
+    'folder-neovim-legacy.svg',
+    'folder-neovim.svg',
     'folder-nextcloud-legacy.svg',
     'folder-nextcloud.svg',
     'folder-openscad-legacy.svg',
