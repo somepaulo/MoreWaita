@@ -28,6 +28,7 @@ regular_files = [
     'folder-kde-symbolic.svg',
     'folder-kicad-symbolic.svg',
     'folder-lua-symbolic.svg',
+    'folder-mega-symbolic.svg',
     'folder-money-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
@@ -123,6 +124,9 @@ link_files = {
     ],
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
+    ],
+    'folder-mega-symbolic.svg': [
+        'folder-mega-legacy-symbolic.svg',
     ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
