@@ -26,6 +26,8 @@ regular_files = [
     'folder-freecad.svg',
     'folder-games-legacy.svg',
     'folder-games.svg',
+    'folder-gimp-legacy.svg',
+    'folder-gimp.svg',
     'folder-git-legacy.svg',
     'folder-git.svg',
     'folder-github-legacy.svg',
