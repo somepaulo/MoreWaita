@@ -8,6 +8,8 @@ regular_files = [
     'folder-backup.svg',
     'folder-bitwig-legacy.svg',
     'folder-bitwig.svg',
+    'folder-blender-legacy.svg',
+    'folder-blender.svg',
     'folder-books-legacy.svg',
     'folder-books.svg',
     'folder-c-legacy.svg',

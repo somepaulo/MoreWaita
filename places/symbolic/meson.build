@@ -5,6 +5,7 @@ regular_files = [
     'folder-arduino-symbolic.svg',
     'folder-backup-symbolic.svg',
     'folder-bitwig-symbolic.svg',
+    'folder-blender-symbolic.svg',
     'folder-books-legacy-symbolic.svg',
     'folder-books-symbolic.svg',
     'folder-c-symbolic.svg',
@@ -123,6 +124,9 @@ link_files = {
     ],
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
+    ],
+    'folder-blender-symbolic.svg': [
+        'folder-blender-legacy-symbolic.svg',
     ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
