@@ -159,7 +159,6 @@ regular_files = [
     'org.inkscape.Inkscape.svg',
     'org.onlyoffice.desktopeditors.svg',
     'org.parlatype.Parlatype.svg',
-    'org.qbittorrent.qBittorrent.svg',
     'osmscout-server.svg',
     'pacseek.svg',
     'pamac.svg',
@@ -177,6 +176,7 @@ regular_files = [
     'pulsar.svg',
     'pure-maps.svg',
     'pycharm.svg',
+    'qbittorrent.svg',
     'qdbusviewer.svg',
     'qt5ct.svg',
     'qutebrowser.svg',
@@ -379,6 +379,9 @@ link_files = {
     ],
     'qutebrowser.svg': [
         'org.qutebrowser.qutebrowser.svg',
+    ],
+    'qbittorrent.svg': [
+        'org.qbittorrent.qBittorrent.svg',
     ],
     'prismlauncher.svg': [
         'org.prismlauncher.PrismLauncher.svg',

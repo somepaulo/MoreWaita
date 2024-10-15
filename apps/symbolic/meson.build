@@ -140,7 +140,6 @@ regular_files = [
     'org.fdroid.Repomaker-symbolic.svg',
     'org.inkscape.Inkscape-symbolic.svg',
     'org.onlyoffice.desktopeditors-symbolic.svg',
-    'org.qbittorrent.qBittorrent-symbolic.svg',
     'osmscout-server-symbolic.svg',
     'pacseek-symbolic.svg',
     'phpstorm-symbolic.svg',
@@ -156,6 +155,7 @@ regular_files = [
     'pulsar-symbolic.svg',
     'pure-maps-symbolic.svg',
     'pycharm-symbolic.svg',
+    'qbittorrent-symbolic.svg',
     'qdbusviewer-symbolic.svg',
     'qt5ct-symbolic.svg',
     'qutebrowser-symbolic.svg',
@@ -354,6 +354,9 @@ link_files = {
     ],
     'qutebrowser-symbolic.svg': [
         'org.qutebrowser.qutebrowser-symbolic.svg',
+    ],
+    'qbittorrent-symbolic.svg': [
+        'org.qbittorrent.qBittorrent-symbolic.svg',
     ],
     'prismlauncher-symbolic.svg': [
         'org.prismlauncher.PrismLauncher-symbolic.svg',
