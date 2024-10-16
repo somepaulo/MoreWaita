@@ -103,6 +103,9 @@ link_files = {
     'folder-github-symbolic.svg': [
         'folder-github-legacy-symbolic.svg',
     ],
+    'folder-gimp-symbolic.svg': [
+        'folder-gimp-legacy-symbolic.svg',
+    ],
     'folder-freecad-symbolic.svg': [
         'folder-freecad-legacy-symbolic.svg',
     ],
@@ -130,8 +133,6 @@ link_files = {
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     ],
-    'folder-gimp-symbolic.svg': [
-        'folder-gimp-legacy-symbolic.svg',
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
