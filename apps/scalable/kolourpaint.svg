@@ -15,33 +15,18 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
    id="defs76"><linearGradient
      id="linearGradient46"><stop
-       style="stop-color:#000000;stop-opacity:0.30000001;"
+       style="stop-color:#000000;stop-opacity:0.40000001;"
        offset="0"
        id="stop38" /><stop
        style="stop-color:#ffffff;stop-opacity:0.40000001;"
-       offset="0.06193377"
+       offset="0.40601185"
        id="stop39" /><stop
-       style="stop-color:#000000;stop-opacity:0.30000001;"
-       offset="0.13375144"
+       style="stop-color:#000000;stop-opacity:0.40000001;"
+       offset="0.80856156"
        id="stop40" /><stop
-       style="stop-color:#000000;stop-opacity:0.30000001;"
-       offset="0.3170979"
-       id="stop41" /><stop
-       style="stop-color:#ffffff;stop-opacity:0.40000001;"
-       offset="0.38719353"
-       id="stop42" /><stop
-       style="stop-color:#000000;stop-opacity:0.30000001;"
-       offset="0.46812373"
-       id="stop43" /><stop
-       style="stop-color:#000000;stop-opacity:0.30000001;"
-       offset="0.85165566"
-       id="stop44" /><stop
-       style="stop-color:#ffffff;stop-opacity:0.40000001;"
-       offset="0.92992401"
-       id="stop45" /><stop
-       style="stop-color:#000000;stop-opacity:0.30000001;"
+       style="stop-color:#ffffff;stop-opacity:0.30000001;"
        offset="1"
-       id="stop46" /></linearGradient><linearGradient
+       id="stop45" /></linearGradient><linearGradient
      id="a"
      gradientTransform="matrix(1.937142,0,0,1.928556,237.93385,-1180.1077)"
      gradientUnits="userSpaceOnUse"
@@ -221,69 +206,110 @@
      x1="432"
      y1="647"
      x2="432"
-     y2="662" /></defs>&#10;<style
+     y2="662" /></defs>
+<style
    type="text/css"
-   id="style2">&#10;	.st0{fill:url(#SVGID_1_);}&#10;	.st1{fill:url(#SVGID_00000062171159965967627490000013605884846004172698_);}&#10;	.st2{fill:url(#SVGID-2_00000085966066984138215510000013018799571900533434_);}&#10;	.st3{clip-path:url(#SVGID_00000023257072852279316340000004281102206337855156_);}&#10;	.st4{fill:url(#SVGID_00000177446033621631838710000001370584907163434138_);}&#10;	.st5{clip-path:url(#SVGID_00000136385553608229244970000014654043435100792964_);}&#10;	.st6{fill:url(#SVGID_00000126306410582640054500000000964390405037519506_);}&#10;	.st7{fill:url(#SVGID_00000109020757643166282930000006684795936706346369_);}&#10;</style>&#10;<radialGradient
+   id="style2">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000062171159965967627490000013605884846004172698_);}
+	.st2{fill:url(#SVGID-2_00000085966066984138215510000013018799571900533434_);}
+	.st3{clip-path:url(#SVGID_00000023257072852279316340000004281102206337855156_);}
+	.st4{fill:url(#SVGID_00000177446033621631838710000001370584907163434138_);}
+	.st5{clip-path:url(#SVGID_00000136385553608229244970000014654043435100792964_);}
+	.st6{fill:url(#SVGID_00000126306410582640054500000000964390405037519506_);}
+	.st7{fill:url(#SVGID_00000109020757643166282930000006684795936706346369_);}
+</style>
+<radialGradient
    id="SVGID_1_"
    cx="514.5"
    cy="477.5"
    r="496.5"
    gradientTransform="matrix(1,0,0,-1,-18,974)"
-   gradientUnits="userSpaceOnUse">&#10;	<stop
+   gradientUnits="userSpaceOnUse">
+	<stop
    offset="0.9134"
    style="stop-color:#000000"
-   id="stop4" />&#10;	<stop
+   id="stop4" />
+	<stop
    offset="1"
    style="stop-color:#000000;stop-opacity:0"
-   id="stop6" />&#10;</radialGradient>&#10;&#10;<radialGradient
+   id="stop6" />
+</radialGradient>
+
+<radialGradient
    id="SVGID_00000163033830155146975860000008434547654242457221_"
    cx="512.05908"
    cy="481.87881"
    r="486.27271"
    gradientTransform="matrix(0.11104257,0,0,-0.11104257,7.1350999,117.51141)"
-   gradientUnits="userSpaceOnUse">&#10;	<stop
+   gradientUnits="userSpaceOnUse">
+	<stop
    offset="0.99"
    style="stop-color:#FFFFFF"
-   id="stop11" />&#10;	<stop
+   id="stop11" />
+	<stop
    offset="0.9951"
    style="stop-color:#FDFDFD"
-   id="stop13" />&#10;	<stop
+   id="stop13" />
+	<stop
    offset="0.9969"
    style="stop-color:#F6F6F6"
-   id="stop15" />&#10;	<stop
+   id="stop15" />
+	<stop
    offset="0.9982"
    style="stop-color:#EBEBEB"
-   id="stop17" />&#10;	<stop
+   id="stop17" />
+	<stop
    offset="0.9992"
    style="stop-color:#DADADA"
-   id="stop19" />&#10;	<stop
+   id="stop19" />
+	<stop
    offset="1"
    style="stop-color:#C7C7C7"
-   id="stop21" />&#10;</radialGradient>&#10;&#10;<radialGradient
+   id="stop21" />
+</radialGradient>
+
+<radialGradient
    id="SVGID-2_00000052072577768947982130000002178866272689676469_"
    cx="512.06152"
    cy="481.87881"
    r="444.12241"
    gradientTransform="matrix(1,0,0,-1,-18,974)"
-   gradientUnits="userSpaceOnUse">&#10;	<stop
+   gradientUnits="userSpaceOnUse">
+	<stop
    offset="0.99"
    style="stop-color:#000000;stop-opacity:0.5"
-   id="stop26" />&#10;	<stop
+   id="stop26" />
+	<stop
    offset="1"
    style="stop-color:#000000;stop-opacity:0"
-   id="stop28" />&#10;</radialGradient>&#10;&#10;&#10;&#10;<radialGradient
+   id="stop28" />
+</radialGradient>
+
+
+
+<radialGradient
    id="SVGID_00000092427181212153090570000016417065628950216588_"
    cx="578.89008"
    cy="482.3703"
    r="353.94269"
    gradientTransform="matrix(0.11104257,0,0,-0.1218248,7.1350999,118.45626)"
-   gradientUnits="userSpaceOnUse">&#10;	<stop
+   gradientUnits="userSpaceOnUse">
+	<stop
    offset="0"
    style="stop-color:#C2C0C2"
-   id="stop66" />&#10;	<stop
+   id="stop66" />
+	<stop
    offset="1"
    style="stop-color:#EBEBEB"
-   id="stop68" />&#10;</radialGradient>&#10;&#10;		&#10;	&#10;		&#10;	&#10;<path
+   id="stop68" />
+</radialGradient>
+
+		
+	
+		
+	
+<path
    d="m 59.71765,12.00027 c -15.66837,0.027 -30.564,6.77538 -40.8537,18.53982 -21.13452,21.04083 35.0433,34.7922 22.29984,47.4795 -4.69152,4.67073 -6.61797,10.6461 -6.62877,16.90902 0.005,0.30024 0.0162,0.60021 0.034,0.90018 -0.0108,0.34155 -0.034,0.6804 -0.034,1.02816 l 0.0907,0.0567 c 1.03963,13.03128 11.96154,23.08014 25.09191,23.08635 0.71374,0 1.42692,-0.0405 2.13767,-0.1053 29.0763,-1.14156 52.0668,-24.92343 52.1019,-53.8947 0,-29.8242 -24.28407,-54 -54.2403,-54 z m 0,71.3556 A 11.62296,11.57139 0 0 1 71.34034,94.92726 11.62296,11.57139 0 0 1 59.71765,106.49838 11.62296,11.57139 0 0 1 48.09496,94.92726 11.62296,11.57139 0 0 1 59.71765,83.35587 Z"
    fill="url(#a)"
    id="path24-1-9"
