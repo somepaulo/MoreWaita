@@ -137,6 +137,7 @@ link_files = {
     'oasis-spreadsheet-template.svg': [
         'libreoffice-oasis-spreadsheet-template.svg',
         'libreoffice-spreadsheet-template.svg',
+        'text-csv-schema.svg',
     ],
     'oasis-presentation-template.svg': [
         'libreoffice-oasis-presentation-template.svg',
@@ -323,6 +324,7 @@ link_files = {
         'openoffice4-spreadsheet.svg',
         'text-csv.svg',
         'text-spreadsheet.svg',
+        'text-tab-separated-values.svg',
     ],
     'oasis-drawing.svg': [
         'application-vnd.google-apps.drawing.svg',
