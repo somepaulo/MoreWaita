@@ -157,6 +157,7 @@ regular_files = [
     'openra-ra.svg',
     'opera.svg',
     'org.DolphinEmu.dolphin-emu.svg',
+    'org.cockpit_project.CockpitClient.svg',
     'org.fdroid.Repomaker.svg',
     'org.gnome.PowerStats.svg',
     'org.inkscape.Inkscape.svg',

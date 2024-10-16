@@ -140,6 +140,7 @@ regular_files = [
     'openra-ra-symbolic.svg',
     'opera-symbolic.svg',
     'org.DolphinEmu.dolphin-emu-symbolic.svg',
+    'org.cockpit_project.CockpitClient-symbolic.svg',
     'org.fdroid.Repomaker-symbolic.svg',
     'org.inkscape.Inkscape-symbolic.svg',
     'org.onlyoffice.desktopeditors-symbolic.svg',
