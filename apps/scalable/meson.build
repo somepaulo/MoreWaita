@@ -188,6 +188,7 @@ regular_files = [
     'rider.svg',
     'rstudio.svg',
     'rubymine.svg',
+    'rustdesk.svg',
     'saber.svg',
     'scrcpy.svg',
     'scribus.svg',

@@ -167,6 +167,7 @@ regular_files = [
     'rider-symbolic.svg',
     'rstudio-symbolic.svg',
     'rubymine-symbolic.svg',
+    'rustdesk-symbolic.svg',
     'saber-symbolic.svg',
     'scrcpy-symbolic.svg',
     'scribus-symbolic.svg',
