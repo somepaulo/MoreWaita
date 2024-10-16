@@ -212,6 +212,7 @@ regular_files = [
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
     'yuzu-symbolic.svg',
+    'zed-symbolic.svg',
     'zrythm-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -747,6 +748,9 @@ link_files = {
         'org.eclipse.Committers-symbolic.svg',
         'org.eclipse.Java-symbolic.svg',
         'org.eclipse.Javascript-symbolic.svg',
+    ],
+    'zed-symbolic.svg': [
+        'dev.zed.Zed-symbolic.svg',
     ],
     'pulsar-symbolic.svg': [
         'dev.pulsar_edit.Pulsar-symbolic.svg',

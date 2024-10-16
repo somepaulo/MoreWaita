@@ -234,6 +234,7 @@ regular_files = [
     'xsane.svg',
     'yandex-browser.svg',
     'yuzu.svg',
+    'zed.svg',
     'zrythm.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -785,6 +786,9 @@ link_files = {
         'org.eclipse.Committers.svg',
         'org.eclipse.Java.svg',
         'org.eclipse.Javascript.svg',
+    ],
+    'zed.svg': [
+        'dev.zed.Zed.svg',
     ],
     'pulsar.svg': [
         'dev.pulsar_edit.Pulsar.svg',
