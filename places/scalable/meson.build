@@ -2,12 +2,16 @@ scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
+    'folder-appimage-legacy.svg',
+    'folder-appimage.svg',
     'folder-arduino-legacy.svg',
     'folder-arduino.svg',
     'folder-backup-legacy.svg',
     'folder-backup.svg',
     'folder-bitwig-legacy.svg',
     'folder-bitwig.svg',
+    'folder-blender-legacy.svg',
+    'folder-blender.svg',
     'folder-books-legacy.svg',
     'folder-books.svg',
     'folder-c-legacy.svg',
@@ -26,6 +30,8 @@ regular_files = [
     'folder-freecad.svg',
     'folder-games-legacy.svg',
     'folder-games.svg',
+    'folder-gimp-legacy.svg',
+    'folder-gimp.svg',
     'folder-git-legacy.svg',
     'folder-git.svg',
     'folder-github-legacy.svg',

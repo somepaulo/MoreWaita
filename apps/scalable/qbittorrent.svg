@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="128px"
+   viewBox="0 0 128 128"
+   width="128px"
+   version="1.1"
+   id="svg23"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs23">
+    <linearGradient
+       id="a-9"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="269.46301"
+       x2="118.926"
+       y2="269.46301"
+       gradientTransform="matrix(1,0,0,0.98333333,0,-168.03333)">
+      <stop
+         offset="0"
+         stop-color="#e5a50a"
+         id="stop1"
+         style="stop-color:#787878;stop-opacity:1;" />
+      <stop
+         offset="0.414"
+         stop-color="#fbdf9b"
+         id="stop2"
+         style="stop-color:#cbcbcb;stop-opacity:1;" />
+      <stop
+         offset="0.81300002"
+         stop-color="#e5a50a"
+         id="stop3"
+         style="stop-color:#787878;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#f8ca5b"
+         id="stop4"
+         style="stop-color:#a9a9a9;stop-opacity:1;" />
+    </linearGradient>
+    <mask
+       id="i-8">
+      <g
+         filter="url(#a)"
+         id="g7-4"
+         style="filter:url(#a-0)">
+        <rect
+           fill-opacity="0.5"
+           height="153.60001"
+           width="153.60001"
+           x="-12.8"
+           y="-12.8"
+           id="rect7-5" />
+      </g>
+    </mask>
+    <filter
+       id="a-0"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         color-interpolation-filters="sRGB"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix1-3" />
+    </filter>
+    <clipPath
+       id="j-6">
+      <rect
+         height="152"
+         width="192"
+         id="rect8-1"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <filter
+     id="a"
+     height="1"
+     width="1"
+     x="0"
+     y="0">
+    <feColorMatrix
+       color-interpolation-filters="sRGB"
+       values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+       id="feColorMatrix1" />
+  </filter>
+  <mask
+     id="b">
+    <g
+       filter="url(#a)"
+       id="g1">
+      <rect
+         fill-opacity="0.1"
+         height="153.6"
+         width="153.6"
+         x="-12.8"
+         y="-12.8"
+         id="rect1" />
+    </g>
+  </mask>
+  <clipPath
+     id="c">
+    <rect
+       height="152"
+       width="192"
+       id="rect2" />
+  </clipPath>
+  <mask
+     id="d">
+    <g
+       filter="url(#a)"
+       id="g3">
+      <rect
+         fill-opacity="0.1"
+         height="153.6"
+         width="153.6"
+         x="-12.8"
+         y="-12.8"
+         id="rect3" />
+    </g>
+  </mask>
+  <clipPath
+     id="e">
+    <path
+       d="m 0 20 h 110 v 124 h -110 z m 0 0"
+       id="path3" />
+  </clipPath>
+  <clipPath
+     id="f">
+    <rect
+       height="152"
+       width="192"
+       id="rect4" />
+  </clipPath>
+  <mask
+     id="g">
+    <g
+       filter="url(#a)"
+       id="g5">
+      <rect
+         fill-opacity="0.1"
+         height="153.6"
+         width="153.6"
+         x="-12.8"
+         y="-12.8"
+         id="rect5" />
+    </g>
+  </mask>
+  <clipPath
+     id="h">
+    <rect
+       height="152"
+       width="192"
+       id="rect6" />
+  </clipPath>
+  <mask
+     id="i">
+    <g
+       filter="url(#a)"
+       id="g7">
+      <rect
+         fill-opacity="0.5"
+         height="153.6"
+         width="153.6"
+         x="-12.8"
+         y="-12.8"
+         id="rect7" />
+    </g>
+  </mask>
+  <clipPath
+     id="j">
+    <rect
+       height="152"
+       width="192"
+       id="rect8" />
+  </clipPath>
+  <path
+     d="M 124,66 C 124,98.584717 97.137,125 64,125 30.863,125 4,98.584717 4,66 4,33.415283 30.863,7 64,7 c 33.137,0 60,26.415283 60,59 z m 0,0"
+     fill="url(#a)"
+     id="path4"
+     style="fill:url(#a-9);stroke-width:0.991632" />
+  <path
+     d="M 124,62 C 124,94.586 97.137,121 64,121 30.863,121 4,94.586 4,62 4,29.414 30.863,3 64,3 c 33.137,0 60,26.414 60,59 z m 0,0"
+     fill="#f8e45c"
+     id="path5"
+     style="fill:#3584e4;fill-opacity:1;stroke-width:1" />
+  <g
+     mask="url(#i-8)"
+     id="g23"
+     transform="translate(-213,-12)">
+    <g
+       clip-path="url(#j-6)"
+       transform="translate(-8,-16)"
+       id="g22">
+      <path
+         d="m 172,20 c -2.19922,0 -4,1.800781 -4,4 0,2.199219 1.80078,4 4,4 0.72656,0 1.41016,-0.199219 2,-0.542969 V 32 h 2 V 20 h -2 v 0.542969 C 173.41016,20.199219 172.72656,20 172,20 Z m 0,2 c 1.11719,0 2,0.882812 2,2 0,1.117188 -0.88281,2 -2,2 -1.11719,0 -2,-0.882812 -2,-2 0,-1.117188 0.88281,-2 2,-2 z m 0,0"
+         fill="#241f31"
+         id="path22" />
+    </g>
+  </g>
+  <path
+     id="path10"
+     d="M 64,3 C 30.86328,3 4,29.41556 4,62 4,94.58444 30.86328,121 64,121 97.13672,121 124,94.58444 124,62 124,29.41556 97.13672,3 64,3 Z m 0,5.9 c 29.82422,0 54,23.772851 54,53.1 0,29.327149 -24.17578,53.1 -54,53.1 C 34.17578,115.1 10,91.327149 10,62 10,32.672851 34.17578,8.9 64,8.9 Z"
+     style="fill:#ffffff;stroke-width:0.991632" />
+  <path
+     id="path17"
+     style="fill:#99c1f1"
+     d="M 40,41 C 29.00196,41 20,50.001965 20,61 20,71.998036 29.00196,81 40,81 50.99804,81 60,71.998036 60,61 60,50.001965 50.99804,41 40,41 Z m 0,8 c 6.67384,0 12,5.326161 12,12 0,6.67384 -5.32616,12 -12,12 -6.67384,0 -12,-5.32616 -12,-12 0,-6.673839 5.32616,-12 12,-12 z m 12,-8 v 56 h 8 V 41 Z" />
+  <path
+     id="path21"
+     style="fill:#ffffff"
+     d="m 88,41 c -10.99804,0 -20,9.001965 -20,20 0,10.998036 9.00196,20 20,20 10.99804,0 20,-9.001964 20,-20 0,-10.998035 -9.00196,-20 -20,-20 z m 0,8 c 6.67384,0 12,5.326161 12,12 0,6.67384 -5.32616,12 -12,12 C 81.32616,73 76,67.67384 76,61 76,54.326161 81.32616,49 88,49 Z M 68,25 v 56 h 8 V 25 Z" />
+</svg>

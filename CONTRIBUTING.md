@@ -14,7 +14,8 @@ Inkscape usually saves into its own _'Inkscape SVG'_ format with additional data
 
 **3. One icon file per app**  
 Frequently, app icons have different names used on different systems and/or app versions. So the general rule is to create one actual `.svg` icon with either the simplest or most frequently used name and then create symlinks to it with all the alternative names. Check the existing icons for examples of how things are done there. For a source of possible app names check the [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/).  
-The symlinks have to be created from within the same directory as the actual `.svg` file without using any paths to avoid hardcoding them, like so:
+> [!IMPORTANT]
+> The symlinks have to be created from within the same directory as the actual `.svg` file without using any paths to avoid hardcoding them, like so:
 ```sh
 ln -s original-name.svg alternativeName.svg
 ```
