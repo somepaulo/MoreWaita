@@ -206,6 +206,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./apps/scalable/io.github.quodlibet.ExFalso.svg "ExFalso")
 ![icon](./apps/scalable/qutebrowser.svg "Qute Browser")
 ![icon](./apps/scalable/rawtherapee.svg "RawTherapee")
+![icon](./apps/scalable/retroarch.svg "Retro Arch")
 ![icon](./apps/scalable/rstudio.svg "RStudio")
 ![icon](./apps/scalable/saber.svg "Saber")
 ![icon](./apps/scalable/scrcpy.svg "Scrcpy")

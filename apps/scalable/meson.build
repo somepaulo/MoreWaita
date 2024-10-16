@@ -184,6 +184,7 @@ regular_files = [
     'qv4l2.svg',
     'rawtherapee.svg',
     'resolve.svg',
+    'retroarch.svg',
     'rider.svg',
     'rstudio.svg',
     'rubymine.svg',
@@ -1088,6 +1089,10 @@ link_files = {
     ],
     'session-desktop.svg': [
         'appimagekit-session-desktop.svg',
+    ],
+    'retroarch.svg': [
+        'appimagekit-retroarch.svg',
+        'org.libretro.RetroArch.svg',
     ],
     'freac.svg': [
         'appimagekit-org.freac.freac.svg',

@@ -163,6 +163,7 @@ regular_files = [
     'qv4l2-symbolic.svg',
     'rawtherapee-symbolic.svg',
     'resolve-symbolic.svg',
+    'retroarch-symbolic.svg',
     'rider-symbolic.svg',
     'rstudio-symbolic.svg',
     'rubymine-symbolic.svg',
@@ -1034,6 +1035,10 @@ link_files = {
     ],
     'session-desktop-symbolic.svg': [
         'appimagekit-session-desktop-symbolic.svg',
+    ],
+    'retroarch-symbolic.svg': [
+        'appimagekit-retroarch-symbolic.svg',
+        'org.libretro.RetroArch-symbolic.svg',
     ],
     'freac-symbolic.svg': [
         'appimagekit-org.freac.freac-symbolic.svg',
