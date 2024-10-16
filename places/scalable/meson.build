@@ -32,6 +32,8 @@ regular_files = [
     'folder-dropbox.svg',
     'folder-emacs-legacy.svg',
     'folder-emacs.svg',
+    'folder-fedora-legacy.svg',
+    'folder-fedora.svg',
     'folder-freecad-legacy.svg',
     'folder-freecad.svg',
     'folder-games-legacy.svg',
