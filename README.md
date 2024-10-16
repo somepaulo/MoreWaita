@@ -2,6 +2,7 @@
 > v46 was skipped due to many reasons. The project is still maintained. v47 coming out early October. Stay tuned.
 
 # MoreWaita
+
 ![showcase](https://repository-images.githubusercontent.com/543632052/3eca878b-6b04-49d9-a5f6-c369569fa610)
 
 ## Introduction
@@ -21,10 +22,10 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 </details>
 
 ## The icons
+
 _These are the icons currently in git, versioned theme releases will be behind most of the time_
 <details>
 <summary><h3>Apps</h3></summary>
-  
 ![icon](./apps/scalable/abiword.svg)
 ![icon](./apps/scalable/gnome-aisleriot.svg)
 ![icon](./apps/scalable/alacritty.svg "Alacritty")
@@ -258,8 +259,8 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./apps/scalable/zrythm.svg)
 </details>
 <details>
-<summary><h3>Mimes</h3></summary>
-  
+<summary><h3>MIME types</h3></summary>
+
 ![icon](./mimes/scalable/android-package-archive.svg)
 ![icon](./mimes/scalable/application-x-iso9600-appimage.svg) 
 ![icon](./mimes/scalable/application-x-deb.svg) 
@@ -356,6 +357,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <details>
 <summary><h3>Places</h3></summary>
 
+![icon](./places/scalable/folder-appimage.svg "AppImage")
 ![icon](./places/scalable/folder-arduino.svg "Arduino")
 ![icon](./places/scalable/folder-backup.svg "Backup")
 ![icon](./places/scalable/folder-bitwig.svg "Bitwig")
@@ -391,7 +393,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./places/scalable/folder-temp.svg "Temp")
 ![icon](./places/scalable/folder-vala.svg "Vala")
 
-###     Legacy Places
+### Legacy Places
 ![icon](./places/scalable/folder-arduino-legacy.svg "Arduino")
 ![icon](./places/scalable/folder-backup-legacy.svg "Backup")
 ![icon](./places/scalable/folder-bitwig-legacy.svg "Bitwig")
@@ -434,31 +436,43 @@ _These are the icons currently in git, versioned theme releases will be behind m
 > This theme requires the Adwaita icon theme in order to work.
 
 #### Manual installation & update
+
 System-wide installation into `/usr/share/icons/` (**recommended** – some apps don't work well with local user installations):
+
 ```sh
 git clone https://github.com/somepaulo/MoreWaita.git && cd MoreWaita && sudo ./install.sh
 ```
+
 Local user installation into `~/.local/share/icons/`:
+
 ```sh
 git clone https://github.com/somepaulo/MoreWaita.git && cd MoreWaita && ./install.sh
 ```
 
 ##### Uninstall
-Simply chose another theme and then delete the entire `MoreWaita` folder from either `/usr/share/icons/` or `~/.local/share/icons/` depending on your installation choice above. 
+
+Simply chose another theme and then delete the entire `MoreWaita` folder from either `/usr/share/icons/` or `~/.local/share/icons/` depending on your installation choice above.
 
 #### Arch Linux
+
 [AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
+
 ```sh
 paru morewaita
 ```
+
 [AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)
+
 ```sh
 paru morewaita-git
 ```
+
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
 
 #### Fedora Linux
+
 Install via [@dusansimic's COPR](https://copr.fedorainfracloud.org/coprs/dusansimic/themes):
+
 ```sh
 dnf copr enable dusansimic/themes && dnf install morewaita-icon-theme
 ```
@@ -468,6 +482,7 @@ dnf copr enable dusansimic/themes && dnf install morewaita-icon-theme
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-debian-based-linux-distributions)
 
 ## Activation
+
 Either use the `Tweaks` app to choose and activate the icon theme or run the following command:
 
 ```sh
@@ -475,6 +490,9 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 ```
 
 ## Using custom folder icons
+
+### GUI method
+
 1. Open Files (Nautilus).
 2. Find the folder you wish to change the icon for.
 3. Right click on the folder.
@@ -486,22 +504,49 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 9. Follow the same procedure to revert the icon. Just click `Revert` instead of selecting a new icon in step 7.
 ![change_folder_icon](https://github.com/somepaulo/MoreWaita/assets/15643750/05e88cbc-3c77-4e1b-a8bd-3e15b84972fa)
 
+### CLI method
+
+If you need to assign the icons using the CLI you have to use the GIO command-line tool.
+
+- Set a custom (C programming language) icon on a folder:
+
+    ```sh
+    gio set $HOME/Coding/C metadata::custom-icon \
+           file:///usr/share/icons/MoreWaita/places/scalable/folder-c.svg
+    ```
+
+- You can confirm the change showing the `metadata::custom-icon` attribute with:
+
+    ```sh
+    gio info --attributes="metadata::custom-icon" $HOME/Coding/C
+    ```
+
+- To delete the `metadata::custom-icon` attribute use `-d` flag:
+
+    ```sh
+    gio set $HOME/Coding/C metadata::custom-icon -d
+    ```
+
 ## Troubleshooting
 
 #### Theme doesn't apply
+
 If the theme doesn't apply try the following command:
 
 For system-wide installation:
+
 ```sh
 sudo gtk-update-icon-cache -f -t /usr/share/icons/MoreWaita && xdg-desktop-menu forceupdate
 ```
 
 For local installation:
+
 ```sh
 gtk-update-icon-cache -f -t ~/.local/share/icons/MoreWaita && xdg-desktop-menu forceupdate
 ```
 
 #### Some apps don't get themed
+
 If the theme applies, but a particular app doesn't get themed (and its icon is in MoreWaita), check its respective `.desktop` file. Some apps have icon paths hardcoded into their `.desktop` file or have a different icon name set there or no icon set at all. This can differ between distros.
 
 If you happen to have such apps, you'll need to copy their `.desktop` files into `~/.local/share/applications` and modify them there providing the correct icon name. Alternatively, use a menu editor like `Main Menu`, `MenuLibre` or `Alacarte`.
