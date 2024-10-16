@@ -83,6 +83,9 @@ link_files = {
     'folder-money-symbolic.svg': [
         'folder-money-legacy-symbolic.svg',
     ],
+    'folder-mega-symbolic.svg': [
+        'folder-mega-legacy-symbolic.svg',
+    ],
     'folder-lua-symbolic.svg': [
         'folder-lua-legacy-symbolic.svg',
     ],
@@ -146,8 +149,6 @@ link_files = {
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     ],
-    'folder-mega-symbolic.svg': [
-        'folder-mega-legacy-symbolic.svg',
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
