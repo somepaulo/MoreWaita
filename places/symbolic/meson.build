@@ -27,6 +27,7 @@ regular_files = [
     'folder-gnome-symbolic.svg',
     'folder-go-symbolic.svg',
     'folder-godot-symbolic.svg',
+    'folder-inkscape-symbolic.svg',
     'folder-java-symbolic.svg',
     'folder-kde-symbolic.svg',
     'folder-kicad-symbolic.svg',
@@ -133,6 +134,8 @@ link_files = {
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     ],
+    'folder-inkscape-symbolic.svg': [
+        'folder-inkscape-legacy-symbolic.svg',
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
