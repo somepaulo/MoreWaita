@@ -47,8 +47,8 @@ regular_files = [
     'folder-r-symbolic.svg',
     'folder-ruby-symbolic.svg',
     'folder-rust-symbolic.svg',
-    'folder-screenshot-symbolic.svg',
     'folder-school-symbolic.svg',
+    'folder-screenshot-symbolic.svg',
     'folder-shell-symbolic.svg',
     'folder-syncthing-legacy-symbolic.svg',
     'folder-syncthing-symbolic.svg',
@@ -67,6 +67,9 @@ link_files = {
     ],
     'folder-shell-symbolic.svg': [
         'folder-shell-legacy-symbolic.svg',
+    ],
+    'folder-screenshot-symbolic.svg': [
+        'folder-screenshot-legacy-symbolic.svg',
     ],
     'folder-school-symbolic.svg': [
         'folder-school-legacy-symbolic.svg',
@@ -158,8 +161,6 @@ link_files = {
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     ],
-    'folder-screenshot-symbolic.svg': [
-        'folder-screenshot-legacy-symbolic.svg',
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],

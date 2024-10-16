@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="16"
    height="16"
    viewBox="0 0 16 16"
+   width="16"
    version="1.1"
-   id="svg1"
-   xml:space="preserve"
+   id="svg4"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1" /><path
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <path
      id="rect9"
-     style="fill:#000000;stroke-width:1.25102;fill-opacity:1"
-     d="M 0 0 L 0 4 L 2 4 L 2 2 L 4 2 L 4 0 L 0 0 z M 5.5214844 0 L 5.5214844 2 L 8.5 2 L 8.5 0 L 5.5214844 0 z M 9.9804688 0 L 9.9804688 2 L 12 2 L 12 4 L 14 4 L 14 0 L 9.9804688 0 z M 0 5.5 L 0 8.5 L 2 8.5 L 2 5.5 L 0 5.5 z M 12 5.5 L 12 8.5 L 14 8.5 L 14 5.5 L 12 5.5 z M 0 10 L 0 14 L 4 14 L 4 12 L 2 12 L 2 10 L 0 10 z M 12 10 L 12 12 L 9.9804688 12 L 9.9804688 14 L 12 14 L 12 16 L 14 16 L 14 14 L 16 14 L 16 12 L 14 12 L 14 10 L 12 10 z M 5.5214844 12 L 5.5214844 14 L 8.5 14 L 8.5 12 L 5.5214844 12 z " /></svg>
+     style="fill:#000000;fill-opacity:1;stroke-width:1.25102"
+     d="M 0,0 V 4 H 2 V 2 H 4 V 0 Z M 5.521484,0 V 2 H 8.5 V 0 Z M 9.980469,0 V 2 H 12 v 2 h 2 V 0 Z M 0,5.5 V 8.5000002 H 2 V 5.5 Z m 12,0 v 3.0000002 h 2 V 5.5 Z M 0,10 v 4 H 4 V 12 H 2 v -2 z m 12,0 v 2 H 9.980469 v 2 H 12 v 2 h 2 v -2 h 2 v -2 h -2 v -2 z m -6.478516,2 v 2 H 8.5 v -2 z" />
+</svg>
