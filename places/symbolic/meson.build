@@ -10,6 +10,7 @@ regular_files = [
     'folder-books-legacy-symbolic.svg',
     'folder-books-symbolic.svg',
     'folder-c-symbolic.svg',
+    'folder-camera-symbolic.svg',
     'folder-code-legacy-symbolic.svg',
     'folder-code-symbolic.svg',
     'folder-codeberg-symbolic.svg',
@@ -161,6 +162,8 @@ link_files = {
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     ],
+    'folder-camera-symbolic.svg': [
+        'folder-camera-legacy-symbolic.svg',
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
