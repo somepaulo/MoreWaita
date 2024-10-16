@@ -89,6 +89,9 @@ link_files = {
     'folder-java-symbolic.svg': [
         'folder-java-legacy-symbolic.svg',
     ],
+    'folder-inkscape-symbolic.svg': [
+        'folder-inkscape-legacy-symbolic.svg',
+    ],
     'folder-godot-symbolic.svg': [
         'folder-godot-legacy-symbolic.svg',
     ],
@@ -134,8 +137,6 @@ link_files = {
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     ],
-    'folder-inkscape-symbolic.svg': [
-        'folder-inkscape-legacy-symbolic.svg',
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
