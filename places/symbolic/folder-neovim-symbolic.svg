@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="16"
    height="16"
    viewBox="0 0 16 16"
+   width="16"
    version="1.1"
-   id="svg1"
-   xml:space="preserve"
+   id="svg4"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1" /><path
-     id="a"
-     d="M 4.8023653,-0.01491436 2.3197624,2.4676886 11.174244,16 13.660181,13.487341 Z M 11.184271,0.00668052 V 8.92798 l 2.833438,4.210054 0.574701,-0.581382 V 3.4014588 Z M 1.9956624,2.7799682 1.4075896,3.4181537 l 0.023489,9.1217913 3.441552,3.474969 V 7.1270175 Z"
-     style="stroke-width:0.334131" /></svg>
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <path
+     id="a-5"
+     d="M 4.812379,0.00390677 2.3259566,2.5081187 11.189574,16 13.670136,13.521182 Z M 11.117305,0 11.15629,8.8195021 14.040721,13.147446 14.594,12.595288 14.572515,3.4711268 Z M 1.9818257,2.8586778 1.406,3.4379199 V 12.595288 L 4.812379,15.996093 4.8125,7.0728467 Z"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.333537" />
+</svg>

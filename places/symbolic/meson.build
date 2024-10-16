@@ -75,6 +75,9 @@ link_files = {
     'folder-openscad-symbolic.svg': [
         'folder-openscad-legacy-symbolic.svg',
     ],
+    'folder-neovim-symbolic.svg': [
+        'folder-neovim-legacy-symbolic.svg',
+    ],
     'folder-money-symbolic.svg': [
         'folder-money-legacy-symbolic.svg',
     ],
@@ -138,8 +141,6 @@ link_files = {
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     ],
-    'folder-neovim-symbolic.svg': [
-        'folder-neovim-legacy-symbolic.svg',
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
