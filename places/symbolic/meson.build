@@ -57,6 +57,7 @@ regular_files = [
     'folder-syncthing-legacy-symbolic.svg',
     'folder-syncthing-symbolic.svg',
     'folder-temp-symbolic.svg',
+    'folder-ubuntu-symbolic.svg',
     'folder-vala-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -65,6 +66,9 @@ link_files = {
     # DO NOT REMOVE: Begining of link segment
     'folder-vala-symbolic.svg': [
         'folder-vala-legacy-symbolic.svg',
+    ],
+    'folder-ubuntu-symbolic.svg': [
+        'folder-ubuntu-legacy-symbolic.svg',
     ],
     'folder-temp-symbolic.svg': [
         'folder-temp-legacy-symbolic.svg',

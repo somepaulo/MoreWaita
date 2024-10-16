@@ -405,6 +405,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./places/scalable/folder-shell.svg "Shell")
 ![icon](./places/scalable/folder-syncthing.svg "Syncthing")
 ![icon](./places/scalable/folder-temp.svg "Temp")
+![icon](./places/scalable/folder-ubuntu.svg "Ubuntu")
 ![icon](./places/scalable/folder-vala.svg "Vala")
 
 ### Legacy Places
@@ -455,6 +456,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./places/scalable/folder-shell-legacy.svg "Shell")
 ![icon](./places/scalable/folder-syncthing-legacy.svg "Syncthing")
 ![icon](./places/scalable/folder-temp-legacy.svg "Temp")
+![icon](./places/scalable/folder-ubuntu-legacy.svg "Ubuntu")
 ![icon](./places/scalable/folder-vala-legacy.svg "Vala")
 </details>
 

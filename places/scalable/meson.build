@@ -96,6 +96,8 @@ regular_files = [
     'folder-syncthing.svg',
     'folder-temp-legacy.svg',
     'folder-temp.svg',
+    'folder-ubuntu-legacy.svg',
+    'folder-ubuntu.svg',
     'folder-vala-legacy.svg',
     'folder-vala.svg',
     # DO NOT REMOVE: End of regular segment
