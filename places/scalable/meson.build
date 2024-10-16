@@ -56,6 +56,8 @@ regular_files = [
     'folder-kicad.svg',
     'folder-lua-legacy.svg',
     'folder-lua.svg',
+    'folder-mega-legacy.svg',
+    'folder-mega.svg',
     'folder-money-legacy.svg',
     'folder-money.svg',
     'folder-neovim-legacy.svg',
