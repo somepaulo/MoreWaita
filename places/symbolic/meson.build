@@ -16,6 +16,7 @@ regular_files = [
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
     'folder-dropbox-symbolic.svg',
+    'folder-emacs-symbolic.svg',
     'folder-freecad-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
     'folder-games-symbolic.svg',
@@ -141,6 +142,8 @@ link_files = {
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     ],
+    'folder-emacs-symbolic.svg': [
+        'folder-emacs-legacy-symbolic.svg',
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
