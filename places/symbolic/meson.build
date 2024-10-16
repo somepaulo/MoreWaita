@@ -150,6 +150,9 @@ link_files = {
     'folder-codeberg-symbolic.svg': [
         'folder-codeberg-legacy-symbolic.svg',
     ],
+    'folder-camera-symbolic.svg': [
+        'folder-camera-legacy-symbolic.svg',
+    ],
     'folder-c-symbolic.svg': [
         'folder-c-legacy-symbolic.svg',
     ],
@@ -162,8 +165,6 @@ link_files = {
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     ],
-    'folder-camera-symbolic.svg': [
-        'folder-camera-legacy-symbolic.svg',
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
