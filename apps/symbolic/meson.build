@@ -110,6 +110,7 @@ regular_files = [
     'librewolf-symbolic.svg',
     'liferea-symbolic.svg',
     'linguist-symbolic.svg',
+    'logseq-symbolic.svg',
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
     'mathematica-symbolic.svg',
@@ -1037,6 +1038,10 @@ link_files = {
     'obsidian-symbolic.svg': [
         'appimagekit-obsidian-symbolic.svg',
         'md.obsidian.Obsidian-symbolic.svg',
+    ],
+    'logseq-symbolic.svg': [
+        'appimagekit-logseq-symbolic.svg',
+        'com.logseq.Logseq-symbolic.svg',
     ],
     'librewolf-symbolic.svg': [
         'appimagekit-librewolf-symbolic.svg',

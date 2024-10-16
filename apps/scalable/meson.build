@@ -125,6 +125,7 @@ regular_files = [
     'librewolf.svg',
     'liferea.svg',
     'linguist.svg',
+    'logseq.svg',
     'lvim.svg',
     'mailspring.svg',
     'mathematica.svg',
@@ -1091,6 +1092,10 @@ link_files = {
     'obsidian.svg': [
         'appimagekit-obsidian.svg',
         'md.obsidian.Obsidian.svg',
+    ],
+    'logseq.svg': [
+        'appimagekit-logseq.svg',
+        'com.logseq.Logseq.svg',
     ],
     'librewolf.svg': [
         'appimagekit-librewolf.svg',
