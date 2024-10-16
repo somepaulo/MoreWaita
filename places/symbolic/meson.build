@@ -63,6 +63,9 @@ link_files = {
     'folder-temp-symbolic.svg': [
         'folder-temp-legacy-symbolic.svg',
     ],
+    'folder-school-symbolic.svg': [
+        'folder-school-legacy-symbolic.svg',
+    ],
     'folder-rust-symbolic.svg': [
         'folder-rust-legacy-symbolic.svg',
     ],
@@ -150,8 +153,6 @@ link_files = {
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     ],
-    'folder-school-symbolic.svg': [
-        'folder-school-legacy-symbolic.svg',
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
