@@ -321,6 +321,7 @@ link_files = {
         'libreoffice-spreadsheet.svg',
         'openoffice4-oasis-spreadsheet.svg',
         'openoffice4-spreadsheet.svg',
+        'text-csv.svg',
         'text-spreadsheet.svg',
     ],
     'oasis-drawing.svg': [
