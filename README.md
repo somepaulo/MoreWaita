@@ -26,6 +26,7 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 _These are the icons currently in git, versioned theme releases will be behind most of the time_
 <details>
 <summary><h3>Apps</h3></summary>
+
 ![icon](./apps/scalable/abiword.svg "Abiword")
 ![icon](./apps/scalable/gnome-aisleriot.svg "Aisleriot Solitaire")
 ![icon](./apps/scalable/alacritty.svg "Alacritty")
