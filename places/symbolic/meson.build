@@ -2,9 +2,11 @@ symbolic_places_iconsdir = join_paths(places_iconsdir, 'symbolic')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
+    'folder-appimage-symbolic.svg',
     'folder-arduino-symbolic.svg',
     'folder-backup-symbolic.svg',
     'folder-bitwig-symbolic.svg',
+    'folder-blender-symbolic.svg',
     'folder-books-legacy-symbolic.svg',
     'folder-books-symbolic.svg',
     'folder-c-symbolic.svg',
@@ -17,6 +19,7 @@ regular_files = [
     'folder-freecad-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
     'folder-games-symbolic.svg',
+    'folder-gimp-symbolic.svg',
     'folder-git-legacy-symbolic.svg',
     'folder-git-symbolic.svg',
     'folder-github-symbolic.svg',
@@ -24,6 +27,7 @@ regular_files = [
     'folder-gnome-symbolic.svg',
     'folder-go-symbolic.svg',
     'folder-godot-symbolic.svg',
+    'folder-inkscape-symbolic.svg',
     'folder-java-symbolic.svg',
     'folder-kde-symbolic.svg',
     'folder-kicad-symbolic.svg',
@@ -86,6 +90,9 @@ link_files = {
     'folder-java-symbolic.svg': [
         'folder-java-legacy-symbolic.svg',
     ],
+    'folder-inkscape-symbolic.svg': [
+        'folder-inkscape-legacy-symbolic.svg',
+    ],
     'folder-godot-symbolic.svg': [
         'folder-godot-legacy-symbolic.svg',
     ],
@@ -100,6 +107,9 @@ link_files = {
     ],
     'folder-github-symbolic.svg': [
         'folder-github-legacy-symbolic.svg',
+    ],
+    'folder-gimp-symbolic.svg': [
+        'folder-gimp-legacy-symbolic.svg',
     ],
     'folder-freecad-symbolic.svg': [
         'folder-freecad-legacy-symbolic.svg',
@@ -119,6 +129,9 @@ link_files = {
     'folder-c-symbolic.svg': [
         'folder-c-legacy-symbolic.svg',
     ],
+    'folder-blender-symbolic.svg': [
+        'folder-blender-legacy-symbolic.svg',
+    ],
     'folder-backup-symbolic.svg': [
         'folder-backup-legacy-symbolic.svg',
     ],
@@ -127,6 +140,8 @@ link_files = {
     ],
     'folder-neovim-symbolic.svg': [
         'folder-neovim-legacy-symbolic.svg',
+    'folder-appimage-symbolic.svg': [
+        'folder-appimage-legacy-symbolic.svg',
     ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
