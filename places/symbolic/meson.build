@@ -2,9 +2,11 @@ symbolic_places_iconsdir = join_paths(places_iconsdir, 'symbolic')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
+    'folder-appimage-symbolic.svg',
     'folder-arduino-symbolic.svg',
     'folder-backup-symbolic.svg',
     'folder-bitwig-symbolic.svg',
+    'folder-blender-symbolic.svg',
     'folder-books-legacy-symbolic.svg',
     'folder-books-symbolic.svg',
     'folder-c-symbolic.svg',
@@ -14,9 +16,11 @@ regular_files = [
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
     'folder-dropbox-symbolic.svg',
+    'folder-emacs-symbolic.svg',
     'folder-freecad-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
     'folder-games-symbolic.svg',
+    'folder-gimp-symbolic.svg',
     'folder-git-legacy-symbolic.svg',
     'folder-git-symbolic.svg',
     'folder-github-symbolic.svg',
@@ -24,11 +28,14 @@ regular_files = [
     'folder-gnome-symbolic.svg',
     'folder-go-symbolic.svg',
     'folder-godot-symbolic.svg',
+    'folder-inkscape-symbolic.svg',
     'folder-java-symbolic.svg',
     'folder-kde-symbolic.svg',
     'folder-kicad-symbolic.svg',
     'folder-lua-symbolic.svg',
+    'folder-mega-symbolic.svg',
     'folder-money-symbolic.svg',
+    'folder-neovim-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
     'folder-openscad-symbolic.svg',
@@ -41,6 +48,8 @@ regular_files = [
     'folder-ruby-symbolic.svg',
     'folder-rust-symbolic.svg',
     'folder-screenshot-symbolic.svg',
+    'folder-school-symbolic.svg',
+    'folder-shell-symbolic.svg',
     'folder-syncthing-legacy-symbolic.svg',
     'folder-syncthing-symbolic.svg',
     'folder-temp-symbolic.svg',
@@ -55,6 +64,12 @@ link_files = {
     ],
     'folder-temp-symbolic.svg': [
         'folder-temp-legacy-symbolic.svg',
+    ],
+    'folder-shell-symbolic.svg': [
+        'folder-shell-legacy-symbolic.svg',
+    ],
+    'folder-school-symbolic.svg': [
+        'folder-school-legacy-symbolic.svg',
     ],
     'folder-rust-symbolic.svg': [
         'folder-rust-legacy-symbolic.svg',
@@ -71,8 +86,14 @@ link_files = {
     'folder-openscad-symbolic.svg': [
         'folder-openscad-legacy-symbolic.svg',
     ],
+    'folder-neovim-symbolic.svg': [
+        'folder-neovim-legacy-symbolic.svg',
+    ],
     'folder-money-symbolic.svg': [
         'folder-money-legacy-symbolic.svg',
+    ],
+    'folder-mega-symbolic.svg': [
+        'folder-mega-legacy-symbolic.svg',
     ],
     'folder-lua-symbolic.svg': [
         'folder-lua-legacy-symbolic.svg',
@@ -85,6 +106,9 @@ link_files = {
     ],
     'folder-java-symbolic.svg': [
         'folder-java-legacy-symbolic.svg',
+    ],
+    'folder-inkscape-symbolic.svg': [
+        'folder-inkscape-legacy-symbolic.svg',
     ],
     'folder-godot-symbolic.svg': [
         'folder-godot-legacy-symbolic.svg',
@@ -101,8 +125,14 @@ link_files = {
     'folder-github-symbolic.svg': [
         'folder-github-legacy-symbolic.svg',
     ],
+    'folder-gimp-symbolic.svg': [
+        'folder-gimp-legacy-symbolic.svg',
+    ],
     'folder-freecad-symbolic.svg': [
         'folder-freecad-legacy-symbolic.svg',
+    ],
+    'folder-emacs-symbolic.svg': [
+        'folder-emacs-legacy-symbolic.svg',
     ],
     'folder-dropbox-symbolic.svg': [
         'folder-dropbox-legacy-symbolic.svg',
@@ -119,6 +149,9 @@ link_files = {
     'folder-c-symbolic.svg': [
         'folder-c-legacy-symbolic.svg',
     ],
+    'folder-blender-symbolic.svg': [
+        'folder-blender-legacy-symbolic.svg',
+    ],
     'folder-backup-symbolic.svg': [
         'folder-backup-legacy-symbolic.svg',
     ],
@@ -127,6 +160,8 @@ link_files = {
     ],
     'folder-screenshot-symbolic.svg': [
         'folder-screenshot-legacy-symbolic.svg',
+    'folder-appimage-symbolic.svg': [
+        'folder-appimage-legacy-symbolic.svg',
     ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
