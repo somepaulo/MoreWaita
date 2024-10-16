@@ -118,6 +118,9 @@ link_files = {
     'folder-freecad-symbolic.svg': [
         'folder-freecad-legacy-symbolic.svg',
     ],
+    'folder-emacs-symbolic.svg': [
+        'folder-emacs-legacy-symbolic.svg',
+    ],
     'folder-dropbox-symbolic.svg': [
         'folder-dropbox-legacy-symbolic.svg',
     ],
@@ -142,8 +145,6 @@ link_files = {
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     ],
-    'folder-emacs-symbolic.svg': [
-        'folder-emacs-legacy-symbolic.svg',
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
