@@ -16,25 +16,17 @@
          offset="0"
          id="stop869" />
       <stop
-         style="stop-color:#8d348e;stop-opacity:1;"
-         offset="0.07161771"
+         style="stop-color:#bd50be;stop-opacity:1;"
+         offset="0.41214889"
          id="stop877" />
       <stop
          style="stop-color:#431943;stop-opacity:1;"
-         offset="0.15232497"
+         offset="0.81109345"
          id="stop879" />
       <stop
-         style="stop-color:#431943;stop-opacity:1;"
-         offset="0.85181606"
-         id="stop881" />
-      <stop
-         style="stop-color:#8d348e;stop-opacity:1;"
-         offset="0.93134016"
-         id="stop883" />
-      <stop
-         style="stop-color:#431943;stop-opacity:1;"
+         style="stop-color:#b142b3;stop-opacity:1;"
          offset="1"
-         id="stop871" />
+         id="stop883" />
     </linearGradient>
     <linearGradient
        xlink:href="#linearGradient873"
@@ -43,34 +35,39 @@
        y1="66"
        x2="118"
        y2="66"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1111111,0,0,1.0925926,-7.1111101,-6.111109)" />
   </defs>
-  <circle
-     style="fill:url(#linearGradient875);fill-opacity:1;stroke-width:1.92857"
-     cx="63.999996"
+  <ellipse
+     style="fill:url(#linearGradient875);fill-opacity:1;stroke-width:2.12492"
+     cx="64"
      cy="66"
-     r="54"
-     id="circle4-5" />
-  <circle
-     style="fill:#8d348e;stroke-width:1.92857"
-     cx="63.999996"
-     cy="62"
-     r="54"
-     id="circle4" />
-  <circle
-     style="opacity:0.3;stroke-width:1.92857"
-     cx="68.821434"
-     cy="57.178574"
-     r="39.535713"
-     id="circle6" />
-  <circle
-     style="fill:#ffffff;stroke-width:1.92857"
-     cx="63.999996"
-     cy="62"
-     r="27"
-     id="circle10" />
+     id="circle4-5"
+     rx="60"
+     ry="59" />
+  <ellipse
+     style="fill:#8d348e;stroke-width:2.12492"
+     cx="64"
+     cy="62.000004"
+     id="circle4"
+     rx="60"
+     ry="59" />
+  <ellipse
+     style="opacity:0.3;stroke-width:2.12492"
+     cx="69.357155"
+     cy="56.732147"
+     id="circle6"
+     rx="43.92857"
+     ry="43.196426" />
+  <ellipse
+     style="fill:#ffffff;stroke-width:2.12492"
+     cx="64"
+     cy="62.000004"
+     id="circle10"
+     rx="30"
+     ry="29.5" />
   <path
-     style="fill:#691f69;stroke-width:2.9078"
-     d="m 74.60714,62.000006 -10.125,5.785714 -10.125,5.78571 V 62.000002 50.428577 l 10.125,5.785714 z"
+     style="fill:#691f69;stroke-width:3.20385"
+     d="m 75.785716,62.000009 -11.25,6.321428 -11.25,6.321424 V 62.000004 49.357151 l 11.25,6.321428 z"
      id="path12" />
 </svg>

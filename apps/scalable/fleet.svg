@@ -15,36 +15,28 @@
     <linearGradient
        id="linearGradient1847">
       <stop
-         style="stop-color:#000000;stop-opacity:0.60000002;"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop1835" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.60000002;"
-         offset="0.07212132"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.41334832"
          id="stop1837" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.60000002;"
-         offset="0.15008581"
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.811014"
          id="stop1839" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.60000002;"
-         offset="0.85342276"
-         id="stop1841" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.60000002;"
-         offset="0.93036103"
-         id="stop1843" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.60000002;"
+         style="stop-color:#ffffff;stop-opacity:0.90018922;"
          offset="1"
-         id="stop1845" />
+         id="stop1843" />
     </linearGradient>
     <radialGradient
        id="__GeneratedJBProductLogos__23"
        cx="0"
        cy="0"
        r="1"
-       gradientTransform="matrix(38.939801,-35.851158,47.330635,51.408244,70.354581,75.13071)"
+       gradientTransform="matrix(43.266445,-39.17071,52.589594,56.168267,71.060645,76.346517)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.771"
@@ -60,7 +52,7 @@
        cx="0"
        cy="0"
        r="1"
-       gradientTransform="matrix(25.169501,-14.851424,19.606766,33.228632,84.354584,54.77076)"
+       gradientTransform="matrix(27.966112,-16.226556,21.785295,36.305357,86.616204,54.101386)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.719"
@@ -78,7 +70,7 @@
        cx="0"
        cy="0"
        r="1"
-       gradientTransform="matrix(54.299563,63.318831,-63.318831,54.299563,46.334726,52.68134)"
+       gradientTransform="matrix(60.332847,69.181686,-70.354256,59.327301,44.371918,51.818502)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.026"
@@ -102,7 +94,7 @@
        cx="0"
        cy="0"
        r="1"
-       gradientTransform="matrix(-41.987484,38.830502,-38.830502,-41.987484,58.963704,59.942182)"
+       gradientTransform="matrix(-46.65276,42.425919,-43.145002,-45.875214,58.404115,59.751644)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.267"
@@ -120,7 +112,7 @@
        cx="0"
        cy="0"
        r="1"
-       gradientTransform="matrix(22.762512,86.140475,-86.140475,22.762512,51.983673,51.147449)"
+       gradientTransform="matrix(25.29168,94.116446,-95.711638,24.870152,50.648525,50.142584)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.42"
@@ -143,7 +135,7 @@
        cx="0"
        cy="0"
        r="1"
-       gradientTransform="matrix(4.7639149,39.643613,-59.920352,7.2005517,54.346193,62.480774)"
+       gradientTransform="matrix(5.2932387,43.314318,-66.578168,7.8672695,53.273548,62.525291)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
@@ -165,7 +157,7 @@
        y1="42.431999"
        y2="43.401001"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.7419355,0,0,1.7419355,3.0322575,1.0322573)">
+       gradientTransform="matrix(1.9354839,0,0,1.9032258,-3.7419352,-4.6129037)">
       <stop
          offset="0.432"
          stop-color="#FE62EE"
@@ -184,7 +176,7 @@
        y1="23.191"
        y2="49.344002"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.7419355,0,0,1.7419355,3.0322575,1.0322573)">
+       gradientTransform="matrix(1.9354839,0,0,1.9032258,-3.7419352,-4.6129037)">
       <stop
          offset="0.042"
          stop-color="#0038FF"
@@ -200,112 +192,14 @@
          stop-opacity="0"
          id="stop49" />
     </linearGradient>
-    <radialGradient
-       id="radialGradient56"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(22.35433,-20.58122,27.17129,29.51214,38.648,42.538)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.771"
-         stop-color="#001AFF"
-         id="stop52" />
-      <stop
-         offset="1"
-         stop-color="#8ACEFF"
-         id="stop54" />
-    </radialGradient>
-    <radialGradient
-       id="radialGradient62"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(14.449158,-8.5258175,11.255736,19.075696,46.685039,30.849881)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.719"
-         stop-color="#FA00FF"
-         stop-opacity="0"
-         id="stop58" />
-      <stop
-         offset="1"
-         stop-color="#FF00D6"
-         stop-opacity="0.44"
-         id="stop60" />
-    </radialGradient>
-    <radialGradient
-       id="radialGradient72"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(31.171971,36.349699,-36.349699,31.171971,24.858824,29.650399)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.026"
-         stop-color="#8DFDFD"
-         id="stop64" />
-      <stop
-         offset="0.271"
-         stop-color="#87FBFB"
-         id="stop66" />
-      <stop
-         offset="0.484"
-         stop-color="#74D6F4"
-         id="stop68" />
-      <stop
-         offset="0.932"
-         stop-color="#0038FF"
-         id="stop70" />
-    </radialGradient>
-    <radialGradient
-       id="radialGradient78"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(-24.103926,22.291584,-22.291584,-24.103926,32.108793,33.81866)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.267"
-         stop-color="#0500FF"
-         stop-opacity="0"
-         id="stop74" />
-      <stop
-         offset="1"
-         stop-color="#0500FF"
-         stop-opacity="0.15"
-         id="stop76" />
-    </radialGradient>
-    <radialGradient
-       id="radialGradient86"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(13.067368,49.451013,-49.451013,13.067368,28.101738,28.769832)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.42"
-         stop-color="#FF00E5"
-         stop-opacity="0"
-         id="stop80" />
-      <stop
-         offset="0.774"
-         stop-color="#FF00F5"
-         stop-opacity="0.64"
-         id="stop82" />
-      <stop
-         offset="0.899"
-         stop-color="#BE46FF"
-         stop-opacity="0.87"
-         id="stop84" />
-    </radialGradient>
     <linearGradient
        id="linearGradient92"
        x1="11.644"
        x2="82.362999"
        y1="42.431999"
        y2="43.401001"
-       gradientUnits="userSpaceOnUse">
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9354837,0,0,1.9032258,-3.7419306,-0.6129032)">
       <stop
          offset="0.432"
          stop-color="#FE62EE"
@@ -318,87 +212,11 @@
          id="stop90" />
     </linearGradient>
     <radialGradient
-       id="radialGradient100"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(2.73484,22.75837,-34.39872,4.13365,29.458,35.276)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#00B2FF"
-         id="stop94" />
-      <stop
-         offset="0.571"
-         stop-color="#74C5FF"
-         id="stop96" />
-      <stop
-         offset="0.979"
-         stop-color="#9FD7FF"
-         id="stop98" />
-    </radialGradient>
-    <linearGradient
-       id="linearGradient108"
-       x1="33.054001"
-       x2="37.349998"
-       y1="23.191"
-       y2="49.344002"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.042"
-         stop-color="#0038FF"
-         id="stop102" />
-      <stop
-         offset="0.724"
-         stop-color="#48BFF1"
-         stop-opacity="0.59"
-         id="stop104" />
-      <stop
-         offset="1"
-         stop-color="#74C5FF"
-         stop-opacity="0"
-         id="stop106" />
-    </linearGradient>
-    <radialGradient
-       id="__GeneratedJBProductLogos__23-3"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(22.35433,-20.58122,27.17129,29.51214,38.648,42.538)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.771"
-         stop-color="#001AFF"
-         id="stop2-6" />
-      <stop
-         offset="1"
-         stop-color="#8ACEFF"
-         id="stop4-7" />
-    </radialGradient>
-    <radialGradient
-       id="__GeneratedJBProductLogos__22-5"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(14.449158,-8.5258175,11.255736,19.075696,46.685039,30.849881)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.719"
-         stop-color="#FA00FF"
-         stop-opacity="0"
-         id="stop7-3" />
-      <stop
-         offset="1"
-         stop-color="#FF00D6"
-         stop-opacity="0.44"
-         id="stop9-5" />
-    </radialGradient>
-    <radialGradient
        id="__GeneratedJBProductLogos__21-6"
        cx="0"
        cy="0"
        r="1"
-       gradientTransform="matrix(31.171971,36.349699,-36.349699,31.171971,24.858824,29.650399)"
+       gradientTransform="matrix(60.332842,69.181686,-70.35425,59.327301,44.371918,55.818502)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.026"
@@ -422,7 +240,7 @@
        cx="0"
        cy="0"
        r="1"
-       gradientTransform="matrix(-24.103926,22.291584,-22.291584,-24.103926,32.108793,33.81866)"
+       gradientTransform="matrix(-46.652755,42.425919,-43.144998,-45.875214,58.404114,63.751644)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.267"
@@ -440,7 +258,7 @@
        cx="0"
        cy="0"
        r="1"
-       gradientTransform="matrix(13.067368,49.451013,-49.451013,13.067368,28.101738,28.769832)"
+       gradientTransform="matrix(25.291677,94.116446,-95.711629,24.870152,50.648525,54.142584)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.42"
@@ -458,62 +276,6 @@
          stop-opacity="0.87"
          id="stop30-6" />
     </radialGradient>
-    <radialGradient
-       id="__GeneratedJBProductLogos__18-8"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(2.73484,22.75837,-34.39872,4.13365,29.458,35.276)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#00B2FF"
-         id="stop33-7" />
-      <stop
-         offset="0.571"
-         stop-color="#74C5FF"
-         id="stop35-9" />
-      <stop
-         offset="0.979"
-         stop-color="#9FD7FF"
-         id="stop37-2" />
-    </radialGradient>
-    <linearGradient
-       xlink:href="#linearGradient17978"
-       id="linearGradient17980"
-       x1="111.16832"
-       y1="126.41584"
-       x2="215.16832"
-       y2="126.41584"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-190.17339,-263.5732)" />
-    <linearGradient
-       id="linearGradient17978">
-      <stop
-         style="stop-color:#000000;stop-opacity:0.40000001;"
-         offset="0"
-         id="stop17974" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.60000002;"
-         offset="0.04332975"
-         id="stop17982" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.40000001;"
-         offset="0.07164544"
-         id="stop17984" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.40000001;"
-         offset="0.92551279"
-         id="stop17986" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.60000002;"
-         offset="0.95629996"
-         id="stop17988" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.40000001;"
-         offset="1"
-         id="stop17976" />
-    </linearGradient>
     <linearGradient
        xlink:href="#linearGradient1847"
        id="linearGradient1833"
@@ -522,268 +284,78 @@
        x2="-4.0367851"
        y2="23.868359"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.2624094,0,0,2.2624094,127.13286,12)" />
-    <radialGradient
-       id="__GeneratedJBProductLogos__23-2"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(22.35433,-20.58122,27.17129,29.51214,38.648,42.538)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.771"
-         stop-color="#001AFF"
-         id="stop2-9" />
-      <stop
-         offset="1"
-         stop-color="#8ACEFF"
-         id="stop4-3" />
-    </radialGradient>
-    <radialGradient
-       id="__GeneratedJBProductLogos__22-1"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(14.449158,-8.5258175,11.255736,19.075696,46.685039,30.849881)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.719"
-         stop-color="#FA00FF"
-         stop-opacity="0"
-         id="stop7-9" />
-      <stop
-         offset="1"
-         stop-color="#FF00D6"
-         stop-opacity="0.44"
-         id="stop9-4" />
-    </radialGradient>
-    <radialGradient
-       id="__GeneratedJBProductLogos__21-7"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(31.171971,36.349699,-36.349699,31.171971,24.858824,29.650399)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.026"
-         stop-color="#8DFDFD"
-         id="stop12-8" />
-      <stop
-         offset="0.271"
-         stop-color="#87FBFB"
-         id="stop14-4" />
-      <stop
-         offset="0.484"
-         stop-color="#74D6F4"
-         id="stop16-5" />
-      <stop
-         offset="0.932"
-         stop-color="#0038FF"
-         id="stop18-0" />
-    </radialGradient>
-    <radialGradient
-       id="__GeneratedJBProductLogos__20-3"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(-24.103926,22.291584,-22.291584,-24.103926,32.108793,33.81866)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.267"
-         stop-color="#0500FF"
-         stop-opacity="0"
-         id="stop21-6" />
-      <stop
-         offset="1"
-         stop-color="#0500FF"
-         stop-opacity="0.15"
-         id="stop23-1" />
-    </radialGradient>
-    <radialGradient
-       id="__GeneratedJBProductLogos__19-0"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(13.067368,49.451013,-49.451013,13.067368,28.101738,28.769832)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.42"
-         stop-color="#FF00E5"
-         stop-opacity="0"
-         id="stop26-63" />
-      <stop
-         offset="0.774"
-         stop-color="#FF00F5"
-         stop-opacity="0.64"
-         id="stop28-2" />
-      <stop
-         offset="0.899"
-         stop-color="#BE46FF"
-         stop-opacity="0.87"
-         id="stop30-0" />
-    </radialGradient>
-    <linearGradient
-       id="__GeneratedJBProductLogos__17-6"
-       x1="11.644"
-       x2="82.362999"
-       y1="42.431999"
-       y2="43.401001"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.432"
-         stop-color="#FE62EE"
-         stop-opacity="0"
-         id="stop40-1" />
-      <stop
-         offset="0.818"
-         stop-color="#FD3AF5"
-         stop-opacity="0.47"
-         id="stop42-5" />
-    </linearGradient>
-    <radialGradient
-       id="__GeneratedJBProductLogos__18-5"
-       cx="0"
-       cy="0"
-       r="1"
-       gradientTransform="matrix(2.73484,22.75837,-34.39872,4.13365,29.458,35.276)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#00B2FF"
-         id="stop33-4" />
-      <stop
-         offset="0.571"
-         stop-color="#74C5FF"
-         id="stop35-7" />
-      <stop
-         offset="0.979"
-         stop-color="#9FD7FF"
-         id="stop37-6" />
-    </radialGradient>
-    <linearGradient
-       id="__GeneratedJBProductLogos__16-5"
-       x1="33.054001"
-       x2="37.349998"
-       y1="23.191"
-       y2="49.344002"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.042"
-         stop-color="#0038FF"
-         id="stop45-6" />
-      <stop
-         offset="0.724"
-         stop-color="#48BFF1"
-         stop-opacity="0.59"
-         id="stop47-9" />
-      <stop
-         offset="1"
-         stop-color="#74C5FF"
-         stop-opacity="0"
-         id="stop49-3" />
-    </linearGradient>
+       gradientTransform="matrix(2.513788,0,0,2.4718918,134.14761,7.0000043)" />
   </defs>
-  <g
-     id="g678-5"
-     transform="matrix(1.7419355,0,0,1.7419355,3.03226,5.0322578)">
-    <path
-       fill="url(#__GeneratedJBProductLogos__23)"
-       d="m 65.153,30.85 c 0,9.496 -10.163,17.194 -22.7,17.194 -12.536,0 -22.699,-7.698 -22.699,-17.194 0,-9.496 10.163,-17.194 22.7,-17.194 12.536,0 22.699,7.698 22.699,17.194 z"
-       id="path112-9"
-       style="fill:url(#__GeneratedJBProductLogos__23-3)" />
-    <path
-       fill="url(#__GeneratedJBProductLogos__22)"
-       d="m 65.153,30.85 c 0,9.496 -10.163,17.194 -22.7,17.194 -12.536,0 -22.699,-7.698 -22.699,-17.194 0,-9.496 10.163,-17.194 22.7,-17.194 12.536,0 22.699,7.698 22.699,17.194 z"
-       id="path114-2"
-       style="fill:url(#__GeneratedJBProductLogos__22-5)" />
-    <path
-       fill="url(#__GeneratedJBProductLogos__21)"
-       d="M 66,35 C 66,52.12 52.12,66 35,66 17.88,66 4,52.12 4,35 4,17.88 17.88,4 35,4 43.046,7.642 51.464,21.194 54.99,25.429 58.514,29.664 67.638,35 63.166,23.806 65.073,26.832 66,31.852 66,35 Z"
-       id="path116-2"
-       style="fill:url(#__GeneratedJBProductLogos__21-6)" />
-    <path
-       fill="url(#__GeneratedJBProductLogos__20)"
-       d="M 66,35 C 66,52.12 52.12,66 35,66 17.88,66 4,52.12 4,35 4,17.88 17.88,4 35,4 43.046,7.642 51.464,21.194 54.99,25.429 58.514,29.664 67.638,35 63.166,23.806 65.073,26.832 66,31.852 66,35 Z"
-       id="path118-8"
-       style="fill:url(#__GeneratedJBProductLogos__20-7)" />
-    <path
-       fill="url(#__GeneratedJBProductLogos__19)"
-       d="M 66,35 C 66,52.12 52.12,66 35,66 17.88,66 4,52.12 4,35 4,17.88 17.88,4 35,4 43.046,7.642 51.464,21.194 54.99,25.429 58.514,29.664 67.638,35 63.166,23.806 65.073,26.832 66,31.852 66,35 Z"
-       id="path120-9"
-       style="fill:url(#__GeneratedJBProductLogos__19-3)" />
-    <path
-       fill="url(#__GeneratedJBProductLogos__17)"
-       d="M 66,35 C 66,52.12 52.12,66 35,66 17.88,66 4,52.12 4,35 4,17.88 17.88,4 35,4 43.046,7.642 51.464,21.194 54.99,25.429 58.514,29.664 67.638,35 63.166,23.806 65.073,26.832 66,31.852 66,35 Z"
-       id="path122-7"
-       style="fill:url(#linearGradient92)" />
-    <path
-       fill="url(#__GeneratedJBProductLogos__18)"
-       d="m 56.651,39.682 c 1.658,7.764 -6.511,16.089 -18.246,18.594 -11.734,2.505 -22.59,-1.757 -24.248,-9.52 -1.658,-7.764 6.511,-16.089 18.246,-18.594 11.734,-2.506 22.59,1.757 24.248,9.52 z"
-       id="path124-3"
-       style="fill:url(#__GeneratedJBProductLogos__18-8)" />
-    <path
-       fill="url(#__GeneratedJBProductLogos__16)"
-       d="m 56.651,39.682 c 1.658,7.764 -6.511,16.089 -18.246,18.594 -11.734,2.505 -22.59,-1.757 -24.248,-9.52 -1.658,-7.764 6.511,-16.089 18.246,-18.594 11.734,-2.506 22.59,1.757 24.248,9.52 z"
-       id="path126-6"
-       style="fill:url(#linearGradient108)" />
-    <path
-       fill="#d6f8f8"
-       fill-opacity="0.19"
-       fill-rule="evenodd"
-       d="m 51.462,49.883 c 3.074,-3.133 4.386,-6.66 3.698,-9.882 -0.688,-3.223 -3.326,-5.907 -7.411,-7.51 -4.073,-1.6 -9.412,-2.037 -15.028,-0.838 -5.616,1.199 -10.31,3.779 -13.375,6.901 -3.074,3.133 -4.386,6.66 -3.698,9.883 0.688,3.223 3.326,5.906 7.412,7.51 4.072,1.6 9.41,2.037 15.027,0.838 5.616,-1.2 10.31,-3.779 13.375,-6.902 z M 38.405,58.276 C 50.14,55.771 58.309,47.446 56.651,39.682 54.993,31.919 44.137,27.656 32.403,30.162 20.668,32.667 12.499,40.992 14.157,48.755 c 1.658,7.764 12.514,12.026 24.248,9.521 z"
-       clip-rule="evenodd"
-       id="path128-1" />
-  </g>
-  <path
-     id="path1525"
-     style="opacity:0.4;fill:url(#linearGradient1833);stroke-width:6.78723;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;paint-order:stroke fill markers"
-     d="M 118,66 C 118,95.823378 93.823374,120 63.999996,120 34.17662,120 9.9999962,95.823376 9.9999962,66 9.9999962,36.176624 30.936316,36.08679 60.759692,36.08679 90.58307,36.086788 118,36.176622 118,66 Z" />
-  <path
-     fill="url(#__GeneratedJBProductLogos__23)"
-     d="m 116.52458,54.770967 c 0,16.54142 -17.703289,29.950839 -39.541935,29.950839 -21.836903,0 -39.540194,-13.409419 -39.540194,-29.950839 0,-16.541419 17.703291,-29.950839 39.541936,-29.950839 21.836904,0 39.540193,13.40942 39.540193,29.950839 z"
-     id="path112"
-     style="fill:url(#__GeneratedJBProductLogos__23);stroke-width:1.74194" />
-  <path
-     fill="url(#__GeneratedJBProductLogos__22)"
-     d="m 116.52458,54.770967 c 0,16.54142 -17.703289,29.950839 -39.541935,29.950839 -21.836903,0 -39.540194,-13.409419 -39.540194,-29.950839 0,-16.541419 17.703291,-29.950839 39.541936,-29.950839 21.836904,0 39.540193,13.40942 39.540193,29.950839 z"
-     id="path114"
-     style="fill:url(#__GeneratedJBProductLogos__22);stroke-width:1.74194" />
   <path
      fill="url(#__GeneratedJBProductLogos__21)"
-     d="M 118,62 C 118,91.821936 93.821936,116 64,116 34.178064,116 9.9999995,91.821936 9.9999995,62 9.9999995,32.178064 34.178064,7.9999993 64,7.9999993 78.015613,14.344128 92.679226,37.950838 98.821291,45.327935 104.95987,52.705032 120.85329,62 113.06336,42.500774 116.38523,47.771871 118,56.516387 118,62 Z"
-     id="path116"
-     style="fill:url(#__GeneratedJBProductLogos__21);stroke-width:1.74194" />
+     d="m 123.99999,66 c 0,32.58323 -26.864509,59 -59.999992,59 C 30.864518,125 4.0000044,98.58323 4.0000044,66 4.0000044,33.416775 30.864518,7.0000003 63.999998,7.0000003 79.572901,13.931548 95.865801,39.724065 102.69032,47.784227 109.51096,55.844387 127.17031,66 118.51483,44.69529 122.2058,50.454452 123.99999,60.008646 123.99999,66 Z"
+     id="path116-2"
+     style="fill:url(#__GeneratedJBProductLogos__21-6);stroke-width:1.91929" />
   <path
      fill="url(#__GeneratedJBProductLogos__20)"
-     d="M 118,62 C 118,91.821936 93.821936,116 64,116 34.178064,116 9.9999995,91.821936 9.9999995,62 9.9999995,32.178064 34.178064,7.9999993 64,7.9999993 78.015613,14.344128 92.679226,37.950838 98.821291,45.327935 104.95987,52.705032 120.85329,62 113.06336,42.500774 116.38523,47.771871 118,56.516387 118,62 Z"
-     id="path118"
-     style="fill:url(#__GeneratedJBProductLogos__20);stroke-width:1.74194" />
+     d="m 123.99999,66 c 0,32.58323 -26.864509,59 -59.999992,59 C 30.864518,125 4.0000044,98.58323 4.0000044,66 4.0000044,33.416775 30.864518,7.0000003 63.999998,7.0000003 79.572901,13.931548 95.865801,39.724065 102.69032,47.784227 109.51096,55.844387 127.17031,66 118.51483,44.69529 122.2058,50.454452 123.99999,60.008646 123.99999,66 Z"
+     id="path118-8"
+     style="fill:url(#__GeneratedJBProductLogos__20-7);stroke-width:1.91929" />
   <path
      fill="url(#__GeneratedJBProductLogos__19)"
-     d="M 118,62 C 118,91.821936 93.821936,116 64,116 34.178064,116 9.9999995,91.821936 9.9999995,62 9.9999995,32.178064 34.178064,7.9999993 64,7.9999993 78.015613,14.344128 92.679226,37.950838 98.821291,45.327935 104.95987,52.705032 120.85329,62 113.06336,42.500774 116.38523,47.771871 118,56.516387 118,62 Z"
-     id="path120"
-     style="fill:url(#__GeneratedJBProductLogos__19);stroke-width:1.74194" />
+     d="m 123.99999,66 c 0,32.58323 -26.864509,59 -59.999992,59 C 30.864518,125 4.0000044,98.58323 4.0000044,66 4.0000044,33.416775 30.864518,7.0000003 63.999998,7.0000003 79.572901,13.931548 95.865801,39.724065 102.69032,47.784227 109.51096,55.844387 127.17031,66 118.51483,44.69529 122.2058,50.454452 123.99999,60.008646 123.99999,66 Z"
+     id="path120-9"
+     style="fill:url(#__GeneratedJBProductLogos__19-3);stroke-width:1.91929" />
   <path
      fill="url(#__GeneratedJBProductLogos__17)"
-     d="M 118,62 C 118,91.821936 93.821936,116 64,116 34.178064,116 9.9999995,91.821936 9.9999995,62 9.9999995,32.178064 34.178064,7.9999993 64,7.9999993 78.015613,14.344128 92.679226,37.950838 98.821291,45.327935 104.95987,52.705032 120.85329,62 113.06336,42.500774 116.38523,47.771871 118,56.516387 118,62 Z"
+     d="m 123.99999,66 c 0,32.58323 -26.864509,59 -59.999992,59 C 30.864518,125 4.0000044,98.58323 4.0000044,66 4.0000044,33.416775 30.864518,7.0000003 63.999998,7.0000003 79.572901,13.931548 95.865801,39.724065 102.69032,47.784227 109.51096,55.844387 127.17031,66 118.51483,44.69529 122.2058,50.454452 123.99999,60.008646 123.99999,66 Z"
+     id="path122-7"
+     style="fill:url(#linearGradient92);stroke-width:1.91929" />
+  <path
+     id="path1525"
+     style="opacity:0.4;fill:url(#linearGradient1833);stroke-width:7.47826;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;paint-order:stroke fill markers"
+     d="M 124,66.000005 C 124,98.5848 97.137071,125 63.999992,125 30.862911,125 3.9999987,98.5848 3.9999987,66.000005 c 0,-32.5848 23.2625753,-32.682952 56.3996563,-32.682952 33.137088,-2e-6 63.600335,0.09815 63.600345,32.682952 z" />
+  <path
+     fill="url(#__GeneratedJBProductLogos__23)"
+     d="m 122.36064,54.101613 c 0,18.073033 -19.67032,32.724065 -43.935479,32.724065 -24.263226,0 -43.933549,-14.651032 -43.933549,-32.724065 0,-18.073032 19.670323,-32.724066 43.935484,-32.724066 24.263224,0 43.933544,14.651034 43.933544,32.724066 z"
+     id="path112"
+     style="fill:url(#__GeneratedJBProductLogos__23);stroke-width:1.91929" />
+  <path
+     fill="url(#__GeneratedJBProductLogos__22)"
+     d="m 122.36064,54.101613 c 0,18.073033 -19.67032,32.724065 -43.935479,32.724065 -24.263226,0 -43.933549,-14.651032 -43.933549,-32.724065 0,-18.073032 19.670323,-32.724066 43.935484,-32.724066 24.263224,0 43.933544,14.651034 43.933544,32.724066 z"
+     id="path114"
+     style="fill:url(#__GeneratedJBProductLogos__22);stroke-width:1.91929" />
+  <path
+     fill="url(#__GeneratedJBProductLogos__21)"
+     d="M 124,62 C 124,94.583227 97.135481,121 64,121 30.864516,121 4.0000002,94.583227 4.0000002,62 4.0000002,29.416774 30.864516,2.9999996 64,2.9999996 79.572903,9.9315473 95.865811,35.724064 102.69032,43.784226 109.51097,51.844387 127.17032,62 118.51484,40.69529 122.20581,46.454452 124,56.008646 124,62 Z"
+     id="path116"
+     style="fill:url(#__GeneratedJBProductLogos__21);stroke-width:1.91929" />
+  <path
+     fill="url(#__GeneratedJBProductLogos__20)"
+     d="M 124,62 C 124,94.583227 97.135481,121 64,121 30.864516,121 4.0000002,94.583227 4.0000002,62 4.0000002,29.416774 30.864516,2.9999996 64,2.9999996 79.572903,9.9315473 95.865811,35.724064 102.69032,43.784226 109.51097,51.844387 127.17032,62 118.51484,40.69529 122.20581,46.454452 124,56.008646 124,62 Z"
+     id="path118"
+     style="fill:url(#__GeneratedJBProductLogos__20);stroke-width:1.91929" />
+  <path
+     fill="url(#__GeneratedJBProductLogos__19)"
+     d="M 124,62 C 124,94.583227 97.135481,121 64,121 30.864516,121 4.0000002,94.583227 4.0000002,62 4.0000002,29.416774 30.864516,2.9999996 64,2.9999996 79.572903,9.9315473 95.865811,35.724064 102.69032,43.784226 109.51097,51.844387 127.17032,62 118.51484,40.69529 122.20581,46.454452 124,56.008646 124,62 Z"
+     id="path120"
+     style="fill:url(#__GeneratedJBProductLogos__19);stroke-width:1.91929" />
+  <path
+     fill="url(#__GeneratedJBProductLogos__17)"
+     d="M 124,62 C 124,94.583227 97.135481,121 64,121 30.864516,121 4.0000002,94.583227 4.0000002,62 4.0000002,29.416774 30.864516,2.9999996 64,2.9999996 79.572903,9.9315473 95.865811,35.724064 102.69032,43.784226 109.51097,51.844387 127.17032,62 118.51484,40.69529 122.20581,46.454452 124,56.008646 124,62 Z"
      id="path122"
-     style="fill:url(#__GeneratedJBProductLogos__17);stroke-width:1.74194" />
+     style="fill:url(#__GeneratedJBProductLogos__17);stroke-width:1.91929" />
   <path
      fill="url(#__GeneratedJBProductLogos__18)"
-     d="m 101.71465,70.155742 c 2.88812,13.524387 -11.341747,28.026 -31.78336,32.389548 C 49.491419,106.90884 30.580967,99.48471 27.692838,85.962065 24.804709,72.437677 39.03458,57.936064 59.476194,53.572516 79.916065,49.207225 98.826516,56.633097 101.71465,70.155742 Z"
+     d="M 105.90517,70.910904 C 109.11419,85.687549 93.303225,101.5319 70.590322,106.29948 47.879354,111.06707 26.867741,102.95552 23.658709,88.180775 20.449677,73.404129 36.260645,57.559774 58.973549,52.792194 c 22.710967,-4.769485 43.722581,3.343968 46.931621,18.11871 z"
      id="path124"
-     style="fill:url(#__GeneratedJBProductLogos__18);stroke-width:1.74194" />
+     style="fill:url(#__GeneratedJBProductLogos__18);stroke-width:1.91929" />
   <path
      fill="url(#__GeneratedJBProductLogos__16)"
-     d="m 101.71465,70.155742 c 2.88812,13.524387 -11.341747,28.026 -31.78336,32.389548 C 49.491419,106.90884 30.580967,99.48471 27.692838,85.962065 24.804709,72.437677 39.03458,57.936064 59.476194,53.572516 79.916065,49.207225 98.826516,56.633097 101.71465,70.155742 Z"
+     d="M 105.90517,70.910904 C 109.11419,85.687549 93.303225,101.5319 70.590322,106.29948 47.879354,111.06707 26.867741,102.95552 23.658709,88.180775 20.449677,73.404129 36.260645,57.559774 58.973549,52.792194 c 22.710967,-4.769485 43.722581,3.343968 46.931621,18.11871 z"
      id="path126"
-     style="fill:url(#__GeneratedJBProductLogos__16);stroke-width:1.74194" />
+     style="fill:url(#__GeneratedJBProductLogos__16);stroke-width:1.91929" />
   <path
      fill="#d6f8f8"
      fill-opacity="0.19"
      fill-rule="evenodd"
-     d="M 92.675742,87.925226 C 98.030452,82.467742 100.31587,76.323935 99.11742,70.711419 97.918968,65.097161 93.323742,60.421806 86.207936,57.629484 79.113032,54.842387 69.812839,54.081161 60.030129,56.169742 c -9.78271,2.08858 -17.959355,6.582774 -23.298387,12.021097 -5.35471,5.457483 -7.640129,11.60129 -6.441678,17.215548 1.198452,5.614258 5.793678,10.287871 12.911226,13.081936 7.093161,2.787097 16.391613,3.548327 26.176065,1.459742 9.78271,-2.090323 17.959355,-6.582775 23.298387,-12.022839 z M 69.93129,102.54529 C 90.372903,98.181742 104.60277,83.680129 101.71465,70.155742 98.826516,56.633097 79.916065,49.207225 59.476194,53.572516 39.03458,57.936064 24.804709,72.437677 27.692838,85.960323 30.580967,99.48471 49.491419,106.90884 69.93129,102.54529 Z"
+     d="M 95.861931,90.325711 C 101.81161,84.362904 104.35097,77.650226 103.01935,71.518032 101.68774,65.383936 96.581931,60.275677 88.675484,57.224807 80.792257,54.179646 70.45871,53.347936 59.589032,55.629904 c -10.869678,2.281967 -19.954839,7.19229 -25.887096,13.134161 -5.949678,5.962806 -8.489032,12.675484 -7.15742,18.809581 1.331613,6.134096 6.43742,11.240454 14.345806,14.293224 7.88129,3.04516 18.212903,3.87688 29.084517,1.59491 10.869677,-2.28388 19.954838,-7.1923 25.887092,-13.136069 z M 70.590322,106.29948 C 93.303225,101.5319 109.11419,85.687549 105.90517,70.910904 102.69613,56.136162 81.684516,48.022709 58.973549,52.792194 36.260645,57.559774 20.449677,73.404129 23.658709,88.178872 26.867741,102.95552 47.879354,111.06707 70.590322,106.29948 Z"
      clip-rule="evenodd"
      id="path128"
-     style="stroke-width:1.74194" />
+     style="stroke-width:1.91929" />
 </svg>
