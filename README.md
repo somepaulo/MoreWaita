@@ -357,6 +357,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <details>
 <summary><h3>Places</h3></summary>
 
+![icon](./places/scalable/folder-blender.svg "AppImage")
 ![icon](./places/scalable/folder-appimage.svg "AppImage")
 ![icon](./places/scalable/folder-arduino.svg "Arduino")
 ![icon](./places/scalable/folder-backup.svg "Backup")
@@ -394,6 +395,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./places/scalable/folder-vala.svg "Vala")
 
 ### Legacy Places
+![icon](./places/scalable/folder-blender-legacy.svg "AppImage")
 ![icon](./places/scalable/folder-appimage-legacy.svg "AppImage")
 ![icon](./places/scalable/folder-arduino-legacy.svg "Arduino")
 ![icon](./places/scalable/folder-backup-legacy.svg "Backup")
