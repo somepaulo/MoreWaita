@@ -42,6 +42,7 @@ regular_files = [
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
     'folder-openscad-symbolic.svg',
+    'folder-opensuse-symbolic.svg',
     'folder-private-legacy-symbolic.svg',
     'folder-private-symbolic.svg',
     'folder-projects-legacy-symbolic.svg',
@@ -96,6 +97,9 @@ link_files = {
     ],
     'folder-python-symbolic.svg': [
         'folder-python-legacy-symbolic.svg',
+    ],
+    'folder-opensuse-symbolic.svg': [
+        'folder-opensuse-legacy-symbolic.svg',
     ],
     'folder-openscad-symbolic.svg': [
         'folder-openscad-legacy-symbolic.svg',
