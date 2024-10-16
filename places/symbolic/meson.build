@@ -2,8 +2,8 @@ symbolic_places_iconsdir = join_paths(places_iconsdir, 'symbolic')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
-    'folder-archlinux-symbolic.svg',
     'folder-appimage-symbolic.svg',
+    'folder-archlinux-symbolic.svg',
     'folder-arduino-symbolic.svg',
     'folder-backup-symbolic.svg',
     'folder-bitwig-symbolic.svg',
@@ -168,6 +168,7 @@ link_files = {
     ],
     'folder-archlinux-symbolic.svg': [
         'folder-archlinux-legacy-symbolic.svg',
+    ],
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
