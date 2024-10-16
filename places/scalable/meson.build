@@ -80,6 +80,8 @@ regular_files = [
     'folder-python.svg',
     'folder-r-legacy.svg',
     'folder-r.svg',
+    'folder-redhat-legacy.svg',
+    'folder-redhat.svg',
     'folder-ruby-legacy.svg',
     'folder-ruby.svg',
     'folder-rust-legacy.svg',

@@ -48,6 +48,7 @@ regular_files = [
     'folder-projects-symbolic.svg',
     'folder-python-symbolic.svg',
     'folder-r-symbolic.svg',
+    'folder-redhat-symbolic.svg',
     'folder-ruby-symbolic.svg',
     'folder-rust-symbolic.svg',
     'folder-school-symbolic.svg',
@@ -82,6 +83,9 @@ link_files = {
     ],
     'folder-ruby-symbolic.svg': [
         'folder-ruby-legacy-symbolic.svg',
+    ],
+    'folder-redhat-symbolic.svg': [
+        'folder-redhat-legacy-symbolic.svg',
     ],
     'folder-r-symbolic.svg': [
         'folder-r-legacy-symbolic.svg',
@@ -136,6 +140,9 @@ link_files = {
     ],
     'folder-freecad-symbolic.svg': [
         'folder-freecad-legacy-symbolic.svg',
+    ],
+    'folder-fedora-symbolic.svg': [
+        'folder-fedora-legacy-symbolic.svg',
     ],
     'folder-emacs-symbolic.svg': [
         'folder-emacs-legacy-symbolic.svg',
