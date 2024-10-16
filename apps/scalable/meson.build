@@ -94,6 +94,7 @@ regular_files = [
     'hp_logo.svg',
     'htop.svg',
     'hwloc.svg',
+    'input-remapper.svg',
     'insomnia.svg',
     'intellij.svg',
     'io.element.Element.svg',

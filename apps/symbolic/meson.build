@@ -82,6 +82,7 @@ regular_files = [
     'heroic-symbolic.svg',
     'hp_logo-symbolic.svg',
     'htop-symbolic.svg',
+    'input-remapper-symbolic.svg',
     'insomnia-symbolic.svg',
     'intellij-symbolic.svg',
     'io.element.Element-symbolic.svg',
