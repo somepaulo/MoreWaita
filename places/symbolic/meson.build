@@ -120,14 +120,15 @@ link_files = {
     'folder-c-symbolic.svg': [
         'folder-c-legacy-symbolic.svg',
     ],
+    'folder-blender-symbolic.svg': [
+        'folder-blender-legacy-symbolic.svg',
+    ],
     'folder-backup-symbolic.svg': [
         'folder-backup-legacy-symbolic.svg',
     ],
     'folder-arduino-symbolic.svg': [
         'folder-arduino-legacy-symbolic.svg',
     ],
-    'folder-blender-symbolic.svg': [
-        'folder-blender-legacy-symbolic.svg',
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
