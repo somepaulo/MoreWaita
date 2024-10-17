@@ -59,6 +59,7 @@ regular_files = [
     'folder-syncthing-symbolic.svg',
     'folder-temp-symbolic.svg',
     'folder-ubuntu-symbolic.svg',
+    'folder-user-symbolic.svg',
     'folder-vala-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
