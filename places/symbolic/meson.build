@@ -60,6 +60,7 @@ regular_files = [
     'folder-syncthing-symbolic.svg',
     'folder-temp-symbolic.svg',
     'folder-ubuntu-symbolic.svg',
+    'folder-user-symbolic.svg',
     'folder-vala-symbolic.svg',
     'folder-work-legacy-symbolic.svg',
     'folder-work-symbolic.svg',

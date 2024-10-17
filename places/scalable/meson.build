@@ -102,6 +102,8 @@ regular_files = [
     'folder-temp.svg',
     'folder-ubuntu-legacy.svg',
     'folder-ubuntu.svg',
+    'folder-user-legacy.svg',
+    'folder-user.svg',
     'folder-vala-legacy.svg',
     'folder-vala.svg',
     'folder-work-legacy.svg',
