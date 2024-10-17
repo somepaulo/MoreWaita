@@ -53,6 +53,7 @@ regular_files = [
     'folder-ruby-symbolic.svg',
     'folder-rust-symbolic.svg',
     'folder-school-symbolic.svg',
+    'folder-screencast-symbolic.svg',
     'folder-screenshot-symbolic.svg',
     'folder-shell-symbolic.svg',
     'folder-syncthing-legacy-symbolic.svg',
@@ -60,6 +61,7 @@ regular_files = [
     'folder-temp-symbolic.svg',
     'folder-ubuntu-symbolic.svg',
     'folder-vala-symbolic.svg',
+    'folder-work-legacy-symbolic.svg',
     'folder-work-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -80,6 +82,9 @@ link_files = {
     ],
     'folder-screenshot-symbolic.svg': [
         'folder-screenshot-legacy-symbolic.svg',
+    ],
+    'folder-screencast-symbolic.svg': [
+        'folder-screencast-legacy-symbolic.svg',
     ],
     'folder-school-symbolic.svg': [
         'folder-school-legacy-symbolic.svg',

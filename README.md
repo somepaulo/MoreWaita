@@ -130,6 +130,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./apps/scalable/rubymine.svg "JetBrains RubyMine")
 ![icon](./apps/scalable/webstorm.svg "JetBrains WebStorm")
 ![icon](./apps/scalable/jetbrains-toolbox.svg "JetBrains Toolbox")
+![icon](./apps/scalable/joplin.svg "Joplin")
 ![icon](./apps/scalable/josm.svg "JOSM")
 ![icon](./apps/scalable/jupyter.svg "Jupyter")
 ![icon](./apps/scalable/kate.svg "Kate")
@@ -419,6 +420,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./places/scalable/folder-temp.svg "Temp")
 ![icon](./places/scalable/folder-ubuntu.svg "Ubuntu")
 ![icon](./places/scalable/folder-vala.svg "Vala")
+![icon](./places/scalable/folder-work.svg "Work")
 
 ### Legacy Places
 ![icon](./places/scalable/folder-appimage-legacy.svg "AppImage")
@@ -472,6 +474,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./places/scalable/folder-temp-legacy.svg "Temp")
 ![icon](./places/scalable/folder-ubuntu-legacy.svg "Ubuntu")
 ![icon](./places/scalable/folder-vala-legacy.svg "Vala")
+![icon](./places/scalable/folder-work-legacy.svg "Work")
 </details>
 
 ## Installation

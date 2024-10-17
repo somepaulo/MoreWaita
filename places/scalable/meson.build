@@ -90,6 +90,8 @@ regular_files = [
     'folder-rust.svg',
     'folder-school-legacy.svg',
     'folder-school.svg',
+    'folder-screencast-legacy.svg',
+    'folder-screencast.svg',
     'folder-screenshot-legacy.svg',
     'folder-screenshot.svg',
     'folder-shell-legacy.svg',
