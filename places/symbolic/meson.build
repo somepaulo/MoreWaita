@@ -19,7 +19,7 @@ regular_files = [
     'folder-csharp-symbolic.svg',
     'folder-dropbox-symbolic.svg',
     'folder-emacs-symbolic.svg',
-    'folder-extension-symbolic.svg',
+    'folder-extensions-symbolic.svg',
     'folder-fedora-symbolic.svg',
     'folder-freecad-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
@@ -162,6 +162,9 @@ link_files = {
     ],
     'folder-fedora-symbolic.svg': [
         'folder-fedora-legacy-symbolic.svg',
+    ],
+    'folder-extensions-symbolic.svg': [
+        'folder-extensions-legacy-symbolic.svg',
     ],
     'folder-emacs-symbolic.svg': [
         'folder-emacs-legacy-symbolic.svg',
