@@ -92,6 +92,7 @@ regular_files = [
     'java-openjdk-symbolic.svg',
     'jdownloader-symbolic.svg',
     'jetbrains-toolbox-symbolic.svg',
+    'joplin-symbolic.svg',
     'josm-symbolic.svg',
     'jupyter-symbolic.svg',
     'kate-symbolic.svg',
@@ -1076,6 +1077,12 @@ link_files = {
     ],
     'kitty-symbolic.svg': [
         'appimagekit-kitty-symbolic.svg',
+    ],
+    'joplin-symbolic.svg': [
+        'appimagekit-joplin-symbolic.svg',
+        'joplin-desktop-symbolic.svg',
+        'net.cozic.joplin_desktop-symbolic.svg',
+        'org.joplinapp.joplin-symbolic.svg',
     ],
     'heroic-symbolic.svg': [
         'appimagekit-heroic-symbolic.svg',

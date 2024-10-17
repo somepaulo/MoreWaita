@@ -107,6 +107,7 @@ regular_files = [
     'java-openjdk.svg',
     'jdownloader.svg',
     'jetbrains-toolbox.svg',
+    'joplin.svg',
     'josm.svg',
     'jupyter.svg',
     'kate.svg',
@@ -1130,6 +1131,12 @@ link_files = {
     ],
     'kitty.svg': [
         'appimagekit-kitty.svg',
+    ],
+    'joplin.svg': [
+        'appimagekit-joplin.svg',
+        'joplin-desktop.svg',
+        'net.cozic.joplin_desktop.svg',
+        'org.joplinapp.joplin.svg',
     ],
     'heroic.svg': [
         'appimagekit-heroic.svg',
