@@ -156,6 +156,7 @@ regular_files = [
     'prismlauncher-symbolic.svg',
     'projectM-symbolic.svg',
     'protonmail-bridge-symbolic.svg',
+    'protonmail-ie-symbolic.svg',
     'protonvpn-gui-symbolic.svg',
     'pulsar-symbolic.svg',
     'pure-maps-symbolic.svg',
@@ -922,6 +923,9 @@ link_files = {
         'google-chrome2-symbolic.svg',
         'googlechrome-symbolic.svg',
         'org.chromium.Chromium-symbolic.svg',
+    ],
+    'protonmail-ie-symbolic.svg': [
+        'ch.protonmail.protonmail-import-export-app-symbolic.svg',
     ],
     'carla-symbolic.svg': [
         'carla-control-symbolic.svg',

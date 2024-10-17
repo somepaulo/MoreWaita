@@ -177,6 +177,7 @@ regular_files = [
     'prismlauncher.svg',
     'projectM.svg',
     'protonmail-bridge.svg',
+    'protonmail-ie.svg',
     'protonvpn-gui.svg',
     'pulsar.svg',
     'pure-maps.svg',
@@ -981,6 +982,9 @@ link_files = {
         'com.google.Chrome.svg',
         'google-chrome2.svg',
         'googlechrome.svg',
+    ],
+    'protonmail-ie.svg': [
+        'ch.protonmail.protonmail-import-export-app.svg',
     ],
     'facebook-messenger.svg': [
         'caprine.svg',

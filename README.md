@@ -196,6 +196,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./apps/scalable/prismlauncher.svg "Prism Launcher")
 ![icon](./apps/scalable/projectM.svg "projectM")
 ![icon](./apps/scalable/protonmail-bridge.svg "Proton Mail")
+![icon](./apps/scalable/protonmail-ie.svg "Proton Mail Import Export App")
 ![icon](./apps/scalable/protonvpn-gui.svg "Proton VPN")
 ![icon](./apps/scalable/pulsar.svg "Pulsar")
 ![icon](./apps/scalable/pure-maps.svg "Pure Maps")
