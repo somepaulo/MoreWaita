@@ -761,6 +761,10 @@ link_files = {
     'pulsar-symbolic.svg': [
         'dev.pulsar_edit.Pulsar-symbolic.svg',
     ],
+    'MediathekView-symbolic.svg': [
+        'de.mediathekview.MediathekView-symbolic.svg',
+        'mediathekview-symbolic.svg',
+    ],
     'dbeaver-symbolic.svg': [
         'dbeaver-ee-symbolic.svg',
         'io.dbeaver.DBeaverCommunity-symbolic.svg',

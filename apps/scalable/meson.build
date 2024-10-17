@@ -799,6 +799,10 @@ link_files = {
     'pulsar.svg': [
         'dev.pulsar_edit.Pulsar.svg',
     ],
+    'MediathekView.svg': [
+        'de.mediathekview.MediathekView.svg',
+        'mediathekview.svg',
+    ],
     'dbeaver.svg': [
         'dbeaver-ee.svg',
         'io.dbeaver.DBeaverCommunity.svg',
