@@ -72,6 +72,7 @@ regular_files = [
     'gda-control-center.svg',
     'geany.svg',
     'genymotion.svg',
+    'geogebra.svg',
     'gimp.svg',
     'github-desktop.svg',
     'gitkraken.svg',
@@ -429,6 +430,9 @@ link_files = {
     ],
     'gimp.svg': [
         'org.gimp.GIMP.svg',
+    ],
+    'geogebra.svg': [
+        'org.geogebra.GeoGebra.svg',
     ],
     'geany.svg': [
         'org.geany.Geany.svg',

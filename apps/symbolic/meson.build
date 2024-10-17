@@ -63,6 +63,7 @@ regular_files = [
     'gda-control-center-symbolic.svg',
     'geany-symbolic.svg',
     'genymotion-symbolic.svg',
+    'geogebra-symbolic.svg',
     'gimp-symbolic.svg',
     'github-desktop-symbolic.svg',
     'gitkraken-symbolic.svg',
@@ -404,6 +405,9 @@ link_files = {
     ],
     'gimp-symbolic.svg': [
         'org.gimp.GIMP-symbolic.svg',
+    ],
+    'geogebra-symbolic.svg': [
+        'org.geogebra.GeoGebra-symbolic.svg',
     ],
     'geany-symbolic.svg': [
         'org.geany.Geany-symbolic.svg',

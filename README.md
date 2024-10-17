@@ -91,6 +91,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./apps/scalable/gda-control-center.svg "Gda Control Center")
 ![icon](./apps/scalable/geany.svg "Geany")
 ![icon](./apps/scalable/genymotion.svg "Genymotion")
+![icon](./apps/scalable/geogebra.svg "Geogebra")
 ![icon](./apps/scalable/gimp.svg "GIMP")
 ![icon](./apps/scalable/github-desktop.svg "GitHub Desktop")
 ![icon](./apps/scalable/gitkraken.svg "GitKraken")
