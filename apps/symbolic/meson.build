@@ -3,6 +3,7 @@ symbolic_apps_iconsdir = join_paths(apps_iconsdir, 'symbolic')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'CMakeSetup-symbolic.svg',
+    'MediathekView-symbolic.svg',
     'QtProject-designer-symbolic.svg',
     'TeamViewer-symbolic.svg',
     'Zoom-symbolic.svg',

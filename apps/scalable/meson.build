@@ -3,6 +3,7 @@ scalable_apps_iconsdir = join_paths(apps_iconsdir, 'scalable')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'CMakeSetup.svg',
+    'MediathekView.svg',
     'QtProject-designer.svg',
     'TeamViewer.svg',
     'Zoom.svg',

@@ -155,6 +155,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./apps/scalable/mailspring.svg "Mailspring")
 ![icon](./apps/scalable/mathematica.svg "Mathematica")
 ![icon](./apps/scalable/mattermost.svg "Mattermost")
+![icon](./apps/scalable/MediathekView.svg "MediathekView")
 ![icon](./apps/scalable/mediainfo.svg "Mediainfo")
 ![icon](./apps/scalable/com.tonikelope.MegaBasterd.svg "MegaBasterd")
 ![icon](./apps/scalable/net.kuribo64.melonDS.svg "melonDS")
