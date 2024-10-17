@@ -100,6 +100,8 @@ regular_files = [
     'folder-temp.svg',
     'folder-ubuntu-legacy.svg',
     'folder-ubuntu.svg',
+    'folder-user-legacy.svg',
+    'folder-user.svg',
     'folder-vala-legacy.svg',
     'folder-vala.svg',
     # DO NOT REMOVE: End of regular segment
