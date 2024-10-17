@@ -419,6 +419,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./places/scalable/folder-syncthing.svg "Syncthing")
 ![icon](./places/scalable/folder-temp.svg "Temp")
 ![icon](./places/scalable/folder-ubuntu.svg "Ubuntu")
+![icon](./places/scalable/folder-user.svg "User")
 ![icon](./places/scalable/folder-vala.svg "Vala")
 ![icon](./places/scalable/folder-work.svg "Work")
 
@@ -473,6 +474,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./places/scalable/folder-syncthing-legacy.svg "Syncthing")
 ![icon](./places/scalable/folder-temp-legacy.svg "Temp")
 ![icon](./places/scalable/folder-ubuntu-legacy.svg "Ubuntu")
+![icon](./places/scalable/folder-user-legacy.svg "User")
 ![icon](./places/scalable/folder-vala-legacy.svg "Vala")
 ![icon](./places/scalable/folder-work-legacy.svg "Work")
 </details>

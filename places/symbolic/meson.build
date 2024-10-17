@@ -72,6 +72,9 @@ link_files = {
     'folder-vala-symbolic.svg': [
         'folder-vala-legacy-symbolic.svg',
     ],
+    'folder-user-symbolic.svg': [
+        'folder-user-legacy-symbolic.svg',
+    ],
     'folder-ubuntu-symbolic.svg': [
         'folder-ubuntu-legacy-symbolic.svg',
     ],
