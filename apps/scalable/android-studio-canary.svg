@@ -9,33 +9,6 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <svg:defs
      id="defs30">
-    <svg:linearGradient
-       id="linearGradient2502">
-      <svg:stop
-         style="stop-color:#020d12;stop-opacity:1;"
-         offset="0"
-         id="stop2498" />
-      <svg:stop
-         style="stop-color:#0c506e;stop-opacity:1;"
-         offset="0.06988066"
-         id="stop2506" />
-      <svg:stop
-         style="stop-color:#020d12;stop-opacity:1;"
-         offset="0.15219653"
-         id="stop2508" />
-      <svg:stop
-         style="stop-color:#020d12;stop-opacity:1;"
-         offset="0.85221028"
-         id="stop2510" />
-      <svg:stop
-         style="stop-color:#0c506e;stop-opacity:1;"
-         offset="0.93211174"
-         id="stop2512" />
-      <svg:stop
-         style="stop-color:#020d12;stop-opacity:1;"
-         offset="1"
-         id="stop2500" />
-    </svg:linearGradient>
     <svg:path
        d="M 101.33333,50.666667 C 101.33333,22.686667 78.646667,0 50.666667,0 22.686667,0 0,22.686667 0,50.666667 c 0,15.386666 6.8666667,29.16 17.693333,38.446666 L 11.613333,99.64 V 108 c 0,0.73333 0.6,1.33333 1.333334,1.33333 0.246666,0 0.473333,-0.0667 0.673333,-0.18 L 20.853333,104.98 26.5,95.206667 c 7.18,3.906666 15.413333,6.126663 24.166667,6.126663 8.753333,0 16.986666,-2.219997 24.173333,-6.126663 L 80.486667,104.98 87.72,109.15333 c 0.2,0.11334 0.426667,0.18 0.673333,0.18 0.733334,0 1.333334,-0.6 1.333334,-1.33333 v -8.36 l -6.08,-10.526667 c 10.82,-9.286666 17.686663,-23.06 17.686663,-38.446666 z"
        id="path-24" />
@@ -56,14 +29,43 @@
       </svg:g>
     </svg:mask>
     <svg:linearGradient
-       xlink:href="#linearGradient2502"
+       xlink:href="#a-9"
        id="linearGradient2504"
        x1="-278"
-       y1="68.250072"
+       y1="68.250069"
        x2="-169.99992"
-       y2="68.250072"
+       y2="68.250069"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.1111103,0,0,1.0925928,312.88865,-8.5695401)" />
+    <svg:linearGradient
+       id="a-9"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="269.46301"
+       x2="118.926"
+       y2="269.46301"
+       gradientTransform="matrix(1,0,0,0.98333333,74,-27.03333)">
+      <svg:stop
+         offset="0"
+         stop-color="#e5a50a"
+         id="stop1-7"
+         style="stop-color:#051e29;stop-opacity:1;" />
+      <svg:stop
+         offset="0.414"
+         stop-color="#fbdf9b"
+         id="stop2-0"
+         style="stop-color:#0f6185;stop-opacity:1;" />
+      <svg:stop
+         offset="0.81300002"
+         stop-color="#e5a50a"
+         id="stop3"
+         style="stop-color:#041e29;stop-opacity:1;" />
+      <svg:stop
+         offset="1"
+         stop-color="#f8ca5b"
+         id="stop4-4"
+         style="stop-color:#0c506e;stop-opacity:1;" />
+    </svg:linearGradient>
   </svg:defs>
   <div
      id="divScriptsUsed"
