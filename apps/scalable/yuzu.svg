@@ -189,33 +189,38 @@
      fill="url(#linearGradient1062)"
      stroke-width="1.57151"
      id="circle5662"
-     style="fill:url(#linearGradient1062)" />
+     style="fill:url(#linearGradient1062)"
+     clip-path="none" />
   <path
      id="path835-3"
      class="cls-3"
      d="M -93.639289,30.807341 V 114 c 22.975536,0 41.599389,-18.625381 41.599389,-41.599387 0,-22.974006 -18.623853,-41.593272 -41.599389,-41.593272 m 8.133028,9.105504 a 33.495413,33.495413 0 0 1 0,64.975535 V 39.912845"
      style="display:inline;fill:url(#linearGradient24);stroke-width:0.152905;enable-background:new"
      clip-path="none"
-     transform="translate(162.83959,3.9999995)" />
+     transform="translate(162.83959,3.9999995)"
+     mask="none" />
   <path
      id="path847-9"
      class="cls-4"
      d="m -104.0399,10.000001 c -22.97554,0 -41.59939,18.625382 -41.59939,41.602447 0,22.977064 18.62385,41.600918 41.59939,41.600918 z m -8.12538,9.111621 v 64.98471 a 33.486239,33.486239 0 0 1 -15.54282,-56.166667 33.25841,33.25841 0 0 1 15.54282,-8.818043"
      style="display:inline;fill:url(#linearGradient22);stroke-width:0.152905;enable-background:new"
      clip-path="none"
-     transform="translate(162.83959,3.9999995)" />
+     transform="translate(162.83959,3.9999995)"
+     mask="none" />
   <path
      id="path835"
      class="cls-3"
      d="M -93.639289,30.807341 V 114 c 22.975536,0 41.599389,-18.625381 41.599389,-41.599387 0,-22.974006 -18.623853,-41.593272 -41.599389,-41.593272 m 8.133028,9.105504 a 33.495413,33.495413 0 0 1 0,64.975535 V 39.912845"
      style="fill:#ff3c28;stroke-width:0.152905"
      clip-path="none"
-     transform="translate(162.83959)" />
+     transform="translate(162.83959)"
+     mask="none" />
   <path
      id="path847"
      class="cls-4"
      d="m -104.0399,10.000001 c -22.97554,0 -41.59939,18.625382 -41.59939,41.602447 0,22.977064 18.62385,41.600918 41.59939,41.600918 z m -8.12538,9.111621 v 64.98471 a 33.486239,33.486239 0 0 1 -15.54282,-56.166667 33.25841,33.25841 0 0 1 15.54282,-8.818043"
      style="fill:#0ab9e6;stroke-width:0.152905"
      clip-path="none"
-     transform="translate(162.83959)" />
+     transform="translate(162.83959)"
+     mask="none" />
 </svg>

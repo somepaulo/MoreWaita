@@ -738,10 +738,13 @@ link_files = {
         'firefox-gtk3-symbolic.svg',
         'firefox-icon-symbolic.svg',
         'firefox-moilla-build-symbolic.svg',
+        'firefox-nightly-icon-symbolic.svg',
+        'firefox-nightly-symbolic.svg',
         'firefox-original-symbolic.svg',
         'mozilla-firefox-symbolic.svg',
         'org.mozilla.Firefox-symbolic.svg',
         'org.mozilla.FirefoxDevEdition-symbolic.svg',
+        'org.mozilla.FirefoxNightly-symbolic.svg',
         'org.mozilla.firefox-symbolic.svg',
     ],
     'figma-symbolic.svg': [

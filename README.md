@@ -79,6 +79,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./apps/scalable/filezilla.svg "FileZilla")
 ![icon](./apps/scalable/firefox.svg "Firefox")
 ![icon](./apps/scalable/firefox-developer-edition.svg "Firefox Developer Edition")
+![icon](./apps/scalable/firefox-nightly.svg "Firefox Nightly")
 ![icon](./apps/scalable/firewall-config.svg "Firewalld")
 ![icon](./apps/scalable/fish.svg "Fish Shell")
 ![icon](./apps/scalable/flightgear.svg "FlightGear")

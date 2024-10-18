@@ -58,6 +58,7 @@ regular_files = [
     'figma.svg',
     'filezilla.svg',
     'firefox-developer-edition.svg',
+    'firefox-nightly.svg',
     'firefox.svg',
     'firewall-config.svg',
     'fish.svg',
@@ -763,6 +764,10 @@ link_files = {
     ],
     'firewall-config.svg': [
         'firewall-applet.svg',
+    ],
+    'firefox-nightly.svg': [
+        'firefox-nightly-icon.svg',
+        'org.mozilla.FirefoxNightly.svg',
     ],
     'firefox-developer-edition.svg': [
         'firefox-developer-icon.svg',
