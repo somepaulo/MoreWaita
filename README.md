@@ -240,6 +240,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./apps/scalable/sublime-merge.svg "Sublime Merge")
 ![icon](./apps/scalable/sublime-text.svg "Sublime Text")
 ![icon](./apps/scalable/surfshark.svg "Surfshark")
+![icon](./apps/scalable/suyu.svg "Suyu")
 ![icon](./apps/scalable/syncthing-gtk.svg "Syncthing")
 ![icon](./apps/scalable/teams.svg "Teams")
 ![icon](./apps/scalable/TeamViewer.svg "TeamViewer")

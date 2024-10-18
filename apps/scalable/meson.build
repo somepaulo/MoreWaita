@@ -217,6 +217,7 @@ regular_files = [
     'sublime-merge.svg',
     'sublime-text.svg',
     'surfshark.svg',
+    'suyu.svg',
     'syncthing-gtk.svg',
     'system-software-install.svg',
     'teams.svg',
@@ -1105,6 +1106,9 @@ link_files = {
         'opera-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
         'teams-for-linux.svg',
         'vivaldi-cifhbcnohmdccbgoicgdjpfamggdegmo-Default.svg',
+    ],
+    'suyu.svg': [
+        'appimagekit-suyu.svg',
     ],
     'standard-notes.svg': [
         'appimagekit-standard-notes.svg',

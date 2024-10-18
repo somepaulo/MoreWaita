@@ -196,6 +196,7 @@ regular_files = [
     'sublime-merge-symbolic.svg',
     'sublime-text-symbolic.svg',
     'surfshark-symbolic.svg',
+    'suyu-symbolic.svg',
     'syncthing-gtk-symbolic.svg',
     'system-software-install-symbolic.svg',
     'teams-symbolic.svg',
@@ -1051,6 +1052,9 @@ link_files = {
         'opera-cifhbcnohmdccbgoicgdjpfamggdegmo-Default-symbolic.svg',
         'teams-for-linux-symbolic.svg',
         'vivaldi-cifhbcnohmdccbgoicgdjpfamggdegmo-Default-symbolic.svg',
+    ],
+    'suyu-symbolic.svg': [
+        'appimagekit-suyu-symbolic.svg',
     ],
     'standard-notes-symbolic.svg': [
         'appimagekit-standard-notes-symbolic.svg',
