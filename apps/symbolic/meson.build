@@ -946,9 +946,6 @@ link_files = {
     'protonmail-ie-symbolic.svg': [
         'ch.protonmail.protonmail-import-export-app-symbolic.svg',
     ],
-    'openboard-symbolic.svg': [
-        'ch.openboard.OpenBoard-symbolic.svg',
-    ],
     'carla-symbolic.svg': [
         'carla-control-symbolic.svg',
         'studio.kx.carla-symbolic.svg',
@@ -1170,6 +1167,10 @@ link_files = {
     'protonmail-bridge-symbolic.svg': [
         'ProtonMail_Bridge-symbolic.svg',
         'ch.protonmail.protonmail-bridge-symbolic.svg',
+    ],
+    'openboard-symbolic.svg': [
+        'OpenBoard-symbolic.svg',
+        'ch.openboard.OpenBoard-symbolic.svg',
     ],
     'nextcloud-symbolic.svg': [
         'Nextcloud-symbolic.svg',
