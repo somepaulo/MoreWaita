@@ -78,6 +78,8 @@ regular_files = [
     'folder-openscad.svg',
     'folder-opensuse-legacy.svg',
     'folder-opensuse.svg',
+    'folder-platformio-legacy.svg',
+    'folder-platformio.svg',
     'folder-private-legacy.svg',
     'folder-private.svg',
     'folder-projects-legacy.svg',

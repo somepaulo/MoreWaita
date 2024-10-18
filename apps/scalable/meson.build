@@ -156,6 +156,7 @@ regular_files = [
     'obsidian.svg',
     'one.alynx.showmethekey.svg',
     'onetagger.svg',
+    'openboard.svg',
     'openra-cnc.svg',
     'openra-d2k.svg',
     'openra-ra.svg',
@@ -239,6 +240,7 @@ regular_files = [
     'vmware-workstation.svg',
     'vscodium.svg',
     'warpinator.svg',
+    'webcord.svg',
     'webstorm.svg',
     'windscribe.svg',
     'xdvi.svg',
@@ -693,6 +695,9 @@ link_files = {
     ],
     'headlines.svg': [
         'io.gitlab.caveman250.headlines.svg',
+    ],
+    'webcord.svg': [
+        'io.github.spacingbat3.webcord.svg',
     ],
     'osmscout-server.svg': [
         'io.github.rinigus.OSMScoutServer.svg',
@@ -1217,6 +1222,10 @@ link_files = {
     'protonmail-bridge.svg': [
         'ProtonMail_Bridge.svg',
         'ch.protonmail.protonmail-bridge.svg',
+    ],
+    'openboard.svg': [
+        'OpenBoard.svg',
+        'ch.openboard.OpenBoard.svg',
     ],
     'nextcloud.svg': [
         'Nextcloud.svg',
