@@ -515,16 +515,16 @@ Simply chose another theme and then delete the entire `MoreWaita` folder from ei
 
 #### Arch Linux
 
-[AUR package (versioned)](https://aur.archlinux.org/packages/morewaita)
+[AUR package (versioned)](https://aur.archlinux.org/packages/morewaita-icon-theme)
 
 ```sh
-paru morewaita
+paru morewaita-icon-theme
 ```
 
-[AUR package (git)](https://aur.archlinux.org/packages/morewaita-git)
+[AUR package (git)](https://aur.archlinux.org/packages/morewaita-icon-theme-git)
 
 ```sh
-paru morewaita-git
+paru morewaita-icon-theme-git
 ```
 
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
