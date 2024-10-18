@@ -156,6 +156,7 @@ regular_files = [
     'obsidian.svg',
     'one.alynx.showmethekey.svg',
     'onetagger.svg',
+    'openboard.svg',
     'openra-cnc.svg',
     'openra-d2k.svg',
     'openra-ra.svg',
@@ -1221,6 +1222,10 @@ link_files = {
     'protonmail-bridge.svg': [
         'ProtonMail_Bridge.svg',
         'ch.protonmail.protonmail-bridge.svg',
+    ],
+    'openboard.svg': [
+        'OpenBoard.svg',
+        'ch.openboard.OpenBoard.svg',
     ],
     'nextcloud.svg': [
         'Nextcloud.svg',

@@ -138,6 +138,7 @@ regular_files = [
     'obsidian-symbolic.svg',
     'one.alynx.showmethekey-symbolic.svg',
     'onetagger-symbolic.svg',
+    'openboard-symbolic.svg',
     'openra-cnc-symbolic.svg',
     'openra-d2k-symbolic.svg',
     'openra-ra-symbolic.svg',
@@ -944,6 +945,9 @@ link_files = {
     ],
     'protonmail-ie-symbolic.svg': [
         'ch.protonmail.protonmail-import-export-app-symbolic.svg',
+    ],
+    'openboard-symbolic.svg': [
+        'ch.openboard.OpenBoard-symbolic.svg',
     ],
     'carla-symbolic.svg': [
         'carla-control-symbolic.svg',
