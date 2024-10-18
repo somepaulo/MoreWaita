@@ -142,6 +142,7 @@ regular_files = [
     'openra-cnc-symbolic.svg',
     'openra-d2k-symbolic.svg',
     'openra-ra-symbolic.svg',
+    'openscad-symbolic.svg',
     'opera-symbolic.svg',
     'org.DolphinEmu.dolphin-emu-symbolic.svg',
     'org.cockpit_project.CockpitClient-symbolic.svg',
