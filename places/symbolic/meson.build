@@ -44,6 +44,7 @@ regular_files = [
     'folder-nextcloud-symbolic.svg',
     'folder-openscad-symbolic.svg',
     'folder-opensuse-symbolic.svg',
+    'folder-platformio-symbolic.svg',
     'folder-private-legacy-symbolic.svg',
     'folder-private-symbolic.svg',
     'folder-projects-legacy-symbolic.svg',
@@ -201,6 +202,9 @@ link_files = {
     ],
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
+    ],
+    'folder-platformio-symbolic.svg': [
+        'folder-platformio-legacy-symbolic.svg',
     ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
