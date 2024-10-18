@@ -110,6 +110,9 @@ link_files = {
     'folder-python-symbolic.svg': [
         'folder-python-legacy-symbolic.svg',
     ],
+    'folder-platformio-symbolic.svg': [
+        'folder-platformio-legacy-symbolic.svg',
+    ],
     'folder-opensuse-symbolic.svg': [
         'folder-opensuse-legacy-symbolic.svg',
     ],
@@ -202,9 +205,6 @@ link_files = {
     ],
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
-    ],
-    'folder-platformio-symbolic.svg': [
-        'folder-platformio-legacy-symbolic.svg',
     ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
