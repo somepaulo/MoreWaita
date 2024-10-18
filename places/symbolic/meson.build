@@ -206,6 +206,9 @@ link_files = {
     'folder-appimage-symbolic.svg': [
         'folder-appimage-legacy-symbolic.svg',
     ],
+    'folder-android-symbolic.svg': [
+        'folder-android-legacy-symbolic.svg',
+    ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
         'folder-bitwig-legacy-symbolic.svg',

@@ -374,6 +374,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <details>
 <summary><h3>Places</h3></summary>
 
+![icon](./places/scalable/folder-android.svg "Android")
 ![icon](./places/scalable/folder-appimage.svg "AppImage")
 ![icon](./places/scalable/folder-archlinux.svg "Arch Linux")
 ![icon](./places/scalable/folder-arduino.svg "Arduino")
@@ -431,7 +432,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./places/scalable/folder-work.svg "Work")
 
 ### Legacy Places
-
+![icon](./places/scalable/folder-android-legacy.svg "Android")
 ![icon](./places/scalable/folder-appimage-legacy.svg "AppImage")
 ![icon](./places/scalable/folder-archlinux-legacy.svg "Arch Linux")
 ![icon](./places/scalable/folder-arduino-legacy.svg "Arduino")
