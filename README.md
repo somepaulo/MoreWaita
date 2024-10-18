@@ -411,6 +411,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./places/scalable/folder-nextcloud.svg "NextCloud")
 ![icon](./places/scalable/folder-openscad.svg "OpenSCAD")
 ![icon](./places/scalable/folder-opensuse.svg "OpenSUSE")
+![icon](./places/scalable/folder-platformio.svg "PlatformIO")
 ![icon](./places/scalable/folder-private.svg "Private")
 ![icon](./places/scalable/folder-projects.svg "Projects")
 ![icon](./places/scalable/folder-python.svg "Python")
@@ -430,6 +431,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./places/scalable/folder-work.svg "Work")
 
 ### Legacy Places
+
 ![icon](./places/scalable/folder-appimage-legacy.svg "AppImage")
 ![icon](./places/scalable/folder-archlinux-legacy.svg "Arch Linux")
 ![icon](./places/scalable/folder-arduino-legacy.svg "Arduino")
@@ -467,6 +469,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./places/scalable/folder-nextcloud-legacy.svg "NextCloud")
 ![icon](./places/scalable/folder-openscad-legacy.svg "OpenSCAD")
 ![icon](./places/scalable/folder-opensuse-legacy.svg "OpenSUSE")
+![icon](./places/scalable/folder-platformio-legacy.svg "PlatformIO")
 ![icon](./places/scalable/folder-private-legacy.svg "Private")
 ![icon](./places/scalable/folder-projects-legacy.svg "Projects")
 ![icon](./places/scalable/folder-python-legacy.svg "Python")
