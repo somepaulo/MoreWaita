@@ -1,5 +1,5 @@
 > [!NOTE]
-> In v47 the folder structure has changed. If you've set custom folder icons, upgrading from a previous version of MoreWaita will break those. You'll need to reassign folder icons after upgrading. 
+> In v47 the folder structure has changed. If you've set custom folder icons, upgrading from a previous version of MoreWaita will break those. You'll need to reassign folder icons after upgrading.
 
 # MoreWaita
 
@@ -432,6 +432,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-work.svg "Work")
 
 ### Legacy Places
+
 ![icon](./scalable/places/folder-android-legacy.svg "Android")
 ![icon](./scalable/places/folder-appimage-legacy.svg "AppImage")
 ![icon](./scalable/places/folder-archlinux-legacy.svg "Arch Linux")
@@ -558,7 +559,7 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 3. Right click on the folder.
 4. Click on `Properties`.
 5. Click on the folder image.
-6. Navigate to the MoreWaita installation folder and into the `places` subfolder (typically `/usr/share/icons/MoreWaita/places/scalable/`).
+6. Navigate to the MoreWaita installation folder and into the `places` subfolder (typically `/usr/share/icons/MoreWaita/scalable/places/`).
 7. Select the icon you wish to use.
 8. Click `Open`.
 9. Follow the same procedure to revert the icon. Just click `Revert` instead of selecting a new icon in step 7.
@@ -572,7 +573,7 @@ If you need to assign the icons using the CLI you have to use the GIO command-li
 
     ```sh
     gio set $HOME/Coding/C metadata::custom-icon \
-           file:///usr/share/icons/MoreWaita/places/scalable/folder-c.svg
+           file:///usr/share/icons/MoreWaita/scalable/places/folder-c.svg
     ```
 
 - You can confirm the change showing the `metadata::custom-icon` attribute with:
