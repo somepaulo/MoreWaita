@@ -1,5 +1,5 @@
 > [!NOTE]
-> v46 was skipped due to many reasons. The project is still maintained. v47 coming out early October. Stay tuned.
+> In v47 the folder structure has changed. If you've set custom folder icons, upgrading from a previous version of MoreWaita will break those. You'll need to reassign folder icons after upgrading. 
 
 # MoreWaita
 
