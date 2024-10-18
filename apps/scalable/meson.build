@@ -243,6 +243,7 @@ regular_files = [
     'xsane.svg',
     'yandex-browser.svg',
     'yuzu.svg',
+    'zaproxy.svg',
     'zed.svg',
     'zrythm.svg',
     # DO NOT REMOVE: End of regular segment
@@ -665,6 +666,10 @@ link_files = {
         'kate2.svg',
         'org.kde.kate.svg',
         'org.kde.plasma.katesessions.svg',
+    ],
+    'zaproxy.svg': [
+        'kali-zaproxy.svg',
+        'org.zaproxy.ZAP.svg',
     ],
     'jupyter.svg': [
         'jupyterlab-desktop.svg',

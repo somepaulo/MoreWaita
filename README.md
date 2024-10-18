@@ -266,6 +266,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./apps/scalable/xsane.svg "xSane")
 ![icon](./apps/scalable/yandex-browser.svg "Yandex Browser")
 ![icon](./apps/scalable/yuzu.svg "Yuzu")
+![icon](./apps/scalable/zaproxy.svg "Zed Attack Proxy (ZAP)")
 ![icon](./apps/scalable/zed.svg "Zed")
 ![icon](./apps/scalable/Zoom.svg "Zoom")
 ![icon](./apps/scalable/zrythm.svg "Zrythm")

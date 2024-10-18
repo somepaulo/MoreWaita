@@ -221,6 +221,7 @@ regular_files = [
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
     'yuzu-symbolic.svg',
+    'zaproxy-symbolic.svg',
     'zed-symbolic.svg',
     'zrythm-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
@@ -638,6 +639,10 @@ link_files = {
         'kate2-symbolic.svg',
         'org.kde.kate-symbolic.svg',
         'org.kde.plasma.katesessions-symbolic.svg',
+    ],
+    'zaproxy-symbolic.svg': [
+        'kali-zaproxy-symbolic.svg',
+        'org.zaproxy.ZAP-symbolic.svg',
     ],
     'jupyter-symbolic.svg': [
         'jupyterlab-desktop-symbolic.svg',
