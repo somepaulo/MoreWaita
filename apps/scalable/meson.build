@@ -239,6 +239,7 @@ regular_files = [
     'vmware-workstation.svg',
     'vscodium.svg',
     'warpinator.svg',
+    'webcord.svg',
     'webstorm.svg',
     'windscribe.svg',
     'xdvi.svg',
@@ -693,6 +694,9 @@ link_files = {
     ],
     'headlines.svg': [
         'io.gitlab.caveman250.headlines.svg',
+    ],
+    'webcord.svg': [
+        'io.github.spacingbat3.webcord.svg',
     ],
     'osmscout-server.svg': [
         'io.github.rinigus.OSMScoutServer.svg',

@@ -262,6 +262,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./apps/scalable/vmware-workstation.svg "VMware Workstation")
 ![icon](./apps/scalable/vscodium.svg "VSCodium")
 ![icon](./apps/scalable/warpinator.svg "Warpinator")
+![icon](./apps/scalable/webcord.svg "Webcord")
 ![icon](./apps/scalable/com.github.eneshecan.WhatsAppForLinux.svg "WhatsApp")
 ![icon](./apps/scalable/windscribe.svg "Windscribe")
 ![icon](./apps/scalable/xdvi.svg "xdvi")
