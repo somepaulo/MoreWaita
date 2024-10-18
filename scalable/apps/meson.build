@@ -67,6 +67,7 @@ regular_files = [
     'foobar2000.svg',
     'fr.handbrake.ghb.svg',
     'freac.svg',
+    'freecad.svg',
     'freetube.svg',
     'fuse-emulator.svg',
     'gda-browser-5.0.svg',
