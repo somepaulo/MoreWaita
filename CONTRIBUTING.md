@@ -17,7 +17,7 @@ Frequently, app icons have different names used on different systems and/or app 
 > [!IMPORTANT]
 > The symlinks have to be created from within the same directory as the actual `.svg` file without using any paths to avoid hardcoding them, like so:
 ```sh
-ln -s original-name.svg alternativeName.svg
+ln -s original-name.svg org.alternativeName.svg
 ```
 
 **4. Every app icon has to have a symbolic icon**  
@@ -30,8 +30,8 @@ The icons used on the modern and legacy full-color folder icons may or may not d
 **6. Always update `meson.build` files before committing**  
 When you're done with your changes, run the dev script from within the theme's root directory once for every folder you've added new icons or made changes to, like so:
 ```sh
-./_dev/dump_groups.py apps/scalable
-./_dev/dump_groups.py apps/symbolic
+./_dev/dump_groups.py scalable/apps
+./_dev/dump_groups.py symbolic/apps
 ```
 
 **7. Use separate pull requests**  
