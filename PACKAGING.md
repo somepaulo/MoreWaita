@@ -21,7 +21,7 @@ Once some new icons are added, files renamed or links are changed, new list of r
 ./_dev/dump_groups.py symbolic/apps
 ```
 
-The output of these commands needs to be put into the array of regular files and dictionary of link files in the respective Meson build specification (in this example, that's [scalable/apps/meson.build](./scalable/apps/meson.build)).
+The output of these commands needs to be put into the array of regular files and dictionary of link files in the respective Meson build specification (in this example, that's [scalable/apps/meson.build](./scalable/apps/meson.build) and [symbolic/apps/meson.build](./symbolic/apps/meson.build)).
 
 The process needs to be repeated for all changed directories.
 
