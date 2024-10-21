@@ -14,7 +14,7 @@ Meson currently doesn't support that transparently with already available `insta
 
 That is done with the `dump_groups.py` script from the `_dev` folder. It prints an alphabetically sorted list of all regular (non link) files in the specified directory and groups (a Meson dictionary) of files where the key is a regular or a link file and value is a list of links that point to the corresponding file in the key. Keys can also be links since a link may point to a file which is also a link.
 
-Once some new icons are added, files renamed or links are changed, new list of regular and link files must be generated for that icons directory. To do that, maintainer needs to dump a list of regular files and groups of link files for the directory containing the changes.
+Once some new icons are added, files renamed or links are changed, new list of regular and link files must be generated for that icons directory. To do that, the maintainer needs to dump a list of regular files and groups of link files for the directory containing the changes. This must be done from the theme's root directory.
 
 ```sh
 ./_dev/dump_groups.py scalable/apps # trailing slash is not required here
