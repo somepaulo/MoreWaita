@@ -1,4 +1,5 @@
 # Contributing
+
 Thank you for showing your interest in contributing! Contributions are most welcome. Anything including small fixes is greatly appreciated.
 
 > [!NOTE]
@@ -16,6 +17,7 @@ Inkscape usually saves into its own _'Inkscape SVG'_ format with additional data
 Frequently, app icons have different names used on different systems and/or app versions. So the general rule is to create one actual `.svg` icon with either the simplest or most frequently used name and then create symlinks to it with all the alternative names. Check the existing icons for examples of how things are done there. For a source of possible app names check the [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/).  
 > [!IMPORTANT]
 > The symlinks have to be created from within the same directory as the actual `.svg` file without using any paths to avoid hardcoding them, like so:
+
 ```sh
 ln -s original-name.svg org.alternativeName.svg
 ```
@@ -29,6 +31,7 @@ The icons used on the modern and legacy full-color folder icons may or may not d
 
 **6. Always update `meson.build` files before committing**  
 When you're done with your changes, run the dev script from within the theme's root directory once for every folder you've added new icons or made changes to, like so:
+
 ```sh
 ./_dev/dump_groups.py scalable/apps
 ./_dev/dump_groups.py symbolic/apps
