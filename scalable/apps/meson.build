@@ -243,6 +243,7 @@ regular_files = [
     'webcord.svg',
     'webstorm.svg',
     'windscribe.svg',
+    'wonderpen.svg',
     'xdvi.svg',
     'xsane.svg',
     'yandex-browser.svg',
@@ -844,6 +845,9 @@ link_files = {
         'steam-launcher.svg',
         'steam.svg',
         'steampowered.svg',
+    ],
+    'wonderpen.svg': [
+        'com.tominlab.wonderpen.svg',
     ],
     'todoist.svg': [
         'com.todoist.Todoist.svg',

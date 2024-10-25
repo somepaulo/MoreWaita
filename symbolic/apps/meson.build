@@ -220,6 +220,7 @@ regular_files = [
     'webcord-symbolic.svg',
     'webstorm-symbolic.svg',
     'windscribe-symbolic.svg',
+    'wonderpen-symbolic.svg',
     'xdvi-symbolic.svg',
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
@@ -804,6 +805,9 @@ link_files = {
         'steam-launcher-symbolic.svg',
         'steam-symbolic.svg',
         'steampowered-symbolic.svg',
+    ],
+    'wonderpen-symbolic.svg': [
+        'com.tominlab.wonderpen-symbolic.svg',
     ],
     'todoist-symbolic.svg': [
         'com.todoist.Todoist-symbolic.svg',

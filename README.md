@@ -266,6 +266,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/webcord.svg "Webcord")
 ![icon](./scalable/apps/com.github.eneshecan.WhatsAppForLinux.svg "WhatsApp")
 ![icon](./scalable/apps/windscribe.svg "Windscribe")
+![icon](./scalable/apps/wonderpen.svg "WonderPen")
 ![icon](./scalable/apps/xdvi.svg "xdvi")
 ![icon](./scalable/apps/xsane.svg "xSane")
 ![icon](./scalable/apps/yandex-browser.svg "Yandex Browser")
