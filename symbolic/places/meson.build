@@ -65,6 +65,7 @@ regular_files = [
     'folder-ubuntu-symbolic.svg',
     'folder-user-symbolic.svg',
     'folder-vala-symbolic.svg',
+    'folder-wine-symbolic.svg',
     'folder-work-legacy-symbolic.svg',
     'folder-work-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
@@ -72,6 +73,9 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'folder-wine-symbolic.svg': [
+        'folder-wine-legacy-symbolic.svg',
+    ],
     'folder-vala-symbolic.svg': [
         'folder-vala-legacy-symbolic.svg',
     ],
