@@ -8,7 +8,7 @@ regular_files = [
     'TeamViewer-symbolic.svg',
     'Zoom-symbolic.svg',
     'abiword-symbolic.svg',
-    'alacritty-symbolic.svg',
+    'alacritty-symbolic (Case Conflict).svg',
     'androidstudio-symbolic.svg',
     'anydesk-symbolic.svg',
     'ardour-symbolic.svg',
@@ -18,7 +18,7 @@ regular_files = [
     'bitwarden-symbolic.svg',
     'bitwig-studio-symbolic.svg',
     'bleachbit-symbolic.svg',
-    'blender-symbolic.svg',
+    'blender-symbolic (Case Conflict).svg',
     'brave-desktop-symbolic.svg',
     'btop-symbolic.svg',
     'calibre-symbolic.svg',
@@ -66,7 +66,7 @@ regular_files = [
     'geogebra-symbolic.svg',
     'gimp-symbolic.svg',
     'github-desktop-symbolic.svg',
-    'gitkraken-symbolic.svg',
+    'gitkraken-symbolic (Case Conflict).svg',
     'gnome-aisleriot-symbolic.svg',
     'godot-symbolic.svg',
     'goland-symbolic.svg',
@@ -130,7 +130,7 @@ regular_files = [
     'mumble-symbolic.svg',
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
-    'nextcloud-symbolic.svg',
+    'nextcloud-symbolic (Case Conflict).svg',
     'nufraw-symbolic.svg',
     'nvidia-symbolic.svg',
     'nvim-symbolic.svg',
@@ -138,7 +138,7 @@ regular_files = [
     'obsidian-symbolic.svg',
     'one.alynx.showmethekey-symbolic.svg',
     'onetagger-symbolic.svg',
-    'openboard-symbolic.svg',
+    'openboard-symbolic (Case Conflict).svg',
     'openra-cnc-symbolic.svg',
     'openra-d2k-symbolic.svg',
     'openra-ra-symbolic.svg',
@@ -187,7 +187,7 @@ regular_files = [
     'slack-symbolic.svg',
     'soundconverter-symbolic.svg',
     'spek-symbolic.svg',
-    'spotify-symbolic.svg',
+    'spotify-symbolic (Case Conflict).svg',
     'spyder-symbolic.svg',
     'standard-notes-symbolic.svg',
     'steam-icon-symbolic.svg',
@@ -227,6 +227,7 @@ regular_files = [
     'yuzu-symbolic.svg',
     'zaproxy-symbolic.svg',
     'zed-symbolic.svg',
+    'zen-browser-symbolic.svg',
     'zrythm-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -303,7 +304,7 @@ link_files = {
         'uk.co.ibboard.cawbird-symbolic.svg',
     ],
     'TeamViewer-symbolic.svg': [
-        'teamviewer-symbolic.svg',
+        'teamviewer-symbolic (Case Conflict).svg',
     ],
     'spyder-symbolic.svg': [
         'spyder3-symbolic.svg',
@@ -389,7 +390,7 @@ link_files = {
     ],
     'pacseek-symbolic.svg': [
         'org.moson.Pacseek-symbolic.svg',
-        'org.moson.pacseek-symbolic.svg',
+        'org.moson.pacseek-symbolic (Case Conflict).svg',
     ],
     'keepassxc-symbolic.svg': [
         'org.keepassxc.KeePassXC-symbolic.svg',
@@ -751,7 +752,7 @@ link_files = {
         'org.mozilla.Firefox-symbolic.svg',
         'org.mozilla.FirefoxDevEdition-symbolic.svg',
         'org.mozilla.FirefoxNightly-symbolic.svg',
-        'org.mozilla.firefox-symbolic.svg',
+        'org.mozilla.firefox-symbolic (Case Conflict).svg',
     ],
     'figma-symbolic.svg': [
         'figma-linux-symbolic.svg',
@@ -784,7 +785,7 @@ link_files = {
     ],
     'MediathekView-symbolic.svg': [
         'de.mediathekview.MediathekView-symbolic.svg',
-        'mediathekview-symbolic.svg',
+        'mediathekview-symbolic (Case Conflict).svg',
     ],
     'dbeaver-symbolic.svg': [
         'dbeaver-ee-symbolic.svg',
@@ -883,7 +884,7 @@ link_files = {
     ],
     'dataspell-symbolic.svg': [
         'com.jetbrains.DataSpell-symbolic.svg',
-        'com.jetbrains.dataspell-symbolic.svg',
+        'com.jetbrains.dataspell-symbolic (Case Conflict).svg',
         'jetbrains-dataspell-symbolic.svg',
     ],
     'datagrip-symbolic.svg': [
@@ -1042,6 +1043,10 @@ link_files = {
         'sun-javaws32-jdk7-symbolic.svg',
         'sun-javaws32-jdk8-symbolic.svg',
     ],
+    'zen-browser-symbolic.svg': [
+        'appimagekit-zen-browser-symbolic.svg',
+        'io.github.zen_browser.zen-symbolic.svg',
+    ],
     'yuzu-symbolic.svg': [
         'appimagekit-yuzu-symbolic.svg',
         'org.yuzu_emu.yuzu-symbolic.svg',
@@ -1134,16 +1139,6 @@ link_files = {
         'androidstudio-preview-symbolic.svg',
         'com.google.AndroidStudio-symbolic.svg',
     ],
-    'spotify-symbolic.svg': [
-        'Spotify-symbolic.svg',
-        'com.spotify.Client-symbolic.svg',
-        'eu.tiliado.NuvolaAppSpotify-symbolic.svg',
-        'nuvolaplayer3_spotify-symbolic.svg',
-        'spotify-client-symbolic.svg',
-        'spotify-linux-48x48-symbolic.svg',
-        'spotify-linux-512x512-symbolic.svg',
-        'spotify-qt-symbolic.svg',
-    ],
     'qdbusviewer-symbolic.svg': [
         'QtProject-qdbusviewer-symbolic.svg',
         'io.qt.Qdbusviewer-symbolic.svg',
@@ -1172,23 +1167,10 @@ link_files = {
         'ProtonMail_Bridge-symbolic.svg',
         'ch.protonmail.protonmail-bridge-symbolic.svg',
     ],
-    'openboard-symbolic.svg': [
-        'OpenBoard-symbolic.svg',
-        'ch.openboard.OpenBoard-symbolic.svg',
-    ],
-    'nextcloud-symbolic.svg': [
-        'Nextcloud-symbolic.svg',
-        'com.nextcloud.desktopclient.nextcloud-symbolic.svg',
-        'org.nextcloud.Nextcloud-symbolic.svg',
-    ],
-    'gitkraken-symbolic.svg': [
-        'GitKraken-symbolic.svg',
-        'com.axosoft.GitKraken-symbolic.svg',
-    ],
     'io.element.Element-symbolic.svg': [
         'Element-symbolic.svg',
         'element-desktop-bin-symbolic.svg',
-        'element-symbolic.svg',
+        'element-symbolic (Case Conflict).svg',
         'im.riot.Riot-symbolic.svg',
     ],
     'resolve-symbolic.svg': [
@@ -1200,11 +1182,6 @@ link_files = {
         'cmake-gui-symbolic.svg',
         'cmake-symbolic.svg',
     ],
-    'blender-symbolic.svg': [
-        'Blender-symbolic.svg',
-        'lutris_blender-symbolic.svg',
-        'org.blender.Blender-symbolic.svg',
-    ],
     'ardour-symbolic.svg': [
         'Ardour-Ardour_6.0.0-symbolic.svg',
         'Ardour-Ardour_6.5.0-symbolic.svg',
@@ -1215,10 +1192,6 @@ link_files = {
         'ardour7-symbolic.svg',
         'ardour8-symbolic.svg',
         'ardour9-symbolic.svg',
-    ],
-    'alacritty-symbolic.svg': [
-        'Alacritty-symbolic.svg',
-        'com.alacritty.Alacritty-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
