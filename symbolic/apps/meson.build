@@ -901,6 +901,10 @@ link_files = {
         'tor-symbolic.svg',
         'torbrowser-symbolic.svg',
     ],
+    'ungoogled-chromium-symbolic.svg': [
+        'com.github.Eloston.UngoogledChromium-symbolic.svg',
+        'io.github.ungoogled_software.ungoogled_chromium-symbolic.svg',
+    ],
     'com.github.eneshecan.WhatsAppForLinux-symbolic.svg': [
         'com.gigitux.gtkwhats-symbolic.svg',
         'io.bit3.WhatsAppQT-symbolic.svg',

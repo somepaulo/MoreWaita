@@ -945,6 +945,10 @@ link_files = {
         'com.github.gkarsay.parlatype.svg',
         'parlatype.svg',
     ],
+    'ungoogled-chromium.svg': [
+        'com.github.Eloston.UngoogledChromium.svg',
+        'io.github.ungoogled_software.ungoogled_chromium.svg',
+    ],
     'com.github.eneshecan.WhatsAppForLinux.svg': [
         'com.gigitux.gtkwhats.svg',
         'io.bit3.WhatsAppQT.svg',
