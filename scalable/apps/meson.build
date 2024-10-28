@@ -228,6 +228,7 @@ regular_files = [
     'thunderbird.svg',
     'todoist.svg',
     'tor-browser.svg',
+    'ungoogled-chromium.svg',
     'unity-editor-icon.svg',
     'unityhub.svg',
     'viber.svg',

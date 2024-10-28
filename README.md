@@ -251,6 +251,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/thunderbird.svg "Thunderbird")
 ![icon](./scalable/apps/todoist.svg "Todoist")
 ![icon](./scalable/apps/tor-browser.svg "TOR Browser")
+![icon](./scalable/apps/ungoogled-chromium.svg "Ungoogled Chromium")
 ![icon](./scalable/apps/unityhub.svg "Unity Hub")
 ![icon](./scalable/apps/unity-editor-icon.svg "Unity Editor")
 ![icon](./scalable/apps/viber.svg "Viber")
