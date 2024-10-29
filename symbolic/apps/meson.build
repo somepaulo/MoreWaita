@@ -58,6 +58,7 @@ regular_files = [
     'foobar2000-symbolic.svg',
     'fr.handbrake.ghb-symbolic.svg',
     'freac-symbolic.svg',
+    'freedroidrpg-symbolic.svg',
     'freetube-symbolic.svg',
     'fuse-emulator-symbolic.svg',
     'gda-control-center-symbolic.svg',
