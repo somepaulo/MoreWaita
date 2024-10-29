@@ -67,6 +67,7 @@ regular_files = [
     'foobar2000.svg',
     'fr.handbrake.ghb.svg',
     'freac.svg',
+    'freedroidrpg.svg',
     'freetube.svg',
     'fuse-emulator.svg',
     'gda-browser-5.0.svg',
@@ -160,6 +161,7 @@ regular_files = [
     'openra-cnc.svg',
     'openra-d2k.svg',
     'openra-ra.svg',
+    'opensnitch-ui.svg',
     'opera.svg',
     'org.DolphinEmu.dolphin-emu.svg',
     'org.cockpit_project.CockpitClient.svg',
@@ -228,6 +230,7 @@ regular_files = [
     'thunderbird.svg',
     'todoist.svg',
     'tor-browser.svg',
+    'ungoogled-chromium.svg',
     'unity-editor-icon.svg',
     'unityhub.svg',
     'viber.svg',
@@ -944,6 +947,10 @@ link_files = {
     'org.parlatype.Parlatype.svg': [
         'com.github.gkarsay.parlatype.svg',
         'parlatype.svg',
+    ],
+    'ungoogled-chromium.svg': [
+        'com.github.Eloston.UngoogledChromium.svg',
+        'io.github.ungoogled_software.ungoogled_chromium.svg',
     ],
     'com.github.eneshecan.WhatsAppForLinux.svg': [
         'com.gigitux.gtkwhats.svg',

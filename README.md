@@ -86,6 +86,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/fgcom.svg "FlightGear FGCom")
 ![icon](./scalable/apps/foobar2000.svg "Foobar 2000")
 ![icon](./scalable/apps/freac.svg "Fre:ac")
+![icon](./scalable/apps/freedroidrpg.svg "FreeDroid RPG")
 ![icon](./scalable/apps/freetube.svg "FreeTube")
 ![icon](./scalable/apps/fuse-emulator.svg "Fuse Spectrum Emulator")
 ![icon](./scalable/apps/gda-browser-5.0.svg "Gda Browser")
@@ -186,6 +187,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/openra-cnc.svg "OpenRA Command & Conquer")
 ![icon](./scalable/apps/openra-d2k.svg "OpenRA Dune 2000")
 ![icon](./scalable/apps/openra-ra.svg "OpenRA Red Alert")
+![icon](./scalable/apps/opensnitch-ui.svg "Open Snitch")
 ![icon](./scalable/apps/opera.svg "Opera")
 ![icon](./scalable/apps/osmscout-server.svg "OSM Scout")
 ![icon](./scalable/apps/pacseek.svg "Pacseek")
@@ -251,6 +253,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/thunderbird.svg "Thunderbird")
 ![icon](./scalable/apps/todoist.svg "Todoist")
 ![icon](./scalable/apps/tor-browser.svg "TOR Browser")
+![icon](./scalable/apps/ungoogled-chromium.svg "Ungoogled Chromium")
 ![icon](./scalable/apps/unityhub.svg "Unity Hub")
 ![icon](./scalable/apps/unity-editor-icon.svg "Unity Editor")
 ![icon](./scalable/apps/viber.svg "Viber")
@@ -412,6 +415,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-money.svg "Money")
 ![icon](./scalable/places/folder-neovim.svg "Neovim")
 ![icon](./scalable/places/folder-nextcloud.svg "NextCloud")
+![icon](./scalable/places/folder-nix.svg "Nix")
 ![icon](./scalable/places/folder-openscad.svg "OpenSCAD")
 ![icon](./scalable/places/folder-opensuse.svg "OpenSUSE")
 ![icon](./scalable/places/folder-platformio.svg "PlatformIO")
@@ -431,8 +435,9 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-ubuntu.svg "Ubuntu")
 ![icon](./scalable/places/folder-user.svg "User")
 ![icon](./scalable/places/folder-vala.svg "Vala")
-![icon](./places/scalable/folder-wine.svg "Wine")
+![icon](./scalable/places/folder-wine.svg "Wine")
 ![icon](./scalable/places/folder-work.svg "Work")
+
 
 ### Legacy Places
 
@@ -472,6 +477,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-money-legacy.svg "Money")
 ![icon](./scalable/places/folder-neovim-legacy.svg "Neovim")
 ![icon](./scalable/places/folder-nextcloud-legacy.svg "NextCloud")
+![icon](./scalable/places/folder-nix-legacy.svg "Nix")
 ![icon](./scalable/places/folder-openscad-legacy.svg "OpenSCAD")
 ![icon](./scalable/places/folder-opensuse-legacy.svg "OpenSUSE")
 ![icon](./scalable/places/folder-platformio-legacy.svg "PlatformIO")
@@ -491,7 +497,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-ubuntu-legacy.svg "Ubuntu")
 ![icon](./scalable/places/folder-user-legacy.svg "User")
 ![icon](./scalable/places/folder-vala-legacy.svg "Vala")
-![icon](./places/scalable/folder-wine-legacy.svg "Wine")
+![icon](./scalable/places/folder-wine-legacy.svg "Wine")
 ![icon](./scalable/places/folder-work-legacy.svg "Work")
 </details>
 

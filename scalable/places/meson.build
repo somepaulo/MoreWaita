@@ -74,6 +74,8 @@ regular_files = [
     'folder-neovim.svg',
     'folder-nextcloud-legacy.svg',
     'folder-nextcloud.svg',
+    'folder-nix-legacy.svg',
+    'folder-nix.svg',
     'folder-openscad-legacy.svg',
     'folder-openscad.svg',
     'folder-opensuse-legacy.svg',
@@ -112,6 +114,8 @@ regular_files = [
     'folder-user.svg',
     'folder-vala-legacy.svg',
     'folder-vala.svg',
+    'folder-wine-legacy.svg',
+    'folder-wine.svg',
     'folder-work-legacy.svg',
     'folder-work.svg',
     # DO NOT REMOVE: End of regular segment
