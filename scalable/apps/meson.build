@@ -9,7 +9,7 @@ regular_files = [
     'Zoom.svg',
     'abiword.svg',
     'accessories-character-map.svg',
-    'alacritty (Case Conflict).svg',
+    'alacritty.svg',
     'android-studio-canary.svg',
     'androidstudio.svg',
     'anydesk.svg',
@@ -20,7 +20,7 @@ regular_files = [
     'bitwarden.svg',
     'bitwig-studio.svg',
     'bleachbit.svg',
-    'blender (Case Conflict).svg',
+    'blender.svg',
     'brave-desktop.svg',
     'btop.svg',
     'calibre-ebook-edit.svg',
@@ -77,7 +77,7 @@ regular_files = [
     'geogebra.svg',
     'gimp.svg',
     'github-desktop.svg',
-    'gitkraken (Case Conflict).svg',
+    'gitkraken.svg',
     'gnome-aisleriot.svg',
     'gnome-nettool.svg',
     'godot.svg',
@@ -149,7 +149,7 @@ regular_files = [
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',
     'network-wired.svg',
-    'nextcloud (Case Conflict).svg',
+    'nextcloud.svg',
     'nufraw.svg',
     'nvidia.svg',
     'nvim.svg',
@@ -157,7 +157,7 @@ regular_files = [
     'obsidian.svg',
     'one.alynx.showmethekey.svg',
     'onetagger.svg',
-    'openboard (Case Conflict).svg',
+    'openboard.svg',
     'openra-cnc.svg',
     'openra-d2k.svg',
     'openra-ra.svg',
@@ -211,7 +211,7 @@ regular_files = [
     'slack.svg',
     'soundconverter.svg',
     'spek.svg',
-    'spotify (Case Conflict).svg',
+    'spotify.svg',
     'spyder.svg',
     'standard-notes.svg',
     'steam-icon.svg',
@@ -325,7 +325,7 @@ link_files = {
         'uk.co.ibboard.cawbird.svg',
     ],
     'TeamViewer.svg': [
-        'teamviewer (Case Conflict).svg',
+        'teamviewer.svg',
     ],
     'system-software-install.svg': [
         'synaptic.svg',
@@ -419,7 +419,7 @@ link_files = {
     ],
     'pacseek.svg': [
         'org.moson.Pacseek.svg',
-        'org.moson.pacseek (Case Conflict).svg',
+        'org.moson.pacseek.svg',
     ],
     'keepassxc.svg': [
         'org.keepassxc.KeePassXC.svg',
@@ -752,7 +752,7 @@ link_files = {
     ],
     'org.gnome.PowerStats.svg': [
         'gnome-power-statistics.svg',
-        'org.gnome.powerstats (Case Conflict).svg',
+        'org.gnome.powerstats.svg',
     ],
     'gnome-nettool.svg': [
         'gnome-nettools.svg',
@@ -795,7 +795,7 @@ link_files = {
         'firefox-original.svg',
         'mozilla-firefox.svg',
         'org.mozilla.Firefox.svg',
-        'org.mozilla.firefox (Case Conflict).svg',
+        'org.mozilla.firefox.svg',
     ],
     'figma.svg': [
         'figma-linux.svg',
@@ -828,7 +828,7 @@ link_files = {
     ],
     'MediathekView.svg': [
         'de.mediathekview.MediathekView.svg',
-        'mediathekview (Case Conflict).svg',
+        'mediathekview.svg',
     ],
     'dbeaver.svg': [
         'dbeaver-ee.svg',
@@ -927,7 +927,7 @@ link_files = {
     ],
     'dataspell.svg': [
         'com.jetbrains.DataSpell.svg',
-        'com.jetbrains.dataspell (Case Conflict).svg',
+        'com.jetbrains.dataspell.svg',
         'jetbrains-dataspell.svg',
     ],
     'datagrip.svg': [
@@ -1201,6 +1201,16 @@ link_files = {
         'android-studio-beta.svg',
         'androidstudio-preview.svg',
     ],
+    'spotify.svg': [
+        'Spotify.svg',
+        'com.spotify.Client.svg',
+        'eu.tiliado.NuvolaAppSpotify.svg',
+        'nuvolaplayer3_spotify.svg',
+        'spotify-client.svg',
+        'spotify-linux-48x48.svg',
+        'spotify-linux-512x512.svg',
+        'spotify-qt.svg',
+    ],
     'qdbusviewer.svg': [
         'QtProject-qdbusviewer.svg',
         'io.qt.Qdbusviewer.svg',
@@ -1229,10 +1239,23 @@ link_files = {
         'ProtonMail_Bridge.svg',
         'ch.protonmail.protonmail-bridge.svg',
     ],
+    'openboard.svg': [
+        'OpenBoard.svg',
+        'ch.openboard.OpenBoard.svg',
+    ],
+    'nextcloud.svg': [
+        'Nextcloud.svg',
+        'com.nextcloud.desktopclient.nextcloud.svg',
+        'org.nextcloud.Nextcloud.svg',
+    ],
+    'gitkraken.svg': [
+        'GitKraken.svg',
+        'com.axosoft.GitKraken.svg',
+    ],
     'io.element.Element.svg': [
         'Element.svg',
-        'element (Case Conflict).svg',
         'element-desktop-bin.svg',
+        'element.svg',
         'im.riot.Riot.svg',
     ],
     'resolve.svg': [
@@ -1244,6 +1267,11 @@ link_files = {
         'cmake-gui.svg',
         'cmake.svg',
     ],
+    'blender.svg': [
+        'Blender.svg',
+        'lutris_blender.svg',
+        'org.blender.Blender.svg',
+    ],
     'ardour.svg': [
         'Ardour-Ardour_6.0.0.svg',
         'Ardour-Ardour_6.5.0.svg',
@@ -1254,6 +1282,10 @@ link_files = {
         'ardour7.svg',
         'ardour8.svg',
         'ardour9.svg',
+    ],
+    'alacritty.svg': [
+        'Alacritty.svg',
+        'com.alacritty.Alacritty.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
