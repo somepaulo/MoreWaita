@@ -116,6 +116,7 @@ regular_files = [
     'kate.svg',
     'kdenlive.svg',
     'keepassxc.svg',
+    'kicad.svg',
     'kitty.svg',
     'kolourpaint.svg',
     'krita.svg',
@@ -421,6 +422,9 @@ link_files = {
     'pacseek.svg': [
         'org.moson.Pacseek.svg',
         'org.moson.pacseek.svg',
+    ],
+    'kicad.svg': [
+        'org.kicad.KiCad.svg',
     ],
     'keepassxc.svg': [
         'org.keepassxc.KeePassXC.svg',

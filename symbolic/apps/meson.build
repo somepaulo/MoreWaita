@@ -100,6 +100,7 @@ regular_files = [
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
     'keepassxc-symbolic.svg',
+    'kicad-symbolic.svg',
     'kitty-symbolic.svg',
     'kolourpaint-symbolic.svg',
     'krita-symbolic.svg',
@@ -395,6 +396,9 @@ link_files = {
     'pacseek-symbolic.svg': [
         'org.moson.Pacseek-symbolic.svg',
         'org.moson.pacseek-symbolic.svg',
+    ],
+    'kicad-symbolic.svg': [
+        'org.kicad.KiCad-symbolic.svg',
     ],
     'keepassxc-symbolic.svg': [
         'org.keepassxc.KeePassXC-symbolic.svg',
