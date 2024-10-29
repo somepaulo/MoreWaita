@@ -160,6 +160,7 @@ regular_files = [
     'openra-cnc.svg',
     'openra-d2k.svg',
     'openra-ra.svg',
+    'opensnitch-ui.svg',
     'opera.svg',
     'org.DolphinEmu.dolphin-emu.svg',
     'org.cockpit_project.CockpitClient.svg',
