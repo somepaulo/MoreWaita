@@ -68,6 +68,7 @@ regular_files = [
     'fr.handbrake.ghb.svg',
     'freac.svg',
     'freecad.svg',
+    'freedroidrpg.svg',
     'freetube.svg',
     'fuse-emulator.svg',
     'gda-browser-5.0.svg',
@@ -161,6 +162,7 @@ regular_files = [
     'openra-cnc.svg',
     'openra-d2k.svg',
     'openra-ra.svg',
+    'opensnitch-ui.svg',
     'opera.svg',
     'org.DolphinEmu.dolphin-emu.svg',
     'org.cockpit_project.CockpitClient.svg',
@@ -229,6 +231,7 @@ regular_files = [
     'thunderbird.svg',
     'todoist.svg',
     'tor-browser.svg',
+    'ungoogled-chromium.svg',
     'unity-editor-icon.svg',
     'unityhub.svg',
     'viber.svg',
@@ -244,12 +247,14 @@ regular_files = [
     'webcord.svg',
     'webstorm.svg',
     'windscribe.svg',
+    'wonderpen.svg',
     'xdvi.svg',
     'xsane.svg',
     'yandex-browser.svg',
     'yuzu.svg',
     'zaproxy.svg',
     'zed.svg',
+    'zen-browser.svg',
     'zrythm.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -846,6 +851,9 @@ link_files = {
         'steam.svg',
         'steampowered.svg',
     ],
+    'wonderpen.svg': [
+        'com.tominlab.wonderpen.svg',
+    ],
     'todoist.svg': [
         'com.todoist.Todoist.svg',
         'goa-account-todoist.svg',
@@ -940,6 +948,10 @@ link_files = {
     'org.parlatype.Parlatype.svg': [
         'com.github.gkarsay.parlatype.svg',
         'parlatype.svg',
+    ],
+    'ungoogled-chromium.svg': [
+        'com.github.Eloston.UngoogledChromium.svg',
+        'io.github.ungoogled_software.ungoogled_chromium.svg',
     ],
     'com.github.eneshecan.WhatsAppForLinux.svg': [
         'com.gigitux.gtkwhats.svg',
@@ -1093,6 +1105,10 @@ link_files = {
         'sun-javaws32-jdk6.svg',
         'sun-javaws32-jdk7.svg',
         'sun-javaws32-jdk8.svg',
+    ],
+    'zen-browser.svg': [
+        'appimagekit-zen-browser.svg',
+        'io.github.zen_browser.zen.svg',
     ],
     'yuzu.svg': [
         'appimagekit-yuzu.svg',

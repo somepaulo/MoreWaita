@@ -43,6 +43,7 @@ regular_files = [
     'folder-neovim-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
+    'folder-nix-symbolic.svg',
     'folder-openscad-symbolic.svg',
     'folder-opensuse-symbolic.svg',
     'folder-platformio-symbolic.svg',
@@ -65,6 +66,7 @@ regular_files = [
     'folder-ubuntu-symbolic.svg',
     'folder-user-symbolic.svg',
     'folder-vala-symbolic.svg',
+    'folder-wine-symbolic.svg',
     'folder-work-legacy-symbolic.svg',
     'folder-work-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
@@ -72,6 +74,9 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'folder-wine-symbolic.svg': [
+        'folder-wine-legacy-symbolic.svg',
+    ],
     'folder-vala-symbolic.svg': [
         'folder-vala-legacy-symbolic.svg',
     ],
@@ -119,6 +124,9 @@ link_files = {
     ],
     'folder-openscad-symbolic.svg': [
         'folder-openscad-legacy-symbolic.svg',
+    ],
+    'folder-nix-symbolic.svg': [
+        'folder-nix-legacy-symbolic.svg',
     ],
     'folder-neovim-symbolic.svg': [
         'folder-neovim-legacy-symbolic.svg',

@@ -58,6 +58,7 @@ regular_files = [
     'foobar2000-symbolic.svg',
     'fr.handbrake.ghb-symbolic.svg',
     'freac-symbolic.svg',
+    'freedroidrpg-symbolic.svg',
     'freetube-symbolic.svg',
     'fuse-emulator-symbolic.svg',
     'gda-control-center-symbolic.svg',
@@ -142,6 +143,7 @@ regular_files = [
     'openra-cnc-symbolic.svg',
     'openra-d2k-symbolic.svg',
     'openra-ra-symbolic.svg',
+    'opensnitch-ui-symbolic.svg',
     'opera-symbolic.svg',
     'org.DolphinEmu.dolphin-emu-symbolic.svg',
     'org.cockpit_project.CockpitClient-symbolic.svg',
@@ -206,6 +208,7 @@ regular_files = [
     'thunderbird-symbolic.svg',
     'todoist-symbolic.svg',
     'tor-browser-symbolic.svg',
+    'ungoogled-chromium-symbolic.svg',
     'unityhub-symbolic.svg',
     'viber-symbolic.svg',
     'vim-symbolic.svg',
@@ -220,12 +223,14 @@ regular_files = [
     'webcord-symbolic.svg',
     'webstorm-symbolic.svg',
     'windscribe-symbolic.svg',
+    'wonderpen-symbolic.svg',
     'xdvi-symbolic.svg',
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
     'yuzu-symbolic.svg',
     'zaproxy-symbolic.svg',
     'zed-symbolic.svg',
+    'zen-browser-symbolic.svg',
     'zrythm-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -805,6 +810,9 @@ link_files = {
         'steam-symbolic.svg',
         'steampowered-symbolic.svg',
     ],
+    'wonderpen-symbolic.svg': [
+        'com.tominlab.wonderpen-symbolic.svg',
+    ],
     'todoist-symbolic.svg': [
         'com.todoist.Todoist-symbolic.svg',
         'goa-account-todoist-symbolic.svg',
@@ -895,6 +903,10 @@ link_files = {
         'tor-browser-ru-symbolic.svg',
         'tor-symbolic.svg',
         'torbrowser-symbolic.svg',
+    ],
+    'ungoogled-chromium-symbolic.svg': [
+        'com.github.Eloston.UngoogledChromium-symbolic.svg',
+        'io.github.ungoogled_software.ungoogled_chromium-symbolic.svg',
     ],
     'com.github.eneshecan.WhatsAppForLinux-symbolic.svg': [
         'com.gigitux.gtkwhats-symbolic.svg',
@@ -1037,6 +1049,10 @@ link_files = {
         'sun-javaws32-jdk6-symbolic.svg',
         'sun-javaws32-jdk7-symbolic.svg',
         'sun-javaws32-jdk8-symbolic.svg',
+    ],
+    'zen-browser-symbolic.svg': [
+        'appimagekit-zen-browser-symbolic.svg',
+        'io.github.zen_browser.zen-symbolic.svg',
     ],
     'yuzu-symbolic.svg': [
         'appimagekit-yuzu-symbolic.svg',
