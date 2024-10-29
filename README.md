@@ -433,7 +433,9 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-ubuntu.svg "Ubuntu")
 ![icon](./scalable/places/folder-user.svg "User")
 ![icon](./scalable/places/folder-vala.svg "Vala")
+![icon](./scalable/places/folder-wine.svg "Wine")
 ![icon](./scalable/places/folder-work.svg "Work")
+
 
 ### Legacy Places
 
@@ -492,6 +494,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-ubuntu-legacy.svg "Ubuntu")
 ![icon](./scalable/places/folder-user-legacy.svg "User")
 ![icon](./scalable/places/folder-vala-legacy.svg "Vala")
+![icon](./scalable/places/folder-wine-legacy.svg "Wine")
 ![icon](./scalable/places/folder-work-legacy.svg "Work")
 </details>
 
