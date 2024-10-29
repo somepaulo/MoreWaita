@@ -773,6 +773,11 @@ link_files = {
         'freetube-bin.svg',
         'io.freetubeapp.FreeTube.svg',
     ],
+    'freecad.svg': [
+        'freecad-daily.svg',
+        'org.freecad.FreeCAD.svg',
+        'org.freecadweb.FreeCAD.svg',
+    ],
     'firewall-config.svg': [
         'firewall-applet.svg',
     ],

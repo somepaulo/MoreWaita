@@ -86,6 +86,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/fgcom.svg "FlightGear FGCom")
 ![icon](./scalable/apps/foobar2000.svg "Foobar 2000")
 ![icon](./scalable/apps/freac.svg "Fre:ac")
+![icon](./scalable/apps/freecad.svg "FreeCAD")
 ![icon](./scalable/apps/freedroidrpg.svg "FreeDroid RPG")
 ![icon](./scalable/apps/freetube.svg "FreeTube")
 ![icon](./scalable/apps/fuse-emulator.svg "Fuse Spectrum Emulator")

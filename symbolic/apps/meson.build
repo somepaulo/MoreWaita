@@ -58,6 +58,7 @@ regular_files = [
     'foobar2000-symbolic.svg',
     'fr.handbrake.ghb-symbolic.svg',
     'freac-symbolic.svg',
+    'freecad-symbolic.svg',
     'freedroidrpg-symbolic.svg',
     'freetube-symbolic.svg',
     'fuse-emulator-symbolic.svg',
@@ -733,6 +734,10 @@ link_files = {
     'freetube-symbolic.svg': [
         'freetube-bin-symbolic.svg',
         'io.freetubeapp.FreeTube-symbolic.svg',
+    ],
+    'freecad-symbolic.svg': [
+        'freecad-daily-symbolic.svg',
+        'org.freecadweb.FreeCAD-symbolic.svg',
     ],
     'firewall-config-symbolic.svg': [
         'firewall-applet-symbolic.svg',
