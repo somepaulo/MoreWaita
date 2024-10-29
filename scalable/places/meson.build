@@ -74,6 +74,8 @@ regular_files = [
     'folder-neovim.svg',
     'folder-nextcloud-legacy.svg',
     'folder-nextcloud.svg',
+    'folder-nix-legacy.svg',
+    'folder-nix.svg',
     'folder-openscad-legacy.svg',
     'folder-openscad.svg',
     'folder-opensuse-legacy.svg',
