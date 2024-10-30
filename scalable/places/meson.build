@@ -38,6 +38,8 @@ regular_files = [
     'folder-extensions.svg',
     'folder-fedora-legacy.svg',
     'folder-fedora.svg',
+    'folder-flatpak-legacy.svg',
+    'folder-flatpak.svg',
     'folder-freecad-legacy.svg',
     'folder-freecad.svg',
     'folder-games-legacy.svg',
