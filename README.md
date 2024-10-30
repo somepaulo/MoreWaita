@@ -238,6 +238,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/spek.svg "Spek")
 ![icon](./scalable/apps/spotify.svg "Spotify")
 ![icon](./scalable/apps/spyder.svg "Spyder")
+![icon](./scalable/apps/sqlitebrowser.svg "DB Browser for SQLite")
 ![icon](./scalable/apps/standard-notes.svg "Standard Notes")
 ![icon](./scalable/apps/steam-icon.svg "Steam")
 ![icon](./scalable/apps/stellarium.svg "Stellarium")

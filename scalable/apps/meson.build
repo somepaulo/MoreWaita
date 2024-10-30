@@ -215,6 +215,7 @@ regular_files = [
     'spek.svg',
     'spotify.svg',
     'spyder.svg',
+    'sqlitebrowser.svg',
     'standard-notes.svg',
     'steam-icon.svg',
     'stellarium.svg',
@@ -393,6 +394,10 @@ link_files = {
     ],
     'stellarium.svg': [
         'org.stellarium.Stellarium.svg',
+    ],
+    'sqlitebrowser.svg': [
+        'org.sqlitebrowser.sqlitebrowser.svg',
+        'sqliteman.svg',
     ],
     'soundconverter.svg': [
         'org.soundconverter.SoundConverter.svg',

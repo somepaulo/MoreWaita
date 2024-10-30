@@ -730,6 +730,9 @@ link_files = {
     ],
     'gda-control-center-symbolic.svg': [
         'gda-browser-5.0-symbolic.svg',
+        'org.sqlitebrowser.sqlitebrowser-symbolic.svg',
+        'sqlitebrowser-symbolic.svg',
+        'sqliteman-symbolic.svg',
     ],
     'fuse-emulator-symbolic.svg': [
         'fuse-symbolic.svg',
