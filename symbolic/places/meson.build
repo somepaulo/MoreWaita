@@ -22,6 +22,7 @@ regular_files = [
     'folder-emacs-symbolic.svg',
     'folder-extensions-symbolic.svg',
     'folder-fedora-symbolic.svg',
+    'folder-flatpak-symbolic.svg',
     'folder-freecad-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
     'folder-games-symbolic.svg',
