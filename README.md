@@ -1,5 +1,5 @@
 > [!NOTE]
-> In v47 the folder structure has changed. If you've set custom folder icons, upgrading from a previous version of MoreWaita will break those. You'll need to reassign folder icons after upgrading. 
+> In v47 the folder structure has changed. If you've set custom folder icons, upgrading from a previous version of MoreWaita will break those. You'll need to reassign folder icons after upgrading.
 
 # MoreWaita
 
@@ -86,6 +86,8 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/fgcom.svg "FlightGear FGCom")
 ![icon](./scalable/apps/foobar2000.svg "Foobar 2000")
 ![icon](./scalable/apps/freac.svg "Fre:ac")
+![icon](./scalable/apps/freecad.svg "FreeCAD")
+![icon](./scalable/apps/freedroidrpg.svg "FreeDroid RPG")
 ![icon](./scalable/apps/freetube.svg "FreeTube")
 ![icon](./scalable/apps/fuse-emulator.svg "Fuse Spectrum Emulator")
 ![icon](./scalable/apps/gda-browser-5.0.svg "Gda Browser")
@@ -135,8 +137,9 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/josm.svg "JOSM")
 ![icon](./scalable/apps/jupyter.svg "Jupyter")
 ![icon](./scalable/apps/kate.svg "Kate")
-![icon](./scalable/apps/keepassxc.svg "Keepass XC")
 ![icon](./scalable/apps/kdenlive.svg "KDEnlive")
+![icon](./scalable/apps/keepassxc.svg "Keepass XC")
+![icon](./scalable/apps/kicad.svg "KiCad")
 ![icon](./scalable/apps/kitty.svg "Kitty")
 ![icon](./scalable/apps/kolourpaint.svg "Kolourpaint")
 ![icon](./scalable/apps/krita.svg "Krita")
@@ -186,6 +189,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/openra-cnc.svg "OpenRA Command & Conquer")
 ![icon](./scalable/apps/openra-d2k.svg "OpenRA Dune 2000")
 ![icon](./scalable/apps/openra-ra.svg "OpenRA Red Alert")
+![icon](./scalable/apps/opensnitch-ui.svg "Open Snitch")
 ![icon](./scalable/apps/opera.svg "Opera")
 ![icon](./scalable/apps/osmscout-server.svg "OSM Scout")
 ![icon](./scalable/apps/pacseek.svg "Pacseek")
@@ -234,6 +238,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/spek.svg "Spek")
 ![icon](./scalable/apps/spotify.svg "Spotify")
 ![icon](./scalable/apps/spyder.svg "Spyder")
+![icon](./scalable/apps/sqlitebrowser.svg "DB Browser for SQLite")
 ![icon](./scalable/apps/standard-notes.svg "Standard Notes")
 ![icon](./scalable/apps/steam-icon.svg "Steam")
 ![icon](./scalable/apps/stellarium.svg "Stellarium")
@@ -251,6 +256,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/thunderbird.svg "Thunderbird")
 ![icon](./scalable/apps/todoist.svg "Todoist")
 ![icon](./scalable/apps/tor-browser.svg "TOR Browser")
+![icon](./scalable/apps/ungoogled-chromium.svg "Ungoogled Chromium")
 ![icon](./scalable/apps/unityhub.svg "Unity Hub")
 ![icon](./scalable/apps/unity-editor-icon.svg "Unity Editor")
 ![icon](./scalable/apps/viber.svg "Viber")
@@ -266,12 +272,14 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/webcord.svg "Webcord")
 ![icon](./scalable/apps/com.github.eneshecan.WhatsAppForLinux.svg "WhatsApp")
 ![icon](./scalable/apps/windscribe.svg "Windscribe")
+![icon](./scalable/apps/wonderpen.svg "WonderPen")
 ![icon](./scalable/apps/xdvi.svg "xdvi")
 ![icon](./scalable/apps/xsane.svg "xSane")
 ![icon](./scalable/apps/yandex-browser.svg "Yandex Browser")
 ![icon](./scalable/apps/yuzu.svg "Yuzu")
 ![icon](./scalable/apps/zaproxy.svg "Zed Attack Proxy (ZAP)")
 ![icon](./scalable/apps/zed.svg "Zed")
+![icon](./scalable/apps/zen-browser.svg "Zen Browser")
 ![icon](./scalable/apps/Zoom.svg "Zoom")
 ![icon](./scalable/apps/zrythm.svg "Zrythm")
 </details>
@@ -392,6 +400,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-emacs.svg "Emacs")
 ![icon](./scalable/places/folder-extensions.svg "Extensions")
 ![icon](./scalable/places/folder-fedora.svg "Fedora")
+![icon](./scalable/places/folder-flatpak.svg "Flatpak")
 ![icon](./scalable/places/folder-freecad.svg "FreeCAD")
 ![icon](./scalable/places/folder-games.svg "Games")
 ![icon](./scalable/places/folder-gimp.svg "GIMP")
@@ -410,6 +419,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-money.svg "Money")
 ![icon](./scalable/places/folder-neovim.svg "Neovim")
 ![icon](./scalable/places/folder-nextcloud.svg "NextCloud")
+![icon](./scalable/places/folder-nix.svg "Nix")
 ![icon](./scalable/places/folder-openscad.svg "OpenSCAD")
 ![icon](./scalable/places/folder-opensuse.svg "OpenSUSE")
 ![icon](./scalable/places/folder-platformio.svg "PlatformIO")
@@ -429,9 +439,12 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-ubuntu.svg "Ubuntu")
 ![icon](./scalable/places/folder-user.svg "User")
 ![icon](./scalable/places/folder-vala.svg "Vala")
+![icon](./scalable/places/folder-wine.svg "Wine")
 ![icon](./scalable/places/folder-work.svg "Work")
 
+
 ### Legacy Places
+
 ![icon](./scalable/places/folder-android-legacy.svg "Android")
 ![icon](./scalable/places/folder-appimage-legacy.svg "AppImage")
 ![icon](./scalable/places/folder-archlinux-legacy.svg "Arch Linux")
@@ -450,6 +463,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-emacs-legacy.svg "Emacs")
 ![icon](./scalable/places/folder-extensions-legacy.svg "Extensions")
 ![icon](./scalable/places/folder-fedora-legacy.svg "Fedora")
+![icon](./scalable/places/folder-flatpak-legacy.svg "Flatpak")
 ![icon](./scalable/places/folder-freecad-legacy.svg "FreeCAD")
 ![icon](./scalable/places/folder-games-legacy.svg "Games")
 ![icon](./scalable/places/folder-gimp-legacy.svg "GIMP")
@@ -468,6 +482,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-money-legacy.svg "Money")
 ![icon](./scalable/places/folder-neovim-legacy.svg "Neovim")
 ![icon](./scalable/places/folder-nextcloud-legacy.svg "NextCloud")
+![icon](./scalable/places/folder-nix-legacy.svg "Nix")
 ![icon](./scalable/places/folder-openscad-legacy.svg "OpenSCAD")
 ![icon](./scalable/places/folder-opensuse-legacy.svg "OpenSUSE")
 ![icon](./scalable/places/folder-platformio-legacy.svg "PlatformIO")
@@ -487,6 +502,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-ubuntu-legacy.svg "Ubuntu")
 ![icon](./scalable/places/folder-user-legacy.svg "User")
 ![icon](./scalable/places/folder-vala-legacy.svg "Vala")
+![icon](./scalable/places/folder-wine-legacy.svg "Wine")
 ![icon](./scalable/places/folder-work-legacy.svg "Work")
 </details>
 
@@ -558,7 +574,7 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 3. Right click on the folder.
 4. Click on `Properties`.
 5. Click on the folder image.
-6. Navigate to the MoreWaita installation folder and into the `places` subfolder (typically `/usr/share/icons/MoreWaita/places/scalable/`).
+6. Navigate to the MoreWaita installation folder and into the `places` subfolder (typically `/usr/share/icons/MoreWaita/scalable/places/`).
 7. Select the icon you wish to use.
 8. Click `Open`.
 9. Follow the same procedure to revert the icon. Just click `Revert` instead of selecting a new icon in step 7.
@@ -572,7 +588,7 @@ If you need to assign the icons using the CLI you have to use the GIO command-li
 
     ```sh
     gio set $HOME/Coding/C metadata::custom-icon \
-           file:///usr/share/icons/MoreWaita/places/scalable/folder-c.svg
+           file:///usr/share/icons/MoreWaita/scalable/places/folder-c.svg
     ```
 
 - You can confirm the change showing the `metadata::custom-icon` attribute with:

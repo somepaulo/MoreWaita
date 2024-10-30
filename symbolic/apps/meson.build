@@ -58,6 +58,8 @@ regular_files = [
     'foobar2000-symbolic.svg',
     'fr.handbrake.ghb-symbolic.svg',
     'freac-symbolic.svg',
+    'freecad-symbolic.svg',
+    'freedroidrpg-symbolic.svg',
     'freetube-symbolic.svg',
     'fuse-emulator-symbolic.svg',
     'gda-control-center-symbolic.svg',
@@ -98,6 +100,7 @@ regular_files = [
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
     'keepassxc-symbolic.svg',
+    'kicad-symbolic.svg',
     'kitty-symbolic.svg',
     'kolourpaint-symbolic.svg',
     'krita-symbolic.svg',
@@ -143,6 +146,7 @@ regular_files = [
     'openra-d2k-symbolic.svg',
     'openra-ra-symbolic.svg',
     'openscad-symbolic.svg',
+    'opensnitch-ui-symbolic.svg',
     'opera-symbolic.svg',
     'org.DolphinEmu.dolphin-emu-symbolic.svg',
     'org.cockpit_project.CockpitClient-symbolic.svg',
@@ -207,6 +211,7 @@ regular_files = [
     'thunderbird-symbolic.svg',
     'todoist-symbolic.svg',
     'tor-browser-symbolic.svg',
+    'ungoogled-chromium-symbolic.svg',
     'unityhub-symbolic.svg',
     'viber-symbolic.svg',
     'vim-symbolic.svg',
@@ -221,12 +226,14 @@ regular_files = [
     'webcord-symbolic.svg',
     'webstorm-symbolic.svg',
     'windscribe-symbolic.svg',
+    'wonderpen-symbolic.svg',
     'xdvi-symbolic.svg',
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
     'yuzu-symbolic.svg',
     'zaproxy-symbolic.svg',
     'zed-symbolic.svg',
+    'zen-browser-symbolic.svg',
     'zrythm-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -390,6 +397,9 @@ link_files = {
     'pacseek-symbolic.svg': [
         'org.moson.Pacseek-symbolic.svg',
         'org.moson.pacseek-symbolic.svg',
+    ],
+    'kicad-symbolic.svg': [
+        'org.kicad.KiCad-symbolic.svg',
     ],
     'keepassxc-symbolic.svg': [
         'org.keepassxc.KeePassXC-symbolic.svg',
@@ -721,6 +731,9 @@ link_files = {
     ],
     'gda-control-center-symbolic.svg': [
         'gda-browser-5.0-symbolic.svg',
+        'org.sqlitebrowser.sqlitebrowser-symbolic.svg',
+        'sqlitebrowser-symbolic.svg',
+        'sqliteman-symbolic.svg',
     ],
     'fuse-emulator-symbolic.svg': [
         'fuse-symbolic.svg',
@@ -729,6 +742,10 @@ link_files = {
     'freetube-symbolic.svg': [
         'freetube-bin-symbolic.svg',
         'io.freetubeapp.FreeTube-symbolic.svg',
+    ],
+    'freecad-symbolic.svg': [
+        'freecad-daily-symbolic.svg',
+        'org.freecadweb.FreeCAD-symbolic.svg',
     ],
     'firewall-config-symbolic.svg': [
         'firewall-applet-symbolic.svg',
@@ -805,6 +822,9 @@ link_files = {
         'steam-launcher-symbolic.svg',
         'steam-symbolic.svg',
         'steampowered-symbolic.svg',
+    ],
+    'wonderpen-symbolic.svg': [
+        'com.tominlab.wonderpen-symbolic.svg',
     ],
     'todoist-symbolic.svg': [
         'com.todoist.Todoist-symbolic.svg',
@@ -896,6 +916,10 @@ link_files = {
         'tor-browser-ru-symbolic.svg',
         'tor-symbolic.svg',
         'torbrowser-symbolic.svg',
+    ],
+    'ungoogled-chromium-symbolic.svg': [
+        'com.github.Eloston.UngoogledChromium-symbolic.svg',
+        'io.github.ungoogled_software.ungoogled_chromium-symbolic.svg',
     ],
     'com.github.eneshecan.WhatsAppForLinux-symbolic.svg': [
         'com.gigitux.gtkwhats-symbolic.svg',
@@ -1038,6 +1062,10 @@ link_files = {
         'sun-javaws32-jdk6-symbolic.svg',
         'sun-javaws32-jdk7-symbolic.svg',
         'sun-javaws32-jdk8-symbolic.svg',
+    ],
+    'zen-browser-symbolic.svg': [
+        'appimagekit-zen-browser-symbolic.svg',
+        'io.github.zen_browser.zen-symbolic.svg',
     ],
     'yuzu-symbolic.svg': [
         'appimagekit-yuzu-symbolic.svg',

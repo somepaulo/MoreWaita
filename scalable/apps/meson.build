@@ -67,6 +67,8 @@ regular_files = [
     'foobar2000.svg',
     'fr.handbrake.ghb.svg',
     'freac.svg',
+    'freecad.svg',
+    'freedroidrpg.svg',
     'freetube.svg',
     'fuse-emulator.svg',
     'gda-browser-5.0.svg',
@@ -114,6 +116,7 @@ regular_files = [
     'kate.svg',
     'kdenlive.svg',
     'keepassxc.svg',
+    'kicad.svg',
     'kitty.svg',
     'kolourpaint.svg',
     'krita.svg',
@@ -161,6 +164,7 @@ regular_files = [
     'openra-d2k.svg',
     'openra-ra.svg',
     'openscad.svg',
+    'opensnitch-ui.svg',
     'opera.svg',
     'org.DolphinEmu.dolphin-emu.svg',
     'org.cockpit_project.CockpitClient.svg',
@@ -212,6 +216,7 @@ regular_files = [
     'spek.svg',
     'spotify.svg',
     'spyder.svg',
+    'sqlitebrowser.svg',
     'standard-notes.svg',
     'steam-icon.svg',
     'stellarium.svg',
@@ -229,6 +234,7 @@ regular_files = [
     'thunderbird.svg',
     'todoist.svg',
     'tor-browser.svg',
+    'ungoogled-chromium.svg',
     'unity-editor-icon.svg',
     'unityhub.svg',
     'viber.svg',
@@ -244,12 +250,14 @@ regular_files = [
     'webcord.svg',
     'webstorm.svg',
     'windscribe.svg',
+    'wonderpen.svg',
     'xdvi.svg',
     'xsane.svg',
     'yandex-browser.svg',
     'yuzu.svg',
     'zaproxy.svg',
     'zed.svg',
+    'zen-browser.svg',
     'zrythm.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -388,6 +396,10 @@ link_files = {
     'stellarium.svg': [
         'org.stellarium.Stellarium.svg',
     ],
+    'sqlitebrowser.svg': [
+        'org.sqlitebrowser.sqlitebrowser.svg',
+        'sqliteman.svg',
+    ],
     'soundconverter.svg': [
         'org.soundconverter.SoundConverter.svg',
     ],
@@ -416,6 +428,9 @@ link_files = {
     'pacseek.svg': [
         'org.moson.Pacseek.svg',
         'org.moson.pacseek.svg',
+    ],
+    'kicad.svg': [
+        'org.kicad.KiCad.svg',
     ],
     'keepassxc.svg': [
         'org.keepassxc.KeePassXC.svg',
@@ -768,6 +783,11 @@ link_files = {
         'freetube-bin.svg',
         'io.freetubeapp.FreeTube.svg',
     ],
+    'freecad.svg': [
+        'freecad-daily.svg',
+        'org.freecad.FreeCAD.svg',
+        'org.freecadweb.FreeCAD.svg',
+    ],
     'firewall-config.svg': [
         'firewall-applet.svg',
     ],
@@ -845,6 +865,9 @@ link_files = {
         'steam-launcher.svg',
         'steam.svg',
         'steampowered.svg',
+    ],
+    'wonderpen.svg': [
+        'com.tominlab.wonderpen.svg',
     ],
     'todoist.svg': [
         'com.todoist.Todoist.svg',
@@ -940,6 +963,10 @@ link_files = {
     'org.parlatype.Parlatype.svg': [
         'com.github.gkarsay.parlatype.svg',
         'parlatype.svg',
+    ],
+    'ungoogled-chromium.svg': [
+        'com.github.Eloston.UngoogledChromium.svg',
+        'io.github.ungoogled_software.ungoogled_chromium.svg',
     ],
     'com.github.eneshecan.WhatsAppForLinux.svg': [
         'com.gigitux.gtkwhats.svg',
@@ -1093,6 +1120,10 @@ link_files = {
         'sun-javaws32-jdk6.svg',
         'sun-javaws32-jdk7.svg',
         'sun-javaws32-jdk8.svg',
+    ],
+    'zen-browser.svg': [
+        'appimagekit-zen-browser.svg',
+        'io.github.zen_browser.zen.svg',
     ],
     'yuzu.svg': [
         'appimagekit-yuzu.svg',
