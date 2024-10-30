@@ -387,6 +387,9 @@ link_files = {
     'josm-symbolic.svg': [
         'org.openstreetmap.josm-symbolic.svg',
     ],
+    'openscad-symbolic.svg': [
+        'org.openscad.OpenSCAD-symbolic.svg',
+    ],
     'thunderbird-symbolic.svg': [
         'org.mozilla.Thunderbird-symbolic.svg',
         'thunderbird-3.0-symbolic.svg',

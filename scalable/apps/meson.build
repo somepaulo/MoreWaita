@@ -418,6 +418,9 @@ link_files = {
     'josm.svg': [
         'org.openstreetmap.josm.svg',
     ],
+    'openscad.svg': [
+        'org.openscad.OpenSCAD.svg',
+    ],
     'thunderbird.svg': [
         'org.mozilla.Thunderbird.svg',
         'thunderbird-3.0.svg',

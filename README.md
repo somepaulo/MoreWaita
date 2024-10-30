@@ -189,6 +189,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/openra-cnc.svg "OpenRA Command & Conquer")
 ![icon](./scalable/apps/openra-d2k.svg "OpenRA Dune 2000")
 ![icon](./scalable/apps/openra-ra.svg "OpenRA Red Alert")
+![icon](./scalable/apps/openscad.svg "OpenSCAD")
 ![icon](./scalable/apps/opensnitch-ui.svg "Open Snitch")
 ![icon](./scalable/apps/opera.svg "Opera")
 ![icon](./scalable/apps/osmscout-server.svg "OSM Scout")
