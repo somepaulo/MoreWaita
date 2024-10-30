@@ -10,58 +10,42 @@
   <svg:defs
      id="defs41">
     <svg:linearGradient
-       id="linearGradient2631">
+       id="linearGradient11">
       <svg:stop
-         style="stop-color:#2a3188;stop-opacity:1;"
+         style="stop-color:#242a75;stop-opacity:1;"
          offset="0"
-         id="stop2627" />
+         id="stop6" />
       <svg:stop
-         style="stop-color:#5059c9;stop-opacity:1;"
-         offset="0.07002885"
-         id="stop2635" />
+         style="stop-color:#8a90db;stop-opacity:1;"
+         offset="0.40751782"
+         id="stop7" />
       <svg:stop
-         style="stop-color:#2a3188;stop-opacity:1;"
-         offset="0.15184939"
-         id="stop2637" />
+         style="stop-color:#242a75;stop-opacity:1;"
+         offset="0.80757815"
+         id="stop8" />
       <svg:stop
-         style="stop-color:#2a3188;stop-opacity:1;"
-         offset="0.84845048"
-         id="stop2639" />
-      <svg:stop
-         style="stop-color:#5059c9;stop-opacity:1;"
-         offset="0.92514914"
-         id="stop2641" />
-      <svg:stop
-         style="stop-color:#2a3188;stop-opacity:1;"
+         style="stop-color:#777ed5;stop-opacity:1;"
          offset="1"
-         id="stop2629" />
+         id="stop9" />
     </svg:linearGradient>
     <svg:linearGradient
-       id="linearGradient2607">
+       id="linearGradient6">
       <svg:stop
-         style="stop-color:#4e59e4;stop-opacity:1;"
+         style="stop-color:#30379c;stop-opacity:1;"
          offset="0"
-         id="stop2603" />
+         id="stop1" />
       <svg:stop
-         style="stop-color:#7b83eb;stop-opacity:1;"
-         offset="0.06728151"
-         id="stop2611" />
+         style="stop-color:#bdc0f5;stop-opacity:1;"
+         offset="0.40586814"
+         id="stop2" />
       <svg:stop
-         style="stop-color:#4e59e4;stop-opacity:1;"
-         offset="0.14859147"
-         id="stop2613" />
+         style="stop-color:#30389c;stop-opacity:1;"
+         offset="0.81121904"
+         id="stop3" />
       <svg:stop
-         style="stop-color:#4e59e4;stop-opacity:1;"
-         offset="0.84739691"
-         id="stop2615" />
-      <svg:stop
-         style="stop-color:#7b83eb;stop-opacity:1;"
-         offset="0.92771006"
-         id="stop2617" />
-      <svg:stop
-         style="stop-color:#4e59e4;stop-opacity:1;"
+         style="stop-color:#9097ee;stop-opacity:1;"
          offset="1"
-         id="stop2605" />
+         id="stop4" />
     </svg:linearGradient>
     <svg:linearGradient
        id="linearGradient1053"
@@ -103,7 +87,7 @@
          style="stop-color:#20245f;stop-opacity:1;" />
     </svg:linearGradient>
     <svg:linearGradient
-       xlink:href="#linearGradient2607"
+       xlink:href="#linearGradient6"
        id="linearGradient2609"
        x1="38.341604"
        y1="86.249998"
@@ -111,7 +95,7 @@
        y2="86.249998"
        gradientUnits="userSpaceOnUse" />
     <svg:linearGradient
-       xlink:href="#linearGradient2607"
+       xlink:href="#linearGradient6"
        id="linearGradient2625"
        x1="51.849976"
        y1="29.550007"
@@ -119,7 +103,7 @@
        y2="29.550007"
        gradientUnits="userSpaceOnUse" />
     <svg:linearGradient
-       xlink:href="#linearGradient2631"
+       xlink:href="#linearGradient11"
        id="linearGradient2633"
        x1="95.05"
        y1="34.949974"
@@ -127,7 +111,7 @@
        y2="34.949974"
        gradientUnits="userSpaceOnUse" />
     <svg:linearGradient
-       xlink:href="#linearGradient2631"
+       xlink:href="#linearGradient11"
        id="linearGradient2649"
        x1="84.249977"
        y1="78.149971"
