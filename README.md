@@ -323,6 +323,8 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimes/text-x-lua.svg "Lua")
 ![icon](./scalable/mimes/text-x-makefile.svg "Makefile")
 ![icon](./scalable/mimes/application-mathematica.svg "Mathematica")
+![icon](./scalable/mimes/application-mathematicaplayer.svg "Mathematica Player")
+![icon](./scalable/mimes/application-vnd.wolfram.mathematica.package.svg "Mathematica Package")
 ![icon](./scalable/mimes/text-x-markdown.svg "Markdown")
 ![icon](./scalable/mimes/text-x-meson.svg "Meson")
 ![icon](./scalable/mimes/application-x-model.svg "Model")

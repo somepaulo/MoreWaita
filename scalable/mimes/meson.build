@@ -7,6 +7,7 @@ regular_files = [
     'application-illustrator.svg',
     'application-json.svg',
     'application-mathematica.svg',
+    'application-mathematicaplayer.svg',
     'application-octet-stream.svg',
     'application-pgp-encrypted.svg',
     'application-pgp-keys.svg',
@@ -21,6 +22,7 @@ regular_files = [
     'application-vnd.iccprofile.svg',
     'application-vnd.scribus.svg',
     'application-vnd.snap.svg',
+    'application-vnd.wolfram.mathematica.package.svg',
     'application-x-adobe-indesign.svg',
     'application-x-audacity-project.svg',
     'application-x-bittorrent.svg',
@@ -278,6 +280,17 @@ link_files = {
     ],
     'application-x-audacity-project.svg': [
         'application-x-audacity-project+sqlite3.svg',
+    ],
+    'application-vnd.wolfram.mathematica.package.svg': [
+        'application-vnd.wolfram.wl.svg',
+        'application-vnd.wolfram.wls.svg',
+    ],
+    'application-mathematica.svg': [
+        'application-vnd.wolfram.nb.svg',
+    ],
+    'application-mathematicaplayer.svg': [
+        'application-vnd.wolfram.cdf.svg',
+        'application-vnd.wolfram.player.svg',
     ],
     'oasis-text-template.svg': [
         'application-vnd.oasis.opendocument.text-template.svg',
