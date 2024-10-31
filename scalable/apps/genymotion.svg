@@ -390,12 +390,24 @@
          id="stop3947" />
       <stop
          style="stop-color:#000000;stop-opacity:0.40000001;"
-         offset="0.92999983"
+         offset="0.44058049"
          id="stop3949" />
       <stop
          style="stop-color:#ffffff;stop-opacity:0.60000002;"
-         offset="0.96499991"
+         offset="0.49861056"
          id="stop3951" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.40000001;"
+         offset="0.5542984"
+         id="stop1" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.40000001;"
+         offset="0.93293953"
+         id="stop2" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.60000002;"
+         offset="0.96370906"
+         id="stop3" />
       <stop
          style="stop-color:#000000;stop-opacity:0.40000001;"
          offset="1"
