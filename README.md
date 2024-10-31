@@ -159,6 +159,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/logseq.svg "Logseq")
 ![icon](./scalable/apps/lvim.svg "LunarVim")
 ![icon](./scalable/apps/mailspring.svg "Mailspring")
+![icon](./scalable/apps/maple.svg "Maple")
 ![icon](./scalable/apps/mathematica.svg "Mathematica")
 ![icon](./scalable/apps/mattermost.svg "Mattermost")
 ![icon](./scalable/apps/MediathekView.svg "MediathekView")

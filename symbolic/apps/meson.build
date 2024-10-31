@@ -121,6 +121,7 @@ regular_files = [
     'logseq-symbolic.svg',
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
+    'maple-symbolic.svg',
     'mathematica-symbolic.svg',
     'mattermost-symbolic.svg',
     'mediainfo-symbolic.svg',
