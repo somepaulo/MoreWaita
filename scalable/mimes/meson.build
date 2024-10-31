@@ -225,6 +225,7 @@ link_files = {
     ],
     'text-x-r.svg': [
         'application-x-rdata.svg',
+        'text-x-R.svg',
         'text-x-r-source.svg',
     ],
     'text-x-script.svg': [
