@@ -235,6 +235,7 @@ regular_files = [
     'yandex-browser-symbolic.svg',
     'yuzu-symbolic.svg',
     'zaproxy-symbolic.svg',
+    'zathura-symbolic.svg',
     'zed-symbolic.svg',
     'zen-browser-symbolic.svg',
     'zrythm-symbolic.svg',
@@ -383,6 +384,9 @@ link_files = {
     ],
     'qbittorrent-symbolic.svg': [
         'org.qbittorrent.qBittorrent-symbolic.svg',
+    ],
+    'zathura-symbolic.svg': [
+        'org.pwmt.zathura-symbolic.svg',
     ],
     'prismlauncher-symbolic.svg': [
         'org.prismlauncher.PrismLauncher-symbolic.svg',

@@ -259,6 +259,7 @@ regular_files = [
     'yandex-browser.svg',
     'yuzu.svg',
     'zaproxy.svg',
+    'zathura.svg',
     'zed.svg',
     'zen-browser.svg',
     'zrythm.svg',
@@ -414,6 +415,9 @@ link_files = {
     ],
     'qbittorrent.svg': [
         'org.qbittorrent.qBittorrent.svg',
+    ],
+    'zathura.svg': [
+        'org.pwmt.zathura.svg',
     ],
     'prismlauncher.svg': [
         'org.prismlauncher.PrismLauncher.svg',
