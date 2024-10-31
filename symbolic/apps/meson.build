@@ -141,6 +141,7 @@ regular_files = [
     'nvtop-symbolic.svg',
     'obsidian-symbolic.svg',
     'octave-symbolic.svg',
+    'okular-symbolic.svg',
     'one.alynx.showmethekey-symbolic.svg',
     'onetagger-symbolic.svg',
     'openboard-symbolic.svg',
@@ -412,6 +413,9 @@ link_files = {
     ],
     'keepassxc-symbolic.svg': [
         'org.keepassxc.KeePassXC-symbolic.svg',
+    ],
+    'okular-symbolic.svg': [
+        'org.kde.okular-symbolic.svg',
     ],
     'kolourpaint-symbolic.svg': [
         'org.kde.kolourpaint-symbolic.svg',

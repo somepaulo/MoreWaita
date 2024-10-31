@@ -185,6 +185,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/com.obsproject.Studio.svg "OBS Studio")
 ![icon](./scalable/apps/obsidian.svg "Obsidian")
 ![icon](./scalable/apps/octave.svg "Octave")
+![icon](./scalable/apps/okular.svg "Okular")
 ![icon](./scalable/apps/onetagger.svg "One Tagger")
 ![icon](./scalable/apps/org.onlyoffice.desktopeditors.svg "ONLYOFFICE")
 ![icon](./scalable/apps/openboard.svg "OpenBoard")

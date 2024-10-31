@@ -159,6 +159,7 @@ regular_files = [
     'nvtop.svg',
     'obsidian.svg',
     'octave.svg',
+    'okular.svg',
     'one.alynx.showmethekey.svg',
     'onetagger.svg',
     'openboard.svg',
@@ -443,6 +444,9 @@ link_files = {
     ],
     'keepassxc.svg': [
         'org.keepassxc.KeePassXC.svg',
+    ],
+    'okular.svg': [
+        'org.kde.okular.svg',
     ],
     'kolourpaint.svg': [
         'org.kde.kolourpaint.svg',
