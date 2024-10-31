@@ -157,6 +157,7 @@ regular_files = [
     'nvim.svg',
     'nvtop.svg',
     'obsidian.svg',
+    'octave.svg',
     'one.alynx.showmethekey.svg',
     'onetagger.svg',
     'openboard.svg',
@@ -420,6 +421,10 @@ link_files = {
     ],
     'openscad.svg': [
         'org.openscad.OpenSCAD.svg',
+    ],
+    'octave.svg': [
+        'org.octave.Octave.svg',
+        'qtoctave.svg',
     ],
     'thunderbird.svg': [
         'org.mozilla.Thunderbird.svg',

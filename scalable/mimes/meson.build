@@ -78,6 +78,7 @@ regular_files = [
     'text-x-makefile.svg',
     'text-x-markdown.svg',
     'text-x-meson.svg',
+    'text-x-octave.svg',
     'text-x-patch.svg',
     'text-x-python.svg',
     'text-x-r-markdown.svg',

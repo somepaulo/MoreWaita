@@ -139,6 +139,7 @@ regular_files = [
     'nvim-symbolic.svg',
     'nvtop-symbolic.svg',
     'obsidian-symbolic.svg',
+    'octave-symbolic.svg',
     'one.alynx.showmethekey-symbolic.svg',
     'onetagger-symbolic.svg',
     'openboard-symbolic.svg',
@@ -389,6 +390,10 @@ link_files = {
     ],
     'openscad-symbolic.svg': [
         'org.openscad.OpenSCAD-symbolic.svg',
+    ],
+    'octave-symbolic.svg': [
+        'org.octave.Octave-symbolic.svg',
+        'qtoctave-symbolic.svg',
     ],
     'thunderbird-symbolic.svg': [
         'org.mozilla.Thunderbird-symbolic.svg',
