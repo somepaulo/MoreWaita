@@ -69,6 +69,7 @@ regular_files = [
     'text-rust.svg',
     'text-x-c.svg',
     'text-x-chdr.svg',
+    'text-x-clojure.svg',
     'text-x-cpp.svg',
     'text-x-cpphdr.svg',
     'text-x-csharp.svg',
@@ -261,6 +262,11 @@ link_files = {
         'application-x-emerald-theme.svg',
         'application-x-ktheme.svg',
         'application-x-windows-themepack.svg',
+    ],
+    'text-x-clojure.svg': [
+        'application-x-clojure.svg',
+        'application-x-clojurescript.svg',
+        'text-x-clojurescript.svg',
     ],
     'application-postscript.svg': [
         'application-x-bzpostscript.svg',
