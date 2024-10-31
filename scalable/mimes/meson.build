@@ -29,6 +29,7 @@ regular_files = [
     'application-x-deb.svg',
     'application-x-gettext-translation.svg',
     'application-x-godot-project.svg',
+    'application-x-ipynb+json.svg',
     'application-x-iso9600-appimage.svg',
     'application-x-java-archive.svg',
     'application-x-kdenlive.svg',
