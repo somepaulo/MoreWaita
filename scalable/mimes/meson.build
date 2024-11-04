@@ -6,6 +6,7 @@ regular_files = [
     'application-epub+zip.svg',
     'application-illustrator.svg',
     'application-json.svg',
+    'application-loc+xml.svg',
     'application-mathematica.svg',
     'application-mathematicaplayer.svg',
     'application-octet-stream.svg',
@@ -411,6 +412,14 @@ link_files = {
     ],
     'application-vnd.adobe.aftereffects.project.svg': [
         'application-vnd.adobe.aftereffects.template.svg',
+    ],
+    'application-loc+xml.svg': [
+        'application-vnd-google-earth-kml.svg',
+        'application-vnd.google-apps.map.svg',
+        'application-vnd.google-earth.kml+xml.svg',
+        'application-vnd.google-earth.kml.svg',
+        'application-vnd.google-earth.kmz.svg',
+        'application-vnd.rmaps.sqlite.svg',
     ],
     'text-x-typescript.svg': [
         'application-typescript.svg',
