@@ -322,6 +322,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimes/application-x-java-archive.svg "Java Archive")
 ![icon](./scalable/mimes/text-x-javascript.svg "JavaScript")
 ![icon](./scalable/mimes/application-json.svg "JSON")
+![icon](./scalable/mimes/text-x-julia.svg "Julia")
 ![icon](./scalable/mimes/application-x-ipynb+json.svg "Jupyter Notebook")
 ![icon](./scalable/mimes/application-loc+xml.svg "Location")
 ![icon](./scalable/mimes/text-x-lua.svg "Lua")

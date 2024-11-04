@@ -80,6 +80,7 @@ regular_files = [
     'text-x-go.svg',
     'text-x-java.svg',
     'text-x-javascript.svg',
+    'text-x-julia.svg',
     'text-x-lua.svg',
     'text-x-makefile.svg',
     'text-x-markdown.svg',
@@ -136,6 +137,9 @@ link_files = {
         'text-x-less.svg',
         'text-x-sass.svg',
         'text-x-scss.svg',
+    ],
+    'text-x-arduino.svg': [
+        'text-arduino.svg',
     ],
     'oasis-web-template.svg': [
         'libreoffice-oasis-web-template.svg',
@@ -244,6 +248,9 @@ link_files = {
         'application-x-keepassx.svg',
         'application-x-keepassxc.svg',
         'multipart-encrypted.svg',
+    ],
+    'text-x-julia.svg': [
+        'application-x-julia.svg',
     ],
     'application-x-java-archive.svg': [
         'application-x-jar.svg',
