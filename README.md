@@ -298,6 +298,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimes/application-vnd.adobe.xd.svg "Adobe XD")
 ![icon](./scalable/mimes/android-package-archive.svg "APK")
 ![icon](./scalable/mimes/application-x-iso9600-appimage.svg "AppImage")
+![icon](./scalable/mimes/text-x-arduino.svg "Arduino")
 ![icon](./scalable/mimes/application-x-audacity-project.svg "Audacity Project")
 ![icon](./scalable/mimes/application-octet-stream.svg "Binary")
 ![icon](./scalable/mimes/application-x-bitwig-studio.svg "Bitwig Studio")

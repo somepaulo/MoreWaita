@@ -68,6 +68,7 @@ regular_files = [
     'oasis-web.svg',
     'text-css.svg',
     'text-rust.svg',
+    'text-x-arduino.svg',
     'text-x-c.svg',
     'text-x-chdr.svg',
     'text-x-clojure.svg',
