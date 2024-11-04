@@ -539,9 +539,6 @@ link_files = {
     'openra-cnc.svg': [
         'net.openra.OpenRA.openra-cnc.svg',
     ],
-    'minetest.svg': [
-        'net.minetest.Minetest.svg',
-    ],
     'mediainfo.svg': [
         'net.mediaarea.MediaInfo.svg',
     ],
@@ -569,6 +566,11 @@ link_files = {
         'me.kozec.syncthingtk.svg',
         'syncthing.svg',
         'syncthingtray.svg',
+    ],
+    'minetest.svg': [
+        'lutris_minetest.svg',
+        'minetest-icon.svg',
+        'net.minetest.Minetest.svg',
     ],
     'libreoffice-main.svg': [
         'libreoffice7.6-main.svg',

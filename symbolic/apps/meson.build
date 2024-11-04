@@ -511,9 +511,6 @@ link_files = {
     'openra-ra-symbolic.svg': [
         'net.openra.OpenRA-symbolic.svg',
     ],
-    'minetest-symbolic.svg': [
-        'net.minetest.Minetest-symbolic.svg',
-    ],
     'mediainfo-symbolic.svg': [
         'net.mediaarea.MediaInfo-symbolic.svg',
     ],
@@ -537,6 +534,11 @@ link_files = {
         'me.kozec.syncthingtk-symbolic.svg',
         'syncthing-symbolic.svg',
         'syncthingtray-symbolic.svg',
+    ],
+    'minetest-symbolic.svg': [
+        'lutris_minetest-symbolic.svg',
+        'minetest-icon-symbolic.svg',
+        'net.minetest.Minetest-symbolic.svg',
     ],
     'libreoffice-main-symbolic.svg': [
         'libreoffice7.6-main-symbolic.svg',
