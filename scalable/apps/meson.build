@@ -146,6 +146,7 @@ regular_files = [
     'micro.svg',
     'microsoft-edge.svg',
     'minecraft.svg',
+    'minetest.svg',
     'mockoon.svg',
     'monero.svg',
     'mpv.svg',
@@ -566,6 +567,11 @@ link_files = {
         'me.kozec.syncthingtk.svg',
         'syncthing.svg',
         'syncthingtray.svg',
+    ],
+    'minetest.svg': [
+        'lutris_minetest.svg',
+        'minetest-icon.svg',
+        'net.minetest.Minetest.svg',
     ],
     'libreoffice-main.svg': [
         'libreoffice7.6-main.svg',
