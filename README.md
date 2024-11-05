@@ -156,6 +156,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/libreoffice-startcenter.svg "LibreOffice StartCenter")
 ![icon](./scalable/apps/librewolf.svg "Librewolf")
 ![icon](./scalable/apps/liferea.svg "Liferea")
+![icon](./scalable/apps/lightworks.svg "Lightworks")
 ![icon](./scalable/apps/logseq.svg "Logseq")
 ![icon](./scalable/apps/lvim.svg "LunarVim")
 ![icon](./scalable/apps/mailspring.svg "Mailspring")
