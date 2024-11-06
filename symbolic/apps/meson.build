@@ -96,6 +96,7 @@ regular_files = [
     'jetbrains-toolbox-symbolic.svg',
     'joplin-symbolic.svg',
     'josm-symbolic.svg',
+    'julia-symbolic.svg',
     'jupyter-symbolic.svg',
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
@@ -685,6 +686,9 @@ link_files = {
     'jupyter-symbolic.svg': [
         'jupyterlab-desktop-symbolic.svg',
         'org.jupyter.JupyterLab-symbolic.svg',
+    ],
+    'julia-symbolic.svg': [
+        'juliabackend-symbolic.svg',
     ],
     'QtProject-designer-symbolic.svg': [
         'io.qt.Designer-symbolic.svg',

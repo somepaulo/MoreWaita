@@ -112,6 +112,7 @@ regular_files = [
     'jetbrains-toolbox.svg',
     'joplin.svg',
     'josm.svg',
+    'julia.svg',
     'jupyter.svg',
     'kate.svg',
     'kdenlive.svg',
@@ -718,6 +719,9 @@ link_files = {
     'jupyter.svg': [
         'jupyterlab-desktop.svg',
         'org.jupyter.JupyterLab.svg',
+    ],
+    'julia.svg': [
+        'juliabackend.svg',
     ],
     'QtProject-designer.svg': [
         'io.qt.Designer.svg',

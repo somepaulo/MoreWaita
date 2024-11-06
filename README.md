@@ -135,6 +135,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/jetbrains-toolbox.svg "JetBrains Toolbox")
 ![icon](./scalable/apps/joplin.svg "Joplin")
 ![icon](./scalable/apps/josm.svg "JOSM")
+![icon](./scalable/apps/julia.svg "Julia")
 ![icon](./scalable/apps/jupyter.svg "Jupyter")
 ![icon](./scalable/apps/kate.svg "Kate")
 ![icon](./scalable/apps/kdenlive.svg "KDEnlive")
