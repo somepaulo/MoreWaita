@@ -2,6 +2,7 @@ symbolic_places_iconsdir = join_paths(places_iconsdir, 'symbolic')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
+    'folder-3dbenchy-symbolic.svg',
     'folder-android-symbolic.svg',
     'folder-appimage-symbolic.svg',
     'folder-archlinux-symbolic.svg',
@@ -218,6 +219,9 @@ link_files = {
     ],
     'folder-android-symbolic.svg': [
         'folder-android-legacy-symbolic.svg',
+    ],
+    'folder-3dbenchy-symbolic.svg': [
+        'folder-3dbenchy-legacy-symbolic.svg',
     ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
