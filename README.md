@@ -399,6 +399,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <details>
 <summary><h3>Places</h3></summary>
 
+![icon](./scalable/places/folder-3dbenchy.svg "3DBenchy")
 ![icon](./scalable/places/folder-android.svg "Android")
 ![icon](./scalable/places/folder-appimage.svg "AppImage")
 ![icon](./scalable/places/folder-archlinux.svg "Arch Linux")
@@ -459,9 +460,9 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-wine.svg "Wine")
 ![icon](./scalable/places/folder-work.svg "Work")
 
-
 ### Legacy Places
 
+![icon](./scalable/places/folder-3dbenchy-legacy.svg "3DBenchy")
 ![icon](./scalable/places/folder-android-legacy.svg "Android")
 ![icon](./scalable/places/folder-appimage-legacy.svg "AppImage")
 ![icon](./scalable/places/folder-archlinux-legacy.svg "Arch Linux")
