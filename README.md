@@ -229,6 +229,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/retroarch.svg "Retro Arch")
 ![icon](./scalable/apps/rstudio.svg "RStudio")
 ![icon](./scalable/apps/rustdesk.svg "RustDesk")
+![icon](./scalable/apps/ryujinx.svg "Ryujinx")
 ![icon](./scalable/apps/saber.svg "Saber")
 ![icon](./scalable/apps/scrcpy.svg "Scrcpy")
 ![icon](./scalable/apps/guiscrcpy.svg "GUI Scrcpy")

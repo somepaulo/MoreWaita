@@ -187,6 +187,7 @@ regular_files = [
     'rstudio-symbolic.svg',
     'rubymine-symbolic.svg',
     'rustdesk-symbolic.svg',
+    'ryujinx-symbolic.svg',
     'saber-symbolic.svg',
     'scrcpy-symbolic.svg',
     'scribus-symbolic.svg',
@@ -234,6 +235,7 @@ regular_files = [
     'windscribe-symbolic.svg',
     'wonderpen-symbolic.svg',
     'xdvi-symbolic.svg',
+    'xonotic-symbolic.svg',
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
     'yuzu-symbolic.svg',
@@ -381,6 +383,9 @@ link_files = {
     ],
     'signal-desktop-symbolic.svg': [
         'org.signal.Signal-symbolic.svg',
+    ],
+    'ryujinx-symbolic.svg': [
+        'org.ryujinx.Ryujinx-symbolic.svg',
     ],
     'qutebrowser-symbolic.svg': [
         'org.qutebrowser.qutebrowser-symbolic.svg',
@@ -536,6 +541,10 @@ link_files = {
         'me.kozec.syncthingtk-symbolic.svg',
         'syncthing-symbolic.svg',
         'syncthingtray-symbolic.svg',
+    ],
+    'xonotic-symbolic.svg': [
+        'lutris_xonotic-symbolic.svg',
+        'org.xonotic.Xonotic-symbolic.svg',
     ],
     'minetest-symbolic.svg': [
         'lutris_minetest-symbolic.svg',

@@ -209,6 +209,7 @@ regular_files = [
     'rstudio.svg',
     'rubymine.svg',
     'rustdesk.svg',
+    'ryujinx.svg',
     'saber.svg',
     'scrcpy.svg',
     'scribus.svg',
@@ -258,6 +259,7 @@ regular_files = [
     'windscribe.svg',
     'wonderpen.svg',
     'xdvi.svg',
+    'xonotic.svg',
     'xsane.svg',
     'yandex-browser.svg',
     'yuzu.svg',
@@ -412,6 +414,9 @@ link_files = {
     ],
     'signal-desktop.svg': [
         'org.signal.Signal.svg',
+    ],
+    'ryujinx.svg': [
+        'org.ryujinx.Ryujinx.svg',
     ],
     'qutebrowser.svg': [
         'org.qutebrowser.qutebrowser.svg',
@@ -568,6 +573,10 @@ link_files = {
         'me.kozec.syncthingtk.svg',
         'syncthing.svg',
         'syncthingtray.svg',
+    ],
+    'xonotic.svg': [
+        'lutris_xonotic.svg',
+        'org.xonotic.Xonotic.svg',
     ],
     'minetest.svg': [
         'lutris_minetest.svg',
