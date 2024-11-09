@@ -182,6 +182,7 @@ regular_files = [
     'org.onlyoffice.desktopeditors.svg',
     'org.parlatype.Parlatype.svg',
     'osmscout-server.svg',
+    'osu.svg',
     'pacseek.svg',
     'pamac.svg',
     'pavucontrol.svg',
@@ -390,6 +391,10 @@ link_files = {
     'pamac.svg': [
         'pamac-manager.svg',
         'pamac-updater.svg',
+    ],
+    'osu.svg': [
+        'osu-lazer.svg',
+        'sh.ppy.osu.svg',
     ],
     'warpinator.svg': [
         'org.x.Warpinator.svg',

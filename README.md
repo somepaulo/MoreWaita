@@ -201,6 +201,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/opensnitch-ui.svg "Open Snitch")
 ![icon](./scalable/apps/opera.svg "Opera")
 ![icon](./scalable/apps/osmscout-server.svg "OSM Scout")
+![icon](./scalable/apps/osu.svg "Osu")
 ![icon](./scalable/apps/pacseek.svg "Pacseek")
 ![icon](./scalable/apps/pamac.svg "Pamac")
 ![icon](./scalable/apps/org.parlatype.Parlatype.svg "Parlatype")

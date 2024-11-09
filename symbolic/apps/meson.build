@@ -162,6 +162,7 @@ regular_files = [
     'org.inkscape.Inkscape-symbolic.svg',
     'org.onlyoffice.desktopeditors-symbolic.svg',
     'osmscout-server-symbolic.svg',
+    'osu-symbolic.svg',
     'pacseek-symbolic.svg',
     'phpstorm-symbolic.svg',
     'pidgin-symbolic.svg',
@@ -362,6 +363,10 @@ link_files = {
         'pamac-updater-symbolic.svg',
         'system-software-installer-symbolic.svg',
         'system-software-update-symbolic.svg',
+    ],
+    'osu-symbolic.svg': [
+        'osu-lazer-symbolic.svg',
+        'sh.ppy.osu-symbolic.svg',
     ],
     'warpinator-symbolic.svg': [
         'org.x.Warpinator-symbolic.svg',
