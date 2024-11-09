@@ -365,9 +365,6 @@ link_files = {
     'vlc-symbolic.svg': [
         'org.videolan.VLC-symbolic.svg',
     ],
-    'texstudio-symbolic.svg': [
-        'org.texstudio.TeXstudio-symbolic.svg',
-    ],
     'telegram-symbolic.svg': [
         'org.telegram.desktop-symbolic.svg',
         'telegram-desktop-bin-symbolic.svg',
@@ -498,6 +495,11 @@ link_files = {
         'nvidia-drivers-settings-symbolic.svg',
         'nvidia-settings-symbolic.svg',
         'nvidia-x-server-settings-symbolic.svg',
+    ],
+    'texstudio-symbolic.svg': [
+        'net.xm1math.Texmaker-symbolic.svg',
+        'org.texstudio.TeXstudio-symbolic.svg',
+        'texmaker-symbolic.svg',
     ],
     'projectM-symbolic.svg': [
         'net.sourceforge.projectM-symbolic.svg',

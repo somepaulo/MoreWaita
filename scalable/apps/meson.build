@@ -238,6 +238,7 @@ regular_files = [
     'system-software-install.svg',
     'teams.svg',
     'telegram.svg',
+    'texmaker.svg',
     'texstudio.svg',
     'thunderbird.svg',
     'todoist.svg',
@@ -526,6 +527,9 @@ link_files = {
         'nvidia-drivers-settings.svg',
         'nvidia-settings.svg',
         'nvidia-x-server-settings.svg',
+    ],
+    'texmaker.svg': [
+        'net.xm1math.Texmaker.svg',
     ],
     'projectM.svg': [
         'net.sourceforge.projectM.svg',
