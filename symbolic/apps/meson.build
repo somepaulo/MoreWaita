@@ -164,6 +164,7 @@ regular_files = [
     'phpstorm-symbolic.svg',
     'pidgin-symbolic.svg',
     'popcorntime-symbolic.svg',
+    'portmaster-symbolic.svg',
     'postman-symbolic.svg',
     'preferences-desktop-theme-symbolic.svg',
     'preferences-system-network-symbolic.svg',

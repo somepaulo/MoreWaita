@@ -206,6 +206,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/pidgin.svg "Pidgin")
 ![icon](./scalable/apps/net.poedit.Poedit.svg "Poedit")
 ![icon](./scalable/apps/popcorntime.svg "Popcorn Time")
+![icon](./scalable/apps/portmaster.svg "Portmaster")
 ![icon](./scalable/apps/postman.svg "Postman")
 ![icon](./scalable/apps/org.gnome.PowerStats.svg "Power Statistics")
 ![icon](./scalable/apps/prismlauncher.svg "Prism Launcher")
