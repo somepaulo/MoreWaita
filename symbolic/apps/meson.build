@@ -127,6 +127,7 @@ regular_files = [
     'mathematica-symbolic.svg',
     'mattermost-symbolic.svg',
     'mediainfo-symbolic.svg',
+    'mega-symbolic.svg',
     'menulibre-symbolic.svg',
     'micro-symbolic.svg',
     'microsoft-edge-symbolic.svg',
@@ -487,6 +488,9 @@ link_files = {
     ],
     'com.obsproject.Studio-symbolic.svg': [
         'obs-symbolic.svg',
+    ],
+    'mega-symbolic.svg': [
+        'nz.mega.MEGAsync-symbolic.svg',
     ],
     'nvidia-symbolic.svg': [
         'nvidia-310-settings-symbolic.svg',

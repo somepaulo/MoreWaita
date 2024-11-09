@@ -143,6 +143,7 @@ regular_files = [
     'mathematica.svg',
     'mattermost.svg',
     'mediainfo.svg',
+    'mega.svg',
     'menulibre.svg',
     'micro.svg',
     'microsoft-edge.svg',
@@ -519,6 +520,9 @@ link_files = {
     ],
     'com.obsproject.Studio.svg': [
         'obs.svg',
+    ],
+    'mega.svg': [
+        'nz.mega.MEGAsync.svg',
     ],
     'nvidia.svg': [
         'nvidia-310-settings.svg',
