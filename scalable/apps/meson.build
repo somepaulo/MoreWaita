@@ -261,6 +261,7 @@ regular_files = [
     'waydroid.svg',
     'webcord.svg',
     'webstorm.svg',
+    'wezterm.svg',
     'windscribe.svg',
     'wonderpen.svg',
     'xdvi.svg',
@@ -1218,6 +1219,10 @@ link_files = {
     'retroarch.svg': [
         'appimagekit-retroarch.svg',
         'org.libretro.RetroArch.svg',
+    ],
+    'wezterm.svg': [
+        'appimagekit-org.wezfurlong.wezterm.svg',
+        'org.wezfurlong.wezterm.svg',
     ],
     'freac.svg': [
         'appimagekit-org.freac.freac.svg',

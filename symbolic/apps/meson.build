@@ -236,6 +236,7 @@ regular_files = [
     'waydroid-symbolic.svg',
     'webcord-symbolic.svg',
     'webstorm-symbolic.svg',
+    'wezterm-symbolic.svg',
     'windscribe-symbolic.svg',
     'wonderpen-symbolic.svg',
     'xdvi-symbolic.svg',
@@ -1157,6 +1158,10 @@ link_files = {
     'retroarch-symbolic.svg': [
         'appimagekit-retroarch-symbolic.svg',
         'org.libretro.RetroArch-symbolic.svg',
+    ],
+    'wezterm-symbolic.svg': [
+        'appimagekit-org.wezfurlong.wezterm-symbolic.svg',
+        'org.wezfurlong.wezterm-symbolic.svg',
     ],
     'freac-symbolic.svg': [
         'appimagekit-org.freac.freac-symbolic.svg',
