@@ -233,6 +233,7 @@ regular_files = [
     'vmware-workstation-symbolic.svg',
     'vscodium-symbolic.svg',
     'warpinator-symbolic.svg',
+    'waydroid-symbolic.svg',
     'webcord-symbolic.svg',
     'webstorm-symbolic.svg',
     'windscribe-symbolic.svg',

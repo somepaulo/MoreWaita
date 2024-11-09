@@ -258,6 +258,7 @@ regular_files = [
     'vmware-workstation.svg',
     'vscodium.svg',
     'warpinator.svg',
+    'waydroid.svg',
     'webcord.svg',
     'webstorm.svg',
     'windscribe.svg',
