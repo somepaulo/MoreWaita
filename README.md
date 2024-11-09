@@ -647,4 +647,4 @@ If the theme applies, but a particular app doesn't get themed (and its icon is i
 
 If you happen to have such apps, you'll need to copy their `.desktop` files into `~/.local/share/applications` and modify them there providing the correct icon name. Alternatively, use a menu editor like `Main Menu`, `MenuLibre` or `Alacarte`.
 
-If your app's `.desktop` file references an icon name not present in MoreWaita's `apps/scalable` folder, please report it in an issue providing the icon name from your system.
+If your app's `.desktop` file references an icon name not present in MoreWaita's `scalable/apps` folder, please report it in an issue providing the icon name from your system.
