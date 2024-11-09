@@ -156,6 +156,7 @@ regular_files = [
     'net.poedit.Poedit.svg',
     'network-wired.svg',
     'nextcloud.svg',
+    'nheko.svg',
     'nufraw.svg',
     'nvidia.svg',
     'nvim.svg',
@@ -769,6 +770,10 @@ link_files = {
     ],
     'pidgin.svg': [
         'im.pidgin.Pidgin.svg',
+    ],
+    'nheko.svg': [
+        'im.nheko.Nheko.svg',
+        'io.github.NhekoReborn.Nheko.svg',
     ],
     'hp_logo.svg': [
         'hp-logo.svg',

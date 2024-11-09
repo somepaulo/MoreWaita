@@ -138,6 +138,7 @@ regular_files = [
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
     'nextcloud-symbolic.svg',
+    'nheko-symbolic.svg',
     'nufraw-symbolic.svg',
     'nvidia-symbolic.svg',
     'nvim-symbolic.svg',
@@ -730,6 +731,10 @@ link_files = {
     ],
     'pidgin-symbolic.svg': [
         'im.pidgin.Pidgin-symbolic.svg',
+    ],
+    'nheko-symbolic.svg': [
+        'im.nheko.Nheko-symbolic.svg',
+        'io.github.NhekoReborn.Nheko-symbolic.svg',
     ],
     'hp_logo-symbolic.svg': [
         'hp-logo-symbolic.svg',
