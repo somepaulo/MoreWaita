@@ -27,7 +27,7 @@ body:
 - type: input
   id: iconname
   attributes:
-   label: Name of icon (as referenced in the .desktop file, regular and Flatpak apps have different icon names for the same apps)
+   label: Name of icon as referenced in the .desktop file (Flatpak and AppImage apps' icon names often differ from regular ones for the same app).
    placeholder: com.abisource.AbiWord
 - type: textarea
   id: screenshot
