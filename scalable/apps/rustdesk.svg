@@ -20,7 +20,7 @@
     <linearGradient
        id="linearGradient1571">
       <stop
-         style="stop-color:#595959;stop-opacity:1;"
+         style="stop-color:#8c8c8c;stop-opacity:1;"
          offset="0"
          id="stop1567" />
       <stop
@@ -28,11 +28,11 @@
          offset="0.03567462"
          id="stop1575" />
       <stop
-         style="stop-color:#595959;stop-opacity:1;"
+         style="stop-color:#8c8c8c;stop-opacity:1;"
          offset="0.07302466"
          id="stop1577" />
       <stop
-         style="stop-color:#595959;stop-opacity:0.99000001;"
+         style="stop-color:#8c8c8c;stop-opacity:0.99000001;"
          offset="0.92681795"
          id="stop1579" />
       <stop
@@ -40,7 +40,7 @@
          offset="0.96064132"
          id="stop1581" />
       <stop
-         style="stop-color:#595959;stop-opacity:1;"
+         style="stop-color:#8c8c8c;stop-opacity:1;"
          offset="1"
          id="stop1569" />
     </linearGradient>
