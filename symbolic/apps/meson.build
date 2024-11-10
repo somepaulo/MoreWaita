@@ -120,6 +120,7 @@ regular_files = [
     'liferea-symbolic.svg',
     'lightworks-symbolic.svg',
     'linguist-symbolic.svg',
+    'localsend-symbolic.svg',
     'logseq-symbolic.svg',
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
@@ -426,6 +427,9 @@ link_files = {
     'pacseek-symbolic.svg': [
         'org.moson.Pacseek-symbolic.svg',
         'org.moson.pacseek-symbolic.svg',
+    ],
+    'localsend-symbolic.svg': [
+        'org.localsend.localsend_app-symbolic.svg',
     ],
     'kicad-symbolic.svg': [
         'org.kicad.KiCad-symbolic.svg',

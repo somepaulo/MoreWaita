@@ -136,6 +136,7 @@ regular_files = [
     'liferea.svg',
     'lightworks.svg',
     'linguist.svg',
+    'localsend.svg',
     'logseq.svg',
     'lvim.svg',
     'mailspring.svg',
@@ -461,6 +462,9 @@ link_files = {
     'pacseek.svg': [
         'org.moson.Pacseek.svg',
         'org.moson.pacseek.svg',
+    ],
+    'localsend.svg': [
+        'org.localsend.localsend_app.svg',
     ],
     'kicad.svg': [
         'org.kicad.KiCad.svg',
