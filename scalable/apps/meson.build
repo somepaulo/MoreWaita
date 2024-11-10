@@ -172,6 +172,7 @@ regular_files = [
     'openra-cnc.svg',
     'openra-d2k.svg',
     'openra-ra.svg',
+    'openrgb.svg',
     'openscad.svg',
     'opensnitch-ui.svg',
     'opera.svg',
@@ -1324,6 +1325,11 @@ link_files = {
     'protonmail-bridge.svg': [
         'ProtonMail_Bridge.svg',
         'ch.protonmail.protonmail-bridge.svg',
+    ],
+    'openrgb.svg': [
+        'OpenRGB.svg',
+        'appimagekit-OpenRGB.svg',
+        'org.openrgb.OpenRGB.svg',
     ],
     'openboard.svg': [
         'OpenBoard.svg',

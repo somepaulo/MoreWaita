@@ -154,6 +154,7 @@ regular_files = [
     'openra-cnc-symbolic.svg',
     'openra-d2k-symbolic.svg',
     'openra-ra-symbolic.svg',
+    'openrgb-symbolic.svg',
     'openscad-symbolic.svg',
     'opensnitch-ui-symbolic.svg',
     'opera-symbolic.svg',
@@ -1264,6 +1265,11 @@ link_files = {
     'protonmail-bridge-symbolic.svg': [
         'ProtonMail_Bridge-symbolic.svg',
         'ch.protonmail.protonmail-bridge-symbolic.svg',
+    ],
+    'openrgb-symbolic.svg': [
+        'OpenRGB-symbolic.svg',
+        'appimagekit-OpenRGB-symbolic.svg',
+        'org.openrgb.OpenRGB-symbolic.svg',
     ],
     'openboard-symbolic.svg': [
         'OpenBoard-symbolic.svg',
