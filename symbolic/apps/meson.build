@@ -184,6 +184,7 @@ regular_files = [
     'pycharm-symbolic.svg',
     'qbittorrent-symbolic.svg',
     'qdbusviewer-symbolic.svg',
+    'qgis-symbolic.svg',
     'qt5ct-symbolic.svg',
     'qutebrowser-symbolic.svg',
     'qv4l2-symbolic.svg',
@@ -399,6 +400,9 @@ link_files = {
     ],
     'qutebrowser-symbolic.svg': [
         'org.qutebrowser.qutebrowser-symbolic.svg',
+    ],
+    'qgis-symbolic.svg': [
+        'org.qgis.qgis-symbolic.svg',
     ],
     'qbittorrent-symbolic.svg': [
         'org.qbittorrent.qBittorrent-symbolic.svg',

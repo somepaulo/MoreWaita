@@ -206,6 +206,7 @@ regular_files = [
     'pycharm.svg',
     'qbittorrent.svg',
     'qdbusviewer.svg',
+    'qgis.svg',
     'qt5ct.svg',
     'qutebrowser.svg',
     'qv4l2.svg',
@@ -434,6 +435,9 @@ link_files = {
     ],
     'qutebrowser.svg': [
         'org.qutebrowser.qutebrowser.svg',
+    ],
+    'qgis.svg': [
+        'org.qgis.qgis.svg',
     ],
     'qbittorrent.svg': [
         'org.qbittorrent.qBittorrent.svg',
