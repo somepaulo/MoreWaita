@@ -157,6 +157,7 @@ regular_files = [
     'openrgb-symbolic.svg',
     'openscad-symbolic.svg',
     'opensnitch-ui-symbolic.svg',
+    'opentoonz-symbolic.svg',
     'opera-symbolic.svg',
     'org.DolphinEmu.dolphin-emu-symbolic.svg',
     'org.cockpit_project.CockpitClient-symbolic.svg',
@@ -737,6 +738,9 @@ link_files = {
     ],
     'osmscout-server-symbolic.svg': [
         'io.github.rinigus.OSMScoutServer-symbolic.svg',
+    ],
+    'opentoonz-symbolic.svg': [
+        'io.github.OpenToonz-symbolic.svg',
     ],
     'org.inkscape.Inkscape-symbolic.svg': [
         'inkscape-logo-symbolic.svg',
