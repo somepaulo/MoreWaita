@@ -17,42 +17,38 @@
   <defs
      id="defs3">
     <linearGradient
-       id="linearGradient2146">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop2142" />
+       id="linearGradient1">
       <stop
          style="stop-color:#3b393c;stop-opacity:1;"
-         offset="1"
-         id="stop2144" />
+         offset="0.42893061"
+         id="stop1" />
+      <stop
+         style="stop-color:#7c787d;stop-opacity:1;"
+         offset="0.5"
+         id="stop3" />
+      <stop
+         style="stop-color:#3b393c;stop-opacity:1;"
+         offset="0.56790078"
+         id="stop2" />
     </linearGradient>
     <linearGradient
        id="linearGradient2085">
       <stop
-         style="stop-color:#5d3567;stop-opacity:1;"
+         style="stop-color:#221325;stop-opacity:1;"
          offset="0"
          id="stop2081" />
       <stop
-         style="stop-color:#9a5aaa;stop-opacity:1;"
-         offset="0.06672513"
+         style="stop-color:#9b59ab;stop-opacity:1;"
+         offset="0.41370147"
          id="stop2089" />
       <stop
-         style="stop-color:#5d3567;stop-opacity:1;"
-         offset="0.14693169"
+         style="stop-color:#221325;stop-opacity:1;"
+         offset="0.80892241"
          id="stop2091" />
       <stop
-         style="stop-color:#5d3567;stop-opacity:1;"
-         offset="0.85429066"
-         id="stop2093" />
-      <stop
-         style="stop-color:#9a5aaa;stop-opacity:1;"
-         offset="0.92642784"
-         id="stop2095" />
-      <stop
-         style="stop-color:#5d3567;stop-opacity:1;"
+         style="stop-color:#7e468b;stop-opacity:1;"
          offset="1"
-         id="stop2083" />
+         id="stop2095" />
     </linearGradient>
     <linearGradient
        id="linearGradient5954">
@@ -105,14 +101,13 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.1153774,0,0,1.1153869,99.770551,-64.875632)" />
     <linearGradient
-       xlink:href="#linearGradient2146"
-       id="linearGradient2139"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.71731188,0,0,1.5268216,-76.060061,-91.039799)"
-       x1="194.48241"
-       y1="105.05075"
-       x2="194.48241"
-       y2="132.1057" />
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="49.381772"
+       y1="89.656426"
+       x2="77.515213"
+       y2="89.656426"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -175,7 +170,7 @@
   </metadata>
   <path
      id="path1311-6"
-     style="color:#000000;display:inline;fill:url(#linearGradient2139);stroke:none;stroke-width:1.40673;-inkscape-stroke:none;enable-background:new"
+     style="color:#000000;display:inline;fill:url(#linearGradient2);stroke:none;stroke-width:1.40673;-inkscape-stroke:none;enable-background:new;fill-opacity:1"
      d="m 63.443723,53.308452 c -3.576677,0 -7.127507,3.869174 -9.772785,8.870771 -2.645269,5.001622 -4.444387,11.108644 -4.278588,16.231874 0.08496,2.638538 0.83126,6.635155 1.921444,11.474064 1.090184,4.838885 2.537064,10.409289 4.058558,15.700319 1.52149,5.29103 3.114882,10.29767 4.507334,14.01634 0.696223,1.85933 1.339187,3.39705 1.914908,4.50512 0.575728,1.10805 1.050642,1.89746 1.649129,1.89746 0.59311,0 1.075581,-0.76415 1.666558,-1.85172 0.590971,-1.0876 1.255692,-2.60165 1.975908,-4.43756 1.440434,-3.67188 3.092043,-8.63299 4.653291,-13.92923 1.561256,-5.29622 3.030788,-10.921174 4.097774,-15.918163 1.066978,-4.996992 1.755758,-9.28392 1.670914,-12.343282 -0.157207,-5.695979 -1.930015,-11.677195 -4.51169,-16.305933 -2.581674,-4.628715 -6.001116,-7.91006 -9.552755,-7.91006 z" />
   <path
      id="path1351-5"
