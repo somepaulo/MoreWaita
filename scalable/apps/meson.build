@@ -65,6 +65,7 @@ regular_files = [
     'fleet.svg',
     'flightgear.svg',
     'foobar2000.svg',
+    'foot.svg',
     'fr.handbrake.ghb.svg',
     'freac.svg',
     'freecad.svg',
@@ -525,6 +526,9 @@ link_files = {
     ],
     'codeblocks.svg': [
         'org.codeblocks.codeblocks.svg',
+    ],
+    'foot.svg': [
+        'org.codeberg.dnkl.foot.svg',
     ],
     'menulibre.svg': [
         'org.bluesabre.MenuLibre.svg',

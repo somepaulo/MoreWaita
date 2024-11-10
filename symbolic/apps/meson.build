@@ -56,6 +56,7 @@ regular_files = [
     'fleet-symbolic.svg',
     'flightgear-symbolic.svg',
     'foobar2000-symbolic.svg',
+    'foot-symbolic.svg',
     'fr.handbrake.ghb-symbolic.svg',
     'freac-symbolic.svg',
     'freecad-symbolic.svg',
@@ -490,6 +491,9 @@ link_files = {
     ],
     'codeblocks-symbolic.svg': [
         'org.codeblocks.codeblocks-symbolic.svg',
+    ],
+    'foot-symbolic.svg': [
+        'org.codeberg.dnkl.foot-symbolic.svg',
     ],
     'menulibre-symbolic.svg': [
         'org.bluesabre.MenuLibre-symbolic.svg',
