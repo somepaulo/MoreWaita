@@ -293,6 +293,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/wezterm.svg "Wezterm")
 ![icon](./scalable/apps/com.github.eneshecan.WhatsAppForLinux.svg "WhatsApp")
 ![icon](./scalable/apps/windscribe.svg "Windscribe")
+![icon](./scalable/apps/wireshark.svg "Wireshark")
 ![icon](./scalable/apps/wonderpen.svg "WonderPen")
 ![icon](./scalable/apps/xdvi.svg "xdvi")
 ![icon](./scalable/apps/xonotic.svg "Xonotic")
