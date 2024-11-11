@@ -225,6 +225,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/pure-maps.svg "Pure Maps")
 ![icon](./scalable/apps/qbittorrent.svg "qBitTorrent")
 ![icon](./scalable/apps/qgis.svg "QGIS")
+![icon](./scalable/apps/qq.svg "QQ")
 ![icon](./scalable/apps/qt5ct.svg "Qt Control Center")
 ![icon](./scalable/apps/assistant.svg "Qt Assistant")
 ![icon](./scalable/apps/qdbusviewer.svg "Qt dbus Viewer")

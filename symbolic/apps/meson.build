@@ -186,6 +186,7 @@ regular_files = [
     'qbittorrent-symbolic.svg',
     'qdbusviewer-symbolic.svg',
     'qgis-symbolic.svg',
+    'qq-symbolic.svg',
     'qt5ct-symbolic.svg',
     'qutebrowser-symbolic.svg',
     'qv4l2-symbolic.svg',
@@ -925,6 +926,9 @@ link_files = {
     ],
     'rawtherapee-symbolic.svg': [
         'com.rawtherapee.RawTherapee-symbolic.svg',
+    ],
+    'qq-symbolic.svg': [
+        'com.qq.QQ-symbolic.svg',
     ],
     'minecraft-symbolic.svg': [
         'com.mojang.Minecraft-symbolic.svg',

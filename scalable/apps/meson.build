@@ -208,6 +208,7 @@ regular_files = [
     'qbittorrent.svg',
     'qdbusviewer.svg',
     'qgis.svg',
+    'qq.svg',
     'qt5ct.svg',
     'qutebrowser.svg',
     'qv4l2.svg',
@@ -970,6 +971,9 @@ link_files = {
     ],
     'rawtherapee.svg': [
         'com.rawtherapee.RawTherapee.svg',
+    ],
+    'qq.svg': [
+        'com.qq.QQ.svg',
     ],
     'minecraft.svg': [
         'com.mojang.Minecraft.svg',
