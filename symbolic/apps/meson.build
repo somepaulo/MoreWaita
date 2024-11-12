@@ -170,6 +170,7 @@ regular_files = [
     'pacseek-symbolic.svg',
     'phpstorm-symbolic.svg',
     'pidgin-symbolic.svg',
+    'pinta-symbolic.svg',
     'popcorntime-symbolic.svg',
     'portmaster-symbolic.svg',
     'postman-symbolic.svg',
@@ -245,6 +246,7 @@ regular_files = [
     'webstorm-symbolic.svg',
     'wezterm-symbolic.svg',
     'windscribe-symbolic.svg',
+    'wireshark-symbolic.svg',
     'wonderpen-symbolic.svg',
     'xdvi-symbolic.svg',
     'xonotic-symbolic.svg',
@@ -722,6 +724,10 @@ link_files = {
         'kali-zaproxy-symbolic.svg',
         'org.zaproxy.ZAP-symbolic.svg',
     ],
+    'wireshark-symbolic.svg': [
+        'kali-wireshark-symbolic.svg',
+        'org.wireshark.Wireshark-symbolic.svg',
+    ],
     'jupyter-symbolic.svg': [
         'jupyterlab-desktop-symbolic.svg',
         'org.jupyter.JupyterLab-symbolic.svg',
@@ -993,6 +999,9 @@ link_files = {
         'tor-browser-ru-symbolic.svg',
         'tor-symbolic.svg',
         'torbrowser-symbolic.svg',
+    ],
+    'pinta-symbolic.svg': [
+        'com.github.PintaProject.Pinta-symbolic.svg',
     ],
     'ungoogled-chromium-symbolic.svg': [
         'com.github.Eloston.UngoogledChromium-symbolic.svg',

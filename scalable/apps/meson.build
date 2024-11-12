@@ -192,6 +192,7 @@ regular_files = [
     'pavucontrol.svg',
     'phpstorm.svg',
     'pidgin.svg',
+    'pinta.svg',
     'popcorntime.svg',
     'portmaster.svg',
     'postman.svg',
@@ -270,6 +271,7 @@ regular_files = [
     'webstorm.svg',
     'wezterm.svg',
     'windscribe.svg',
+    'wireshark.svg',
     'wonderpen.svg',
     'xdvi.svg',
     'xonotic.svg',
@@ -757,6 +759,10 @@ link_files = {
         'kali-zaproxy.svg',
         'org.zaproxy.ZAP.svg',
     ],
+    'wireshark.svg': [
+        'kali-wireshark.svg',
+        'org.wireshark.Wireshark.svg',
+    ],
     'jupyter.svg': [
         'jupyterlab-desktop.svg',
         'org.jupyter.JupyterLab.svg',
@@ -1042,6 +1048,9 @@ link_files = {
     'org.parlatype.Parlatype.svg': [
         'com.github.gkarsay.parlatype.svg',
         'parlatype.svg',
+    ],
+    'pinta.svg': [
+        'com.github.PintaProject.Pinta.svg',
     ],
     'ungoogled-chromium.svg': [
         'com.github.Eloston.UngoogledChromium.svg',
