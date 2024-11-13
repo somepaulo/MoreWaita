@@ -1237,6 +1237,7 @@ link_files = {
     'endless-sky-symbolic.svg': [
         'appimagekit-endless_sky-symbolic.svg',
         'io.github.endless_sky.endless_sky-symbolic.svg',
+        'lutris_endless-sky-symbolic.svg',
     ],
     'bitwarden-symbolic.svg': [
         'appimagekit-bitwarden-symbolic.svg',

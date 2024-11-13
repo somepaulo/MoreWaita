@@ -1296,6 +1296,7 @@ link_files = {
     'endless-sky.svg': [
         'appimagekit-endless_sky.svg',
         'io.github.endless_sky.endless_sky.svg',
+        'lutris_endless-sky.svg',
     ],
     'bitwarden.svg': [
         'appimagekit-bitwarden.svg',
