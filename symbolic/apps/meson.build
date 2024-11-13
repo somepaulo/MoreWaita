@@ -44,6 +44,7 @@ regular_files = [
     'eclipse-symbolic.svg',
     'electron-symbolic.svg',
     'electrum-symbolic.svg',
+    'endless-sky-symbolic.svg',
     'enpass-symbolic.svg',
     'etcher-symbolic.svg',
     'facebook-messenger-symbolic.svg',
@@ -245,6 +246,7 @@ regular_files = [
     'webstorm-symbolic.svg',
     'wezterm-symbolic.svg',
     'windscribe-symbolic.svg',
+    'wireshark-symbolic.svg',
     'wonderpen-symbolic.svg',
     'xdvi-symbolic.svg',
     'xonotic-symbolic.svg',
@@ -721,6 +723,10 @@ link_files = {
     'zaproxy-symbolic.svg': [
         'kali-zaproxy-symbolic.svg',
         'org.zaproxy.ZAP-symbolic.svg',
+    ],
+    'wireshark-symbolic.svg': [
+        'kali-wireshark-symbolic.svg',
+        'org.wireshark.Wireshark-symbolic.svg',
     ],
     'jupyter-symbolic.svg': [
         'jupyterlab-desktop-symbolic.svg',
@@ -1227,6 +1233,10 @@ link_files = {
     'github-desktop-symbolic.svg': [
         'appimagekit-github-desktop-symbolic.svg',
         'io.github.shiftey.Desktop-symbolic.svg',
+    ],
+    'endless-sky-symbolic.svg': [
+        'appimagekit-endless_sky-symbolic.svg',
+        'io.github.endless_sky.endless_sky-symbolic.svg',
     ],
     'bitwarden-symbolic.svg': [
         'appimagekit-bitwarden-symbolic.svg',

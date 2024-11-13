@@ -51,6 +51,7 @@ regular_files = [
     'eclipse.svg',
     'electron.svg',
     'electrum.svg',
+    'endless-sky.svg',
     'enpass.svg',
     'etcher.svg',
     'facebook-messenger.svg',
@@ -270,6 +271,7 @@ regular_files = [
     'webstorm.svg',
     'wezterm.svg',
     'windscribe.svg',
+    'wireshark.svg',
     'wonderpen.svg',
     'xdvi.svg',
     'xonotic.svg',
@@ -756,6 +758,10 @@ link_files = {
     'zaproxy.svg': [
         'kali-zaproxy.svg',
         'org.zaproxy.ZAP.svg',
+    ],
+    'wireshark.svg': [
+        'kali-wireshark.svg',
+        'org.wireshark.Wireshark.svg',
     ],
     'jupyter.svg': [
         'jupyterlab-desktop.svg',
@@ -1286,6 +1292,10 @@ link_files = {
     'github-desktop.svg': [
         'appimagekit-github-desktop.svg',
         'io.github.shiftey.Desktop.svg',
+    ],
+    'endless-sky.svg': [
+        'appimagekit-endless_sky.svg',
+        'io.github.endless_sky.endless_sky.svg',
     ],
     'bitwarden.svg': [
         'appimagekit-bitwarden.svg',
