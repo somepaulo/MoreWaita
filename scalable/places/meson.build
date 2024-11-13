@@ -34,6 +34,8 @@ regular_files = [
     'folder-csharp.svg',
     'folder-dropbox-legacy.svg',
     'folder-dropbox.svg',
+    'folder-earth-legacy.svg',
+    'folder-earth.svg',
     'folder-emacs-legacy.svg',
     'folder-emacs.svg',
     'folder-extensions-legacy.svg',
