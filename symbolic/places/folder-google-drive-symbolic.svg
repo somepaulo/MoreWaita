@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg15572"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15576" />
+  <g
+     id="g2"
+     transform="matrix(0.18327606,0,0,0.18327606,-1.9e-8,0.85223366)">
+    <path
+       d="m 6.6,66.85 3.85,6.65 c 0.8,1.4 1.95,2.5 3.3,3.3 L 27.5,53 H 0 c 0,1.55 0.4,3.1 1.2,4.5 z"
+       fill="#0066da"
+       id="path1"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       d="M 43.65,25 29.9,1.2 C 28.55,2 27.4,3.1 26.6,4.5 L 1.2,48.5 A 9.06,9.06 0 0 0 0,53 h 27.5 z"
+       fill="#00ac47"
+       id="path2"
+       style="fill:#000000;fill-opacity:0.745098" />
+    <path
+       d="m 73.55,76.8 c 1.35,-0.8 2.5,-1.9 3.3,-3.3 l 1.6,-2.75 7.65,-13.25 c 0.8,-1.4 1.2,-2.95 1.2,-4.5 H 59.798 l 5.852,11.5 z"
+       fill="#ea4335"
+       id="path3"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       d="M 43.65,25 57.4,1.2 C 56.05,0.4 54.5,0 52.9,0 H 34.4 c -1.6,0 -3.15,0.45 -4.5,1.2 z"
+       fill="#00832d"
+       id="path4"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       d="M 59.8,53 H 27.5 L 13.75,76.8 c 1.35,0.8 2.9,1.2 4.5,1.2 h 50.8 c 1.6,0 3.15,-0.45 4.5,-1.2 z"
+       fill="#2684fc"
+       id="path5"
+       style="fill:#000000;fill-opacity:0.745699" />
+    <path
+       d="M 73.4,26.5 60.7,4.5 C 59.9,3.1 58.75,2 57.4,1.2 L 43.65,25 59.8,53 h 27.45 c 0,-1.55 -0.4,-3.1 -1.2,-4.5 z"
+       fill="#ffba00"
+       id="path6"
+       style="fill:#000000;fill-opacity:0.745098" />
+  </g>
+</svg>
