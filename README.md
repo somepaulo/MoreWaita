@@ -388,7 +388,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimes/text-x-ruby.svg "Ruby")
 ![icon](./scalable/mimes/text-rust.svg "Rust")
 ![icon](./scalable/mimes/application-vnd.scribus.svg "Scribus")
-![icon](./scalable/mimes/text-x-script.svg "Shell Script")
+![icon](./scalable/mimes/application-x-shellscript.svg "Shell Script")
 ![icon](./scalable/mimes/application-vnd.snap.svg "Snap")
 ![icon](./scalable/mimes/application-x-subrip.svg "Subtitles")
 ![icon](./scalable/mimes/text-x-tex.svg "TEX")
