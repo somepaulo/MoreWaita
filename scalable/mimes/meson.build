@@ -42,6 +42,7 @@ regular_files = [
     'application-x-php.svg',
     'application-x-python-bytecode.svg',
     'application-x-rpm.svg',
+    'application-x-shellscript.svg',
     'application-x-subrip.svg',
     'application-x-theme.svg',
     'application-x-xopp.svg',
@@ -91,7 +92,6 @@ regular_files = [
     'text-x-r-markdown.svg',
     'text-x-r.svg',
     'text-x-ruby.svg',
-    'text-x-script.svg',
     'text-x-tex.svg',
     'text-x-typescript.svg',
     'text-x-vala.svg',
@@ -235,9 +235,12 @@ link_files = {
         'text-x-R.svg',
         'text-x-r-source.svg',
     ],
-    'text-x-script.svg': [
+    'application-x-shellscript.svg': [
         'application-x-ptoptimizer-script.svg',
-        'application-x-shellscript.svg',
+    ],
+    'application-octet-stream.svg': [
+        'application-x-msdownload.svg',
+        'text-x-hex.svg',
     ],
     'application-x-bittorrent.svg': [
         'application-x-kgetlist.svg',
@@ -260,11 +263,6 @@ link_files = {
         'application-x-godot-resource.svg',
         'application-x-godot-scene.svg',
         'application-x-godot-shader.svg',
-    ],
-    'application-octet-stream.svg': [
-        'application-x-firmware.svg',
-        'application-x-msdownload.svg',
-        'text-x-hex.svg',
     ],
     'application-x-theme.svg': [
         'application-x-e-theme.svg',
