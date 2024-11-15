@@ -607,13 +607,12 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 
 1. Open Files (Nautilus).
 2. Find the folder you wish to change the icon for.
-3. Right click on the folder.
-4. Click on `Properties`.
-5. Click on the folder image.
-6. Navigate to the MoreWaita installation folder and into the `places` subfolder (typically `/usr/share/icons/MoreWaita/scalable/places/`).
-7. Select the icon you wish to use.
-8. Click `Open`.
-9. Follow the same procedure to revert the icon. Just click `Revert` instead of selecting a new icon in step 7.
+3. Right click on the folder and click on `Properties` __or__ press `Alt+Enter`. 
+4. Click on the _Set Custom Icon_ badge on the folder image.
+5. Navigate to the MoreWaita installation folder and into the `places` subfolder (typically `/usr/share/icons/MoreWaita/scalable/places/`).
+6. Select the icon you wish to use.
+7. Click `Select`.
+8. Follow the same procedure to choose a different icon or click the _'Remove Custom Icon'_ badge to revert the icon to the default in step 4.
 ![change_folder_icon](https://github.com/somepaulo/MoreWaita/assets/15643750/05e88cbc-3c77-4e1b-a8bd-3e15b84972fa)
 
 ### CLI method
