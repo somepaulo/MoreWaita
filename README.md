@@ -613,11 +613,12 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 6. Select the icon you wish to use.
 7. Click `Select`.
 8. Follow the same procedure to choose a different icon or click the _'Remove Custom Icon'_ badge to revert the icon to the default in step 4.
-![change_folder_icon](https://github.com/somepaulo/MoreWaita/assets/15643750/05e88cbc-3c77-4e1b-a8bd-3e15b84972fa)
+![Screenshot From 2024-11-15 02-34-56](https://github.com/user-attachments/assets/a21e270d-b75e-4bf3-85d2-c3bc47b769ce)
 
 ### CLI method
 
 If you need to assign the icons using the CLI you have to use the GIO command-line tool.
+
 
 - Set a custom (C programming language) icon on a folder:
 
