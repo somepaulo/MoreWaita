@@ -570,12 +570,14 @@ Simply chose another theme and then delete the entire `MoreWaita` folder from ei
 ```sh
 paru morewaita-icon-theme
 ```
+<sup>_*Replace `paru` with `yay` or your other favourite AUR helper._</sup>
 
 [AUR package (git)](https://aur.archlinux.org/packages/morewaita-icon-theme-git)
 
 ```sh
 paru morewaita-icon-theme-git
 ```
+<sup>_*Replace `paru` with `yay` or your other favourite AUR helper._</sup>
 
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
 
