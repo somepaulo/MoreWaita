@@ -641,7 +641,7 @@ If you need to assign the icons using the CLI you have to use the GIO command-li
 
 ## Accent colours support
 
-To have folders and some Gnome apps support the accent colours itroduced in Gnome 47, install `adwaita-colors-icon-theme` or `adwaita-colors-icon-theme-git` from the AUR or directly from the [theme's repo](https://github.com/dpejoh/Adwaita-colors).
+To have folders and some Gnome apps support the accent colours introduced in Gnome 47, install `adwaita-colors-icon-theme` or `adwaita-colors-icon-theme-git` from the AUR or directly from the [theme's repo](https://github.com/dpejoh/Adwaita-colors).
 
 ## Troubleshooting
 
