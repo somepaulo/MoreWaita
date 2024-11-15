@@ -212,6 +212,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/org.parlatype.Parlatype.svg "Parlatype")
 ![icon](./scalable/apps/pavucontrol.svg "PulseAudio Volume Control")
 ![icon](./scalable/apps/pidgin.svg "Pidgin")
+![icon](./scalable/apps/pinta.svg "Pinta")
 ![icon](./scalable/apps/net.poedit.Poedit.svg "Poedit")
 ![icon](./scalable/apps/popcorntime.svg "Popcorn Time")
 ![icon](./scalable/apps/portmaster.svg "Portmaster")

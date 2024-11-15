@@ -193,6 +193,7 @@ regular_files = [
     'pavucontrol.svg',
     'phpstorm.svg',
     'pidgin.svg',
+    'pinta.svg',
     'popcorntime.svg',
     'portmaster.svg',
     'postman.svg',
@@ -1048,6 +1049,9 @@ link_files = {
     'org.parlatype.Parlatype.svg': [
         'com.github.gkarsay.parlatype.svg',
         'parlatype.svg',
+    ],
+    'pinta.svg': [
+        'com.github.PintaProject.Pinta.svg',
     ],
     'ungoogled-chromium.svg': [
         'com.github.Eloston.UngoogledChromium.svg',

@@ -171,6 +171,7 @@ regular_files = [
     'pacseek-symbolic.svg',
     'phpstorm-symbolic.svg',
     'pidgin-symbolic.svg',
+    'pinta-symbolic.svg',
     'popcorntime-symbolic.svg',
     'portmaster-symbolic.svg',
     'postman-symbolic.svg',
@@ -999,6 +1000,9 @@ link_files = {
         'tor-browser-ru-symbolic.svg',
         'tor-symbolic.svg',
         'torbrowser-symbolic.svg',
+    ],
+    'pinta-symbolic.svg': [
+        'com.github.PintaProject.Pinta-symbolic.svg',
     ],
     'ungoogled-chromium-symbolic.svg': [
         'com.github.Eloston.UngoogledChromium-symbolic.svg',
