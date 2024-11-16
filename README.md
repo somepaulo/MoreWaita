@@ -579,14 +579,14 @@ Simply chose another theme and then delete the entire `MoreWaita` folder from ei
 ```sh
 paru morewaita-icon-theme
 ```
-<sup>_*Replace `paru` with `yay` or your other favourite AUR helper._</sup>
+<sup>_*Replace `paru` with `yay -S` or your other favourite AUR helper install command._</sup>
 
 [AUR package (git)](https://aur.archlinux.org/packages/morewaita-icon-theme-git)
 
 ```sh
 paru morewaita-icon-theme-git
 ```
-<sup>_*Replace `paru` with `yay` or your other favourite AUR helper._</sup>
+<sup>_*Replace `paru` with `yay -S` or your other favourite AUR helper install command._</sup>
 
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
 
@@ -621,7 +621,7 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 5. Navigate to the MoreWaita installation folder and into the `places` subfolder (typically `/usr/share/icons/MoreWaita/scalable/places/`).
 6. Select the icon you wish to use.
 7. Click `Select`.
-8. Follow the same procedure to choose a different icon or click the _'Remove Custom Icon'_ badge to revert the icon to the default in step 4.
+8. Follow the same procedure to choose a different icon or click the _'Remove Custom Icon'_ badge to revert the icon to the default in step 4.  
 ![Screenshot From 2024-11-15 02-34-56](https://github.com/user-attachments/assets/a21e270d-b75e-4bf3-85d2-c3bc47b769ce)
 
 ### CLI method
