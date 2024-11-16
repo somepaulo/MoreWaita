@@ -1012,6 +1012,10 @@ link_files = {
     'pycharm.svg': [
         'com.jetbrains.PyCharm-Community.svg',
         'com.jetbrains.PyCharm-Professional.svg',
+        'pycharm-community.svg',
+        'pycharm-education.svg',
+        'pycharm-professional.svg',
+        'pycharmedu.svg',
     ],
     'phpstorm.svg': [
         'com.jetbrains.PhpStorm.svg',
