@@ -94,6 +94,7 @@ regular_files = [
     'grapejuice.svg',
     'grub-customizer.svg',
     'gsmartcontrol.svg',
+    'gtkterm.svg',
     'gufw.svg',
     'guiscrcpy.svg',
     'hardinfo.svg',

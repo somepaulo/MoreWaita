@@ -83,6 +83,7 @@ regular_files = [
     'grapejuice-symbolic.svg',
     'grub-customizer-symbolic.svg',
     'gsmartcontrol-symbolic.svg',
+    'gtkterm-symbolic.svg',
     'gufw-symbolic.svg',
     'hardinfo-symbolic.svg',
     'headlines-symbolic.svg',

@@ -110,6 +110,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/grapejuice-roblox-studio.svg "Grapejuice Studio")
 ![icon](./scalable/apps/grub-customizer.svg "GRUB Customizer")
 ![icon](./scalable/apps/gsmartcontrol.svg "GSmartControl")
+![icon](./scalable/apps/gtkterm.svg "GTKTerm")
 ![icon](./scalable/apps/gufw.svg "GUFW")
 ![icon](./scalable/apps/fr.handbrake.ghb.svg "Handbrake")
 ![icon](./scalable/apps/hardinfo.svg "Hardinfo")
@@ -480,6 +481,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-vala.svg "Vala")
 ![icon](./scalable/places/folder-wine.svg "Wine")
 ![icon](./scalable/places/folder-work.svg "Work")
+![icon](./scalable/places/folder-world.svg "World")
 
 ### Legacy Places
 
@@ -547,6 +549,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-vala-legacy.svg "Vala")
 ![icon](./scalable/places/folder-wine-legacy.svg "Wine")
 ![icon](./scalable/places/folder-work-legacy.svg "Work")
+![icon](./scalable/places/folder-world-legacy.svg "World")
 </details>
 
 ## Installation
