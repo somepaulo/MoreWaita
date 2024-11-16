@@ -603,6 +603,14 @@ dnf copr enable dusansimic/themes && dnf install morewaita-icon-theme
 
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-debian-based-linux-distributions)
 
+#### nixOS
+
+Install via [pkosel's package](https://search.nixos.org/packages?channel=unstable&show=morewaita-icon-theme):
+
+```sh
+nix-shell -p morewaita-icon-theme
+```
+
 ## Activation
 
 Either use the `Tweaks` app to choose and activate the icon theme or run the following command:
