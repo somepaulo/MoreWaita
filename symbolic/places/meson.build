@@ -33,6 +33,7 @@ regular_files = [
     'folder-git-symbolic.svg',
     'folder-github-symbolic.svg',
     'folder-gitlab-symbolic.svg',
+    'folder-globe-symbolic.svg',
     'folder-gnome-symbolic.svg',
     'folder-go-symbolic.svg',
     'folder-godot-symbolic.svg',
@@ -171,6 +172,9 @@ link_files = {
     ],
     'folder-gnome-symbolic.svg': [
         'folder-gnome-legacy-symbolic.svg',
+    ],
+    'folder-globe-symbolic.svg': [
+        'folder-globe-legacy-symbolic.svg',
     ],
     'folder-gitlab-symbolic.svg': [
         'folder-gitlab-legacy-symbolic.svg',
