@@ -35,6 +35,7 @@ regular_files = [
     'folder-gnome-symbolic.svg',
     'folder-go-symbolic.svg',
     'folder-godot-symbolic.svg',
+    'folder-google-drive-symbolic.svg',
     'folder-inkscape-symbolic.svg',
     'folder-java-symbolic.svg',
     'folder-kde-symbolic.svg',
@@ -157,6 +158,9 @@ link_files = {
     ],
     'folder-inkscape-symbolic.svg': [
         'folder-inkscape-legacy-symbolic.svg',
+    ],
+    'folder-google-drive-symbolic.svg': [
+        'folder-google-drive-legacy-symbolic.svg',
     ],
     'folder-godot-symbolic.svg': [
         'folder-godot-legacy-symbolic.svg',

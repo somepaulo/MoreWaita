@@ -60,6 +60,8 @@ regular_files = [
     'folder-go.svg',
     'folder-godot-legacy.svg',
     'folder-godot.svg',
+    'folder-google-drive-legacy.svg',
+    'folder-google-drive.svg',
     'folder-inkscape-legacy.svg',
     'folder-inkscape.svg',
     'folder-java-legacy.svg',
