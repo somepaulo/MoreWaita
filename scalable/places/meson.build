@@ -80,6 +80,8 @@ regular_files = [
     'folder-nextcloud.svg',
     'folder-nix-legacy.svg',
     'folder-nix.svg',
+    'folder-onedrive-legacy.svg',
+    'folder-onedrive.svg',
     'folder-openscad-legacy.svg',
     'folder-openscad.svg',
     'folder-opensuse-legacy.svg',
