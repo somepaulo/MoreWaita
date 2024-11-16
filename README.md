@@ -462,6 +462,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-onedrive.svg "OneDrive")
 ![icon](./scalable/places/folder-openscad.svg "OpenSCAD")
 ![icon](./scalable/places/folder-opensuse.svg "OpenSUSE")
+![icon](./scalable/places/folder-planet.svg "Planet")
 ![icon](./scalable/places/folder-platformio.svg "PlatformIO")
 ![icon](./scalable/places/folder-private.svg "Private")
 ![icon](./scalable/places/folder-projects.svg "Projects")
@@ -481,7 +482,6 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-vala.svg "Vala")
 ![icon](./scalable/places/folder-wine.svg "Wine")
 ![icon](./scalable/places/folder-work.svg "Work")
-![icon](./scalable/places/folder-world.svg "World")
 
 ### Legacy Places
 
@@ -530,6 +530,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-onedrive-legacy.svg "OneDrive")
 ![icon](./scalable/places/folder-openscad-legacy.svg "OpenSCAD")
 ![icon](./scalable/places/folder-opensuse-legacy.svg "OpenSUSE")
+![icon](./scalable/places/folder-planet-legacy.svg "Planet")
 ![icon](./scalable/places/folder-platformio-legacy.svg "PlatformIO")
 ![icon](./scalable/places/folder-private-legacy.svg "Private")
 ![icon](./scalable/places/folder-projects-legacy.svg "Projects")
@@ -549,7 +550,6 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-vala-legacy.svg "Vala")
 ![icon](./scalable/places/folder-wine-legacy.svg "Wine")
 ![icon](./scalable/places/folder-work-legacy.svg "Work")
-![icon](./scalable/places/folder-world-legacy.svg "World")
 </details>
 
 ## Installation
