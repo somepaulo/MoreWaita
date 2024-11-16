@@ -20,6 +20,7 @@ regular_files = [
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
     'folder-dropbox-symbolic.svg',
+    'folder-earth-symbolic.svg',
     'folder-emacs-symbolic.svg',
     'folder-extensions-symbolic.svg',
     'folder-fedora-symbolic.svg',
@@ -191,6 +192,9 @@ link_files = {
     ],
     'folder-emacs-symbolic.svg': [
         'folder-emacs-legacy-symbolic.svg',
+    ],
+    'folder-earth-symbolic.svg': [
+        'folder-earth-legacy-symbolic.svg',
     ],
     'folder-dropbox-symbolic.svg': [
         'folder-dropbox-legacy-symbolic.svg',
