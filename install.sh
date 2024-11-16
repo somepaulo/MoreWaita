@@ -6,9 +6,13 @@ is_user_root ()
 }
 
 if is_user_root; then
-		THEMEDIR=/usr/share/icons/MoreWaita/
+    if ! ls -ld /usr | grep -q 'w'; then
+        THEMEDIR=/var/usrlocal/share/icons/MoreWaita/
+    else
+        THEMEDIR=/usr/share/icons/MoreWaita/
+    fi
 else
-		THEMEDIR=$HOME/.local/share/icons/MoreWaita/
+    THEMEDIR=$HOME/.local/share/icons/MoreWaita/
 fi
 
 mkdir -p $THEMEDIR
