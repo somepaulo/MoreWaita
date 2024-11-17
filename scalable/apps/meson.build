@@ -45,6 +45,7 @@ regular_files = [
     'dataspell.svg',
     'dbeaver.svg',
     'de.leopoldluley.Clapgrep.svg',
+    'deadbeef.svg',
     'dev.bsnes.bsnes.svg',
     'discord-canary.svg',
     'discord.svg',

@@ -60,6 +60,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/darktable.svg "Darktable")
 ![icon](./scalable/apps/resolve.svg "DaVinci Resolve")
 ![icon](./scalable/apps/dbeaver.svg "DBeaver")
+![icon](./scalable/apps/deadbeef.svg "DeaDBeeF")
 ![icon](./scalable/apps/preferences-desktop-theme.svg "Desktop Preferences")
 ![icon](./scalable/apps/discord.svg "Discord")
 ![icon](./scalable/apps/discord-canary.svg "Discord Canary")

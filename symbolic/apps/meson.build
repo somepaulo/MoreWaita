@@ -39,6 +39,7 @@ regular_files = [
     'dataspell-symbolic.svg',
     'dbeaver-symbolic.svg',
     'de.leopoldluley.Clapgrep-symbolic.svg',
+    'deadbeef-symbolic.svg',
     'dev.bsnes.bsnes-symbolic.svg',
     'discord-symbolic.svg',
     'eclipse-symbolic.svg',
