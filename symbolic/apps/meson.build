@@ -1321,6 +1321,7 @@ link_files = {
     ],
     'mercury-symbolic.svg': [
         'Mercury-symbolic.svg',
+        'mercury-browser-symbolic.svg',
     ],
     'gitkraken-symbolic.svg': [
         'GitKraken-symbolic.svg',
