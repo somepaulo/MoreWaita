@@ -30,6 +30,7 @@ regular_files = [
     'carla.svg',
     'cawbird.svg',
     'chromium-browser.svg',
+    'cider.svg',
     'clamtk.svg',
     'clion.svg',
     'code-oss.svg',
@@ -1309,6 +1310,10 @@ link_files = {
         'appimagekit-endless_sky.svg',
         'io.github.endless_sky.endless_sky.svg',
         'lutris_endless-sky.svg',
+    ],
+    'cider.svg': [
+        'appimagekit-cider.svg',
+        'sh.cider.Cider.svg',
     ],
     'bitwarden.svg': [
         'appimagekit-bitwarden.svg',

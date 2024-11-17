@@ -24,6 +24,7 @@ regular_files = [
     'calibre-symbolic.svg',
     'carla-symbolic.svg',
     'cawbird-symbolic.svg',
+    'cider-symbolic.svg',
     'clamtk-symbolic.svg',
     'clion-symbolic.svg',
     'code-oss-symbolic.svg',
@@ -1250,6 +1251,10 @@ link_files = {
         'appimagekit-endless_sky-symbolic.svg',
         'io.github.endless_sky.endless_sky-symbolic.svg',
         'lutris_endless-sky-symbolic.svg',
+    ],
+    'cider-symbolic.svg': [
+        'appimagekit-cider-symbolic.svg',
+        'sh.cider.Cider-symbolic.svg',
     ],
     'bitwarden-symbolic.svg': [
         'appimagekit-bitwarden-symbolic.svg',

@@ -48,6 +48,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/carla-control.svg "Carla Control")
 ![icon](./scalable/apps/cawbird.svg "Cawbird")
 ![icon](./scalable/apps/chromium-browser.svg "Chromium")
+![icon](./scalable/apps/cider.svg "Cider")
 ![icon](./scalable/apps/clamtk.svg "ClamTK")
 ![icon](./scalable/apps/de.leopoldluley.Clapgrep.svg "Clapgrep")
 ![icon](./scalable/apps/com.github.rafostar.Clapper.svg "Clapper")
