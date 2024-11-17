@@ -218,6 +218,7 @@ regular_files = [
     'setzer-symbolic.svg',
     'shotwell-symbolic.svg',
     'signal-desktop-symbolic.svg',
+    'sioyek-symbolic.svg',
     'skypeforlinux-symbolic.svg',
     'slack-symbolic.svg',
     'soundconverter-symbolic.svg',
@@ -1035,6 +1036,10 @@ link_files = {
         'tor-browser-ru-symbolic.svg',
         'tor-symbolic.svg',
         'torbrowser-symbolic.svg',
+    ],
+    'sioyek-symbolic.svg': [
+        'com.github.ahrm.sioyek-symbolic.svg',
+        'sioyek-icon-linux-symbolic.svg',
     ],
     'pinta-symbolic.svg': [
         'com.github.PintaProject.Pinta-symbolic.svg',

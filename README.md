@@ -257,6 +257,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/shotwell.svg "Shotwell")
 ![icon](./scalable/apps/one.alynx.showmethekey.svg "Show Me the Key")
 ![icon](./scalable/apps/signal-desktop.svg "Signal")
+![icon](./scalable/apps/sioyek.svg "Sioyek")
 ![icon](./scalable/apps/skypeforlinux.svg "Skype")
 ![icon](./scalable/apps/slack.svg "Slack")
 ![icon](./scalable/apps/system-software-install.svg "Software")

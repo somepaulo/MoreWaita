@@ -240,6 +240,7 @@ regular_files = [
     'setzer.svg',
     'shotwell.svg',
     'signal-desktop.svg',
+    'sioyek.svg',
     'skypeforlinux.svg',
     'slack.svg',
     'soundconverter.svg',
@@ -1084,6 +1085,10 @@ link_files = {
     'org.parlatype.Parlatype.svg': [
         'com.github.gkarsay.parlatype.svg',
         'parlatype.svg',
+    ],
+    'sioyek.svg': [
+        'com.github.ahrm.sioyek.svg',
+        'sioyek-icon-linux.svg',
     ],
     'pinta.svg': [
         'com.github.PintaProject.Pinta.svg',
