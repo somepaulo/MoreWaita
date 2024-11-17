@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg14"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <filter
+       id="alpha"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix1" />
+    </filter>
+    <mask
+       id="mask0">
+      <g
+         filter="url(#alpha)"
+         id="g1">
+        <rect
+           x="0"
+           y="0"
+           width="16"
+           height="16"
+           style="fill:rgb(0%,0%,0%);fill-opacity:0.1;stroke:none;"
+           id="rect1" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip1">
+      <rect
+         x="0"
+         y="0"
+         width="192"
+         height="152"
+         id="rect2" />
+    </clipPath>
+    <g
+       id="surface57780"
+       clip-path="url(#clip1)">
+      <path
+         style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;"
+         d="M 128 107.65625 C 127.917969 111.746094 124.621094 115 120.507812 115 L 120.007812 115 L 120.007812 116 L 120.507812 116 C 123.753906 116 126.566406 114.1875 128 111.519531 Z M 96 115 L 120 116 L 120 115 Z M 96 115 "
+         id="path2" />
+      <path
+         style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;"
+         d="M 128 110.65625 C 127.917969 114.746094 124.621094 118 120.507812 118 L 120.007812 118 L 120.007812 119 L 120.507812 119 C 123.730469 119 126.53125 117.210938 127.972656 114.574219 C 127.984375 114.382812 128 114.191406 128 114 Z M 102 118 L 120 119 L 120 118 Z M 102 118 "
+         id="path3" />
+    </g>
+  </defs>
+  <use
+     xlink:href="#surface57780"
+     transform="translate(-168,-16)"
+     mask="url(#mask0)"
+     id="use14" />
+  <path
+     d="m 4.6956701,15.979731 c 0,0 0.9297406,0.06577 2.1258112,-0.03964 0.4843785,-0.04269 2.3234324,-0.223328 3.6983767,-0.524863 0,0 1.676389,-0.358769 2.573238,-0.689274 0.938408,-0.345823 1.449056,-0.63933 1.678904,-1.05522 -0.01002,-0.08521 0.07077,-0.387393 -0.361986,-0.568904 C 13.303627,12.637772 12.020482,12.72171 9.4814549,12.667878 6.6657733,12.571128 5.7291076,12.09983 5.230151,11.720243 4.7516842,11.335168 4.9922812,10.269824 7.0423989,9.3314178 8.0751024,8.8317038 12.123416,7.9095228 12.123416,7.9095228 10.760017,7.2356088 8.2177067,6.0508908 7.695109,5.7950608 7.2367598,5.5706868 6.5032633,5.2328428 6.3442674,4.8240958 6.1639997,4.4316868 6.7699979,4.0936588 7.1085031,3.9968568 c 1.0901882,-0.31446 2.6292012,-0.509907 4.0298819,-0.531849 0.704058,-0.01103 0.818338,-0.05633 0.818338,-0.05633 0.971466,-0.161146 1.610987,-0.825797 1.344535,-1.878406 C 13.062055,0.45583177 11.800479,-0.17549823 10.60161,0.04306177 9.4726371,0.24888077 6.7515193,1.0392918 6.7515193,1.0392918 c 3.3635027,-0.02911 3.9264627,0.02703 4.1778887,0.378555 0.148483,0.207602 -0.06747,0.492258 -0.9645028,0.638763 -0.9765851,0.159498 -3.0066369,0.351576 -3.0066369,0.351576 -1.9474661,0.115656 -3.3192577,0.123397 -3.7306934,0.99449 -0.2687925,0.569096 0.28664,1.072219 0.5300864,1.387149 1.028761,1.144086 2.514741,1.761122 3.4712416,2.215512 0.3598902,0.170966 1.4158484,0.49383 1.4158484,0.49383 -3.1030566,-0.17067 -5.3414873,0.782168 -6.6545324,1.879229 -1.48510095,1.3736452 -0.8281366,3.0109862 2.2144204,4.0191432 1.7970578,0.595456 2.6882831,0.8755 5.3688642,0.634115 1.5788905,-0.0851 1.8277865,-0.03446 1.8435285,0.0951 0.02216,0.182402 -1.7536938,0.635496 -2.2385198,0.775342 -1.2334044,0.355771 -4.4666577,1.074155 -4.4828421,1.077638 z"
+     id="path4237"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+</svg>

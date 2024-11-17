@@ -74,6 +74,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/electron.svg "Electron")
 ![icon](./scalable/apps/electrum.svg "Electrum")
 ![icon](./scalable/apps/io.element.Element.svg "Element")
+![icon](./scalable/apps/emacs.svg "Emacs")
 ![icon](./scalable/apps/endless-sky.svg "Endless Sky")
 ![icon](./scalable/apps/enpass.svg "Enpass")
 ![icon](./scalable/apps/etcher.svg "Etcher")

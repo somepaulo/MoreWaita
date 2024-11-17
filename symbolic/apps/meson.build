@@ -52,6 +52,7 @@ regular_files = [
     'eclipse-symbolic.svg',
     'electron-symbolic.svg',
     'electrum-symbolic.svg',
+    'emacs-symbolic.svg',
     'endless-sky-symbolic.svg',
     'enpass-symbolic.svg',
     'etcher-symbolic.svg',
@@ -1287,6 +1288,15 @@ link_files = {
         'appimagekit-endless_sky-symbolic.svg',
         'io.github.endless_sky.endless_sky-symbolic.svg',
         'lutris_endless-sky-symbolic.svg',
+    ],
+    'emacs-symbolic.svg': [
+        'appimagekit-emacs-symbolic.svg',
+        'deepin-emacs-symbolic.svg',
+        'emacs-nox-symbolic.svg',
+        'emacs-snapshot-symbolic.svg',
+        'gnome-emacs-symbolic.svg',
+        'org.gnu.emacs-symbolic.svg',
+        'xemacs-symbolic.svg',
     ],
     'cider-symbolic.svg': [
         'appimagekit-cider-symbolic.svg',

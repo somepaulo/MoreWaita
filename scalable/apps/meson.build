@@ -59,6 +59,7 @@ regular_files = [
     'eclipse.svg',
     'electron.svg',
     'electrum.svg',
+    'emacs.svg',
     'endless-sky.svg',
     'enpass.svg',
     'etcher.svg',
@@ -1346,6 +1347,15 @@ link_files = {
         'appimagekit-endless_sky.svg',
         'io.github.endless_sky.endless_sky.svg',
         'lutris_endless-sky.svg',
+    ],
+    'emacs.svg': [
+        'appimagekit-emacs.svg',
+        'deepin-emacs.svg',
+        'emacs-nox.svg',
+        'emacs-snapshot.svg',
+        'gnome-emacs.svg',
+        'org.gnu.emacs.svg',
+        'xemacs.svg',
     ],
     'cider.svg': [
         'appimagekit-cider.svg',
