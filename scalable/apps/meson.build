@@ -16,6 +16,7 @@ regular_files = [
     'anydesk.svg',
     'appflowy.svg',
     'ardour.svg',
+    'arduino.svg',
     'assistant.svg',
     'atomix.svg',
     'audacity.svg',
@@ -1188,6 +1189,11 @@ link_files = {
     ],
     'btop.svg': [
         'bashtop.svg',
+    ],
+    'arduino.svg': [
+        'arduino-icon-small.svg',
+        'arduino-ide.svg',
+        'cc.arduino.arduinoide.svg',
     ],
     'java-openjdk.svg': [
         'applications-java.svg',

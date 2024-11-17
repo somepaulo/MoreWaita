@@ -14,6 +14,7 @@ regular_files = [
     'anydesk-symbolic.svg',
     'appflowy-symbolic.svg',
     'ardour-symbolic.svg',
+    'arduino-symbolic.svg',
     'assistant-symbolic.svg',
     'atomix-symbolic.svg',
     'audacity-symbolic.svg',
@@ -1128,6 +1129,11 @@ link_files = {
         'gscan2pdf-symbolic.svg',
         'vuescan-symbolic.svg',
         'yast-scanner-symbolic.svg',
+    ],
+    'arduino-symbolic.svg': [
+        'arduino-icon-small-symbolic.svg',
+        'arduino-ide-symbolic.svg',
+        'cc.arduino.arduinoide-symbolic.svg',
     ],
     'java-openjdk-symbolic.svg': [
         'applications-java-symbolic.svg',

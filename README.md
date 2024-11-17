@@ -31,6 +31,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/anydesk.svg "AnyDesk")
 ![icon](./scalable/apps/appflowy.svg "AppFlowy")
 ![icon](./scalable/apps/ardour.svg "Ardour")
+![icon](./scalable/apps/arduino.svg "Arduino")
 ![icon](./scalable/apps/atomix.svg "Atomix")
 ![icon](./scalable/apps/audacity.svg "Audacity")
 ![icon](./scalable/apps/betterbird.svg "Betterbird")
