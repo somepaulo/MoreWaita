@@ -134,6 +134,7 @@ regular_files = [
     'mediainfo-symbolic.svg',
     'mega-symbolic.svg',
     'menulibre-symbolic.svg',
+    'mercury-symbolic.svg',
     'micro-symbolic.svg',
     'microsoft-edge-symbolic.svg',
     'minecraft-symbolic.svg',
@@ -1317,6 +1318,9 @@ link_files = {
         'Nextcloud-symbolic.svg',
         'com.nextcloud.desktopclient.nextcloud-symbolic.svg',
         'org.nextcloud.Nextcloud-symbolic.svg',
+    ],
+    'mercury-symbolic.svg': [
+        'Mercury-symbolic.svg',
     ],
     'gitkraken-symbolic.svg': [
         'GitKraken-symbolic.svg',

@@ -150,6 +150,7 @@ regular_files = [
     'mediainfo.svg',
     'mega.svg',
     'menulibre.svg',
+    'mercury.svg',
     'micro.svg',
     'microsoft-edge.svg',
     'minecraft.svg',
@@ -1377,6 +1378,9 @@ link_files = {
         'Nextcloud.svg',
         'com.nextcloud.desktopclient.nextcloud.svg',
         'org.nextcloud.Nextcloud.svg',
+    ],
+    'mercury.svg': [
+        'Mercury.svg',
     ],
     'gitkraken.svg': [
         'GitKraken.svg',

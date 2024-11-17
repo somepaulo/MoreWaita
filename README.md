@@ -172,6 +172,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/com.tonikelope.MegaBasterd.svg "MegaBasterd")
 ![icon](./scalable/apps/net.kuribo64.melonDS.svg "melonDS")
 ![icon](./scalable/apps/menulibre.svg "Menulibre")
+![icon](./scalable/apps/mercury.svg "Mercury")
 ![icon](./scalable/apps/micro.svg "Micro")
 ![icon](./scalable/apps/microsoft-edge.svg "Microsoft Edge")
 ![icon](./scalable/apps/minecraft.svg "Minecraft")
