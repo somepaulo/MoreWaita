@@ -233,6 +233,7 @@ regular_files = [
     'tor-browser-symbolic.svg',
     'ungoogled-chromium-symbolic.svg',
     'unityhub-symbolic.svg',
+    'via-nativia-symbolic.svg',
     'viber-symbolic.svg',
     'vim-symbolic.svg',
     'virt-manager-symbolic.svg',

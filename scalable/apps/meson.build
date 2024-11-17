@@ -258,6 +258,7 @@ regular_files = [
     'ungoogled-chromium.svg',
     'unity-editor-icon.svg',
     'unityhub.svg',
+    'via-nativia.svg',
     'viber.svg',
     'vim.svg',
     'virt-manager.svg',
