@@ -16,6 +16,7 @@ regular_files = [
     'assistant-symbolic.svg',
     'atomix-symbolic.svg',
     'audacity-symbolic.svg',
+    'betterbird-symbolic.svg',
     'bitwarden-symbolic.svg',
     'bitwig-studio-symbolic.svg',
     'bleachbit-symbolic.svg',
@@ -876,6 +877,9 @@ link_files = {
     'figma-symbolic.svg': [
         'figma-linux-symbolic.svg',
         'io.github.Figma_Linux.figma_linux-symbolic.svg',
+    ],
+    'betterbird-symbolic.svg': [
+        'eu.betterbird.Betterbird-symbolic.svg',
     ],
     'electron-symbolic.svg': [
         'electron12-symbolic.svg',

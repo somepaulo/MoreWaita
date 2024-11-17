@@ -18,6 +18,7 @@ regular_files = [
     'assistant.svg',
     'atomix.svg',
     'audacity.svg',
+    'betterbird.svg',
     'bitwarden.svg',
     'bitwig-studio.svg',
     'bleachbit.svg',
@@ -921,6 +922,9 @@ link_files = {
     'figma.svg': [
         'figma-linux.svg',
         'io.github.Figma_Linux.figma_linux.svg',
+    ],
+    'betterbird.svg': [
+        'eu.betterbird.Betterbird.svg',
     ],
     'electron.svg': [
         'electron12.svg',
