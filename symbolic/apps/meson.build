@@ -10,6 +10,7 @@ regular_files = [
     'abiword-symbolic.svg',
     'alacritty-symbolic.svg',
     'androidstudio-symbolic.svg',
+    'anki-symbolic.svg',
     'anydesk-symbolic.svg',
     'appflowy-symbolic.svg',
     'ardour-symbolic.svg',
@@ -582,6 +583,9 @@ link_files = {
     ],
     'blockbench-symbolic.svg': [
         'net.blockbench.Blockbench-symbolic.svg',
+    ],
+    'anki-symbolic.svg': [
+        'net.ankiweb.Anki-symbolic.svg',
     ],
     'monero-symbolic.svg': [
         'monero-gui-symbolic.svg',

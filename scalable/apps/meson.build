@@ -12,6 +12,7 @@ regular_files = [
     'alacritty.svg',
     'android-studio-canary.svg',
     'androidstudio.svg',
+    'anki.svg',
     'anydesk.svg',
     'appflowy.svg',
     'ardour.svg',
@@ -612,6 +613,9 @@ link_files = {
     ],
     'blockbench.svg': [
         'net.blockbench.Blockbench.svg',
+    ],
+    'anki.svg': [
+        'net.ankiweb.Anki.svg',
     ],
     'pavucontrol.svg': [
         'multimedia-volume-control.svg',
