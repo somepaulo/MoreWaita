@@ -11,6 +11,7 @@ regular_files = [
     'alacritty-symbolic.svg',
     'androidstudio-symbolic.svg',
     'anydesk-symbolic.svg',
+    'appflowy-symbolic.svg',
     'ardour-symbolic.svg',
     'assistant-symbolic.svg',
     'atomix-symbolic.svg',
@@ -771,6 +772,9 @@ link_files = {
     ],
     'opentoonz-symbolic.svg': [
         'io.github.OpenToonz-symbolic.svg',
+    ],
+    'appflowy-symbolic.svg': [
+        'io.appflowy.AppFlowy-symbolic.svg',
     ],
     'org.inkscape.Inkscape-symbolic.svg': [
         'inkscape-logo-symbolic.svg',

@@ -13,6 +13,7 @@ regular_files = [
     'android-studio-canary.svg',
     'androidstudio.svg',
     'anydesk.svg',
+    'appflowy.svg',
     'ardour.svg',
     'assistant.svg',
     'atomix.svg',
@@ -810,6 +811,9 @@ link_files = {
     ],
     'opentoonz.svg': [
         'io.github.OpenToonz.svg',
+    ],
+    'appflowy.svg': [
+        'io.appflowy.AppFlowy.svg',
     ],
     'org.inkscape.Inkscape.svg': [
         'inkscape-logo.svg',
