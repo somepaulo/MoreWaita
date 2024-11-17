@@ -119,6 +119,7 @@ regular_files = [
     'krita-symbolic.svg',
     'kruler-symbolic.svg',
     'kvantum-symbolic.svg',
+    'lazarus-symbolic.svg',
     'libreoffice-base-symbolic.svg',
     'libreoffice-basic-symbolic.svg',
     'libreoffice-calc-symbolic.svg',

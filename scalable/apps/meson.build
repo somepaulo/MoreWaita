@@ -135,6 +135,7 @@ regular_files = [
     'krita.svg',
     'kruler.svg',
     'kvantum.svg',
+    'lazarus.svg',
     'libreoffice-base.svg',
     'libreoffice-basic.svg',
     'libreoffice-calc.svg',
