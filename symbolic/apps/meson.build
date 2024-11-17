@@ -20,6 +20,7 @@ regular_files = [
     'bitwig-studio-symbolic.svg',
     'bleachbit-symbolic.svg',
     'blender-symbolic.svg',
+    'blockbench-symbolic.svg',
     'brave-desktop-symbolic.svg',
     'btop-symbolic.svg',
     'calibre-symbolic.svg',
@@ -577,6 +578,9 @@ link_files = {
     ],
     'grapejuice-symbolic.svg': [
         'net.brinkervii.grapejuice-symbolic.svg',
+    ],
+    'blockbench-symbolic.svg': [
+        'net.blockbench.Blockbench-symbolic.svg',
     ],
     'monero-symbolic.svg': [
         'monero-gui-symbolic.svg',

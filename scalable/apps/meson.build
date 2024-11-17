@@ -22,6 +22,7 @@ regular_files = [
     'bitwig-studio.svg',
     'bleachbit.svg',
     'blender.svg',
+    'blockbench.svg',
     'brave-desktop.svg',
     'btop.svg',
     'calibre-ebook-edit.svg',
@@ -607,6 +608,9 @@ link_files = {
     ],
     'grapejuice-roblox-player.svg': [
         'net.brinkervii.grapejuice.robloxplayer.svg',
+    ],
+    'blockbench.svg': [
+        'net.blockbench.Blockbench.svg',
     ],
     'pavucontrol.svg': [
         'multimedia-volume-control.svg',

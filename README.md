@@ -36,6 +36,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/bitwig-studio.svg "Bitwig Studio")
 ![icon](./scalable/apps/bleachbit.svg "Bleachbit")
 ![icon](./scalable/apps/blender.svg "Blender")
+![icon](./scalable/apps/blockbench.svg "Blockbench")
 ![icon](./scalable/apps/brave-desktop.svg "Brave")
 ![icon](./scalable/apps/dev.bsnes.bsnes.svg "BSNES")
 ![icon](./scalable/apps/btop.svg "Btop")
