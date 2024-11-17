@@ -163,6 +163,7 @@ regular_files = [
     'mumble.svg',
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',
+    'netbeans.svg',
     'network-wired.svg',
     'nextcloud.svg',
     'nheko.svg',
@@ -563,6 +564,10 @@ link_files = {
         'nvidia-drivers-settings.svg',
         'nvidia-settings.svg',
         'nvidia-x-server-settings.svg',
+    ],
+    'netbeans.svg': [
+        'netbeans-beta.svg',
+        'org.apache.netbeans.svg',
     ],
     'texmaker.svg': [
         'net.xm1math.Texmaker.svg',

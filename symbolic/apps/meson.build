@@ -146,6 +146,7 @@ regular_files = [
     'mumble-symbolic.svg',
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
+    'netbeans-symbolic.svg',
     'nextcloud-symbolic.svg',
     'nheko-symbolic.svg',
     'nufraw-symbolic.svg',
@@ -531,6 +532,10 @@ link_files = {
         'nvidia-drivers-settings-symbolic.svg',
         'nvidia-settings-symbolic.svg',
         'nvidia-x-server-settings-symbolic.svg',
+    ],
+    'netbeans-symbolic.svg': [
+        'netbeans-beta-symbolic.svg',
+        'org.apache.netbeans-symbolic.svg',
     ],
     'texstudio-symbolic.svg': [
         'net.xm1math.Texmaker-symbolic.svg',

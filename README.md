@@ -1,8 +1,6 @@
-# MoreWaita
-
 ![showcase](https://repository-images.githubusercontent.com/543632052/128bfc42-325e-45be-b13f-d94529db059d)
 
-## Introduction
+# MoreWaita
 
 An expanded Adwaita-styled companion icon theme, built largely upon the work of GNOME's Adwaita designers and GNOME Circle apps' developers, as well as inspiration from the Papirus icon theme designers, and a touch of tinkering from myself, [@dusansimic](https://github.com/dusansimic), [@julianfairfax](https://github.com/julianfairfax) and [a few others](https://github.com/somepaulo/MoreWaita/graphs/contributors).
 
@@ -184,6 +182,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/mpv.svg "mpv")
 ![icon](./scalable/apps/mumble.svg "Mumble")
 ![icon](./scalable/apps/nvim.svg "Neovim")
+![icon](./scalable/apps/netbeans.svg "NetBeans")
 ![icon](./scalable/apps/gnome-nettool.svg "Network Tools")
 ![icon](./scalable/apps/preferences-system-network.svg "Network Preferences")
 ![icon](./scalable/apps/network-wired.svg "Network Wired")
