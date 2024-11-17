@@ -1,9 +1,6 @@
-> [!NOTE]
-> In v47 the folder structure has changed. If you've set custom folder icons, upgrading from a previous version of MoreWaita will break those. You'll need to reassign folder icons after upgrading.
-
 # MoreWaita
 
-![showcase](https://repository-images.githubusercontent.com/543632052/3eca878b-6b04-49d9-a5f6-c369569fa610)
+![showcase](https://repository-images.githubusercontent.com/543632052/128bfc42-325e-45be-b13f-d94529db059d)
 
 ## Introduction
 
