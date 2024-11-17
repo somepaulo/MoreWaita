@@ -32,6 +32,7 @@ regular_files = [
     'chromium-browser.svg',
     'cider.svg',
     'clamtk.svg',
+    'classicube.svg',
     'clion.svg',
     'code-oss.svg',
     'codeblocks.svg',
@@ -588,6 +589,9 @@ link_files = {
     ],
     'mediainfo.svg': [
         'net.mediaarea.MediaInfo.svg',
+    ],
+    'classicube.svg': [
+        'net.classicube.flatpak.client.svg',
     ],
     'grapejuice.svg': [
         'net.brinkervii.grapejuice.svg',

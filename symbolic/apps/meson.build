@@ -26,6 +26,7 @@ regular_files = [
     'cawbird-symbolic.svg',
     'cider-symbolic.svg',
     'clamtk-symbolic.svg',
+    'classicube-symbolic.svg',
     'clion-symbolic.svg',
     'code-oss-symbolic.svg',
     'codeblocks-symbolic.svg',
@@ -558,6 +559,9 @@ link_files = {
     ],
     'mediainfo-symbolic.svg': [
         'net.mediaarea.MediaInfo-symbolic.svg',
+    ],
+    'classicube-symbolic.svg': [
+        'net.classicube.flatpak.client-symbolic.svg',
     ],
     'grapejuice-roblox-studio-symbolic.svg': [
         'net.brinkervii.grapejuice.robloxstudio-symbolic.svg',
