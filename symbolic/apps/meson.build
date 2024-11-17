@@ -40,6 +40,7 @@ regular_files = [
     'com.obsproject.Studio-symbolic.svg',
     'com.tonikelope.MegaBasterd-symbolic.svg',
     'corectrl-symbolic.svg',
+    'cudatext-512-symbolic.svg',
     'cups-symbolic.svg',
     'darktable-symbolic.svg',
     'datagrip-symbolic.svg',
@@ -783,6 +784,10 @@ link_files = {
     ],
     'osmscout-server-symbolic.svg': [
         'io.github.rinigus.OSMScoutServer-symbolic.svg',
+    ],
+    'cudatext-512-symbolic.svg': [
+        'io.github.cudatext.CudaText-Qt-symbolic.svg',
+        'io.github.cudatext.CudaText-Qt5-symbolic.svg',
     ],
     'opentoonz-symbolic.svg': [
         'io.github.OpenToonz-symbolic.svg',

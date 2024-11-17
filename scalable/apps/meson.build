@@ -46,6 +46,7 @@ regular_files = [
     'com.obsproject.Studio.svg',
     'com.tonikelope.MegaBasterd.svg',
     'corectrl.svg',
+    'cudatext-512.svg',
     'cups.svg',
     'darktable.svg',
     'datagrip.svg',
@@ -822,6 +823,10 @@ link_files = {
     ],
     'osmscout-server.svg': [
         'io.github.rinigus.OSMScoutServer.svg',
+    ],
+    'cudatext-512.svg': [
+        'io.github.cudatext.CudaText-Qt.svg',
+        'io.github.cudatext.CudaText-Qt5.svg',
     ],
     'opentoonz.svg': [
         'io.github.OpenToonz.svg',
