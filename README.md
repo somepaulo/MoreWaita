@@ -286,6 +286,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/telegram.svg "Telegram")
 ![icon](./scalable/apps/texmaker.svg "Texmaker")
 ![icon](./scalable/apps/texstudio.svg "Texstudio")
+![icon](./scalable/apps/texts.svg "Texts")
 ![icon](./scalable/apps/thunderbird.svg "Thunderbird")
 ![icon](./scalable/apps/todoist.svg "Todoist")
 ![icon](./scalable/apps/tor-browser.svg "TOR Browser")

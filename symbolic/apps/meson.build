@@ -244,6 +244,7 @@ regular_files = [
     'teams-symbolic.svg',
     'telegram-symbolic.svg',
     'texstudio-symbolic.svg',
+    'texts-symbolic.svg',
     'thunderbird-symbolic.svg',
     'todoist-symbolic.svg',
     'tor-browser-symbolic.svg',
@@ -1227,6 +1228,9 @@ link_files = {
         'com.unityhub.UnityHub-symbolic.svg',
         'unity-editor-icon-symbolic.svg',
         'unityeditor-symbolic.svg',
+    ],
+    'texts-symbolic.svg': [
+        'appimagekit-texts-symbolic.svg',
     ],
     'teams-symbolic.svg': [
         'appimagekit-teams-for-linux-symbolic.svg',

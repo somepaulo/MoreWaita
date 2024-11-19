@@ -268,6 +268,7 @@ regular_files = [
     'telegram.svg',
     'texmaker.svg',
     'texstudio.svg',
+    'texts.svg',
     'thunderbird.svg',
     'todoist.svg',
     'tor-browser.svg',
@@ -1288,6 +1289,9 @@ link_files = {
         'appimagekit-unityeditor.svg',
         'com.unityhub.UnityEditor.svg',
         'unityeditor.svg',
+    ],
+    'texts.svg': [
+        'appimagekit-texts.svg',
     ],
     'teams.svg': [
         'appimagekit-teams-for-linux.svg',
