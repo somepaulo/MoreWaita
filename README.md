@@ -489,6 +489,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-shell.svg "Shell")
 ![icon](./scalable/places/folder-syncthing.svg "Syncthing")
 ![icon](./scalable/places/folder-temp.svg "Temp")
+![icon](./scalable/places/folder-translation.svg "Translation")
 ![icon](./scalable/places/folder-ubuntu.svg "Ubuntu")
 ![icon](./scalable/places/folder-user.svg "User")
 ![icon](./scalable/places/folder-vala.svg "Vala")
@@ -556,6 +557,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-shell-legacy.svg "Shell")
 ![icon](./scalable/places/folder-syncthing-legacy.svg "Syncthing")
 ![icon](./scalable/places/folder-temp-legacy.svg "Temp")
+![icon](./scalable/places/folder-translation-legacy.svg "Translation")
 ![icon](./scalable/places/folder-ubuntu-legacy.svg "Ubuntu")
 ![icon](./scalable/places/folder-user-legacy.svg "User")
 ![icon](./scalable/places/folder-vala-legacy.svg "Vala")
@@ -593,6 +595,7 @@ Simply chose another theme and then delete the entire `MoreWaita` folder from ei
 ```sh
 paru morewaita-icon-theme
 ```
+
 <sup>_*Replace `paru` with `yay -S` or your other favourite AUR helper install command._</sup>
 
 [AUR package (git)](https://aur.archlinux.org/packages/morewaita-icon-theme-git)
@@ -600,6 +603,7 @@ paru morewaita-icon-theme
 ```sh
 paru morewaita-icon-theme-git
 ```
+
 <sup>_*Replace `paru` with `yay -S` or your other favourite AUR helper install command._</sup>
 
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-arch-based-linux-distributions)
@@ -638,7 +642,7 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 
 1. Open Files (Nautilus).
 2. Find the folder you wish to change the icon for.
-3. Right click on the folder and click on `Properties` __or__ press `Alt+Enter`. 
+3. Right click on the folder and click on `Properties` **or** press `Alt+Enter`.
 4. Click on the _Set Custom Icon_ badge on the folder image.
 5. Navigate to the MoreWaita installation folder and into the `places` subfolder (typically `/usr/share/icons/MoreWaita/scalable/places/`).
 6. Select the icon you wish to use.
@@ -649,7 +653,6 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 ### CLI method
 
 If you need to assign the icons using the CLI you have to use the GIO command-line tool.
-
 
 - Set a custom (C programming language) icon on a folder:
 

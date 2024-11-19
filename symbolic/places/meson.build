@@ -69,6 +69,7 @@ regular_files = [
     'folder-syncthing-legacy-symbolic.svg',
     'folder-syncthing-symbolic.svg',
     'folder-temp-symbolic.svg',
+    'folder-translation-symbolic.svg',
     'folder-ubuntu-symbolic.svg',
     'folder-user-symbolic.svg',
     'folder-vala-symbolic.svg',
@@ -238,6 +239,9 @@ link_files = {
     ],
     'folder-3dbenchy-symbolic.svg': [
         'folder-3dbenchy-legacy-symbolic.svg',
+    ],
+    'folder-translation-symbolic.svg': [
+        'folder-translation-legacy-symbolic.svg',
     ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
