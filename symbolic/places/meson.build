@@ -93,6 +93,9 @@ link_files = {
     'folder-ubuntu-symbolic.svg': [
         'folder-ubuntu-legacy-symbolic.svg',
     ],
+    'folder-translation-symbolic.svg': [
+        'folder-translation-legacy-symbolic.svg',
+    ],
     'folder-temp-symbolic.svg': [
         'folder-temp-legacy-symbolic.svg',
     ],
@@ -239,9 +242,6 @@ link_files = {
     ],
     'folder-3dbenchy-symbolic.svg': [
         'folder-3dbenchy-legacy-symbolic.svg',
-    ],
-    'folder-translation-symbolic.svg': [
-        'folder-translation-legacy-symbolic.svg',
     ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
