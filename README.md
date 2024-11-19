@@ -1,4 +1,4 @@
-![showcase](https://repository-images.githubusercontent.com/543632052/128bfc42-325e-45be-b13f-d94529db059d)
+![showcase](https://repository-images.githubusercontent.com/543632052/45ef16b6-daca-4d88-91f5-47d5b657904c)
 
 # MoreWaita
 
@@ -249,6 +249,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/qutebrowser.svg "Qute Browser")
 ![icon](./scalable/apps/rawtherapee.svg "RawTherapee")
 ![icon](./scalable/apps/retroarch.svg "Retro Arch")
+![icon](./scalable/apps/rocketchat.svg "Rocket.Chat")
 ![icon](./scalable/apps/rstudio.svg "RStudio")
 ![icon](./scalable/apps/rustdesk.svg "RustDesk")
 ![icon](./scalable/apps/ryujinx.svg "Ryujinx")

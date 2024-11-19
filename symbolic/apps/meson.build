@@ -211,6 +211,7 @@ regular_files = [
     'resolve-symbolic.svg',
     'retroarch-symbolic.svg',
     'rider-symbolic.svg',
+    'rocketchat-symbolic.svg',
     'rstudio-symbolic.svg',
     'rubymine-symbolic.svg',
     'rustdesk-symbolic.svg',
@@ -1102,6 +1103,10 @@ link_files = {
         'google-chrome2-symbolic.svg',
         'googlechrome-symbolic.svg',
         'org.chromium.Chromium-symbolic.svg',
+    ],
+    'rocketchat-symbolic.svg': [
+        'chat.rocket.RocketChat-symbolic.svg',
+        'rocketchat-desktop-symbolic.svg',
     ],
     'protonmail-ie-symbolic.svg': [
         'ch.protonmail.protonmail-import-export-app-symbolic.svg',

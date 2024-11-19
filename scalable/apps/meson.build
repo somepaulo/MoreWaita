@@ -233,6 +233,7 @@ regular_files = [
     'resolve.svg',
     'retroarch.svg',
     'rider.svg',
+    'rocketchat.svg',
     'rstudio.svg',
     'rubymine.svg',
     'rustdesk.svg',
@@ -1168,6 +1169,10 @@ link_files = {
         'com.google.Chrome.svg',
         'google-chrome2.svg',
         'googlechrome.svg',
+    ],
+    'rocketchat.svg': [
+        'chat.rocket.RocketChat.svg',
+        'rocketchat-desktop.svg',
     ],
     'protonmail-ie.svg': [
         'ch.protonmail.protonmail-import-export-app.svg',
