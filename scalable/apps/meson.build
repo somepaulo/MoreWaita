@@ -877,12 +877,6 @@ link_files = {
         'lutris_godot-engine.svg',
         'org.godotengine.Godot.svg',
     ],
-    'kruler.svg': [
-        'gnome-screenruler.svg',
-        'org.kde.kruler.svg',
-        'screenruler-icon.svg',
-        'screenruler.svg',
-    ],
     'org.gnome.PowerStats.svg': [
         'gnome-power-statistics.svg',
         'org.gnome.powerstats.svg',
@@ -1095,6 +1089,13 @@ link_files = {
     'org.parlatype.Parlatype.svg': [
         'com.github.gkarsay.parlatype.svg',
         'parlatype.svg',
+    ],
+    'kruler.svg': [
+        'com.github.epilys.rlr.svg',
+        'gnome-screenruler.svg',
+        'org.kde.kruler.svg',
+        'screenruler-icon.svg',
+        'screenruler.svg',
     ],
     'sioyek.svg': [
         'com.github.ahrm.sioyek.svg',
