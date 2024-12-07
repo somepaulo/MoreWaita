@@ -74,6 +74,8 @@ regular_files = [
     'folder-kde.svg',
     'folder-kicad-legacy.svg',
     'folder-kicad.svg',
+    'folder-local-legacy.svg',
+    'folder-local.svg',
     'folder-lua-legacy.svg',
     'folder-lua.svg',
     'folder-mega-legacy.svg',

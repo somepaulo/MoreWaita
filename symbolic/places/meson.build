@@ -42,6 +42,7 @@ regular_files = [
     'folder-java-symbolic.svg',
     'folder-kde-symbolic.svg',
     'folder-kicad-symbolic.svg',
+    'folder-local-symbolic.svg',
     'folder-lua-symbolic.svg',
     'folder-mega-symbolic.svg',
     'folder-money-symbolic.svg',
@@ -152,6 +153,9 @@ link_files = {
     ],
     'folder-lua-symbolic.svg': [
         'folder-lua-legacy-symbolic.svg',
+    ],
+    'folder-local-symbolic.svg': [
+        'folder-local-legacy-symbolic.svg',
     ],
     'folder-kicad-symbolic.svg': [
         'folder-kicad-legacy-symbolic.svg',
