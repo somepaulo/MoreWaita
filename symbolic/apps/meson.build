@@ -235,6 +235,7 @@ regular_files = [
     'stellarium-symbolic.svg',
     'stoken-gui-symbolic.svg',
     'strawberry-symbolic.svg',
+    'studioone7-symbolic.svg',
     'sublime-merge-symbolic.svg',
     'sublime-text-symbolic.svg',
     'surfshark-symbolic.svg',
