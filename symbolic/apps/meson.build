@@ -839,6 +839,12 @@ link_files = {
         'lutris_godot-engine-symbolic.svg',
         'org.godotengine.Godot-symbolic.svg',
     ],
+    'kruler-symbolic.svg': [
+        'gnome-screenruler-symbolic.svg',
+        'org.kde.kruler-symbolic.svg',
+        'screenruler-icon-symbolic.svg',
+        'screenruler-symbolic.svg',
+    ],
     'genymotion-symbolic.svg': [
         'genymotion-bin-symbolic.svg',
         'genymotion-player-symbolic.svg',
@@ -1040,13 +1046,6 @@ link_files = {
         'tor-browser-ru-symbolic.svg',
         'tor-symbolic.svg',
         'torbrowser-symbolic.svg',
-    ],
-    'kruler-symbolic.svg': [
-        'com.github.epilys.rlr-symbolic.svg',
-        'gnome-screenruler-symbolic.svg',
-        'org.kde.kruler-symbolic.svg',
-        'screenruler-icon-symbolic.svg',
-        'screenruler-symbolic.svg',
     ],
     'sioyek-symbolic.svg': [
         'com.github.ahrm.sioyek-symbolic.svg',
