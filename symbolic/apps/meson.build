@@ -24,6 +24,7 @@ regular_files = [
     'bleachbit-symbolic.svg',
     'blender-symbolic.svg',
     'blockbench-symbolic.svg',
+    'boxbuddyrs-symbolic.svg',
     'brave-desktop-symbolic.svg',
     'btop-symbolic.svg',
     'calibre-symbolic.svg',
@@ -786,6 +787,9 @@ link_files = {
     ],
     'osmscout-server-symbolic.svg': [
         'io.github.rinigus.OSMScoutServer-symbolic.svg',
+    ],
+    'boxbuddyrs-symbolic.svg': [
+        'io.github.dvlv.boxbuddyrs-symbolic.svg',
     ],
     'cudatext-512-symbolic.svg': [
         'io.github.cudatext.CudaText-Qt-symbolic.svg',

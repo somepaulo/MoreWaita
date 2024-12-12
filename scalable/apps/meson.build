@@ -26,6 +26,7 @@ regular_files = [
     'bleachbit.svg',
     'blender.svg',
     'blockbench.svg',
+    'boxbuddyrs.svg',
     'brave-desktop.svg',
     'btop.svg',
     'calibre-ebook-edit.svg',
@@ -825,6 +826,9 @@ link_files = {
     ],
     'osmscout-server.svg': [
         'io.github.rinigus.OSMScoutServer.svg',
+    ],
+    'boxbuddyrs.svg': [
+        'io.github.dvlv.boxbuddyrs.svg',
     ],
     'cudatext-512.svg': [
         'io.github.cudatext.CudaText-Qt.svg',
