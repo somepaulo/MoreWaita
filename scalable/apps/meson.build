@@ -29,6 +29,7 @@ regular_files = [
     'blender.svg',
     'blockbench.svg',
     'boxbuddyrs.svg',
+    'boxy-svg.svg',
     'brave-desktop.svg',
     'btop.svg',
     'calibre-ebook-edit.svg',
@@ -1159,6 +1160,9 @@ link_files = {
     'calibre-ebook-edit.svg': [
         'com.calibre_ebook.calibre.ebook-edit.svg',
         'com.calibre_ebook.calibre.ebook_edit.svg',
+    ],
+    'boxy-svg.svg': [
+        'com.boxy_svg.BoxySVG.svg',
     ],
     'bitwig-studio.svg': [
         'com.bitwig.BitwigStudio.svg',

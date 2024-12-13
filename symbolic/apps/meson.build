@@ -27,6 +27,7 @@ regular_files = [
     'blender-symbolic.svg',
     'blockbench-symbolic.svg',
     'boxbuddyrs-symbolic.svg',
+    'boxy-svg-symbolic.svg',
     'brave-desktop-symbolic.svg',
     'btop-symbolic.svg',
     'calibre-symbolic.svg',
@@ -1095,6 +1096,9 @@ link_files = {
     ],
     'discord-canary-symbolic.svg': [
         'com.discordapp.DiscordCanary-symbolic.svg',
+    ],
+    'boxy-svg-symbolic.svg': [
+        'com.boxy_svg.BoxySVG-symbolic.svg',
     ],
     'bitwig-studio-symbolic.svg': [
         'com.bitwig.BitwigStudio-symbolic.svg',
