@@ -235,6 +235,7 @@ regular_files = [
     'retroarch.svg',
     'rider.svg',
     'rocketchat.svg',
+    'rpi-imager.svg',
     'rstudio.svg',
     'rubymine.svg',
     'rustdesk.svg',
@@ -457,6 +458,10 @@ link_files = {
     ],
     'ryujinx.svg': [
         'org.ryujinx.Ryujinx.svg',
+    ],
+    'rpi-imager.svg': [
+        'org.raspberrypi.rpi-imager.svg',
+        'rpi.svg',
     ],
     'qutebrowser.svg': [
         'org.qutebrowser.qutebrowser.svg',

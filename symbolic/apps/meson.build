@@ -213,6 +213,7 @@ regular_files = [
     'retroarch-symbolic.svg',
     'rider-symbolic.svg',
     'rocketchat-symbolic.svg',
+    'rpi-imager-symbolic.svg',
     'rstudio-symbolic.svg',
     'rubymine-symbolic.svg',
     'rustdesk-symbolic.svg',
@@ -422,6 +423,10 @@ link_files = {
     ],
     'ryujinx-symbolic.svg': [
         'org.ryujinx.Ryujinx-symbolic.svg',
+    ],
+    'rpi-imager-symbolic.svg': [
+        'org.raspberrypi.rpi-imager-symbolic.svg',
+        'rpi-symbolic.svg',
     ],
     'qutebrowser-symbolic.svg': [
         'org.qutebrowser.qutebrowser-symbolic.svg',

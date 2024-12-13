@@ -250,6 +250,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/io.github.quodlibet.QuodLibet.svg "QuodLibet")
 ![icon](./scalable/apps/io.github.quodlibet.ExFalso.svg "ExFalso")
 ![icon](./scalable/apps/qutebrowser.svg "Qute Browser")
+![icon](./scalable/apps/rpi-imager.svg "Raspberry Pi Imager")
 ![icon](./scalable/apps/rawtherapee.svg "RawTherapee")
 ![icon](./scalable/apps/retroarch.svg "Retro Arch")
 ![icon](./scalable/apps/rocketchat.svg "Rocket.Chat")
