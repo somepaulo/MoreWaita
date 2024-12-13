@@ -70,6 +70,7 @@ regular_files = [
     'text-css.svg',
     'text-rust.svg',
     'text-x-arduino.svg',
+    'text-x-bibtex.svg',
     'text-x-c.svg',
     'text-x-chdr.svg',
     'text-x-clojure.svg',
@@ -294,6 +295,9 @@ link_files = {
         'model-x-stl-binary.svg',
         'model-x.stl-ascii.svg',
         'model-x.stl-binary.svg',
+    ],
+    'text-x-bibtex.svg': [
+        'application-x-bibtex-text-file.svg',
     ],
     'application-x-audacity-project.svg': [
         'application-x-audacity-project+sqlite3.svg',

@@ -346,6 +346,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/application-x-iso9600-appimage.svg "AppImage")
 ![icon](./scalable/mimetypes/text-x-arduino.svg "Arduino")
 ![icon](./scalable/mimetypes/application-x-audacity-project.svg "Audacity Project")
+![icon](./scalable/mimetypes/text-x-bibtex.svg "BibTeX")
 ![icon](./scalable/mimetypes/application-octet-stream.svg "Binary")
 ![icon](./scalable/mimetypes/application-x-bitwig-studio.svg "Bitwig Studio")
 ![icon](./scalable/mimetypes/com.bitwig.BitwigStudio.audio-x.dawproject.svg "Bitwig Studio Project")
