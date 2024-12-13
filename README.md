@@ -95,6 +95,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/fish.svg "Fish Shell")
 ![icon](./scalable/apps/flightgear.svg "FlightGear")
 ![icon](./scalable/apps/fgcom.svg "FlightGear FGCom")
+![icon](./scalable/apps/floorp.svg "Floorp")
 ![icon](./scalable/apps/foobar2000.svg "Foobar 2000")
 ![icon](./scalable/apps/foot.svg "Foot")
 ![icon](./scalable/apps/freac.svg "Fre:ac")

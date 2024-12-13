@@ -70,6 +70,7 @@ regular_files = [
     'fish-symbolic.svg',
     'fleet-symbolic.svg',
     'flightgear-symbolic.svg',
+    'floorp-symbolic.svg',
     'foobar2000-symbolic.svg',
     'foot-symbolic.svg',
     'fr.handbrake.ghb-symbolic.svg',
@@ -537,6 +538,9 @@ link_files = {
     ],
     'org.onlyoffice.desktopeditors-symbolic.svg': [
         'onlyoffice-desktopeditors-symbolic.svg',
+    ],
+    'floorp-symbolic.svg': [
+        'one.ablaze.floorp-symbolic.svg',
     ],
     'postman-symbolic.svg': [
         'om.getpostman.Postman-symbolic.svg',

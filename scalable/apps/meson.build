@@ -79,6 +79,7 @@ regular_files = [
     'fish.svg',
     'fleet.svg',
     'flightgear.svg',
+    'floorp.svg',
     'foobar2000.svg',
     'foot.svg',
     'fr.handbrake.ghb.svg',
@@ -572,6 +573,9 @@ link_files = {
     ],
     'org.onlyoffice.desktopeditors.svg': [
         'onlyoffice-desktopeditors.svg',
+    ],
+    'floorp.svg': [
+        'one.ablaze.floorp.svg',
     ],
     'com.obsproject.Studio.svg': [
         'obs.svg',
