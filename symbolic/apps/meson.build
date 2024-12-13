@@ -4,6 +4,7 @@ regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'CMakeSetup-symbolic.svg',
     'MediathekView-symbolic.svg',
+    'Notesnook-symbolic.svg',
     'QtProject-designer-symbolic.svg',
     'TeamViewer-symbolic.svg',
     'Zoom-symbolic.svg',
@@ -990,6 +991,9 @@ link_files = {
     ],
     'qq-symbolic.svg': [
         'com.qq.QQ-symbolic.svg',
+    ],
+    'Notesnook-symbolic.svg': [
+        'com.notesnook.Notesnook-symbolic.svg',
     ],
     'minecraft-symbolic.svg': [
         'com.mojang.Minecraft-symbolic.svg',
