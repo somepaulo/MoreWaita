@@ -5,6 +5,7 @@ regular_files = [
     'CMakeSetup.svg',
     'MediathekView.svg',
     'Notesnook.svg',
+    'Notesnook.svg.2024_12_13_23_28_04.0.svg',
     'QtProject-designer.svg',
     'TeamViewer.svg',
     'Zoom.svg',
