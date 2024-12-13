@@ -108,6 +108,7 @@ regular_files = [
     'io.element.Element-symbolic.svg',
     'java-openjdk-symbolic.svg',
     'jdownloader-symbolic.svg',
+    'jellyfin-symbolic.svg',
     'jetbrains-toolbox-symbolic.svg',
     'joplin-symbolic.svg',
     'josm-symbolic.svg',
@@ -1056,6 +1057,12 @@ link_files = {
         'tor-browser-ru-symbolic.svg',
         'tor-symbolic.svg',
         'torbrowser-symbolic.svg',
+    ],
+    'jellyfin-symbolic.svg': [
+        'com.github.iwalton3.jellyfin-media-player-symbolic.svg',
+        'com.github.iwalton3.jellyfin-mpv-shim-symbolic.svg',
+        'jellyfin-desktop-symbolic.svg',
+        'org.jellyfin.JellyfinServer-symbolic.svg',
     ],
     'sioyek-symbolic.svg': [
         'com.github.ahrm.sioyek-symbolic.svg',

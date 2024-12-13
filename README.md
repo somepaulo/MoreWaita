@@ -133,6 +133,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/insomnia.svg "Insomnia")
 ![icon](./scalable/apps/java-openjdk.svg "Java")
 ![icon](./scalable/apps/jdownloader.svg "JDownloader")
+![icon](./scalable/apps/jellyfin.svg "Jellyfin Media Player")
 ![icon](./scalable/apps/fleet.svg "JetBrains Fleet")
 ![icon](./scalable/apps/intellij.svg "JetBrains IntelliJ IDEA")
 ![icon](./scalable/apps/clion.svg "JetBrains CLion")

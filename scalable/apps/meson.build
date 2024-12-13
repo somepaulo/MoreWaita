@@ -124,6 +124,7 @@ regular_files = [
     'io.github.quodlibet.QuodLibet.svg',
     'java-openjdk.svg',
     'jdownloader.svg',
+    'jellyfin.svg',
     'jetbrains-toolbox.svg',
     'joplin.svg',
     'josm.svg',
@@ -1101,6 +1102,12 @@ link_files = {
         'tor-browser-ru.svg',
         'tor.svg',
         'torbrowser.svg',
+    ],
+    'jellyfin.svg': [
+        'com.github.iwalton3.jellyfin-media-player.svg',
+        'com.github.iwalton3.jellyfin-mpv-shim.svg',
+        'jellyfin-desktop.svg',
+        'org.jellyfin.JellyfinServer.svg',
     ],
     'org.parlatype.Parlatype.svg': [
         'com.github.gkarsay.parlatype.svg',
