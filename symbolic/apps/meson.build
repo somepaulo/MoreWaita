@@ -12,6 +12,7 @@ regular_files = [
     'androidstudio-symbolic.svg',
     'anki-symbolic.svg',
     'anydesk-symbolic.svg',
+    'app.bluebubbles.BlueBubbles-symbolic.svg',
     'appflowy-symbolic.svg',
     'ardour-symbolic.svg',
     'arduino-symbolic.svg',

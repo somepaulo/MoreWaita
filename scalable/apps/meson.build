@@ -14,6 +14,7 @@ regular_files = [
     'androidstudio.svg',
     'anki.svg',
     'anydesk.svg',
+    'app.bluebubbles.BlueBubbles.svg',
     'appflowy.svg',
     'ardour.svg',
     'arduino.svg',
