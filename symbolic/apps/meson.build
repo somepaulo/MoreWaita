@@ -148,6 +148,7 @@ regular_files = [
     'maple-symbolic.svg',
     'mathematica-symbolic.svg',
     'mattermost-symbolic.svg',
+    'maxima-symbolic.svg',
     'mediainfo-symbolic.svg',
     'mega-symbolic.svg',
     'menulibre-symbolic.svg',
@@ -795,6 +796,13 @@ link_files = {
     ],
     'headlines-symbolic.svg': [
         'io.gitlab.caveman250.headlines-symbolic.svg',
+    ],
+    'maxima-symbolic.svg': [
+        'io.github.wxmaxima_developers.wxMaxima-symbolic.svg',
+        'maxima-icon-symbolic.svg',
+        'maxima-new-symbolic.svg',
+        'net.sourceforge.maxima-symbolic.svg',
+        'wxmaxima-symbolic.svg',
     ],
     'webcord-symbolic.svg': [
         'io.github.spacingbat3.webcord-symbolic.svg',

@@ -85,6 +85,8 @@ regular_files = [
     'text-x-lua.svg',
     'text-x-makefile.svg',
     'text-x-markdown.svg',
+    'text-x-maxima-out.svg',
+    'text-x-maximasession.svg',
     'text-x-meson.svg',
     'text-x-octave.svg',
     'text-x-patch.svg',

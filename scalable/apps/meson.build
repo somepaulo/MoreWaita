@@ -164,6 +164,7 @@ regular_files = [
     'maple.svg',
     'mathematica.svg',
     'mattermost.svg',
+    'maxima.svg',
     'mediainfo.svg',
     'mega.svg',
     'menulibre.svg',
@@ -834,6 +835,13 @@ link_files = {
     ],
     'headlines.svg': [
         'io.gitlab.caveman250.headlines.svg',
+    ],
+    'maxima.svg': [
+        'io.github.wxmaxima_developers.wxMaxima.svg',
+        'maxima-icon.svg',
+        'maxima-new.svg',
+        'net.sourceforge.maxima.svg',
+        'wxmaxima.svg',
     ],
     'webcord.svg': [
         'io.github.spacingbat3.webcord.svg',
