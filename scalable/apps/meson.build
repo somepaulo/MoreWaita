@@ -262,6 +262,7 @@ regular_files = [
     'stellarium.svg',
     'stoken-gui.svg',
     'strawberry.svg',
+    'studioone7.svg',
     'sublime-merge.svg',
     'sublime-text.svg',
     'surfshark.svg',

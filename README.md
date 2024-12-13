@@ -271,6 +271,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/sioyek.svg "Sioyek")
 ![icon](./scalable/apps/skypeforlinux.svg "Skype")
 ![icon](./scalable/apps/slack.svg "Slack")
+![icon](./scalable/apps/studioone7.svg "Studio One")
 ![icon](./scalable/apps/system-software-install.svg "Software")
 ![icon](./scalable/apps/soundconverter.svg "Sound Converter")
 ![icon](./scalable/apps/spek.svg "Spek")
