@@ -104,6 +104,8 @@ regular_files = [
     'folder-python.svg',
     'folder-r-legacy.svg',
     'folder-r.svg',
+    'folder-raspberry-pi-legacy.svg',
+    'folder-raspberry-pi.svg',
     'folder-redhat-legacy.svg',
     'folder-redhat.svg',
     'folder-ruby-legacy.svg',
