@@ -14,10 +14,11 @@ if is_user_root; then
 else
     THEMEDIR="${HOME}/.local/share/icons/MoreWaita/"
 fi
+SCRIPTDIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
-mkdir -p ${THEMEDIR}
+mkdir -p "${THEMEDIR}"
 shopt -s extglob
-cp -avu "$(pwd -P)"/!(*.build|*.sh|*.py|*.md|.git|.github|.gitignore|_dev) ${THEMEDIR}
+cp -avu "${SCRIPTDIR}"/!(*.build|*.sh|*.py|*.md|.git|.github|.gitignore|_dev) "${THEMEDIR}"
 shopt -u extglob
-find ${THEMEDIR} -name '*.build' -type f -delete
-gtk-update-icon-cache -f -t ${THEMEDIR} && xdg-desktop-menu forceupdate
+find "${THEMEDIR}" -name '*.build' -type f -delete
+gtk-update-icon-cache -f -t "${THEMEDIR}" && xdg-desktop-menu forceupdate
