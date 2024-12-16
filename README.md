@@ -677,6 +677,8 @@ If you need to assign the icons using the CLI you have to use the GIO command-li
     gio set $HOME/Coding/C metadata::custom-icon -d
     ```
 
+Alternatively, if you prefer to have script where you can set a list of folders take a look  at [the custom script](./custom_folder_icons.sh), you can change to your needs and add it to your dotfiles.
+
 ## Accent colours support
 
 To have folders and some Gnome apps support the accent colours introduced in Gnome 47, install `adwaita-colors-icon-theme` or `adwaita-colors-icon-theme-git` from the AUR or directly from the [theme's repo](https://github.com/dpejoh/Adwaita-colors).
