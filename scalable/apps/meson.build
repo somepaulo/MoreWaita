@@ -187,6 +187,7 @@ regular_files = [
     'nvidia.svg',
     'nvim.svg',
     'nvtop.svg',
+    'nz.mega.MEGAsync.svg',
     'obsidian.svg',
     'octave.svg',
     'okular.svg',
@@ -581,9 +582,6 @@ link_files = {
     ],
     'com.obsproject.Studio.svg': [
         'obs.svg',
-    ],
-    'mega.svg': [
-        'nz.mega.MEGAsync.svg',
     ],
     'nvidia.svg': [
         'nvidia-310-settings.svg',

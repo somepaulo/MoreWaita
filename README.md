@@ -187,6 +187,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/mediainfo.svg "Mediainfo")
 ![icon](./scalable/apps/mega.svg "Mega")
 ![icon](./scalable/apps/com.tonikelope.MegaBasterd.svg "MegaBasterd")
+![icon](./scalable/apps/nz.mega.MEGAsync.svg "Mega Sync")
 ![icon](./scalable/apps/net.kuribo64.melonDS.svg "melonDS")
 ![icon](./scalable/apps/menulibre.svg "Menulibre")
 ![icon](./scalable/apps/mercury.svg "Mercury")

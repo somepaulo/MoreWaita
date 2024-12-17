@@ -169,6 +169,7 @@ regular_files = [
     'nvidia-symbolic.svg',
     'nvim-symbolic.svg',
     'nvtop-symbolic.svg',
+    'nz.mega.MEGAsync-symbolic.svg',
     'obsidian-symbolic.svg',
     'octave-symbolic.svg',
     'okular-symbolic.svg',
@@ -549,9 +550,6 @@ link_files = {
     ],
     'com.obsproject.Studio-symbolic.svg': [
         'obs-symbolic.svg',
-    ],
-    'mega-symbolic.svg': [
-        'nz.mega.MEGAsync-symbolic.svg',
     ],
     'nvidia-symbolic.svg': [
         'nvidia-310-settings-symbolic.svg',
