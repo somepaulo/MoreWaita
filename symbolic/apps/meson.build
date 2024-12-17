@@ -257,6 +257,7 @@ regular_files = [
     'thunderbird-symbolic.svg',
     'todoist-symbolic.svg',
     'tor-browser-symbolic.svg',
+    'ugene-symbolic.svg',
     'ungoogled-chromium-symbolic.svg',
     'unityhub-symbolic.svg',
     'via-nativia-symbolic.svg',
