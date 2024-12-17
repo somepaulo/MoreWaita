@@ -81,6 +81,7 @@ regular_files = [
     'fuse-emulator-symbolic.svg',
     'gda-control-center-symbolic.svg',
     'geany-symbolic.svg',
+    'geneious-symbolic.svg',
     'genymotion-symbolic.svg',
     'geogebra-symbolic.svg',
     'gimp-symbolic.svg',

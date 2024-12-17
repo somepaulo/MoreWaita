@@ -91,6 +91,7 @@ regular_files = [
     'gda-browser-5.0.svg',
     'gda-control-center.svg',
     'geany.svg',
+    'geneious.svg',
     'genymotion.svg',
     'geogebra.svg',
     'gimp.svg',
