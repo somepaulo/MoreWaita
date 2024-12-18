@@ -55,12 +55,13 @@ function ci() {              # Simplify command
 }
 
 function custom-icon() {
-	# First argument ($1) is the folder path, ex: /home/user/C
-	# Second argument (optional) ($2) is the picture path, ex: /usr/share/icons/MoreWaita/places/scalable/folder-c,svg
-	# Ex: custom-icon /home/user/C /usr/share/icons/MoreWaita/places/scalable/folder-c.svg
-	# If there is no second argument the icon will try to take the basename of the path
-	# 	looking for it in the MOREWAITA_DIR path.
-	# Ex: custom-icon /home/user/C
+	# NOTE:
+	# - First argument ($1) is the folder path, ex: /home/user/C
+	# - Second argument (optional) ($2) is the icon to be used, ex: c
+	# 	Ex: custom-icon /home/user/C c
+	# - If there is no second argument it will try to take the basename of the folder path
+	#   and look for a match on the MOREWAITA_DIR path.
+	# 	Ex: custom-icon /home/user/C
 
 	# If delete flag is set, delete icon from folder and return
 	[ "$del" -eq 1 ] && [ -d "$1" ] && ci "$1" -d && return
