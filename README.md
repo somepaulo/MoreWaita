@@ -217,6 +217,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/okular.svg "Okular")
 ![icon](./scalable/apps/onetagger.svg "One Tagger")
 ![icon](./scalable/apps/org.onlyoffice.desktopeditors.svg "ONLYOFFICE")
+![icon](./scalable/apps/openbabel.svg "Open Babel")
 ![icon](./scalable/apps/openboard.svg "OpenBoard")
 ![icon](./scalable/apps/openra-cnc.svg "OpenRA Command & Conquer")
 ![icon](./scalable/apps/openra-d2k.svg "OpenRA Dune 2000")

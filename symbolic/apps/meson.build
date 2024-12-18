@@ -176,6 +176,7 @@ regular_files = [
     'okular-symbolic.svg',
     'one.alynx.showmethekey-symbolic.svg',
     'onetagger-symbolic.svg',
+    'openbabel-symbolic.svg',
     'openboard-symbolic.svg',
     'openra-cnc-symbolic.svg',
     'openra-d2k-symbolic.svg',

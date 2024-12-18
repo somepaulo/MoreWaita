@@ -194,6 +194,7 @@ regular_files = [
     'okular.svg',
     'one.alynx.showmethekey.svg',
     'onetagger.svg',
+    'openbabel.svg',
     'openboard.svg',
     'openra-cnc.svg',
     'openra-d2k.svg',
