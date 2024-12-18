@@ -209,6 +209,7 @@ regular_files = [
     'pulsar-symbolic.svg',
     'pure-maps-symbolic.svg',
     'pycharm-symbolic.svg',
+    'pymol-symbolic.svg',
     'qbittorrent-symbolic.svg',
     'qdbusviewer-symbolic.svg',
     'qgis-symbolic.svg',
@@ -446,6 +447,9 @@ link_files = {
     ],
     'qbittorrent-symbolic.svg': [
         'org.qbittorrent.qBittorrent-symbolic.svg',
+    ],
+    'pymol-symbolic.svg': [
+        'org.pymol.PyMOL-symbolic.svg',
     ],
     'zathura-symbolic.svg': [
         'org.pwmt.zathura-symbolic.svg',

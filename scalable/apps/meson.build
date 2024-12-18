@@ -231,6 +231,7 @@ regular_files = [
     'pulsar.svg',
     'pure-maps.svg',
     'pycharm.svg',
+    'pymol.svg',
     'qbittorrent.svg',
     'qdbusviewer.svg',
     'qgis.svg',
@@ -481,6 +482,9 @@ link_files = {
     ],
     'qbittorrent.svg': [
         'org.qbittorrent.qBittorrent.svg',
+    ],
+    'pymol.svg': [
+        'org.pymol.PyMOL.svg',
     ],
     'zathura.svg': [
         'org.pwmt.zathura.svg',

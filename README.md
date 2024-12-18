@@ -246,6 +246,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/protonvpn-gui.svg "Proton VPN")
 ![icon](./scalable/apps/pulsar.svg "Pulsar")
 ![icon](./scalable/apps/pure-maps.svg "Pure Maps")
+![icon](./scalable/apps/pymol.svg "PyMOL")
 ![icon](./scalable/apps/qbittorrent.svg "qBitTorrent")
 ![icon](./scalable/apps/qgis.svg "QGIS")
 ![icon](./scalable/apps/qq.svg "QQ")
