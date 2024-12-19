@@ -20,6 +20,7 @@ regular_files = [
     'assistant-symbolic.svg',
     'atomix-symbolic.svg',
     'audacity-symbolic.svg',
+    'avogadro-symbolic.svg',
     'betterbird-symbolic.svg',
     'bitwarden-symbolic.svg',
     'bitwig-studio-symbolic.svg',
@@ -1194,6 +1195,11 @@ link_files = {
         'gscan2pdf-symbolic.svg',
         'vuescan-symbolic.svg',
         'yast-scanner-symbolic.svg',
+    ],
+    'avogadro-symbolic.svg': [
+        'avogadro-icon-symbolic.svg',
+        'avogadro2-symbolic.svg',
+        'org.openchemistry.Avogadro2-symbolic.svg',
     ],
     'arduino-symbolic.svg': [
         'arduino-icon-small-symbolic.svg',

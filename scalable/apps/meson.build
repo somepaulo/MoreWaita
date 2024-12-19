@@ -22,6 +22,7 @@ regular_files = [
     'assistant.svg',
     'atomix.svg',
     'audacity.svg',
+    'avogadro.svg',
     'betterbird.svg',
     'bitwarden.svg',
     'bitwig-studio.svg',
@@ -1254,6 +1255,11 @@ link_files = {
     ],
     'btop.svg': [
         'bashtop.svg',
+    ],
+    'avogadro.svg': [
+        'avogadro-icon.svg',
+        'avogadro2.svg',
+        'org.openchemistry.Avogadro2.svg',
     ],
     'arduino.svg': [
         'arduino-icon-small.svg',
