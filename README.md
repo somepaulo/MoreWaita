@@ -22,7 +22,7 @@ This theme is built and tested against vanilla Gnome on Arch Linux. If an icon i
 
 _These are the icons currently in git, versioned theme releases will be behind most of the time_
 <details>
-<summary><h3>Apps</h3></summary>
+<summary><h3>Apps</h3> <em>(expand)</em></summary>
 
 ![icon](./scalable/apps/abiword.svg "Abiword")
 ![icon](./scalable/apps/gnome-aisleriot.svg "Aisleriot Solitaire")
@@ -341,7 +341,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/zrythm.svg "Zrythm")
 </details>
 <details>
-<summary><h3>MIME types</h3></summary>
+<summary><h3>MIME types</h3> <em>(expand)</em></summary>
 
 ![icon](./scalable/mimetypes/application-vnd.adobe.aftereffects.project.svg "Adobe AfterEffects Project")
 ![icon](./scalable/mimetypes/application-illustrator.svg "Adobe Illustrator")
@@ -449,7 +449,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/virtualbox-vmdk.svg "VirtualBox VMDK Image")
 </details>
 <details>
-<summary><h3>Places</h3></summary>
+<summary><h3>Places</h3> <em>(expand)</em></summary>
 
 ![icon](./scalable/places/folder-3dbenchy.svg "3DBenchy")
 ![icon](./scalable/places/folder-android.svg "Android")
