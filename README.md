@@ -698,7 +698,7 @@ If you need to assign the icons using the CLI you have to use the GIO command-li
     gio set $HOME/Coding/C metadata::custom-icon -d
     ```
 
-Alternatively, if you prefer to automate things using a list of folders, take a look at [this script](./custom_folder_icons.sh) by [@hasecilu](https://github.com/hasecilu). You can change it to your needs and add it to your dotfiles.
+Alternatively, if you prefer to automate things using a list of folders, take a look at the [custom_folder_icons.sh](./custom_folder_icons.sh) script by [@hasecilu](https://github.com/hasecilu). You can change it to your needs and add it to your dotfiles.
 
 ## Accent colours support
 
