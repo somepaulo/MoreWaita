@@ -1014,6 +1014,9 @@ link_files = {
     'qq-symbolic.svg': [
         'com.qq.QQ-symbolic.svg',
     ],
+    'opera-symbolic.svg': [
+        'com.opera.Opera-symbolic.svg',
+    ],
     'Notesnook-symbolic.svg': [
         'com.notesnook.Notesnook-symbolic.svg',
     ],

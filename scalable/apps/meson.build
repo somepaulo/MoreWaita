@@ -1059,6 +1059,9 @@ link_files = {
     'qq.svg': [
         'com.qq.QQ.svg',
     ],
+    'opera.svg': [
+        'com.opera.Opera.svg',
+    ],
     'Notesnook.svg': [
         'com.notesnook.Notesnook.svg',
     ],
