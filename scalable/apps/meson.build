@@ -589,6 +589,9 @@ link_files = {
     'com.obsproject.Studio.svg': [
         'obs.svg',
     ],
+    'openbabel.svg': [
+        'obgui.svg',
+    ],
     'nvidia.svg': [
         'nvidia-310-settings.svg',
         'nvidia-current-settings.svg',

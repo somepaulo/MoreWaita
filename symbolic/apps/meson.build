@@ -557,6 +557,9 @@ link_files = {
     'com.obsproject.Studio-symbolic.svg': [
         'obs-symbolic.svg',
     ],
+    'openbabel-symbolic.svg': [
+        'obgui-symbolic.svg',
+    ],
     'nvidia-symbolic.svg': [
         'nvidia-310-settings-symbolic.svg',
         'nvidia-current-settings-symbolic.svg',
