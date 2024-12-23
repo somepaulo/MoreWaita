@@ -544,9 +544,6 @@ link_files = {
     'foot-symbolic.svg': [
         'org.codeberg.dnkl.foot-symbolic.svg',
     ],
-    'menulibre-symbolic.svg': [
-        'org.bluesabre.MenuLibre-symbolic.svg',
-    ],
     'audacity-symbolic.svg': [
         'org.audacityteam.Audacity-symbolic.svg',
     ],
@@ -1392,6 +1389,10 @@ link_files = {
         'android-studio-symbolic.svg',
         'androidstudio-preview-symbolic.svg',
         'com.google.AndroidStudio-symbolic.svg',
+    ],
+    'menulibre-symbolic.svg': [
+        'alacarte-symbolic.svg',
+        'org.bluesabre.MenuLibre-symbolic.svg',
     ],
     'spotify-symbolic.svg': [
         'Spotify-symbolic.svg',

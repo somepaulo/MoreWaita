@@ -579,9 +579,6 @@ link_files = {
     'foot.svg': [
         'org.codeberg.dnkl.foot.svg',
     ],
-    'menulibre.svg': [
-        'org.bluesabre.MenuLibre.svg',
-    ],
     'audacity.svg': [
         'org.audacityteam.Audacity.svg',
     ],
@@ -1452,6 +1449,10 @@ link_files = {
     'android-studio-canary.svg': [
         'android-studio-beta.svg',
         'androidstudio-preview.svg',
+    ],
+    'menulibre.svg': [
+        'alacarte.svg',
+        'org.bluesabre.MenuLibre.svg',
     ],
     'spotify.svg': [
         'Spotify.svg',
