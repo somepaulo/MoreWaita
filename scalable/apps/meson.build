@@ -290,6 +290,7 @@ regular_files = [
     'ungoogled-chromium.svg',
     'unity-editor-icon.svg',
     'unityhub.svg',
+    'veracrypt.svg',
     'via-nativia.svg',
     'viber.svg',
     'vim.svg',
@@ -378,6 +379,9 @@ link_files = {
     ],
     'virtualbox.svg': [
         'virtualbox-ose.svg',
+    ],
+    'veracrypt.svg': [
+        'veracrypt.xpm.svg',
     ],
     'Zoom.svg': [
         'us.zoom.Zoom.svg',

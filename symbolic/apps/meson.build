@@ -265,6 +265,7 @@ regular_files = [
     'ugene-symbolic.svg',
     'ungoogled-chromium-symbolic.svg',
     'unityhub-symbolic.svg',
+    'veracrypt-symbolic.svg',
     'via-nativia-symbolic.svg',
     'viber-symbolic.svg',
     'vim-symbolic.svg',
@@ -358,6 +359,9 @@ link_files = {
     ],
     'virtualbox-symbolic.svg': [
         'virtualbox-ose-symbolic.svg',
+    ],
+    'veracrypt-symbolic.svg': [
+        'veracrypt.xpm-symbolic.svg',
     ],
     'Zoom-symbolic.svg': [
         'us.zoom.Zoom-symbolic.svg',
