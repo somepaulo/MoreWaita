@@ -167,6 +167,7 @@ regular_files = [
     'netbeans-symbolic.svg',
     'nextcloud-symbolic.svg',
     'nheko-symbolic.svg',
+    'nicotine-plus-symbolic.svg',
     'nufraw-symbolic.svg',
     'nvidia-symbolic.svg',
     'nvim-symbolic.svg',
@@ -472,6 +473,9 @@ link_files = {
     'octave-symbolic.svg': [
         'org.octave.Octave-symbolic.svg',
         'qtoctave-symbolic.svg',
+    ],
+    'nicotine-plus-symbolic.svg': [
+        'org.nicotine_plus.Nicotine-symbolic.svg',
     ],
     'thunderbird-symbolic.svg': [
         'org.mozilla.Thunderbird-symbolic.svg',

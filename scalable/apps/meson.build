@@ -185,6 +185,7 @@ regular_files = [
     'network-wired.svg',
     'nextcloud.svg',
     'nheko.svg',
+    'nicotine-plus.svg',
     'nufraw.svg',
     'nvidia.svg',
     'nvim.svg',
@@ -507,6 +508,9 @@ link_files = {
     'octave.svg': [
         'org.octave.Octave.svg',
         'qtoctave.svg',
+    ],
+    'nicotine-plus.svg': [
+        'org.nicotine_plus.Nicotine.svg',
     ],
     'thunderbird.svg': [
         'org.mozilla.Thunderbird.svg',
