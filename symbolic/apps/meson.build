@@ -416,6 +416,9 @@ link_files = {
         'osu-lazer-symbolic.svg',
         'sh.ppy.osu-symbolic.svg',
     ],
+    'zrythm-symbolic.svg': [
+        'org.zrythm.Zrythm-symbolic.svg',
+    ],
     'warpinator-symbolic.svg': [
         'org.x.Warpinator-symbolic.svg',
     ],
@@ -1488,6 +1491,7 @@ link_files = {
         'ardour7-symbolic.svg',
         'ardour8-symbolic.svg',
         'ardour9-symbolic.svg',
+        'org.ardour.Ardour-symbolic.svg',
     ],
     'alacritty-symbolic.svg': [
         'Alacritty-symbolic.svg',

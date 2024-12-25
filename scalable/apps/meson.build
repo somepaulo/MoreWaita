@@ -444,6 +444,9 @@ link_files = {
         'osu-lazer.svg',
         'sh.ppy.osu.svg',
     ],
+    'zrythm.svg': [
+        'org.zrythm.Zrythm.svg',
+    ],
     'warpinator.svg': [
         'org.x.Warpinator.svg',
     ],
@@ -1548,6 +1551,7 @@ link_files = {
         'ardour7.svg',
         'ardour8.svg',
         'ardour9.svg',
+        'org.ardour.Ardour.svg',
     ],
     'alacritty.svg': [
         'Alacritty.svg',
