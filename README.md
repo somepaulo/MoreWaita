@@ -26,6 +26,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 
 ![icon](./scalable/apps/abiword.svg "Abiword")
 ![icon](./scalable/apps/gnome-aisleriot.svg "Aisleriot Solitaire")
+![icon](./scalable/apps/alacarte.svg "Alacarte")
 ![icon](./scalable/apps/alacritty.svg "Alacritty")
 ![icon](./scalable/apps/androidstudio.svg "Android Studio")
 ![icon](./scalable/apps/android-studio-canary.svg "Android Studio Canary")
