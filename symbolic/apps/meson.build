@@ -1397,10 +1397,6 @@ link_files = {
         'androidstudio-preview-symbolic.svg',
         'com.google.AndroidStudio-symbolic.svg',
     ],
-    'menulibre-symbolic.svg': [
-        'alacarte-symbolic.svg',
-        'org.bluesabre.MenuLibre-symbolic.svg',
-    ],
     'spotify-symbolic.svg': [
         'Spotify-symbolic.svg',
         'com.spotify.Client-symbolic.svg',
@@ -1456,6 +1452,13 @@ link_files = {
     'mercury-symbolic.svg': [
         'Mercury-symbolic.svg',
         'mercury-browser-symbolic.svg',
+    ],
+    'menulibre-symbolic.svg': [
+        'LibreMenuEditor-symbolic.svg',
+        'alacarte-symbolic.svg',
+        'libre-menu-editor-symbolic.svg',
+        'org.bluesabre.MenuLibre-symbolic.svg',
+        'page.codeberg.libre_menu_editor.LibreMenuEditor-symbolic.svg',
     ],
     'gitkraken-symbolic.svg': [
         'GitKraken-symbolic.svg',

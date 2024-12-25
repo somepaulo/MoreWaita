@@ -146,6 +146,7 @@ regular_files = [
     'kvantum.svg',
     'lazarus.svg',
     'lazpaint.svg',
+    'libre-menu-editor.svg',
     'libreoffice-base.svg',
     'libreoffice-basic.svg',
     'libreoffice-calc.svg',
@@ -1516,6 +1517,10 @@ link_files = {
     'mercury.svg': [
         'Mercury.svg',
         'mercury-browser.svg',
+    ],
+    'libre-menu-editor.svg': [
+        'LibreMenuEditor.svg',
+        'page.codeberg.libre_menu_editor.LibreMenuEditor.svg',
     ],
     'gitkraken.svg': [
         'GitKraken.svg',
