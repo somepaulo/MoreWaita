@@ -172,7 +172,6 @@ regular_files = [
     'mediainfo.svg',
     'mega.svg',
     'menulibre.svg',
-    'menulibre.svg.svg',
     'mercury.svg',
     'micro.svg',
     'microsoft-edge.svg',
