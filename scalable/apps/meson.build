@@ -10,6 +10,7 @@ regular_files = [
     'Zoom.svg',
     'abiword.svg',
     'accessories-character-map.svg',
+    'alacarte.svg',
     'alacritty.svg',
     'android-studio-canary.svg',
     'androidstudio.svg',
@@ -171,6 +172,7 @@ regular_files = [
     'mediainfo.svg',
     'mega.svg',
     'menulibre.svg',
+    'menulibre.svg.svg',
     'mercury.svg',
     'micro.svg',
     'microsoft-edge.svg',
@@ -586,6 +588,9 @@ link_files = {
     ],
     'foot.svg': [
         'org.codeberg.dnkl.foot.svg',
+    ],
+    'menulibre.svg': [
+        'org.bluesabre.MenuLibre.svg',
     ],
     'audacity.svg': [
         'org.audacityteam.Audacity.svg',
@@ -1457,10 +1462,6 @@ link_files = {
     'android-studio-canary.svg': [
         'android-studio-beta.svg',
         'androidstudio-preview.svg',
-    ],
-    'menulibre.svg': [
-        'alacarte.svg',
-        'org.bluesabre.MenuLibre.svg',
     ],
     'spotify.svg': [
         'Spotify.svg',
