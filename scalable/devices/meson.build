@@ -5,6 +5,7 @@ regular_files = [
     'audio-card.svg',
     'drive-harddisk-solidstate.svg',
     'keyboard.svg',
+    'network-card.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
@@ -12,6 +13,7 @@ link_files = {
     # DO NOT REMOVE: Begining of link segment
     'audio-card.svg': [
         'soundcard.svg',
+        'yast_soundcard.svg',
     ],
     'keyboard.svg': [
         'blueman-keyboard.svg',
