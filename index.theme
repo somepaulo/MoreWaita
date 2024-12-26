@@ -40,9 +40,16 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
-[scalable/mimes]
+[scalable/devices]
+Size=64
+Context=Devices
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[scalable/mimetypes]
 Size=96
-Context=Applications
+Context=MimeTypes
 MinSize=16
 MaxSize=512
 Type=Scalable

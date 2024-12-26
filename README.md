@@ -455,6 +455,11 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/virtualbox-vmdk.svg "VirtualBox VMDK Image")
 </details>
 <details>
+<summary><h3>Devices</h3> <em>(expand)</em></summary>
+
+![icon](./scalable/devices/soundcard.svg "Audio Card")
+</details>
+<details>
 <summary><h3>Places</h3> <em>(expand)</em></summary>
 
 ![icon](./scalable/places/folder-3dbenchy.svg "3DBenchy")
