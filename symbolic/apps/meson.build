@@ -869,6 +869,8 @@ link_files = {
     'hardinfo-symbolic.svg': [
         'hardinfo2-symbolic.svg',
         'hwloc-symbolic.svg',
+        'jockey-kde-symbolic.svg',
+        'jockey-symbolic.svg',
     ],
     'pure-maps-symbolic.svg': [
         'harbour-pure-maps-symbolic.svg',

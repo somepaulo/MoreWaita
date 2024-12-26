@@ -132,6 +132,7 @@ regular_files = [
     'jdownloader.svg',
     'jellyfin.svg',
     'jetbrains-toolbox.svg',
+    'jockey.svg',
     'joplin.svg',
     'josm.svg',
     'julia.svg',
@@ -846,6 +847,9 @@ link_files = {
     ],
     'julia.svg': [
         'juliabackend.svg',
+    ],
+    'jockey.svg': [
+        'jockey-kde.svg',
     ],
     'QtProject-designer.svg': [
         'io.qt.Designer.svg',

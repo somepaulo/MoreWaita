@@ -151,6 +151,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/rubymine.svg "JetBrains RubyMine")
 ![icon](./scalable/apps/webstorm.svg "JetBrains WebStorm")
 ![icon](./scalable/apps/jetbrains-toolbox.svg "JetBrains Toolbox")
+![icon](./scalable/apps/jockey.svg "Jockey")
 ![icon](./scalable/apps/joplin.svg "Joplin")
 ![icon](./scalable/apps/josm.svg "JOSM")
 ![icon](./scalable/apps/julia.svg "Julia")
