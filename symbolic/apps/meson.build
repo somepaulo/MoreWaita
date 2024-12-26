@@ -159,6 +159,7 @@ regular_files = [
     'microsoft-edge-symbolic.svg',
     'minecraft-symbolic.svg',
     'minetest-symbolic.svg',
+    'mixxx-symbolic.svg',
     'mockoon-symbolic.svg',
     'monero-symbolic.svg',
     'mumble-symbolic.svg',
@@ -631,6 +632,11 @@ link_files = {
     'monero-symbolic.svg': [
         'monero-gui-symbolic.svg',
         'org.getmonero.Monero-symbolic.svg',
+    ],
+    'mixxx-symbolic.svg': [
+        'mixxx-icon-symbolic.svg',
+        'mixxx_icon-symbolic.svg',
+        'org.mixxx.Mixxx-symbolic.svg',
     ],
     'com.tonikelope.MegaBasterd-symbolic.svg': [
         'megabasterd-symbolic.svg',

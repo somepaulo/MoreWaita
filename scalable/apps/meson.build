@@ -177,6 +177,7 @@ regular_files = [
     'microsoft-edge.svg',
     'minecraft.svg',
     'minetest.svg',
+    'mixxx.svg',
     'mockoon.svg',
     'monero.svg',
     'mpv.svg',
@@ -670,6 +671,11 @@ link_files = {
     'monero.svg': [
         'monero-gui.svg',
         'org.getmonero.Monero.svg',
+    ],
+    'mixxx.svg': [
+        'mixxx-icon.svg',
+        'mixxx_icon.svg',
+        'org.mixxx.Mixxx.svg',
     ],
     'com.tonikelope.MegaBasterd.svg': [
         'megabasterd.svg',
