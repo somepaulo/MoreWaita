@@ -61,6 +61,7 @@ regular_files = [
     'folder-python-symbolic.svg',
     'folder-r-symbolic.svg',
     'folder-raspberry-pi-symbolic.svg',
+    'folder-recent-symbolic.svg',
     'folder-redhat-symbolic.svg',
     'folder-ruby-symbolic.svg',
     'folder-rust-symbolic.svg',
@@ -121,6 +122,9 @@ link_files = {
     ],
     'folder-redhat-symbolic.svg': [
         'folder-redhat-legacy-symbolic.svg',
+    ],
+    'folder-recent-symbolic.svg': [
+        'folder-recent-legacy-symbolic.svg',
     ],
     'folder-raspberry-pi-symbolic.svg': [
         'folder-raspberry-pi-legacy-symbolic.svg',
