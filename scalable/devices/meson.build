@@ -2,21 +2,21 @@ scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
+    'audio-card.svg',
     'drive-harddisk-solidstate.svg',
     'keyboard.svg',
-    'soundcard.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'audio-card.svg': [
+        'soundcard.svg',
+    ],
     'keyboard.svg': [
         'blueman-keyboard.svg',
         'cinnamon-virtual-keyboard.svg',
         'gnome-dev-keyboard.svg',
-    ],
-    'soundcard.svg': [
-        'audio-card.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
