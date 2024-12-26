@@ -458,6 +458,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <summary><h3>Devices</h3> <em>(expand)</em></summary>
 
 ![icon](./scalable/devices/soundcard.svg "Audio Card")
+![icon](./scalable/devices/cinnamon-virtual-keyboard.svg "Cinnamon Virtual Keyboard")
 </details>
 <details>
 <summary><h3>Places</h3> <em>(expand)</em></summary>

@@ -2,6 +2,7 @@ scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
+    'cinnamon-virtual-keyboard.svg',
     'soundcard.svg',
     # DO NOT REMOVE: End of regular segment
 ]
