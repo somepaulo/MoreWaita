@@ -15,6 +15,9 @@ link_files = {
         'soundcard.svg',
         'yast_soundcard.svg',
     ],
+    '../apps/jockey.svg': [
+        'device_pci.svg',
+    ],
     'keyboard.svg': [
         'blueman-keyboard.svg',
         'cinnamon-virtual-keyboard.svg',
