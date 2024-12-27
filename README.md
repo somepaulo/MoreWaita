@@ -459,6 +459,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 
 ![icon](./scalable/devices/audio-card.svg "Audio Card")
 ![icon](./scalable/devices/keyboard.svg "Virtual Keyboard")
+![icon](./scalable/devices/memory.svg "Memory")
 ![icon](./scalable/devices/network-card.svg "Network Card")
 ![icon](./scalable/apps/jockey.svg "PCI Card")
 ![icon](./scalable/devices/drive-harddisk-solidstate.svg "SSD")

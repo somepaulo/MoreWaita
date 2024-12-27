@@ -5,6 +5,7 @@ regular_files = [
     'audio-card.svg',
     'drive-harddisk-solidstate.svg',
     'keyboard.svg',
+    'memory.svg',
     'network-card.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -17,6 +18,11 @@ link_files = {
     ],
     '../apps/jockey.svg': [
         'device_pci.svg',
+    ],
+    'memory.svg': [
+        'device_mem.svg',
+        'gnome-dev-memory.svg',
+        'vmware-memory.svg',
     ],
     'keyboard.svg': [
         'blueman-keyboard.svg',
