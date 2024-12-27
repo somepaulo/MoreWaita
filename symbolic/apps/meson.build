@@ -1160,6 +1160,9 @@ link_files = {
         'clamav-symbolic.svg',
         'com.gitlab.davem.ClamTk-symbolic.svg',
     ],
+    'one.alynx.showmethekey-symbolic.svg': [
+        'cinnamon-virtual-keyboard-symbolic.svg',
+    ],
     'google-chrome-symbolic.svg': [
         'chrome-ighkikkfkalojiibipjigpccggljgdff-Default-symbolic.svg',
         'chromium-browser-privacy-symbolic.svg',
