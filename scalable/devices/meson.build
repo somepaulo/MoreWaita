@@ -3,6 +3,7 @@ scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'audio-card.svg',
+    'cpu.svg',
     'drive-harddisk-solidstate.svg',
     'keyboard.svg',
     'memory.svg',
@@ -23,6 +24,10 @@ link_files = {
         'device_mem.svg',
         'gnome-dev-memory.svg',
         'vmware-memory.svg',
+    ],
+    'cpu.svg': [
+        'device_cpu.svg',
+        'processor.svg',
     ],
     'keyboard.svg': [
         'blueman-keyboard.svg',
