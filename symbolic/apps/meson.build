@@ -1160,9 +1160,6 @@ link_files = {
         'clamav-symbolic.svg',
         'com.gitlab.davem.ClamTk-symbolic.svg',
     ],
-    'one.alynx.showmethekey-symbolic.svg': [
-        'cinnamon-virtual-keyboard-symbolic.svg',
-    ],
     'google-chrome-symbolic.svg': [
         'chrome-ighkikkfkalojiibipjigpccggljgdff-Default-symbolic.svg',
         'chromium-browser-privacy-symbolic.svg',
@@ -1217,6 +1214,12 @@ link_files = {
         'gscan2pdf-symbolic.svg',
         'vuescan-symbolic.svg',
         'yast-scanner-symbolic.svg',
+    ],
+    'one.alynx.showmethekey-symbolic.svg': [
+        'blueman-keyboard-symbolic.svg',
+        'cinnamon-virtual-keyboard-symbolic.svg',
+        'gnome-dev-keyboard-symbolic.svg',
+        'keyboard-symbolic.svg',
     ],
     'avogadro-symbolic.svg': [
         'avogadro-icon-symbolic.svg',
