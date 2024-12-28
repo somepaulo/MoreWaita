@@ -47,16 +47,23 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
-[scalable/mimetypes]
-Size=96
-Context=MimeTypes
+[scalable/legacy]
+Size=64
+Context=Legacy
 MinSize=16
 MaxSize=512
 Type=Scalable
 
-[symbolic/panel]
+[symbolic/legacy]
 Size=24
-Context=Panel
+Context=Legacy
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[scalable/mimetypes]
+Size=96
+Context=MimeTypes
 MinSize=16
 MaxSize=512
 Type=Scalable
@@ -71,6 +78,13 @@ Type=Scalable
 [symbolic/places]
 Size=16
 Context=Places
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[symbolic/status]
+Size=24
+Context=Panel
 MinSize=16
 MaxSize=512
 Type=Scalable

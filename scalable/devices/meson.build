@@ -5,6 +5,7 @@ regular_files = [
     'audio-card.svg',
     'cpu.svg',
     'drive-harddisk-solidstate.svg',
+    'keyboard.svg',
     'memory.svg',
     'network-card.svg',
     # DO NOT REMOVE: End of regular segment
@@ -28,11 +29,10 @@ link_files = {
         'device_cpu.svg',
         'processor.svg',
     ],
-    '../apps/one.alynx.showmethekey.svg': [
+    'keyboard.svg': [
         'blueman-keyboard.svg',
         'cinnamon-virtual-keyboard.svg',
         'gnome-dev-keyboard.svg',
-        'keyboard.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
