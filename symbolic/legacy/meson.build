@@ -2,6 +2,8 @@ scalable_panel_iconsdir = join_paths(panel_iconsdir, 'symbolic')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
+    'applications-accessories-symbolic.svg',
+    'applications-development-symbolic.svg',
     'applications-other-symbolic.svg',
     'preferences-desktop.svg',
     # DO NOT REMOVE: End of regular segment

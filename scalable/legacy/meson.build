@@ -3,6 +3,8 @@ scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'accessories-text-editor.svg',
+    'applications-accessories.svg',
+    'applications-development.svg',
     'applications-games.svg',
     'applications-system.svg',
     'preferences-desktop.svg',
