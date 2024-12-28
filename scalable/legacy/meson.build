@@ -9,7 +9,10 @@ regular_files = [
     'applications-games.svg',
     'applications-graphics.svg',
     'applications-internet.svg',
+    'applications-multimedia.svg',
+    'applications-office.svg',
     'applications-system.svg',
+    'preferences-desktop-accessibility.svg',
     'preferences-desktop.svg',
     'system-file-manager.svg',
     # DO NOT REMOVE: End of regular segment

@@ -13,6 +13,9 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    '../places/folder-work-symbolic.svg': [
+        'applications-office-symbolic.svg',
+    ],
     # DO NOT REMOVE: End of link segment
 }
 

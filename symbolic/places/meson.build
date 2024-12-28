@@ -65,6 +65,7 @@ regular_files = [
     'folder-redhat-symbolic.svg',
     'folder-ruby-symbolic.svg',
     'folder-rust-symbolic.svg',
+    'folder-school-legacy-symbolic.svg',
     'folder-school-symbolic.svg',
     'folder-screencast-symbolic.svg',
     'folder-screenshot-symbolic.svg',
@@ -110,9 +111,6 @@ link_files = {
     ],
     'folder-screencast-symbolic.svg': [
         'folder-screencast-legacy-symbolic.svg',
-    ],
-    'folder-school-symbolic.svg': [
-        'folder-school-legacy-symbolic.svg',
     ],
     'folder-rust-symbolic.svg': [
         'folder-rust-legacy-symbolic.svg',
