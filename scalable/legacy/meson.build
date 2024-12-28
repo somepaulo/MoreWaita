@@ -13,6 +13,7 @@ regular_files = [
     'applications-office.svg',
     'applications-system.svg',
     'preferences-desktop-accessibility.svg',
+    'preferences-desktop-locale.svg',
     'preferences-desktop.svg',
     'system-file-manager.svg',
     # DO NOT REMOVE: End of regular segment
