@@ -5,6 +5,7 @@ regular_files = [
     'accessories-text-editor.svg',
     'applications-accessories.svg',
     'applications-development.svg',
+    'applications-education.svg',
     'applications-games.svg',
     'applications-system.svg',
     'preferences-desktop.svg',
