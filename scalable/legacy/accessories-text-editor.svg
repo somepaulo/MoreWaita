@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" height="128" width="128">
+<defs>
+<linearGradient id="a">
+<stop offset="0" stop-color="#c0bfbc"/>
+<stop offset="0" stop-color="#fff"/>
+<stop offset=".1" stop-color="#deddda"/>
+<stop offset=".9" stop-color="#deddda"/>
+<stop offset="1" stop-color="#fff"/>
+<stop offset="1" stop-color="#c0bfbc"/>
+</linearGradient>
+<linearGradient id="b">
+<stop offset="0" stop-color="#d0bb8e"/>
+<stop offset="1" stop-color="#fff"/>
+</linearGradient>
+<linearGradient id="c">
+<stop offset="0" stop-color="#d5d3cf"/>
+<stop offset="1" stop-color="#fff"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-136)" gradientUnits="userSpaceOnUse" y2="-276" x2="116" y1="-276" x1="28" id="e" xlink:href="#a"/>
+<linearGradient gradientTransform="matrix(.07621 -.4442 .4442 -.07621 78 332)" y2="-127.4" x2="158.5" y1="-97.7" x1="128.8" gradientUnits="userSpaceOnUse" id="i" xlink:href="#b"/>
+<linearGradient y2="72" x2="340" y1="76" x1="344" gradientTransform="matrix(.25 0 0 .25 180 83)" gradientUnits="userSpaceOnUse" id="g" xlink:href="#c"/>
+<clipPath id="d" clipPathUnits="userSpaceOnUse">
+<rect ry="8" rx="8" y="-188" x="160" height="56" width="16" style="marker:none" fill="none" stroke="#000"/>
+</clipPath>
+<clipPath id="f" clipPathUnits="userSpaceOnUse">
+<path d="m252 116 28-28v-8h-36v36z" fill="#e74747" stroke-width=".3"/>
+</clipPath>
+<clipPath id="h" clipPathUnits="userSpaceOnUse">
+<rect transform="scale(-1)" style="marker:none" width="88" height="108" x="-108" y="-116" rx="8" ry="8" fill="#f6f5f4" stroke-width="13.7"/>
+</clipPath>
+</defs>
+<g transform="translate(0 -172)">
+<rect ry="8" rx="8" y="-294" x="-108" height="30.3" width="88" style="marker:none" transform="scale(-1)" fill="#1a5fb4"/>
+<rect transform="scale(-1)" style="marker:none" width="88" height="40" x="-108" y="-292" rx="8" ry="8" fill="url(#e)"/>
+<rect ry="8" rx="8" y="-288" x="-108" height="108" width="88" style="marker:none" transform="scale(-1)" fill="#f6f5f4"/>
+<g transform="translate(-4 2)" fill="#d5d3cf">
+<path d="M32 188a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"/>
+<circle r="2" cy="190" cx="-104" transform="scale(-1 1)"/>
+<path d="M112 192a2 2 0 0 1-2-1 2 2 0 0 1 0-2 2 2 0 0 1 2-1M24 192a2 2 0 0 0 2-1 2 2 0 0 0 0-2 2 2 0 0 0-2-1"/>
+</g>
+<rect style="marker:none" width="36" height="36" x="252" y="88" rx="11.2" ry="11.2" transform="matrix(0 .71429 .71429 0 25 88)" clip-path="url(#f)" fill="url(#g)"/>
+<path clip-path="url(#h)" transform="translate(0 172)" d="M100 16 32 84v20h22l68-68-8-6-8-8z" style="marker:none" opacity=".2"/>
+<path style="marker:none" d="M32 276v-20l20 20z" fill="url(#i)"/>
+<path d="M32 276v-8l8 8z" style="marker:none" fill="#424048"/>
+<path d="m50 274-16-16 68-68 16 16z" fill="#f6d32d"/>
+<path d="m38 262-6-6 68-68 6 6z" fill="#f9f06b"/>
+<path d="m46 270 6 6 68-68-6-6z" fill="#e5a50a"/>
+</g>
+</svg>
