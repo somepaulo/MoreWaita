@@ -72,6 +72,7 @@ regular_files = [
     'folder-shell-symbolic.svg',
     'folder-syncthing-legacy-symbolic.svg',
     'folder-syncthing-symbolic.svg',
+    'folder-temp-legacy-symbolic.svg',
     'folder-temp-symbolic.svg',
     'folder-translation-symbolic.svg',
     'folder-ubuntu-symbolic.svg',
@@ -99,9 +100,6 @@ link_files = {
     ],
     'folder-translation-symbolic.svg': [
         'folder-translation-legacy-symbolic.svg',
-    ],
-    'folder-temp-symbolic.svg': [
-        'folder-temp-legacy-symbolic.svg',
     ],
     'folder-shell-symbolic.svg': [
         'folder-shell-legacy-symbolic.svg',

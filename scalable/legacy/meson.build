@@ -18,6 +18,13 @@ regular_files = [
     'preferences-desktop-locale.svg',
     'preferences-desktop.svg',
     'system-file-manager.svg',
+    'system-lock-screen.svg',
+    'system-log-out.svg',
+    'system-reboot.svg',
+    'system-shutdown.svg',
+    'system-suspend-hibernate.svg',
+    'system-suspend.svg',
+    'system-users.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
