@@ -96,6 +96,7 @@ regular_files = [
     'geneious.svg',
     'genymotion.svg',
     'geogebra.svg',
+    'ghostty.svg',
     'gimp.svg',
     'github-desktop.svg',
     'gitkraken.svg',
@@ -1093,6 +1094,9 @@ link_files = {
         'lutris_minecraft.svg',
         'minecraft-launcher.svg',
         'minecraft-pi.svg',
+    ],
+    'ghostty.svg': [
+        'com.mitchellh.ghostty.svg',
     ],
     'microsoft-edge.svg': [
         'com.microsoft.Edge.svg',

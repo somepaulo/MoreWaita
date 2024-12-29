@@ -111,6 +111,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/geneious.svg "Geneious")
 ![icon](./scalable/apps/genymotion.svg "Genymotion")
 ![icon](./scalable/apps/geogebra.svg "Geogebra")
+![icon](./scalable/apps/ghostty.svg "Ghostty")
 ![icon](./scalable/apps/gimp.svg "GIMP")
 ![icon](./scalable/apps/github-desktop.svg "GitHub Desktop")
 ![icon](./scalable/apps/gitkraken.svg "GitKraken")
