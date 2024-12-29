@@ -12,6 +12,7 @@ regular_files = [
     'applications-multimedia.svg',
     'applications-office.svg',
     'applications-other.svg',
+    'applications-science.svg',
     'applications-system.svg',
     'preferences-desktop-accessibility.svg',
     'preferences-desktop-locale.svg',
