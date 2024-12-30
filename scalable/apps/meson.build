@@ -30,6 +30,7 @@ regular_files = [
     'bleachbit.svg',
     'blender.svg',
     'blockbench.svg',
+    'bluemail.svg',
     'boxbuddyrs.svg',
     'boxy-svg.svg',
     'brave-desktop.svg',
@@ -667,6 +668,9 @@ link_files = {
     ],
     'blockbench.svg': [
         'net.blockbench.Blockbench.svg',
+    ],
+    'bluemail.svg': [
+        'net.blix.BlueMail.svg',
     ],
     'anki.svg': [
         'net.ankiweb.Anki.svg',

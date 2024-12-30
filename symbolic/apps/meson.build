@@ -27,6 +27,7 @@ regular_files = [
     'bleachbit-symbolic.svg',
     'blender-symbolic.svg',
     'blockbench-symbolic.svg',
+    'bluemail-symbolic.svg',
     'boxbuddyrs-symbolic.svg',
     'boxy-svg-symbolic.svg',
     'brave-desktop-symbolic.svg',
@@ -631,6 +632,9 @@ link_files = {
     ],
     'blockbench-symbolic.svg': [
         'net.blockbench.Blockbench-symbolic.svg',
+    ],
+    'bluemail-symbolic.svg': [
+        'net.blix.BlueMail-symbolic.svg',
     ],
     'anki-symbolic.svg': [
         'net.ankiweb.Anki-symbolic.svg',

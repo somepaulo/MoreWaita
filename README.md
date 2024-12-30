@@ -45,6 +45,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/blender.svg "Blender")
 ![icon](./scalable/apps/blockbench.svg "Blockbench")
 ![icon](./scalable/apps/app.bluebubbles.BlueBubbles.svg "BlueBubbles")
+![icon](./scalable/apps/bluemail.svg "BlueMail")
 ![icon](./scalable/apps/boxbuddyrs.svg "BoxBuddy")
 ![icon](./scalable/apps/boxy-svg.svg "Boxy SVG")
 ![icon](./scalable/apps/brave-desktop.svg "Brave")
