@@ -270,6 +270,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/rpi-imager.svg "Raspberry Pi Imager")
 ![icon](./scalable/apps/rawtherapee.svg "RawTherapee")
 ![icon](./scalable/apps/retroarch.svg "Retro Arch")
+![icon](./scalable/apps/ringracers.svg "Dr. Robotnik's Ring Racers")
 ![icon](./scalable/apps/rocketchat.svg "Rocket.Chat")
 ![icon](./scalable/apps/rstudio.svg "RStudio")
 ![icon](./scalable/apps/rustdesk.svg "RustDesk")
