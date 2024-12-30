@@ -78,6 +78,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/discord.svg "Discord")
 ![icon](./scalable/apps/discord-canary.svg "Discord Canary")
 ![icon](./scalable/apps/org.DolphinEmu.dolphin-emu.svg "Dolphin Emulator")
+![icon](./scalable/apps/dropbox.svg "Dropbox")
 ![icon](./scalable/apps/eclipse.svg "Eclipse")
 ![icon](./scalable/apps/electron.svg "Electron")
 ![icon](./scalable/apps/electrum.svg "Electrum")

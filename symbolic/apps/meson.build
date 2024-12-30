@@ -55,6 +55,7 @@ regular_files = [
     'deadbeef-symbolic.svg',
     'dev.bsnes.bsnes-symbolic.svg',
     'discord-symbolic.svg',
+    'dropbox-symbolic.svg',
     'eclipse-symbolic.svg',
     'electron-symbolic.svg',
     'electrum-symbolic.svg',
@@ -1208,6 +1209,11 @@ link_files = {
         'com.calibre_ebook.calibre.ebook_edit-symbolic.svg',
         'com.calibre_ebook.calibre.ebook_viewer-symbolic.svg',
         'com.calibre_ebook.calibre.lrfviewer-symbolic.svg',
+    ],
+    'dropbox-symbolic.svg': [
+        'caja-dropbox-symbolic.svg',
+        'com.dropbox.Client-symbolic.svg',
+        'kdepim-dropbox-symbolic.svg',
     ],
     'dev.bsnes.bsnes-symbolic.svg': [
         'bsnes-symbolic.svg',

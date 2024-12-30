@@ -63,6 +63,7 @@ regular_files = [
     'dev.bsnes.bsnes.svg',
     'discord-canary.svg',
     'discord.svg',
+    'dropbox.svg',
     'eclipse.svg',
     'electron.svg',
     'electrum.svg',
@@ -1272,6 +1273,11 @@ link_files = {
     'calibre.svg': [
         'calibre-gui.svg',
         'com.calibre_ebook.calibre.svg',
+    ],
+    'dropbox.svg': [
+        'caja-dropbox.svg',
+        'com.dropbox.Client.svg',
+        'kdepim-dropbox.svg',
     ],
     'dev.bsnes.bsnes.svg': [
         'bsnes.svg',

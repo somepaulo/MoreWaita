@@ -19,7 +19,6 @@ regular_files = [
     'folder-codeberg-symbolic.svg',
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
-    'folder-dropbox-symbolic.svg',
     'folder-earth-symbolic.svg',
     'folder-emacs-symbolic.svg',
     'folder-extensions-symbolic.svg',
@@ -212,8 +211,9 @@ link_files = {
     'folder-earth-symbolic.svg': [
         'folder-earth-legacy-symbolic.svg',
     ],
-    'folder-dropbox-symbolic.svg': [
+    '../apps/dropbox-symbolic.svg': [
         'folder-dropbox-legacy-symbolic.svg',
+        'folder-dropbox-symbolic.svg',
     ],
     'folder-csharp-symbolic.svg': [
         'folder-csharp-legacy-symbolic.svg',
