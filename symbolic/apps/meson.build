@@ -226,6 +226,7 @@ regular_files = [
     'resolve-symbolic.svg',
     'retroarch-symbolic.svg',
     'rider-symbolic.svg',
+    'ringracers-symbolic.svg',
     'rocketchat-symbolic.svg',
     'rpi-imager-symbolic.svg',
     'rstudio-symbolic.svg',
@@ -510,6 +511,9 @@ link_files = {
     ],
     'kdenlive-symbolic.svg': [
         'org.kde.kdenlive-symbolic.svg',
+    ],
+    'ringracers-symbolic.svg': [
+        'org.kartkrew.RingRacers-symbolic.svg',
     ],
     'jdownloader-symbolic.svg': [
         'org.jdownloader.JDownloader-symbolic.svg',

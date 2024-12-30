@@ -251,6 +251,7 @@ regular_files = [
     'resolve.svg',
     'retroarch.svg',
     'rider.svg',
+    'ringracers.svg',
     'rocketchat.svg',
     'rpi-imager.svg',
     'rstudio.svg',
@@ -548,6 +549,9 @@ link_files = {
     ],
     'kdenlive.svg': [
         'org.kde.kdenlive.svg',
+    ],
+    'ringracers.svg': [
+        'org.kartkrew.RingRacers.svg',
     ],
     'jdownloader.svg': [
         'org.jdownloader.JDownloader.svg',
