@@ -630,11 +630,11 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/legacy/applications-system.svg "System app category")
 
 #### Preferences
-![icon](./scalable/legacy/applications-preferences-desktop.svg "Preferences")
-![icon](./scalable/legacy/applications-preferences-desktop-accessibility.svg "Accessibility preferences")
-![icon](./scalable/legacy/applications-preferences-desktop-locale.svg "Locale preferences")
+![icon](./scalable/legacy/preferences-desktop.svg "Preferences")
+![icon](./scalable/legacy/preferences-desktop-accessibility.svg "Accessibility preferences")
+![icon](./scalable/legacy/preferences-desktop-locale.svg "Locale preferences")
 ![icon](./scalable/legacy/applications-system.svg "System preferences")
-![icon](./scalable/legacy/applications-system-users.svg "User preferences")
+![icon](./scalable/legacy/system-users.svg "User preferences")
 
 #### Actions
 ![icon](./scalable/legacy/system-lock-screen.svg "Lock screen")
