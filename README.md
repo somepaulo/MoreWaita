@@ -639,10 +639,10 @@ _These are the icons currently in git, versioned theme releases will be behind m
 #### Actions
 ![icon](./scalable/legacy/system-lock-screen.svg "Lock screen")
 ![icon](./scalable/legacy/system-log-out.svg "Log out")
-![icon](./scalable/legacy/system-reboot.svg "Reboot")
-![icon](./scalable/legacy/system-shutdown.svg "Shutdown")
 ![icon](./scalable/legacy/system-suspend.svg "Suspend")
 ![icon](./scalable/legacy/system-suspend-hibernate.svg "Hibernate")
+![icon](./scalable/legacy/system-reboot.svg "Reboot")
+![icon](./scalable/legacy/system-shutdown.svg "Shutdown")
 </details>
 
 ## Installation
