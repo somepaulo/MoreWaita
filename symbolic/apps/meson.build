@@ -559,6 +559,9 @@ link_files = {
     'foot-symbolic.svg': [
         'org.codeberg.dnkl.foot-symbolic.svg',
     ],
+    'bleachbit-symbolic.svg': [
+        'org.bleachbit.BleachBit-symbolic.svg',
+    ],
     'audacity-symbolic.svg': [
         'org.audacityteam.Audacity-symbolic.svg',
     ],

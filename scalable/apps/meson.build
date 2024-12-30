@@ -600,6 +600,9 @@ link_files = {
     'menulibre.svg': [
         'org.bluesabre.MenuLibre.svg',
     ],
+    'bleachbit.svg': [
+        'org.bleachbit.BleachBit.svg',
+    ],
     'audacity.svg': [
         'org.audacityteam.Audacity.svg',
     ],
