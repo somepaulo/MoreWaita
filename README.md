@@ -7,7 +7,7 @@
 An expanded Adwaita-styled companion icon theme, built largely upon the work of GNOME's Adwaita designers and GNOME Circle apps' developers, as well as inspiration from the Papirus icon theme designers, and a touch of tinkering from myself, [@dusansimic](https://github.com/dusansimic), [@julianfairfax](https://github.com/julianfairfax) and [a few others](https://github.com/somepaulo/MoreWaita/graphs/contributors).
 
 <details>
-<summary><h4>About the theme</h4></summary>
+<summary><h4>About the theme</h4> <em>(expand)</em></summary>
 
 The purpose of this theme is to provide third-party apps with a consistent look and feel in Gnome Shell.
 
@@ -608,6 +608,41 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-vala-legacy.svg "Vala")
 ![icon](./scalable/places/folder-wine-legacy.svg "Wine")
 ![icon](./scalable/places/folder-work-legacy.svg "Work")
+</details>
+<details>
+<summary><h3>Legacy</h3> <em>(expand)</em></summary>
+
+#### Apps
+![icon](./scalable/legacy/system-file-manager.svg "File manager")
+![icon](./scalable/legacy/accessories-text-editor.svg "Text editor")
+
+#### Categories
+![icon](./scalable/legacy/applications-accessories.svg "Accessories app category")
+![icon](./scalable/legacy/applications-development.svg "Development app category")
+![icon](./scalable/legacy/applications-education.svg "Education app category")
+![icon](./scalable/legacy/applications-games.svg "Games app category")
+![icon](./scalable/legacy/applications-graphics.svg "Graphics app category")
+![icon](./scalable/legacy/applications-internet.svg "Internet app category")
+![icon](./scalable/legacy/applications-multimedia.svg "Multimedia app category")
+![icon](./scalable/legacy/applications-office.svg "Office app category")
+![icon](./scalable/legacy/applications-other.svg "Other app category")
+![icon](./scalable/legacy/applications-science.svg "Science app category")
+![icon](./scalable/legacy/applications-system.svg "System app category")
+
+#### Preferences
+![icon](./scalable/legacy/applications-preferences-desktop.svg "Preferences")
+![icon](./scalable/legacy/applications-preferences-desktop-accessibility.svg "Accessibility preferences")
+![icon](./scalable/legacy/applications-preferences-desktop-locale.svg "Locale preferences")
+![icon](./scalable/legacy/applications-system.svg "System preferences")
+![icon](./scalable/legacy/applications-system-users.svg "User preferences")
+
+#### Actions
+![icon](./scalable/legacy/system-lock-screen.svg "Lock screen")
+![icon](./scalable/legacy/system-log-out.svg "Log out")
+![icon](./scalable/legacy/system-reboot.svg "Reboot")
+![icon](./scalable/legacy/system-shutdown.svg "Shutdown")
+![icon](./scalable/legacy/system-suspend.svg "Suspend")
+![icon](./scalable/legacy/system-suspend-hibernate.svg "Hibernate")
 </details>
 
 ## Installation
