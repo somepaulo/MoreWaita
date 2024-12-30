@@ -541,8 +541,43 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-wine.svg "Wine")
 ![icon](./scalable/places/folder-work.svg "Work")
 
-### Legacy Places
+</details>
+<details>
+<summary><h3>Legacy</h3> <em>(expand)</em></summary>
 
+#### Apps
+![icon](./scalable/legacy/system-file-manager.svg "File manager")
+![icon](./scalable/legacy/accessories-text-editor.svg "Text editor")
+
+#### Categories
+![icon](./scalable/legacy/applications-accessories.svg "Accessories app category")
+![icon](./scalable/legacy/applications-development.svg "Development app category")
+![icon](./scalable/legacy/applications-education.svg "Education app category")
+![icon](./scalable/legacy/applications-games.svg "Games app category")
+![icon](./scalable/legacy/applications-graphics.svg "Graphics app category")
+![icon](./scalable/legacy/applications-internet.svg "Internet app category")
+![icon](./scalable/legacy/applications-multimedia.svg "Multimedia app category")
+![icon](./scalable/legacy/applications-office.svg "Office app category")
+![icon](./scalable/legacy/applications-other.svg "Other app category")
+![icon](./scalable/legacy/applications-science.svg "Science app category")
+![icon](./scalable/legacy/applications-system.svg "System app category")
+
+#### Preferences
+![icon](./scalable/legacy/preferences-desktop.svg "Preferences")
+![icon](./scalable/legacy/preferences-desktop-accessibility.svg "Accessibility preferences")
+![icon](./scalable/legacy/preferences-desktop-locale.svg "Locale preferences")
+![icon](./scalable/legacy/applications-system.svg "System preferences")
+![icon](./scalable/legacy/system-users.svg "User preferences")
+
+#### Actions
+![icon](./scalable/legacy/system-lock-screen.svg "Lock screen")
+![icon](./scalable/legacy/system-log-out.svg "Log out")
+![icon](./scalable/legacy/system-suspend.svg "Suspend")
+![icon](./scalable/legacy/system-suspend-hibernate.svg "Hibernate")
+![icon](./scalable/legacy/system-reboot.svg "Reboot")
+![icon](./scalable/legacy/system-shutdown.svg "Shutdown")
+
+#### Places
 ![icon](./scalable/places/folder-3dbenchy-legacy.svg "3DBenchy")
 ![icon](./scalable/places/folder-android-legacy.svg "Android")
 ![icon](./scalable/places/folder-appimage-legacy.svg "AppImage")
@@ -611,41 +646,6 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-vala-legacy.svg "Vala")
 ![icon](./scalable/places/folder-wine-legacy.svg "Wine")
 ![icon](./scalable/places/folder-work-legacy.svg "Work")
-</details>
-<details>
-<summary><h3>Legacy</h3> <em>(expand)</em></summary>
-
-#### Apps
-![icon](./scalable/legacy/system-file-manager.svg "File manager")
-![icon](./scalable/legacy/accessories-text-editor.svg "Text editor")
-
-#### Categories
-![icon](./scalable/legacy/applications-accessories.svg "Accessories app category")
-![icon](./scalable/legacy/applications-development.svg "Development app category")
-![icon](./scalable/legacy/applications-education.svg "Education app category")
-![icon](./scalable/legacy/applications-games.svg "Games app category")
-![icon](./scalable/legacy/applications-graphics.svg "Graphics app category")
-![icon](./scalable/legacy/applications-internet.svg "Internet app category")
-![icon](./scalable/legacy/applications-multimedia.svg "Multimedia app category")
-![icon](./scalable/legacy/applications-office.svg "Office app category")
-![icon](./scalable/legacy/applications-other.svg "Other app category")
-![icon](./scalable/legacy/applications-science.svg "Science app category")
-![icon](./scalable/legacy/applications-system.svg "System app category")
-
-#### Preferences
-![icon](./scalable/legacy/preferences-desktop.svg "Preferences")
-![icon](./scalable/legacy/preferences-desktop-accessibility.svg "Accessibility preferences")
-![icon](./scalable/legacy/preferences-desktop-locale.svg "Locale preferences")
-![icon](./scalable/legacy/applications-system.svg "System preferences")
-![icon](./scalable/legacy/system-users.svg "User preferences")
-
-#### Actions
-![icon](./scalable/legacy/system-lock-screen.svg "Lock screen")
-![icon](./scalable/legacy/system-log-out.svg "Log out")
-![icon](./scalable/legacy/system-suspend.svg "Suspend")
-![icon](./scalable/legacy/system-suspend-hibernate.svg "Hibernate")
-![icon](./scalable/legacy/system-reboot.svg "Reboot")
-![icon](./scalable/legacy/system-shutdown.svg "Shutdown")
 </details>
 
 ## Installation
