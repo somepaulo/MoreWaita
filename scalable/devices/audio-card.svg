@@ -10,25 +10,6 @@
   <defs
      id="defs1478">
     <linearGradient
-       id="linearGradient1">
-      <stop
-         style="stop-color:#1200c1;stop-opacity:1;"
-         offset="0"
-         id="stop1" />
-      <stop
-         style="stop-color:#5442ff;stop-opacity:1;"
-         offset="0.41024572"
-         id="stop3" />
-      <stop
-         style="stop-color:#1200c1;stop-opacity:1;"
-         offset="0.80841982"
-         id="stop4" />
-      <stop
-         style="stop-color:#3d29ff;stop-opacity:1;"
-         offset="1"
-         id="stop2" />
-    </linearGradient>
-    <linearGradient
        id="j"
        gradientUnits="userSpaceOnUse"
        x1="37"
@@ -362,13 +343,33 @@
          id="path1475" />
     </clipPath>
     <linearGradient
-       xlink:href="#linearGradient1"
-       id="linearGradient2"
+       xlink:href="#linearGradient1-9"
+       id="linearGradient2-8"
        x1="76"
        y1="100.44489"
        x2="124"
        y2="100.44489"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3e-6)" />
+    <linearGradient
+       id="linearGradient1-9">
+      <stop
+         style="stop-color:#14539e;stop-opacity:1;"
+         offset="0"
+         id="stop1-7" />
+      <stop
+         style="stop-color:#78aced;stop-opacity:1;"
+         offset="0.41024572"
+         id="stop3-3" />
+      <stop
+         style="stop-color:#14529e;stop-opacity:1;"
+         offset="0.80841982"
+         id="stop4-6" />
+      <stop
+         style="stop-color:#629fea;stop-opacity:1;"
+         offset="1"
+         id="stop2-1" />
+    </linearGradient>
   </defs>
   <path
      d="M16 35.988h96a8 8 0 018 8V110a8 8 0 01-8 8H16a8 8 0 01-8-8V43.988a8 8 0 018-8zm0 0"
@@ -643,14 +644,14 @@
      fill="url(#r)"
      id="path1604" />
   <circle
-     style="fill:url(#linearGradient2);fill-opacity:1;stroke:none;stroke-width:0.565167;stroke-miterlimit:0.5;paint-order:stroke fill markers"
-     id="path10557-2"
+     style="fill:url(#linearGradient2-8);fill-opacity:1;stroke:none;stroke-width:0.565167;stroke-miterlimit:0.5;paint-order:stroke fill markers"
+     id="path10557-2-9"
      cx="100"
      cy="100.44489"
      r="24" />
   <circle
-     style="fill:#3d2aff;fill-opacity:1;stroke:none;stroke-width:0.565167;stroke-miterlimit:0.5;paint-order:stroke fill markers"
-     id="path10557"
+     style="fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.565167;stroke-miterlimit:0.5;paint-order:stroke fill markers"
+     id="path10557-3"
      cx="100"
      cy="98.427338"
      r="24" />
