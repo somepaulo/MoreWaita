@@ -562,6 +562,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/legacy/applications-other.svg "Other app category")
 ![icon](./scalable/legacy/applications-science.svg "Science app category")
 ![icon](./scalable/legacy/applications-system.svg "System app category")
+![icon](./scalable/legacy/applications-utilities.svg "Utilities app category")
 
 #### Preferences
 ![icon](./scalable/legacy/preferences-desktop.svg "Preferences")
