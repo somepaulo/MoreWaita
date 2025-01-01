@@ -171,6 +171,7 @@ regular_files = [
     'mailspring.svg',
     'maple.svg',
     'mathematica.svg',
+    'matlab.svg',
     'mattermost.svg',
     'maxima.svg',
     'mediainfo.svg',
@@ -698,6 +699,10 @@ link_files = {
         'me.kozec.syncthingtk.svg',
         'syncthing.svg',
         'syncthingtray.svg',
+    ],
+    'matlab.svg': [
+        'matlab-desktop.svg',
+        'matlab_icon.svg',
     ],
     'xonotic.svg': [
         'lutris_xonotic.svg',

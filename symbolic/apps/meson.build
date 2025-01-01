@@ -152,6 +152,7 @@ regular_files = [
     'mailspring-symbolic.svg',
     'maple-symbolic.svg',
     'mathematica-symbolic.svg',
+    'matlab-symbolic.svg',
     'mattermost-symbolic.svg',
     'maxima-symbolic.svg',
     'mediainfo-symbolic.svg',
@@ -658,6 +659,10 @@ link_files = {
         'me.kozec.syncthingtk-symbolic.svg',
         'syncthing-symbolic.svg',
         'syncthingtray-symbolic.svg',
+    ],
+    'matlab-symbolic.svg': [
+        'matlab-desktop-symbolic.svg',
+        'matlab_icon-symbolic.svg',
     ],
     'xonotic-symbolic.svg': [
         'lutris_xonotic-symbolic.svg',
