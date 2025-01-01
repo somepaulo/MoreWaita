@@ -16,25 +16,17 @@
          offset="0"
          id="stop2915" />
       <stop
-         style="stop-color:#dc3a2d;stop-opacity:1;"
-         offset="0.06780642"
+         style="stop-color:#e36359;stop-opacity:1;"
+         offset="0.41130233"
          id="stop2923" />
       <stop
          style="stop-color:#8c2017;stop-opacity:1;"
-         offset="0.14630504"
+         offset="0.81180745"
          id="stop2925" />
       <stop
-         style="stop-color:#8c2017;stop-opacity:1;"
-         offset="0.84746408"
-         id="stop2927" />
-      <stop
          style="stop-color:#dc3a2d;stop-opacity:1;"
-         offset="0.9275412"
-         id="stop2929" />
-      <stop
-         style="stop-color:#8c2017;stop-opacity:1;"
          offset="1"
-         id="stop2913" />
+         id="stop2929" />
     </linearGradient>
     <linearGradient
        id="linearGradient2907">
@@ -46,17 +38,6 @@
          style="stop-color:#5e8a3d;stop-opacity:0.98000002;"
          offset="1"
          id="stop2905" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient1954">
-      <stop
-         style="stop-color:#ea837b;stop-opacity:1;"
-         offset="0"
-         id="stop1950" />
-      <stop
-         style="stop-color:#8c2017;stop-opacity:1;"
-         offset="0.35823643"
-         id="stop1952" />
     </linearGradient>
     <linearGradient
        id="linearGradient898">
@@ -78,16 +59,6 @@
        fy="26.205349"
        r="26.238134"
        gradientTransform="matrix(1.9310345,0,0,1.6927219,2.206896,11.555552)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       xlink:href="#linearGradient1954"
-       id="radialGradient900-5"
-       cx="31.56126"
-       cy="26.205349"
-       fx="31.56126"
-       fy="26.205349"
-       r="26.238134"
-       gradientTransform="matrix(1.9310345,0,0,1.6927219,2.2068972,15.555553)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        xlink:href="#linearGradient2907"
