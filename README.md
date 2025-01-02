@@ -554,6 +554,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/legacy/applications-accessories.svg "Accessories app category")
 ![icon](./scalable/legacy/applications-development.svg "Development app category")
 ![icon](./scalable/legacy/applications-education.svg "Education app category")
+![icon](./scalable/legacy/applications-engineering.svg "Engineering app category")
 ![icon](./scalable/legacy/applications-games.svg "Games app category")
 ![icon](./scalable/legacy/applications-graphics.svg "Graphics app category")
 ![icon](./scalable/legacy/applications-internet.svg "Internet app category")
