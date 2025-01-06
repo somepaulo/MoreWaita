@@ -187,6 +187,7 @@ regular_files = [
     'monero.svg',
     'mpv.svg',
     'mumble.svg',
+    'musescore.svg',
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',
     'netbeans.svg',
@@ -1433,6 +1434,10 @@ link_files = {
     'obsidian.svg': [
         'appimagekit-obsidian.svg',
         'md.obsidian.Obsidian.svg',
+    ],
+    'musescore.svg': [
+        'appimagekit-musescore.svg',
+        'org.musescore.MuseScore.svg',
     ],
     'logseq.svg': [
         'appimagekit-logseq.svg',
