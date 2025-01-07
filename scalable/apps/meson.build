@@ -384,9 +384,6 @@ link_files = {
     'mathematica.svg': [
         'wolfram-mathematica.svg',
     ],
-    'vivaldi.svg': [
-        'vivaldi-stable.svg',
-    ],
     'virtualbox.svg': [
         'virtualbox-ose.svg',
     ],
@@ -1053,6 +1050,10 @@ link_files = {
     ],
     'vscodium.svg': [
         'com.vscodium.codium.svg',
+    ],
+    'vivaldi.svg': [
+        'com.vivaldi.Vivaldi.svg',
+        'vivaldi-stable.svg',
     ],
     'code-oss.svg': [
         'com.visualstudio.code-oss.svg',
