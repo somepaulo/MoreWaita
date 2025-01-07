@@ -167,6 +167,7 @@ regular_files = [
     'mockoon-symbolic.svg',
     'monero-symbolic.svg',
     'mumble-symbolic.svg',
+    'musescore-symbolic.svg',
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
     'netbeans-symbolic.svg',
@@ -1371,6 +1372,10 @@ link_files = {
     'obsidian-symbolic.svg': [
         'appimagekit-obsidian-symbolic.svg',
         'md.obsidian.Obsidian-symbolic.svg',
+    ],
+    'musescore-symbolic.svg': [
+        'appimagekit-musescore-symbolic.svg',
+        'org.musescore.MuseScore-symbolic.svg',
     ],
     'logseq-symbolic.svg': [
         'appimagekit-logseq-symbolic.svg',
