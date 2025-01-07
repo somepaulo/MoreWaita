@@ -82,6 +82,8 @@ regular_files = [
     'folder-mega.svg',
     'folder-money-legacy.svg',
     'folder-money.svg',
+    'folder-musescore-legacy.svg',
+    'folder-musescore.svg',
     'folder-neovim-legacy.svg',
     'folder-neovim.svg',
     'folder-nextcloud-legacy.svg',

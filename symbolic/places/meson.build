@@ -45,6 +45,7 @@ regular_files = [
     'folder-lua-symbolic.svg',
     'folder-mega-symbolic.svg',
     'folder-money-symbolic.svg',
+    'folder-musescore-symbolic.svg',
     'folder-neovim-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
@@ -147,6 +148,9 @@ link_files = {
     ],
     'folder-neovim-symbolic.svg': [
         'folder-neovim-legacy-symbolic.svg',
+    ],
+    'folder-musescore-symbolic.svg': [
+        'folder-musescore-legacy-symbolic.svg',
     ],
     'folder-money-symbolic.svg': [
         'folder-money-legacy-symbolic.svg',
