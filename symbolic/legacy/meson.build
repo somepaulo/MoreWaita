@@ -6,7 +6,7 @@ regular_files = [
     'applications-development-symbolic.svg',
     'applications-internet-symbolic.svg',
     'applications-other-symbolic.svg',
-    'preferences-desktop.svg',
+    'preferences-desktop-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 

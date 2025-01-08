@@ -7,7 +7,7 @@
 An expanded Adwaita-styled companion icon theme, built largely upon the work of GNOME's Adwaita designers and GNOME Circle apps' developers, as well as inspiration from the Papirus icon theme designers, and a touch of tinkering from myself, [@dusansimic](https://github.com/dusansimic), [@julianfairfax](https://github.com/julianfairfax) and [a few others](https://github.com/somepaulo/MoreWaita/graphs/contributors).
 
 <details>
-<summary><h4>About the theme</h4> <em>(expand)</em></summary>
+<summary><h3>About the theme</h3> <em>(expand)</em></summary>
 
 The purpose of this theme is to provide third-party apps with a consistent look and feel in Gnome Shell.
 
@@ -675,7 +675,7 @@ git clone https://github.com/somepaulo/MoreWaita.git && cd MoreWaita && ./instal
 
 ##### Uninstall
 
-Simply chose another theme and then delete the entire `MoreWaita` folder from either `/usr/share/icons/` or `~/.local/share/icons/` depending on your installation choice above.
+Simply choose another theme and then delete the entire `MoreWaita` folder from either `/usr/share/icons/` or `~/.local/share/icons/` depending on your installation choice above.
 
 #### Arch Linux
 

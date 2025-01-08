@@ -75,6 +75,15 @@ link_files = {
     'keepassxc-locked.svg': [
         'org.keepassxc.KeePassXC-locked.svg',
     ],
+    'protonvpngui-no-network.svg': [
+        'com.protonvpn.www.state-error.svg',
+    ],
+    'protonvpngui-disconnected.svg': [
+        'com.protonvpn.www.state-disconnected.svg',
+    ],
+    'protonvpngui-connected.svg': [
+        'com.protonvpn.www.state-connected.svg',
+    ],
     # DO NOT REMOVE: End of link segment
 }
 
