@@ -5,10 +5,61 @@
    width="16px"
    version="1.1"
    id="svg16"
+   sodipodi:docname="qbittorrent-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="37"
+     inkscape:cy="10.5"
+     inkscape:window-width="1704"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16">
+    <inkscape:grid
+       id="grid10"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
-     id="defs16" />
+     id="defs16">
+    <rect
+       x="0"
+       y="0"
+       width="16"
+       height="16"
+       id="rect10" />
+    <rect
+       x="0"
+       y="0"
+       width="14.643338"
+       height="17.600001"
+       id="rect9" />
+  </defs>
   <filter
      id="a"
      height="1"
@@ -151,7 +202,8 @@
   </g>
   <g
      mask="url(#g)"
-     id="g14">
+     id="g14"
+     inkscape:label="g14">
     <g
        clip-path="url(#h)"
        fill="none"
@@ -169,12 +221,19 @@
          id="path13" />
     </g>
   </g>
+  <rect
+     style="opacity:1;fill:#000000"
+     id="rect11"
+     width="2"
+     height="11"
+     x="8"
+     y="1" />
   <path
-     id="path17"
-     style="fill:#000000;stroke-width:0.181818;opacity:0.6"
-     d="M 3.6363637,4.3636364 C 1.6367201,4.3636364 1.2e-7,6.0003573 1.2e-7,8 c 0,1.9996429 1.63671998,3.636364 3.63636358,3.636364 1.9996436,0 3.6363636,-1.6367211 3.6363636,-3.636364 0,-1.9996427 -1.63672,-3.6363636 -3.6363636,-3.6363636 z m 0,1.4545455 c 1.2134255,0 2.1818182,0.9683929 2.1818182,2.1818181 0,1.2134255 -0.9683927,2.181818 -2.1818182,2.181818 -1.2134254,0 -2.1818181,-0.9683925 -2.1818181,-2.181818 0,-1.2134252 0.9683927,-2.1818181 2.1818181,-2.1818181 z M 5.8181819,4.3636364 V 14.545455 H 7.2727273 V 4.3636364 Z" />
+     id="rect12"
+     style="opacity:0.6;fill:#000000"
+     d="M 3.5 4 A 3.5 4 0 0 0 0 8 A 3.5 4 0 0 0 3.5 12 A 3.5 4 0 0 0 6 10.785156 L 6 15 L 8 15 L 8 4 L 6 4 L 6 5.2011719 A 3.5 4 0 0 0 3.5 4 z M 4 6 A 2 2 0 0 1 6 8 A 2 2 0 0 1 4 10 A 2 2 0 0 1 2 8 A 2 2 0 0 1 4 6 z " />
   <path
-     id="path21"
-     style="fill:#000000;stroke-width:0.181818"
-     d="m 12.363636,4.3636364 c -1.999643,0 -3.6363632,1.6367209 -3.6363632,3.6363636 0,1.9996429 1.6367202,3.636364 3.6363632,3.636364 C 14.36328,11.636364 16,9.9996429 16,8 16,6.0003573 14.36328,4.3636364 12.363636,4.3636364 Z m 0,1.4545455 c 1.213426,0 2.181819,0.9683929 2.181819,2.1818181 0,1.2134255 -0.968393,2.181818 -2.181819,2.181818 -1.213425,0 -2.181818,-0.9683925 -2.181818,-2.181818 0,-1.2134252 0.968393,-2.1818181 2.181818,-2.1818181 z M 8.7272728,1.4545455 V 11.636364 H 10.181818 V 1.4545455 Z" />
+     id="path14"
+     style="opacity:1;fill:#000000;stroke-width:1.08012"
+     d="M 12.5,4 A 3.5,4 0 0 0 9,8 3.5,4 0 0 0 12.5,12 3.5,4 0 0 0 16,8 3.5,4 0 0 0 12.5,4 Z M 12,6 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z" />
 </svg>
