@@ -120,6 +120,7 @@ regular_files = [
     'guiscrcpy.svg',
     'hardinfo.svg',
     'headlines.svg',
+    'helio-workstation.svg',
     'heroic.svg',
     'hp_logo.svg',
     'htop.svg',
@@ -985,6 +986,9 @@ link_files = {
         'org.freecad.FreeCAD.svg',
         'org.freecadweb.FreeCAD.svg',
     ],
+    'helio-workstation.svg': [
+        'fm.helio.Worksatation.svg',
+    ],
     'firewall-config.svg': [
         'firewall-applet.svg',
     ],
@@ -1056,6 +1060,10 @@ link_files = {
     'vivaldi.svg': [
         'com.vivaldi.Vivaldi.svg',
         'vivaldi-stable.svg',
+    ],
+    'visual-studio-code.svg': [
+        'com.visualstudio.code.svg',
+        'vscode.svg',
     ],
     'code-oss.svg': [
         'com.visualstudio.code-oss.svg',
@@ -1246,11 +1254,6 @@ link_files = {
     ],
     'abiword.svg': [
         'com.abisource.AbiWord.svg',
-    ],
-    'visual-studio-code.svg': [
-        'code.svg',
-        'com.visualstudio.code.svg',
-        'vscode.svg',
     ],
     'clamtk.svg': [
         'clamav.svg',

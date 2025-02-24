@@ -107,6 +107,7 @@ regular_files = [
     'gufw-symbolic.svg',
     'hardinfo-symbolic.svg',
     'headlines-symbolic.svg',
+    'helio-workstation-symbolic.svg',
     'heroic-symbolic.svg',
     'hp_logo-symbolic.svg',
     'htop-symbolic.svg',
@@ -938,6 +939,9 @@ link_files = {
         'freecad-daily-symbolic.svg',
         'org.freecadweb.FreeCAD-symbolic.svg',
     ],
+    'helio-workstation-symbolic.svg': [
+        'fm.helio.Worksatation-symbolic.svg',
+    ],
     'firewall-config-symbolic.svg': [
         'firewall-applet-symbolic.svg',
     ],
@@ -1003,6 +1007,9 @@ link_files = {
     ],
     'vscodium-symbolic.svg': [
         'com.vscodium.codium-symbolic.svg',
+    ],
+    'visual-studio-code-symbolic.svg': [
+        'com.visualstudio.code-symbolic.svg',
     ],
     'code-oss-symbolic.svg': [
         'com.visualstudio.code-oss-symbolic.svg',
@@ -1174,10 +1181,6 @@ link_files = {
     ],
     'abiword-symbolic.svg': [
         'com.abisource.AbiWord-symbolic.svg',
-    ],
-    'visual-studio-code-symbolic.svg': [
-        'code-symbolic.svg',
-        'com.visualstudio.code-symbolic.svg',
     ],
     'clamtk-symbolic.svg': [
         'clamav-symbolic.svg',
