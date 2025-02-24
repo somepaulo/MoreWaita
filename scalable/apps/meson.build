@@ -919,6 +919,7 @@ link_files = {
     ],
     'pidgin.svg': [
         'im.pidgin.Pidgin.svg',
+        'im.pidgin.Pidgin3.svg',
     ],
     'nheko.svg': [
         'im.nheko.Nheko.svg',

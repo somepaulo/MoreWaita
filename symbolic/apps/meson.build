@@ -874,6 +874,7 @@ link_files = {
     ],
     'pidgin-symbolic.svg': [
         'im.pidgin.Pidgin-symbolic.svg',
+        'im.pidgin.Pidgin3-symbolic.svg',
     ],
     'nheko-symbolic.svg': [
         'im.nheko.Nheko-symbolic.svg',
