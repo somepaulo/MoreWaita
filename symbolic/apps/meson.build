@@ -1318,10 +1318,6 @@ link_files = {
         'sun-javaws32-jdk7-symbolic.svg',
         'sun-javaws32-jdk8-symbolic.svg',
     ],
-    'zen-browser-symbolic.svg': [
-        'appimagekit-zen-browser-symbolic.svg',
-        'io.github.zen_browser.zen-symbolic.svg',
-    ],
     'yuzu-symbolic.svg': [
         'appimagekit-yuzu-symbolic.svg',
         'org.yuzu_emu.yuzu-symbolic.svg',
@@ -1435,6 +1431,11 @@ link_files = {
         'appimagekit-balena-etcher-electron-symbolic.svg',
         'balena-etcher-electron-symbolic.svg',
         'etcher-electron-symbolic.svg',
+    ],
+    'zen-browser-symbolic.svg': [
+        'app.zen_browser.zen-symbolic.svg',
+        'appimagekit-zen-browser-symbolic.svg',
+        'io.github.zen_browser.zen-symbolic.svg',
     ],
     'androidstudio-symbolic.svg': [
         'android-studio-beta-symbolic.svg',

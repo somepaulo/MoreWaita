@@ -1380,10 +1380,6 @@ link_files = {
         'sun-javaws32-jdk7.svg',
         'sun-javaws32-jdk8.svg',
     ],
-    'zen-browser.svg': [
-        'appimagekit-zen-browser.svg',
-        'io.github.zen_browser.zen.svg',
-    ],
     'yuzu.svg': [
         'appimagekit-yuzu.svg',
         'org.yuzu_emu.yuzu.svg',
@@ -1496,6 +1492,11 @@ link_files = {
         'appimagekit-balena-etcher-electron.svg',
         'balena-etcher-electron.svg',
         'etcher-electron.svg',
+    ],
+    'zen-browser.svg': [
+        'app.zen_browser.zen.svg',
+        'appimagekit-zen-browser.svg',
+        'io.github.zen_browser.zen.svg',
     ],
     'androidstudio.svg': [
         'android-studio.svg',
