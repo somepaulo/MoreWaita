@@ -149,6 +149,7 @@ regular_files = [
     'linguist-symbolic.svg',
     'localsend-symbolic.svg',
     'logseq-symbolic.svg',
+    'lunarclient-symbolic.svg',
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
     'maple-symbolic.svg',
@@ -1376,6 +1377,11 @@ link_files = {
     'musescore-symbolic.svg': [
         'appimagekit-musescore-symbolic.svg',
         'org.musescore.MuseScore-symbolic.svg',
+    ],
+    'lunarclient-symbolic.svg': [
+        'appimagekit-lunarclient-symbolic.svg',
+        'com.lunarclient.LunarClient-symbolic.svg',
+        'lunar-client-symbolic.svg',
     ],
     'logseq-symbolic.svg': [
         'appimagekit-logseq-symbolic.svg',

@@ -186,6 +186,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/lightworks.svg "Lightworks")
 ![icon](./scalable/apps/localsend.svg "LocalSend")
 ![icon](./scalable/apps/logseq.svg "Logseq")
+![icon](./scalable/apps/lunarclient.svg "Lunar Client")
 ![icon](./scalable/apps/lvim.svg "LunarVim")
 ![icon](./scalable/apps/mailspring.svg "Mailspring")
 ![icon](./scalable/apps/maple.svg "Maple")
@@ -460,6 +461,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/virtualbox-vdi.svg "VirtualBox VDI Image")
 ![icon](./scalable/mimetypes/virtualbox-vhd.svg "VirtualBox VHD Image")
 ![icon](./scalable/mimetypes/virtualbox-vmdk.svg "VirtualBox VMDK Image")
+![icon](./scalable/mimetypes/org.wireshark.Wireshark-mimetype.svg "Wireshark Packet Capture")
 </details>
 <details>
 <summary><h3>Devices</h3> <em>(expand)</em></summary>
