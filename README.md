@@ -552,9 +552,10 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <details>
 <summary><h3>Legacy</h3> <em>(expand)</em></summary>
 
-#### Apps
+#### Apps & MIME types
 ![icon](./scalable/legacy/system-file-manager.svg "File manager")
 ![icon](./scalable/legacy/accessories-text-editor.svg "Text editor")
+![icon](./scalable/legacy/package.svg "Package")
 
 #### Categories
 ![icon](./scalable/legacy/applications-accessories.svg "Accessories app category")
@@ -575,8 +576,10 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/legacy/preferences-desktop.svg "Preferences")
 ![icon](./scalable/legacy/preferences-desktop-accessibility.svg "Accessibility preferences")
 ![icon](./scalable/legacy/preferences-desktop-locale.svg "Locale preferences")
+![icon](./scalable/legacy/preferences-desktop-screensaver.svg "Screensaver preferences")
 ![icon](./scalable/legacy/applications-system.svg "System preferences")
 ![icon](./scalable/legacy/system-users.svg "User preferences")
+![icon](./scalable/legacy/preferences-desktop-wallpaper.svg "Wallpaper preferences")
 
 #### Actions
 ![icon](./scalable/legacy/system-lock-screen.svg "Lock screen")
