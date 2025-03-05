@@ -432,6 +432,9 @@ link_files = {
     'warpinator-symbolic.svg': [
         'org.x.Warpinator-symbolic.svg',
     ],
+    'virt-manager-symbolic.svg': [
+        'org.virt_manager.virt-manager-symbolic.svg',
+    ],
     'vlc-symbolic.svg': [
         'org.videolan.VLC-symbolic.svg',
     ],

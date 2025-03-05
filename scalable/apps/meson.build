@@ -460,6 +460,9 @@ link_files = {
     'warpinator.svg': [
         'org.x.Warpinator.svg',
     ],
+    'virt-manager.svg': [
+        'org.virt_manager.virt-manager.svg',
+    ],
     'vlc.svg': [
         'org.videolan.VLC.svg',
     ],
