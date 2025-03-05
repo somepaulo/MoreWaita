@@ -245,6 +245,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/pacseek.svg "Pacseek")
 ![icon](./scalable/apps/pamac.svg "Pamac")
 ![icon](./scalable/apps/org.parlatype.Parlatype.svg "Parlatype")
+![icon](./scalable/apps/parsehub.svg "Parsehub")
 ![icon](./scalable/apps/pavucontrol.svg "PulseAudio Volume Control")
 ![icon](./scalable/apps/pidgin.svg "Pidgin")
 ![icon](./scalable/apps/pinta.svg "Pinta")

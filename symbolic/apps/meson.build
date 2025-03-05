@@ -204,6 +204,7 @@ regular_files = [
     'osmscout-server-symbolic.svg',
     'osu-symbolic.svg',
     'pacseek-symbolic.svg',
+    'parsehub-symbolic.svg',
     'phpstorm-symbolic.svg',
     'pidgin-symbolic.svg',
     'pinta-symbolic.svg',

@@ -228,6 +228,7 @@ regular_files = [
     'osu.svg',
     'pacseek.svg',
     'pamac.svg',
+    'parsehub.svg',
     'pavucontrol.svg',
     'phpstorm.svg',
     'pidgin.svg',
