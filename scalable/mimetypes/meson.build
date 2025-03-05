@@ -99,6 +99,7 @@ regular_files = [
     'text-x-ruby.svg',
     'text-x-tex.svg',
     'text-x-typescript.svg',
+    'text-x-typst.svg',
     'text-x-vala.svg',
     'virtualbox-hdd.svg',
     'virtualbox-ova.svg',

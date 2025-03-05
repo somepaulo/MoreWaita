@@ -450,6 +450,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/text-x-gettext-translation-template.svg "Translation Template")
 ![icon](./scalable/mimetypes/application-x-gettext-translation.svg "Translation Compiled")
 ![icon](./scalable/mimetypes/text-x-typescript.svg "TypeScript")
+![icon](./scalable/mimetypes/text-x-typst.svg "Typst")
 ![icon](./scalable/mimetypes/text-x-vala.svg "Vala")
 ![icon](./scalable/mimetypes/application-xml.svg "XML")
 ![icon](./scalable/mimetypes/application-x-xopp.svg "xApp")
