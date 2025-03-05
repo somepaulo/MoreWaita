@@ -727,7 +727,7 @@ nix-shell -p morewaita-icon-theme
 
 ## Activation
 
-Either use the `Tweaks` app to choose and activate the icon theme or run the following command:
+Either use the `Refine` or `Tweaks` app to choose and activate the icon theme or run the following command:
 
 ```sh
 gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
