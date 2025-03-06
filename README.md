@@ -353,6 +353,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/zathura.svg "Zathura")
 ![icon](./scalable/apps/zed.svg "Zed")
 ![icon](./scalable/apps/zen-browser.svg "Zen Browser")
+![icon](./scalable/apps/zim.svg "Zim")
 ![icon](./scalable/apps/Zoom.svg "Zoom")
 ![icon](./scalable/apps/zrythm.svg "Zrythm")
 </details>

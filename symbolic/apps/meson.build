@@ -305,6 +305,7 @@ regular_files = [
     'zathura-symbolic.svg',
     'zed-symbolic.svg',
     'zen-browser-symbolic.svg',
+    'zim-symbolic.svg',
     'zrythm-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -429,6 +430,9 @@ link_files = {
     ],
     'zrythm-symbolic.svg': [
         'org.zrythm.Zrythm-symbolic.svg',
+    ],
+    'zim-symbolic.svg': [
+        'org.zim_wiki.Zim-symbolic.svg',
     ],
     'warpinator-symbolic.svg': [
         'org.x.Warpinator-symbolic.svg',

@@ -333,6 +333,7 @@ regular_files = [
     'zathura.svg',
     'zed.svg',
     'zen-browser.svg',
+    'zim.svg',
     'zrythm.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -457,6 +458,9 @@ link_files = {
     ],
     'zrythm.svg': [
         'org.zrythm.Zrythm.svg',
+    ],
+    'zim.svg': [
+        'org.zim_wiki.Zim.svg',
     ],
     'warpinator.svg': [
         'org.x.Warpinator.svg',
