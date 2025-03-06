@@ -239,6 +239,7 @@ regular_files = [
     'rstudio-symbolic.svg',
     'rubymine-symbolic.svg',
     'rustdesk-symbolic.svg',
+    'rustrover-symbolic.svg',
     'ryujinx-symbolic.svg',
     'saber-symbolic.svg',
     'scrcpy-symbolic.svg',
@@ -1091,6 +1092,9 @@ link_files = {
     'jetbrains-toolbox-symbolic.svg': [
         'com.jetbrains.ToolBox-symbolic.svg',
         'toolbox-symbolic.svg',
+    ],
+    'rustrover-symbolic.svg': [
+        'com.jetbrains.RustRover-symbolic.svg',
     ],
     'rubymine-symbolic.svg': [
         'com.jetbrains.RubyMine-symbolic.svg',

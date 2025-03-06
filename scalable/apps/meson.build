@@ -264,6 +264,7 @@ regular_files = [
     'rstudio.svg',
     'rubymine.svg',
     'rustdesk.svg',
+    'rustrover.svg',
     'ryujinx.svg',
     'saber.svg',
     'scrcpy.svg',
@@ -1145,6 +1146,9 @@ link_files = {
     'jetbrains-toolbox.svg': [
         'com.jetbrains.ToolBox.svg',
         'toolbox.svg',
+    ],
+    'rustrover.svg': [
+        'com.jetbrains.RustRover.svg',
     ],
     'rubymine.svg': [
         'com.jetbrains.RubyMine.svg',

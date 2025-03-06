@@ -153,6 +153,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/pycharm.svg "JetBrains PyCharm")
 ![icon](./scalable/apps/rider.svg "JetBrains Rider")
 ![icon](./scalable/apps/rubymine.svg "JetBrains RubyMine")
+![icon](./scalable/apps/rustrover.svg "JetBrains RustRover")
 ![icon](./scalable/apps/webstorm.svg "JetBrains WebStorm")
 ![icon](./scalable/apps/jetbrains-toolbox.svg "JetBrains Toolbox")
 ![icon](./scalable/apps/jockey.svg "Jockey")
