@@ -192,6 +192,7 @@ regular_files = [
     'mpv.svg',
     'mumble.svg',
     'musescore.svg',
+    'neovide.svg',
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',
     'netbeans.svg',
@@ -1060,6 +1061,9 @@ link_files = {
     ],
     'pulsar.svg': [
         'dev.pulsar_edit.Pulsar.svg',
+    ],
+    'neovide.svg': [
+        'dev.neovide.neovide.svg',
     ],
     'MediathekView.svg': [
         'de.mediathekview.MediathekView.svg',

@@ -172,6 +172,7 @@ regular_files = [
     'monero-symbolic.svg',
     'mumble-symbolic.svg',
     'musescore-symbolic.svg',
+    'neovide-symbolic.svg',
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
     'netbeans-symbolic.svg',
@@ -1010,6 +1011,9 @@ link_files = {
     ],
     'pulsar-symbolic.svg': [
         'dev.pulsar_edit.Pulsar-symbolic.svg',
+    ],
+    'neovide-symbolic.svg': [
+        'dev.neovide.neovide-symbolic.svg',
     ],
     'MediathekView-symbolic.svg': [
         'de.mediathekview.MediathekView-symbolic.svg',
