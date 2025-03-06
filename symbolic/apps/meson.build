@@ -210,6 +210,7 @@ regular_files = [
     'phpstorm-symbolic.svg',
     'pidgin-symbolic.svg',
     'pinta-symbolic.svg',
+    'polychromatic-symbolic.svg',
     'popcorntime-symbolic.svg',
     'portmaster-symbolic.svg',
     'postman-symbolic.svg',
@@ -1469,6 +1470,10 @@ link_files = {
         'app.zen_browser.zen-symbolic.svg',
         'appimagekit-zen-browser-symbolic.svg',
         'io.github.zen_browser.zen-symbolic.svg',
+    ],
+    'polychromatic-symbolic.svg': [
+        'app.polychromatic.controller-symbolic.svg',
+        'polychromatic-controller-symbolic.svg',
     ],
     'androidstudio-symbolic.svg': [
         'android-studio-beta-symbolic.svg',

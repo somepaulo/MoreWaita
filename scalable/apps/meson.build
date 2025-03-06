@@ -235,6 +235,7 @@ regular_files = [
     'phpstorm.svg',
     'pidgin.svg',
     'pinta.svg',
+    'polychromatic.svg',
     'popcorntime.svg',
     'portmaster.svg',
     'postman.svg',
@@ -1530,6 +1531,10 @@ link_files = {
         'app.zen_browser.zen.svg',
         'appimagekit-zen-browser.svg',
         'io.github.zen_browser.zen.svg',
+    ],
+    'polychromatic.svg': [
+        'app.polychromatic.controller.svg',
+        'polychromatic-controller.svg',
     ],
     'androidstudio.svg': [
         'android-studio.svg',

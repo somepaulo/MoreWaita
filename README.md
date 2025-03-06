@@ -253,6 +253,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/pidgin.svg "Pidgin")
 ![icon](./scalable/apps/pinta.svg "Pinta")
 ![icon](./scalable/apps/net.poedit.Poedit.svg "Poedit")
+![icon](./scalable/apps/polychromatic.svg "Polychromatic")
 ![icon](./scalable/apps/popcorntime.svg "Popcorn Time")
 ![icon](./scalable/apps/portmaster.svg "Portmaster")
 ![icon](./scalable/apps/postman.svg "Postman")
