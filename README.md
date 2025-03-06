@@ -32,6 +32,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/android-studio-canary.svg "Android Studio Canary")
 ![icon](./scalable/apps/anki.svg "Anki")
 ![icon](./scalable/apps/anydesk.svg "AnyDesk")
+![icon](./scalable/apps/anytype.svg "AnyType")
 ![icon](./scalable/apps/appflowy.svg "AppFlowy")
 ![icon](./scalable/apps/ardour.svg "Ardour")
 ![icon](./scalable/apps/arduino.svg "Arduino")

@@ -13,6 +13,7 @@ regular_files = [
     'androidstudio-symbolic.svg',
     'anki-symbolic.svg',
     'anydesk-symbolic.svg',
+    'anytype-symbolic.svg',
     'app.bluebubbles.BlueBubbles-symbolic.svg',
     'appflowy-symbolic.svg',
     'ardour-symbolic.svg',
@@ -1457,6 +1458,10 @@ link_files = {
         'appimagekit-balena-etcher-electron-symbolic.svg',
         'balena-etcher-electron-symbolic.svg',
         'etcher-electron-symbolic.svg',
+    ],
+    'anytype-symbolic.svg': [
+        'appimagekit-anytype-symbolic.svg',
+        'io.anytype.anytype-symbolic.svg',
     ],
     'zen-browser-symbolic.svg': [
         'app.zen_browser.zen-symbolic.svg',

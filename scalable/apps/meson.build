@@ -16,6 +16,7 @@ regular_files = [
     'androidstudio.svg',
     'anki.svg',
     'anydesk.svg',
+    'anytype.svg',
     'app.bluebubbles.BlueBubbles.svg',
     'appflowy.svg',
     'ardour.svg',
@@ -1518,6 +1519,10 @@ link_files = {
         'appimagekit-balena-etcher-electron.svg',
         'balena-etcher-electron.svg',
         'etcher-electron.svg',
+    ],
+    'anytype.svg': [
+        'appimagekit-anytype.svg',
+        'io.anytype.anytype.svg',
     ],
     'zen-browser.svg': [
         'app.zen_browser.zen.svg',
