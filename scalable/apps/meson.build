@@ -56,6 +56,7 @@ regular_files = [
     'corectrl.svg',
     'cudatext-512.svg',
     'cups.svg',
+    'cursor.svg',
     'darktable.svg',
     'datagrip.svg',
     'dataspell.svg',

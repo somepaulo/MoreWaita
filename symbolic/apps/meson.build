@@ -49,6 +49,7 @@ regular_files = [
     'corectrl-symbolic.svg',
     'cudatext-512-symbolic.svg',
     'cups-symbolic.svg',
+    'cursor-symbolic.svg',
     'darktable-symbolic.svg',
     'datagrip-symbolic.svg',
     'dataspell-symbolic.svg',

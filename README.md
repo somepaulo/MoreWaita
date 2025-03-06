@@ -72,6 +72,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/corectrl.svg "CoreCtrl")
 ![icon](./scalable/apps/cudatext-512.svg "CudaText")
 ![icon](./scalable/apps/cups.svg "CUPS")
+![icon](./scalable/apps/cursor.svg "Cursor")
 ![icon](./scalable/apps/darktable.svg "Darktable")
 ![icon](./scalable/apps/resolve.svg "DaVinci Resolve")
 ![icon](./scalable/apps/dbeaver.svg "DBeaver")
