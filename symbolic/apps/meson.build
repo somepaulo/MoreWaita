@@ -274,6 +274,7 @@ regular_files = [
     'thunderbird-symbolic.svg',
     'todoist-symbolic.svg',
     'tor-browser-symbolic.svg',
+    'tutanota-desktop-symbolic.svg',
     'ugene-symbolic.svg',
     'ungoogled-chromium-symbolic.svg',
     'unityhub-symbolic.svg',
@@ -1345,6 +1346,10 @@ link_files = {
         'com.unityhub.UnityHub-symbolic.svg',
         'unity-editor-icon-symbolic.svg',
         'unityeditor-symbolic.svg',
+    ],
+    'tutanota-desktop-symbolic.svg': [
+        'appimagekit-tutanota-desktop-symbolic.svg',
+        'com.tutanota.Tutanota-symbolic.svg',
     ],
     'texts-symbolic.svg': [
         'appimagekit-texts-symbolic.svg',

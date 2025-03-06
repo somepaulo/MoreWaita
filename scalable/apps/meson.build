@@ -301,6 +301,7 @@ regular_files = [
     'thunderbird.svg',
     'todoist.svg',
     'tor-browser.svg',
+    'tutanota-desktop.svg',
     'ugene.svg',
     'ungoogled-chromium.svg',
     'unity-editor-icon.svg',
@@ -1408,6 +1409,10 @@ link_files = {
         'appimagekit-unityeditor.svg',
         'com.unityhub.UnityEditor.svg',
         'unityeditor.svg',
+    ],
+    'tutanota-desktop.svg': [
+        'appimagekit-tutanota-desktop.svg',
+        'com.tutanota.Tutanota.svg',
     ],
     'texts.svg': [
         'appimagekit-texts.svg',
