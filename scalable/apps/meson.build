@@ -303,6 +303,7 @@ regular_files = [
     'thunderbird.svg',
     'todoist.svg',
     'tor-browser.svg',
+    'trivalent.svg',
     'tutanota-desktop.svg',
     'ugene.svg',
     'ungoogled-chromium.svg',

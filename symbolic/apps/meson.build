@@ -1212,6 +1212,7 @@ link_files = {
         'google-chrome2-symbolic.svg',
         'googlechrome-symbolic.svg',
         'org.chromium.Chromium-symbolic.svg',
+        'trivalent-symbolic.svg',
     ],
     'rocketchat-symbolic.svg': [
         'chat.rocket.RocketChat-symbolic.svg',
