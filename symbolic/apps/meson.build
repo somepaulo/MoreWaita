@@ -90,6 +90,7 @@ regular_files = [
     'genymotion-symbolic.svg',
     'geogebra-symbolic.svg',
     'ghostty-symbolic.svg',
+    'gimagereader-symbolic.svg',
     'gimp-symbolic.svg',
     'github-desktop-symbolic.svg',
     'gitkraken-symbolic.svg',
@@ -867,6 +868,9 @@ link_files = {
     ],
     'osmscout-server-symbolic.svg': [
         'io.github.rinigus.OSMScoutServer-symbolic.svg',
+    ],
+    'gimagereader-symbolic.svg': [
+        'io.github.manisandro.gImageReader-symbolic.svg',
     ],
     'boxbuddyrs-symbolic.svg': [
         'io.github.dvlv.boxbuddyrs-symbolic.svg',

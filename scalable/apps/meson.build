@@ -101,6 +101,7 @@ regular_files = [
     'genymotion.svg',
     'geogebra.svg',
     'ghostty.svg',
+    'gimagereader.svg',
     'gimp.svg',
     'github-desktop.svg',
     'gitkraken.svg',
@@ -913,6 +914,9 @@ link_files = {
     ],
     'osmscout-server.svg': [
         'io.github.rinigus.OSMScoutServer.svg',
+    ],
+    'gimagereader.svg': [
+        'io.github.manisandro.gImageReader.svg',
     ],
     'boxbuddyrs.svg': [
         'io.github.dvlv.boxbuddyrs.svg',
