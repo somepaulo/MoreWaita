@@ -274,7 +274,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/qt5ct.svg "Qt Control Center")
 ![icon](./scalable/apps/assistant.svg "Qt Assistant")
 ![icon](./scalable/apps/qdbusviewer.svg "Qt dbus Viewer")
-![icon](./scalable/apps/QtProject-designer.svg "Qt Designer")
+![icon](./scalable/apps/designer.svg "Qt Designer")
 ![icon](./scalable/apps/linguist.svg "Qt Linguist")
 ![icon](./scalable/apps/qv4l2.svg "Qt Video for Linux Utility")
 ![icon](./scalable/apps/io.github.quodlibet.QuodLibet.svg "QuodLibet")
