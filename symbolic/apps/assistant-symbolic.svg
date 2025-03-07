@@ -4,50 +4,12 @@
    height="16"
    version="1"
    id="svg566"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs570">
-    <linearGradient
-       xlink:href="#linearGradient955"
-       id="linearGradient957"
-       x1="-566.03278"
-       y1="-81.183174"
-       x2="-462.03284"
-       y2="-81.183174"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(413.66564,76.23812)" />
-    <linearGradient
-       id="linearGradient955">
-      <stop
-         style="stop-color:#2ab43c;stop-opacity:1;"
-         offset="0"
-         id="stop951" />
-      <stop
-         style="stop-color:#52d262;stop-opacity:1;"
-         offset="0.04354872"
-         id="stop959" />
-      <stop
-         style="stop-color:#2ab43c;stop-opacity:1;"
-         offset="0.07182212"
-         id="stop961" />
-      <stop
-         style="stop-color:#2ab43c;stop-opacity:1;"
-         offset="0.9348731"
-         id="stop963" />
-      <stop
-         style="stop-color:#52d262;stop-opacity:1;"
-         offset="0.96238744"
-         id="stop965" />
-      <stop
-         style="stop-color:#2ab43c;stop-opacity:1;"
-         offset="1"
-         id="stop953" />
-    </linearGradient>
-  </defs>
+     id="defs570" />
   <path
-     id="path13104-3"
-     style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0178572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-     d="M 1.14303,1.709435 C 0.50989,1.709435 0,2.219023 0,2.852163 v 10.295674 c 0,0.633141 0.50989,1.142728 1.14303,1.142728 H 11.71454 L 16,10.004808 V 2.852163 C 16,2.219023 15.49041,1.709435 14.85727,1.709435 Z m 5.35216,2.384916 h 3.00962 l 1.75781,7.811298 H 9.67728 L 9.36719,10.492788 H 6.63311 L 6.32302,11.905649 H 4.73768 Z M 7.72446,5.403846 6.93179,9.114183 H 9.06851 L 8.27584,5.403846 Z" />
+     id="path1482"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.142857;enable-background:new"
+     d="M 2.893973,1.7142855 0,4.6085375 v 8.5304135 c 0,0.635 0.50904,1.146764 1.141183,1.146764 H 13.182478 L 16,11.468192 V 2.8610485 c 0,-0.635 -0.50904,-1.146763 -1.141183,-1.146763 z m 4.188616,2.600446 h 1.845424 l 2.005302,7.3705365 H 10.080078 L 9.557199,9.8186385 H 6.442801 L 5.919922,11.685268 H 5.066685 Z m 0.640067,0.725168 -1.098772,4.021484 H 9.376116 L 8.277344,5.0398995 Z" />
 </svg>

@@ -5,7 +5,6 @@ regular_files = [
     'CMakeSetup-symbolic.svg',
     'MediathekView-symbolic.svg',
     'Notesnook-symbolic.svg',
-    'QtProject-designer-symbolic.svg',
     'TeamViewer-symbolic.svg',
     'Zoom-symbolic.svg',
     'abiword-symbolic.svg',
@@ -56,6 +55,7 @@ regular_files = [
     'dbeaver-symbolic.svg',
     'de.leopoldluley.Clapgrep-symbolic.svg',
     'deadbeef-symbolic.svg',
+    'designer-symbolic.svg',
     'dev.bsnes.bsnes-symbolic.svg',
     'discord-symbolic.svg',
     'dropbox-symbolic.svg',
@@ -1016,10 +1016,6 @@ link_files = {
     'neovide-symbolic.svg': [
         'dev.neovide.neovide-symbolic.svg',
     ],
-    'QtProject-designer-symbolic.svg': [
-        'designer-symbolic.svg',
-        'io.qt.Designer-symbolic.svg',
-    ],
     'MediathekView-symbolic.svg': [
         'de.mediathekview.MediathekView-symbolic.svg',
         'mediathekview-symbolic.svg',
@@ -1516,6 +1512,10 @@ link_files = {
         'linguist-qt5-symbolic.svg',
         'linguist5-symbolic.svg',
         'qtlinguist-symbolic.svg',
+    ],
+    'designer-symbolic.svg': [
+        'QtProject-designer-symbolic.svg',
+        'io.qt.Designer-symbolic.svg',
     ],
     'assistant-symbolic.svg': [
         'QtProject-assistant-symbolic.svg',

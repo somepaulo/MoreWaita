@@ -5,7 +5,6 @@ regular_files = [
     'CMakeSetup.svg',
     'MediathekView.svg',
     'Notesnook.svg',
-    'QtProject-designer.svg',
     'TeamViewer.svg',
     'Zoom.svg',
     'abiword.svg',
@@ -63,6 +62,7 @@ regular_files = [
     'dbeaver.svg',
     'de.leopoldluley.Clapgrep.svg',
     'deadbeef.svg',
+    'designer.svg',
     'dev.bsnes.bsnes.svg',
     'discord-canary.svg',
     'discord.svg',
@@ -1066,10 +1066,6 @@ link_files = {
     'neovide.svg': [
         'dev.neovide.neovide.svg',
     ],
-    'QtProject-designer.svg': [
-        'designer.svg',
-        'io.qt.Designer.svg',
-    ],
     'MediathekView.svg': [
         'de.mediathekview.MediathekView.svg',
         'mediathekview.svg',
@@ -1578,6 +1574,10 @@ link_files = {
         'linguist-qt5.svg',
         'linguist5.svg',
         'qtlinguist.svg',
+    ],
+    'designer.svg': [
+        'QtProject-designer.svg',
+        'io.qt.Designer.svg',
     ],
     'assistant.svg': [
         'QtProject-assistant.svg',
