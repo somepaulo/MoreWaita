@@ -313,6 +313,7 @@ regular_files = [
     'unity-editor-icon.svg',
     'unityhub.svg',
     'veracrypt.svg',
+    'vesktop.svg',
     'via-nativia.svg',
     'viber.svg',
     'vim.svg',
@@ -1059,6 +1060,9 @@ link_files = {
     ],
     'zed.svg': [
         'dev.zed.Zed.svg',
+    ],
+    'vesktop.svg': [
+        'dev.vencord.Vesktop.svg',
     ],
     'pulsar.svg': [
         'dev.pulsar_edit.Pulsar.svg',

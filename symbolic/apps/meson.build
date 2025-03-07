@@ -284,6 +284,7 @@ regular_files = [
     'ungoogled-chromium-symbolic.svg',
     'unityhub-symbolic.svg',
     'veracrypt-symbolic.svg',
+    'vesktop-symbolic.svg',
     'via-nativia-symbolic.svg',
     'viber-symbolic.svg',
     'vim-symbolic.svg',
@@ -1009,6 +1010,9 @@ link_files = {
     ],
     'zed-symbolic.svg': [
         'dev.zed.Zed-symbolic.svg',
+    ],
+    'vesktop-symbolic.svg': [
+        'dev.vencord.Vesktop-symbolic.svg',
     ],
     'pulsar-symbolic.svg': [
         'dev.pulsar_edit.Pulsar-symbolic.svg',

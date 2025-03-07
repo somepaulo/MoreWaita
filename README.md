@@ -333,6 +333,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/unityhub.svg "Unity Hub")
 ![icon](./scalable/apps/unity-editor-icon.svg "Unity Editor")
 ![icon](./scalable/apps/veracrypt.svg "VeraCrypt")
+![icon](./scalable/apps/vesktop.svg "Vesktop")
 ![icon](./scalable/apps/via-nativia.svg "VIA")
 ![icon](./scalable/apps/viber.svg "Viber")
 ![icon](./scalable/apps/vim.svg "Vim")
