@@ -885,9 +885,6 @@ link_files = {
     'jockey.svg': [
         'jockey-kde.svg',
     ],
-    'QtProject-designer.svg': [
-        'io.qt.Designer.svg',
-    ],
     'nvim.svg': [
         'io.neovim.nvim.svg',
         'nvim-gtk.svg',
@@ -1068,6 +1065,10 @@ link_files = {
     ],
     'neovide.svg': [
         'dev.neovide.neovide.svg',
+    ],
+    'QtProject-designer.svg': [
+        'designer.svg',
+        'io.qt.Designer.svg',
     ],
     'MediathekView.svg': [
         'de.mediathekview.MediathekView.svg',

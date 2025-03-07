@@ -843,9 +843,6 @@ link_files = {
     'julia-symbolic.svg': [
         'juliabackend-symbolic.svg',
     ],
-    'QtProject-designer-symbolic.svg': [
-        'io.qt.Designer-symbolic.svg',
-    ],
     'nvim-symbolic.svg': [
         'io.neovim.nvim-symbolic.svg',
         'nvim-gtk-symbolic.svg',
@@ -1018,6 +1015,10 @@ link_files = {
     ],
     'neovide-symbolic.svg': [
         'dev.neovide.neovide-symbolic.svg',
+    ],
+    'QtProject-designer-symbolic.svg': [
+        'designer-symbolic.svg',
+        'io.qt.Designer-symbolic.svg',
     ],
     'MediathekView-symbolic.svg': [
         'de.mediathekview.MediathekView-symbolic.svg',
