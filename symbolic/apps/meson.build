@@ -369,6 +369,16 @@ link_files = {
         'org.libreoffice.LibreOffice.main-symbolic.svg',
         'org.libreoffice.LibreOffice.startcenter-symbolic.svg',
     ],
+    'com.github.eneshecan.WhatsAppForLinux-symbolic.svg': [
+        'com.gigitux.gtkwhats-symbolic.svg',
+        'io.bit3.WhatsAppQT-symbolic.svg',
+        'io.github.mimbrero.WhatsAppDesktop-symbolic.svg',
+        'whatsapp-desktop-symbolic.svg',
+        'whatsapp-for-linux-symbolic.svg',
+        'whatsapp-nativefier-symbolic.svg',
+        'whatsapp-symbolic.svg',
+        'whatsdesk-symbolic.svg',
+    ],
     'discord-symbolic.svg': [
         'com.discordapp.Discord-symbolic.svg',
         'discord-canary-symbolic.svg',
@@ -1157,6 +1167,9 @@ link_files = {
     'clion-symbolic.svg': [
         'com.jetbrains.CLion-symbolic.svg',
     ],
+    'whatsapp-symbolic.svg': [
+        'com.github.xeco23.WasIstLos-symbolic.svg',
+    ],
     'tor-browser-symbolic.svg': [
         'com.github.micahflee.torbrowser-launcher-symbolic.svg',
         'org.torproject.torbrowser-launcher-symbolic.svg',
@@ -1181,16 +1194,6 @@ link_files = {
     'ungoogled-chromium-symbolic.svg': [
         'com.github.Eloston.UngoogledChromium-symbolic.svg',
         'io.github.ungoogled_software.ungoogled_chromium-symbolic.svg',
-    ],
-    'com.github.eneshecan.WhatsAppForLinux-symbolic.svg': [
-        'com.gigitux.gtkwhats-symbolic.svg',
-        'io.bit3.WhatsAppQT-symbolic.svg',
-        'io.github.mimbrero.WhatsAppDesktop-symbolic.svg',
-        'whatsapp-desktop-symbolic.svg',
-        'whatsapp-for-linux-symbolic.svg',
-        'whatsapp-nativefier-symbolic.svg',
-        'whatsapp-symbolic.svg',
-        'whatsdesk-symbolic.svg',
     ],
     'mailspring-symbolic.svg': [
         'com.getmailspring.Mailspring-symbolic.svg',

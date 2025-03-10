@@ -397,6 +397,16 @@ link_files = {
         'org.libreoffice.LibreOffice.main.svg',
         'org.libreoffice.LibreOffice.startcenter.svg',
     ],
+    'com.github.eneshecan.WhatsAppForLinux.svg': [
+        'com.gigitux.gtkwhats.svg',
+        'io.bit3.WhatsAppQT.svg',
+        'io.github.mimbrero.WhatsAppDesktop.svg',
+        'whatsapp-desktop.svg',
+        'whatsapp-for-linux.svg',
+        'whatsapp-nativefier.svg',
+        'whatsapp.svg',
+        'whatsdesk.svg',
+    ],
     'mathematica.svg': [
         'wolfram-mathematica.svg',
     ],
@@ -1212,6 +1222,9 @@ link_files = {
     'clion.svg': [
         'com.jetbrains.CLion.svg',
     ],
+    'whatsapp.svg': [
+        'com.github.xeco23.WasIstLos.svg',
+    ],
     'tor-browser.svg': [
         'com.github.micahflee.torbrowser-launcher.svg',
         'org.torproject.torbrowser-launcher.svg',
@@ -1240,16 +1253,6 @@ link_files = {
     'ungoogled-chromium.svg': [
         'com.github.Eloston.UngoogledChromium.svg',
         'io.github.ungoogled_software.ungoogled_chromium.svg',
-    ],
-    'com.github.eneshecan.WhatsAppForLinux.svg': [
-        'com.gigitux.gtkwhats.svg',
-        'io.bit3.WhatsAppQT.svg',
-        'io.github.mimbrero.WhatsAppDesktop.svg',
-        'whatsapp-desktop.svg',
-        'whatsapp-for-linux.svg',
-        'whatsapp-nativefier.svg',
-        'whatsapp.svg',
-        'whatsdesk.svg',
     ],
     'postman.svg': [
         'com.getpostman.Postman.svg',
