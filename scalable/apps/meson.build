@@ -89,6 +89,7 @@ regular_files = [
     'foobar2000.svg',
     'foot.svg',
     'fr.handbrake.ghb.svg',
+    'frappe-books.svg',
     'freac.svg',
     'freecad.svg',
     'freedroidrpg.svg',
@@ -925,6 +926,9 @@ link_files = {
     ],
     'opentoonz.svg': [
         'io.github.OpenToonz.svg',
+    ],
+    'frappe-books.svg': [
+        'io.frappe.books.svg',
     ],
     'appflowy.svg': [
         'io.appflowy.AppFlowy.svg',

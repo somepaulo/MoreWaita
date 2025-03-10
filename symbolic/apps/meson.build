@@ -79,6 +79,7 @@ regular_files = [
     'foobar2000-symbolic.svg',
     'foot-symbolic.svg',
     'fr.handbrake.ghb-symbolic.svg',
+    'frappe-books-symbolic.svg',
     'freac-symbolic.svg',
     'freecad-symbolic.svg',
     'freedroidrpg-symbolic.svg',
@@ -879,6 +880,9 @@ link_files = {
     ],
     'opentoonz-symbolic.svg': [
         'io.github.OpenToonz-symbolic.svg',
+    ],
+    'frappe-books-symbolic.svg': [
+        'io.frappe.books-symbolic.svg',
     ],
     'appflowy-symbolic.svg': [
         'io.appflowy.AppFlowy-symbolic.svg',

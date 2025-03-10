@@ -104,6 +104,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/floorp.svg "Floorp")
 ![icon](./scalable/apps/foobar2000.svg "Foobar 2000")
 ![icon](./scalable/apps/foot.svg "Foot")
+![icon](./scalable/apps/frappe-books.svg "Frappe Books")
 ![icon](./scalable/apps/freac.svg "Fre:ac")
 ![icon](./scalable/apps/freecad.svg "FreeCAD")
 ![icon](./scalable/apps/freedroidrpg.svg "FreeDroid RPG")
