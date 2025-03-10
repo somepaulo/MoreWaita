@@ -238,6 +238,7 @@ regular_files = [
     'rawtherapee-symbolic.svg',
     'resolve-symbolic.svg',
     'retroarch-symbolic.svg',
+    'revolt-desktop-symbolic.svg',
     'rider-symbolic.svg',
     'ringracers-symbolic.svg',
     'rocketchat-symbolic.svg',
@@ -1231,6 +1232,9 @@ link_files = {
     'rocketchat-symbolic.svg': [
         'chat.rocket.RocketChat-symbolic.svg',
         'rocketchat-desktop-symbolic.svg',
+    ],
+    'revolt-desktop-symbolic.svg': [
+        'chat.revolt.RevoltDesktop-symbolic.svg',
     ],
     'protonmail-ie-symbolic.svg': [
         'ch.protonmail.protonmail-import-export-app-symbolic.svg',
