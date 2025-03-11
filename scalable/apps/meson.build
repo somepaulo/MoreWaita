@@ -327,6 +327,7 @@ regular_files = [
     'vmware-workstation.svg',
     'vscodium.svg',
     'warpinator.svg',
+    'waterfox.svg',
     'waydroid.svg',
     'webcord.svg',
     'webstorm.svg',
@@ -663,6 +664,9 @@ link_files = {
     ],
     'texmaker.svg': [
         'net.xm1math.Texmaker.svg',
+    ],
+    'waterfox.svg': [
+        'net.waterfox.waterfox.svg',
     ],
     'projectM.svg': [
         'net.sourceforge.projectM.svg',
