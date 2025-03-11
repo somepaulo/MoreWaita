@@ -347,6 +347,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/vmware-workstation.svg "VMware Workstation")
 ![icon](./scalable/apps/vscodium.svg "VSCodium")
 ![icon](./scalable/apps/warpinator.svg "Warpinator")
+![icon](./scalable/apps/waterfox.svg "Waterfox")
 ![icon](./scalable/apps/waydroid.svg "Waydroid")
 ![icon](./scalable/apps/webcord.svg "Webcord")
 ![icon](./scalable/apps/wezterm.svg "Wezterm")

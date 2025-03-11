@@ -298,6 +298,7 @@ regular_files = [
     'vmware-workstation-symbolic.svg',
     'vscodium-symbolic.svg',
     'warpinator-symbolic.svg',
+    'waterfox-symbolic.svg',
     'waydroid-symbolic.svg',
     'webcord-symbolic.svg',
     'webstorm-symbolic.svg',
@@ -629,6 +630,9 @@ link_files = {
         'net.xm1math.Texmaker-symbolic.svg',
         'org.texstudio.TeXstudio-symbolic.svg',
         'texmaker-symbolic.svg',
+    ],
+    'waterfox-symbolic.svg': [
+        'net.waterfox.waterfox-symbolic.svg',
     ],
     'projectM-symbolic.svg': [
         'net.sourceforge.projectM-symbolic.svg',
