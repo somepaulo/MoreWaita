@@ -21,6 +21,7 @@ regular_files = [
     'application-vnd.comicbook+zip.svg',
     'application-vnd.flatpak.svg',
     'application-vnd.iccprofile.svg',
+    'application-vnd.leocad.svg',
     'application-vnd.scribus.svg',
     'application-vnd.snap.svg',
     'application-vnd.wolfram.mathematica.package.svg',

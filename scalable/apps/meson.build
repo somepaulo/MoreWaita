@@ -156,6 +156,7 @@ regular_files = [
     'kvantum.svg',
     'lazarus.svg',
     'lazpaint.svg',
+    'leocad.svg',
     'libre-menu-editor.svg',
     'libreoffice-base.svg',
     'libreoffice-basic.svg',
@@ -568,6 +569,9 @@ link_files = {
     ],
     'localsend.svg': [
         'org.localsend.localsend_app.svg',
+    ],
+    'leocad.svg': [
+        'org.leocad.LeoCAD.svg',
     ],
     'kicad.svg': [
         'org.kicad.KiCad.svg',

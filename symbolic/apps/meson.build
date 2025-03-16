@@ -138,6 +138,7 @@ regular_files = [
     'kvantum-symbolic.svg',
     'lazarus-symbolic.svg',
     'lazpaint-symbolic.svg',
+    'leocad-symbolic.svg',
     'libreoffice-base-symbolic.svg',
     'libreoffice-basic-symbolic.svg',
     'libreoffice-calc-symbolic.svg',
@@ -532,6 +533,9 @@ link_files = {
     ],
     'localsend-symbolic.svg': [
         'org.localsend.localsend_app-symbolic.svg',
+    ],
+    'leocad-symbolic.svg': [
+        'org.leocad.LeoCAD-symbolic.svg',
     ],
     'kicad-symbolic.svg': [
         'org.kicad.KiCad-symbolic.svg',
