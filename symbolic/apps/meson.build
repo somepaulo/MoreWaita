@@ -153,6 +153,7 @@ regular_files = [
     'linguist-symbolic.svg',
     'localsend-symbolic.svg',
     'logseq-symbolic.svg',
+    'lpub3d-symbolic.svg',
     'lunarclient-symbolic.svg',
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
@@ -879,6 +880,9 @@ link_files = {
         'maxima-new-symbolic.svg',
         'net.sourceforge.maxima-symbolic.svg',
         'wxmaxima-symbolic.svg',
+    ],
+    'lpub3d-symbolic.svg': [
+        'io.github.trevorsandy.LPub3D-symbolic.svg',
     ],
     'webcord-symbolic.svg': [
         'io.github.spacingbat3.webcord-symbolic.svg',

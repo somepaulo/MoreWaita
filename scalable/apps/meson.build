@@ -172,6 +172,7 @@ regular_files = [
     'linguist.svg',
     'localsend.svg',
     'logseq.svg',
+    'lpub3d.svg',
     'lunarclient.svg',
     'lvim.svg',
     'mailspring.svg',
@@ -925,6 +926,9 @@ link_files = {
         'maxima-new.svg',
         'net.sourceforge.maxima.svg',
         'wxmaxima.svg',
+    ],
+    'lpub3d.svg': [
+        'io.github.trevorsandy.LPub3D.svg',
     ],
     'webcord.svg': [
         'io.github.spacingbat3.webcord.svg',
