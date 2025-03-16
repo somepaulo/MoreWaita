@@ -51,6 +51,7 @@ regular_files = [
     'application-x-yaml.svg',
     'application-xml.svg',
     'com.bitwig.BitwigStudio.audio-x.dawproject.svg',
+    'image-vnd.djvu.svg',
     'oasis-database-template.svg',
     'oasis-database.svg',
     'oasis-drawing-template.svg',
@@ -193,6 +194,9 @@ link_files = {
         'libreoffice-oasis-drawing-template.svg',
         'openoffice4-drawing-template.svg',
         'openoffice4-oasis-drawing-template.svg',
+    ],
+    'image-vnd.djvu.svg': [
+        'image-x-djvu.svg',
     ],
     'text-x-makefile.svg': [
         'gnome-mime-text-x-makefile.svg',

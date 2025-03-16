@@ -394,6 +394,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/application-vnd.comicbook+zip.svg "Comic Book")
 ![icon](./scalable/mimetypes/text-css.svg "CSS")
 ![icon](./scalable/mimetypes/application-x-deb.svg "deb")
+![icon](./scalable/mimetypes/image-vnd.djvu.svg "DjVu")
 ![icon](./scalable/mimetypes/application-epub+zip.svg "eBook")
 ![icon](./scalable/mimetypes/application-vnd.flatpak.svg "Flatpak")
 ![icon](./scalable/mimetypes/text-x-go.svg "Go")
