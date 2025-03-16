@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg135"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs139"><path
+       id="SVGID_1_"
+       class="st3"
+       d="m 350.31,315.7 v 0 C 326.33,305.08 315.5,277.03 326.13,253.05 l 50.61,-114.18 c 10.62,-23.98 38.67,-34.81 62.65,-24.19 v 0 c 23.98,10.62 34.8,38.67 24.18,62.65 l -50.61,114.18 c -10.63,23.98 -38.67,34.81 -62.65,24.19 z" /><path
+       id="SVGID_4_"
+       class="st6"
+       d="m 382.79,359.71 c -3.74,8.6 -13.92,20.57 -25.12,24.38 -22.1,9.54 -48.28,0.97 -60.25,-20.51 L 220.18,224.95 c -12.76,-22.91 -4.54,-51.83 18.37,-64.6 v 0 c 22.91,-12.77 51.83,-4.54 64.59,18.37 l 61.17,109.8 c 5.46,7.78 14.49,12.86 24.71,12.86 11.82,0 22.04,-6.79 27,-16.69 z" /><path
+       id="SVGID_6_"
+       d="m 415.68,285.38 -33.18,74.91 c -3.74,8.59 -13.9,20.54 -25.08,24.34 -22.07,9.53 -48.21,0.97 -60.16,-20.48 L 220.14,225.73 c -10.46,-18.77 -6.8,-41.57 7.47,-56.2 37.77,50.83 71.45,117.84 87.95,144.58 30.95,50.16 60.54,16.67 68.75,10.04 6.49,-5.24 15.99,-17.64 24.58,-29.86 2.78,-2.51 5.1,-5.53 6.79,-8.91 z" /><path
+       id="SVGID_8_"
+       class="st9"
+       d="m 382.79,359.71 c -3.74,8.6 -13.92,20.57 -25.12,24.38 -22.1,9.54 -48.28,0.97 -60.25,-20.51 L 220.18,224.95 c -12.76,-22.91 -4.54,-51.83 18.37,-64.6 v 0 c 22.91,-12.77 51.83,-4.54 64.59,18.37 l 61.17,109.8 c 5.46,7.78 14.49,12.86 24.71,12.86 11.82,0 22.04,-6.79 27,-16.69 z" /><ellipse
+       id="SVGID_10_"
+       cx="342.69"
+       cy="334.35001"
+       rx="144.89999"
+       ry="120" /><path
+       id="SVGID_12_"
+       d="m 139.47,315.67 v 0 C 163.45,305.05 174.28,277 163.65,253.02 L 113.04,138.84 C 102.42,114.86 74.37,104.03 50.39,114.65 v 0 c -23.98,10.62 -34.8,38.67 -24.18,62.65 l 50.61,114.18 c 10.62,23.98 38.67,34.81 62.65,24.19 z" /><path
+       id="SVGID_15_"
+       d="m 336.06,4.07 c 11.72,0 21.21,9.5 21.21,21.21 0,11.71 -9.5,21.21 -21.21,21.21 -11.72,0 -21.21,-9.5 -21.21,-21.21 0,-11.71 9.5,-21.21 21.21,-21.21 z" /><path
+       id="SVGID_17_"
+       d="m 257.7,107.05 c 0,0 -20,15.7 -21.28,36.03 -1.36,21.6 14.72,39.38 47.62,9.3 0,0 3.88,33.67 62.88,-13.89 0,0 40.17,-28.47 19.18,-56.96 -17.8,-24.14 -108.4,25.52 -108.4,25.52 z" /><path
+       id="SVGID_19_"
+       d="m 197.31,120.98 c -5.73,-2.09 -19.72,-54.23 17.91,-87.68 54.16,-48.14 111.31,21.8 34.26,51.86 -51.27,19.99 -46.44,37.91 -52.17,35.82 z" /><path
+       id="SVGID_21_"
+       d="m 159.03,160.47 c 5.15,1.87 -2.83,-15.13 9.95,-39.53 13.62,-25.99 -23.12,-41.16 -34.57,-12.03 -6.76,17.22 2.92,43.66 24.62,51.56 z" /><path
+       id="SVGID_23_"
+       d="m 258.5,246.11 c -18.16,33.4 -65.99,118.1 -65.99,118.1 -10.22,18.35 -30.8,27.27 -50.36,23.55 0,0.01 0,0.03 0.01,0.04 C 127.29,385.03 114,375.22 107.41,360.34 L 74.08,285.31 c 4.94,9.93 15.26,16.7 27.1,16.7 11.86,0 22.12,-6.84 27.05,-16.8 0.04,-0.09 0.09,-0.11 0.15,-0.06 20.9,-36.43 53.58,-93.33 68.06,-118.07 44.77,-76.55 138.19,-94.81 161.72,-56.31 13.5,22.1 -35.39,17.12 -99.66,135.34 z" /><path
+       id="SVGID_26_"
+       d="m 258.5,246.11 c -18.16,33.4 -65.99,118.1 -65.99,118.1 -10.22,18.35 -30.8,27.27 -50.36,23.55 0,0.01 0,0.03 0.01,0.04 C 127.29,385.03 114,375.22 107.41,360.34 L 74.08,285.31 c 4.94,9.93 15.26,16.7 27.1,16.7 11.86,0 22.12,-6.84 27.05,-16.8 0.04,-0.09 0.09,-0.11 0.15,-0.06 20.9,-36.43 53.58,-93.33 68.06,-118.07 44.77,-76.55 138.19,-94.81 161.72,-56.31 13.5,22.1 -35.39,17.12 -99.66,135.34 z" /><path
+       id="SVGID_28_"
+       class="st21"
+       d="m 99.82,318.41 c 6.31,7.61 40.21,50.99 73.2,-1.72 59.11,-94.44 145.33,-248.79 200.33,-194.86 18,30.57 -106.66,157.18 -160.2,259.3 -48.59,92.69 -110.21,-27.62 -110.21,-27.62 L 62.2,260.98 c 0.01,0.01 24.89,42.07 37.62,57.43 z" /><path
+       id="SVGID_30_"
+       d="m 258.5,246.11 c -18.16,33.4 -65.99,118.1 -65.99,118.1 -10.22,18.35 -30.8,27.27 -50.36,23.55 0,0.01 0,0.03 0.01,0.04 C 127.29,385.03 114,375.22 107.41,360.34 L 74.08,285.31 c 4.94,9.93 15.26,16.7 27.1,16.7 11.86,0 22.12,-6.84 27.05,-16.8 0.04,-0.09 0.09,-0.11 0.15,-0.06 20.9,-36.43 53.58,-93.33 68.06,-118.07 44.77,-76.55 138.19,-94.81 161.72,-56.31 13.5,22.1 -35.39,17.12 -99.66,135.34 z" /></defs><style
+     type="text/css"
+     id="style1">
+	.st0{fill:#06EEFF;}
+	.st1{fill:#2A6CEA;}
+	.st2{fill:#1A65E8;}
+	.st3{opacity:0.55;}
+	.st4{opacity:0.9;clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_3_);}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#04CAFE;}
+	.st6{opacity:0.9;}
+	.st7{opacity:0.8;clip-path:url(#SVGID_5_);}
+	.st8{clip-path:url(#SVGID_7_);}
+	.st9{opacity:0.4;}
+	.st10{clip-path:url(#SVGID_9_);}
+	.st11{clip-path:url(#SVGID_11_);}
+	.st12{opacity:0.5;clip-path:url(#SVGID_13_);fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_14_);}
+	.st13{opacity:0.8;clip-path:url(#SVGID_16_);}
+	.st14{fill-rule:evenodd;clip-rule:evenodd;fill:#2CE7FF;}
+	.st15{fill-rule:evenodd;clip-rule:evenodd;fill:#06EEFF;}
+	.st16{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#C2FFFE;}
+	.st17{clip-path:url(#SVGID_20_);}
+	.st18{clip-path:url(#SVGID_22_);}
+	.st19{clip-path:url(#SVGID_24_);fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_25_);}
+	.st20{opacity:0.45;clip-path:url(#SVGID_27_);}
+	.st21{opacity:0.45;}
+	.st22{opacity:0.8;clip-path:url(#SVGID_29_);}
+	.st23{opacity:0.4;clip-path:url(#SVGID_31_);}
+</style><g
+     id="g27"
+     transform="matrix(0.03591291,0,0,0.03591291,-0.79471253,0.94918904)"
+     style="fill:#000000;fill-opacity:1"><g
+       id="g5"
+       style="fill:#000000;fill-opacity:1">
+	<path
+   class="st2"
+   d="m 350.31,315.7 v 0 C 326.33,305.08 315.5,277.03 326.13,253.05 l 50.61,-114.18 c 10.62,-23.98 38.67,-34.81 62.65,-24.19 v 0 c 23.98,10.62 34.8,38.67 24.18,62.65 l -50.61,114.18 c -10.63,23.98 -38.67,34.81 -62.65,24.19 z"
+   id="path3"
+   style="fill:#000000;fill-opacity:1" />
+	<g
+   class="st3"
+   id="g4"
+   style="fill:#000000;fill-opacity:1">
+		<defs
+   id="defs3" />
+		<clipPath
+   id="SVGID_2_">
+			<use
+   xlink:href="#SVGID_1_"
+   style="overflow:visible"
+   id="use3" />
+		</clipPath>
+		
+			<radialGradient
+   id="SVGID_3_"
+   cx="444.24289"
+   cy="17.786301"
+   r="212.7785"
+   gradientTransform="matrix(0.9752,0.2773,-0.2417,1.2225,17.2232,-89.9417)"
+   gradientUnits="userSpaceOnUse">
+			<stop
+   offset="0"
+   style="stop-color:#E3BCFE"
+   id="stop3" />
+			<stop
+   offset="1"
+   style="stop-color:#1A65E8"
+   id="stop4" />
+		</radialGradient>
+		<path
+   class="st4"
+   d="M 304.47,-61.74 C 239.62,64.4 250.5,218.92 328.75,283.39 407.01,347.87 523.02,297.88 587.86,171.74 652.7,45.6 641.83,-108.92 563.57,-173.4 485.32,-237.87 369.31,-187.88 304.47,-61.74 Z"
+   clip-path="url(#SVGID_2_)"
+   id="path5"
+   style="fill:#000000;fill-opacity:1" />
+	</g>
+</g><g
+       id="g13"
+       style="fill:#000000;fill-opacity:1">
+	<path
+   class="st5"
+   d="m 382.79,359.71 c -3.74,8.6 -13.92,20.57 -25.12,24.38 -22.1,9.54 -48.28,0.97 -60.25,-20.51 L 220.18,224.95 c -12.76,-22.91 -4.54,-51.83 18.37,-64.6 v 0 c 22.91,-12.77 51.83,-4.54 64.59,18.37 l 61.17,109.8 c 5.46,7.78 14.49,12.86 24.71,12.86 11.82,0 22.04,-6.79 27,-16.69 z"
+   id="path6"
+   style="fill:#000000;fill-opacity:1" />
+	<g
+   class="st6"
+   id="g7"
+   style="fill:#000000;fill-opacity:1">
+		<defs
+   id="defs5" />
+		<clipPath
+   id="SVGID_5_">
+			<use
+   xlink:href="#SVGID_4_"
+   style="overflow:visible"
+   id="use5" />
+		</clipPath>
+		<g
+   class="st7"
+   clip-path="url(#SVGID_5_)"
+   id="g6"
+   style="fill:#000000;fill-opacity:1">
+			
+				
+		</g>
+	</g>
+	<g
+   id="g9"
+   style="fill:#000000;fill-opacity:1">
+		<defs
+   id="defs7" />
+		<clipPath
+   id="SVGID_7_">
+			<use
+   xlink:href="#SVGID_6_"
+   style="overflow:visible"
+   id="use7" />
+		</clipPath>
+		<g
+   class="st8"
+   clip-path="url(#SVGID_7_)"
+   id="g8"
+   style="fill:#000000;fill-opacity:1">
+			
+				
+		</g>
+	</g>
+	<g
+   class="st9"
+   id="g12"
+   style="fill:#000000;fill-opacity:1">
+		<defs
+   id="defs9" />
+		<clipPath
+   id="SVGID_9_">
+			<use
+   xlink:href="#SVGID_8_"
+   style="overflow:visible"
+   id="use9" />
+		</clipPath>
+		<g
+   class="st10"
+   clip-path="url(#SVGID_9_)"
+   id="g11"
+   style="fill:#000000;fill-opacity:1">
+			<defs
+   id="defs10" />
+			<clipPath
+   id="SVGID_11_">
+				<use
+   xlink:href="#SVGID_10_"
+   style="overflow:visible"
+   id="use10" />
+			</clipPath>
+			<g
+   class="st11"
+   clip-path="url(#SVGID_11_)"
+   id="g10"
+   style="fill:#000000;fill-opacity:1">
+				
+					
+			</g>
+		</g>
+	</g>
+</g><g
+       id="g17"
+       style="fill:#000000;fill-opacity:1">
+	<g
+   id="g16"
+   style="fill:#000000;fill-opacity:1">
+		<defs
+   id="defs13" />
+		<use
+   xlink:href="#SVGID_12_"
+   style="overflow:visible;fill:#000000;fill-opacity:1"
+   id="use13" />
+		<clipPath
+   id="SVGID_13_">
+			<use
+   xlink:href="#SVGID_12_"
+   style="overflow:visible"
+   id="use14" />
+		</clipPath>
+		<radialGradient
+   id="SVGID_14_"
+   cx="46.681801"
+   cy="108.8852"
+   r="176.6456"
+   gradientUnits="userSpaceOnUse">
+			<stop
+   offset="0"
+   style="stop-color:#00FFE5"
+   id="stop14" />
+			<stop
+   offset="0.3416"
+   style="stop-color:#00D8E6"
+   id="stop15" />
+			<stop
+   offset="1"
+   style="stop-color:#0084E7"
+   id="stop16" />
+		</radialGradient>
+		<path
+   class="st12"
+   d="m 133.89,-1.91 c 44.97,87.49 77.36,263.05 23.09,307.77 C 102.7,350.57 -17.69,247.51 -62.67,160.02 -107.65,72.53 -100.1,-34.63 -45.82,-79.35 8.46,-124.07 88.92,-89.4 133.89,-1.91 Z"
+   clip-path="url(#SVGID_13_)"
+   id="path16"
+   style="fill:#000000;fill-opacity:1" />
+	</g>
+</g><g
+       id="g19"
+       style="fill:#000000;fill-opacity:1">
+	<defs
+   id="defs17" />
+	<use
+   xlink:href="#SVGID_15_"
+   style="clip-rule:evenodd;overflow:visible;fill:#000000;fill-opacity:1;fill-rule:evenodd"
+   id="use17" />
+	<clipPath
+   id="SVGID_16_">
+		<use
+   xlink:href="#SVGID_15_"
+   style="overflow:visible"
+   id="use18" />
+	</clipPath>
+	<g
+   class="st13"
+   clip-path="url(#SVGID_16_)"
+   id="g18"
+   style="fill:#000000;fill-opacity:1">
+		
+			
+	</g>
+</g><path
+       class="st14"
+       d="m 197.31,120.98 c -5.73,-2.09 -19.72,-54.23 17.91,-87.68 54.16,-48.14 111.31,21.8 34.26,51.86 -51.27,19.99 -46.44,37.91 -52.17,35.82 z"
+       id="path19"
+       style="fill:#000000;fill-opacity:1" /><g
+       id="g22"
+       style="fill:#000000;fill-opacity:1">
+	<path
+   class="st15"
+   d="m 258.5,246.11 c -18.16,33.4 -65.99,118.1 -65.99,118.1 -10.22,18.35 -30.8,27.27 -50.36,23.55 0,0.01 0,0.03 0.01,0.04 C 127.29,385.03 114,375.22 107.41,360.34 L 74.08,285.31 c 4.94,9.93 15.26,16.7 27.1,16.7 11.86,0 22.12,-6.84 27.05,-16.8 0.04,-0.09 0.09,-0.11 0.15,-0.06 20.9,-36.43 53.58,-93.33 68.06,-118.07 44.77,-76.55 138.19,-94.81 161.72,-56.31 13.5,22.1 -35.39,17.12 -99.66,135.34 z"
+   id="path20"
+   style="fill:#000000;fill-opacity:1" />
+	<g
+   id="g21"
+   style="fill:#000000;fill-opacity:1">
+		<defs
+   id="defs20" />
+		<clipPath
+   id="SVGID_18_">
+			<use
+   xlink:href="#SVGID_17_"
+   style="overflow:visible"
+   id="use20" />
+		</clipPath>
+		<path
+   class="st16"
+   d="m 258.88,245.79 c -18.16,33.4 -65.99,118.1 -65.99,118.1 -10.22,18.35 -30.8,27.27 -50.36,23.55 0,0.01 0,0.03 0.01,0.04 -14.87,-2.77 -28.16,-12.58 -34.75,-27.46 L 74.53,284.94 c 4.94,9.93 15.18,16.75 27.02,16.75 11.86,0 22.12,-6.84 27.05,-16.8 0.04,-0.09 0.09,-0.11 0.15,-0.06 20.9,-36.43 53.58,-93.33 68.06,-118.07 44.77,-76.55 138.19,-94.82 161.72,-56.31 13.51,22.1 -35.37,17.12 -99.65,135.34 z"
+   clip-path="url(#SVGID_18_)"
+   id="path21"
+   style="fill:#000000;fill-opacity:1" />
+	</g>
+</g><g
+       id="g24"
+       style="fill:#000000;fill-opacity:1">
+	<defs
+   id="defs22" />
+	<clipPath
+   id="SVGID_20_">
+		<use
+   xlink:href="#SVGID_19_"
+   style="overflow:visible"
+   id="use22" />
+	</clipPath>
+	<g
+   class="st17"
+   clip-path="url(#SVGID_20_)"
+   id="g23"
+   style="fill:#000000;fill-opacity:1">
+		
+			
+	</g>
+</g><g
+       id="g26"
+       style="fill:#000000;fill-opacity:1">
+	<defs
+   id="defs24" />
+	<use
+   xlink:href="#SVGID_21_"
+   style="clip-rule:evenodd;overflow:visible;fill:#000000;fill-opacity:1;fill-rule:evenodd"
+   id="use24" />
+	<clipPath
+   id="SVGID_22_">
+		<use
+   xlink:href="#SVGID_21_"
+   style="overflow:visible"
+   id="use25" />
+	</clipPath>
+	<g
+   class="st18"
+   clip-path="url(#SVGID_22_)"
+   id="g25"
+   style="fill:#000000;fill-opacity:1">
+		
+			
+	</g>
+</g><g
+       id="g31"
+       style="fill:#000000;fill-opacity:1">
+	<defs
+   id="defs26" />
+	<clipPath
+   id="SVGID_24_">
+		<use
+   xlink:href="#SVGID_23_"
+   style="overflow:visible"
+   id="use26" />
+	</clipPath>
+	
+		<radialGradient
+   id="SVGID_25_"
+   cx="234.7616"
+   cy="175.8714"
+   r="212.7785"
+   gradientTransform="matrix(0.6854,-0.1798,0.071,0.6124,-35.4959,358.728)"
+   gradientUnits="userSpaceOnUse">
+		<stop
+   offset="0"
+   style="stop-color:#04AAF5"
+   id="stop26" />
+		<stop
+   offset="0.2477"
+   style="stop-color:#04AEF6;stop-opacity:0.7522"
+   id="stop27" />
+		<stop
+   offset="0.4872"
+   style="stop-color:#04B9F7;stop-opacity:0.5126"
+   id="stop28" />
+		<stop
+   offset="0.7234"
+   style="stop-color:#05CDFA;stop-opacity:0.2763"
+   id="stop29" />
+		<stop
+   offset="0.9563"
+   style="stop-color:#06E8FE;stop-opacity:0.0433"
+   id="stop30" />
+		<stop
+   offset="0.9996"
+   style="stop-color:#06EEFF;stop-opacity:0"
+   id="stop31" />
+	</radialGradient>
+	<path
+   class="st19"
+   d="m 24.08,416.64 c -18.68,75.54 17.14,140.17 80,144.35 62.86,4.18 128.96,-53.66 147.64,-129.2 C 270.4,356.25 234.58,291.63 171.71,287.45 108.85,283.26 42.75,341.11 24.08,416.64 Z"
+   clip-path="url(#SVGID_24_)"
+   id="path31"
+   style="fill:#000000;fill-opacity:1" />
+</g><g
+       id="g34"
+       style="fill:#000000;fill-opacity:1">
+	<defs
+   id="defs31" />
+	<clipPath
+   id="SVGID_27_">
+		<use
+   xlink:href="#SVGID_26_"
+   style="overflow:visible"
+   id="use31" />
+	</clipPath>
+	<g
+   class="st20"
+   clip-path="url(#SVGID_27_)"
+   id="g33"
+   style="fill:#000000;fill-opacity:1">
+		<defs
+   id="defs32" />
+		<clipPath
+   id="SVGID_29_">
+			<use
+   xlink:href="#SVGID_28_"
+   style="overflow:visible"
+   id="use32" />
+		</clipPath>
+		<g
+   class="st22"
+   clip-path="url(#SVGID_29_)"
+   id="g32"
+   style="fill:#000000;fill-opacity:1">
+			
+				
+		</g>
+	</g>
+</g><g
+       id="g36"
+       style="fill:#000000;fill-opacity:1">
+	<defs
+   id="defs34" />
+	<clipPath
+   id="SVGID_31_">
+		<use
+   xlink:href="#SVGID_30_"
+   style="overflow:visible"
+   id="use34" />
+	</clipPath>
+	<g
+   class="st23"
+   clip-path="url(#SVGID_31_)"
+   id="g35"
+   style="fill:#000000;fill-opacity:1">
+		
+			
+	</g>
+</g></g></svg>
