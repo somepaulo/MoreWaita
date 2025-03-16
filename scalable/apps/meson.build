@@ -667,6 +667,9 @@ link_files = {
     ],
     'waterfox.svg': [
         'net.waterfox.waterfox.svg',
+        'waterfox-classic.svg',
+        'waterfox-current.svg',
+        'waterfox-icon.svg',
     ],
     'projectM.svg': [
         'net.sourceforge.projectM.svg',

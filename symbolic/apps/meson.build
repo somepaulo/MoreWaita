@@ -633,6 +633,9 @@ link_files = {
     ],
     'waterfox-symbolic.svg': [
         'net.waterfox.waterfox-symbolic.svg',
+        'waterfox-classic-symbolic.svg',
+        'waterfox-current-symbolic.svg',
+        'waterfox-icon-symbolic.svg',
     ],
     'projectM-symbolic.svg': [
         'net.sourceforge.projectM-symbolic.svg',
