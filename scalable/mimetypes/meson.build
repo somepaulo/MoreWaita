@@ -37,6 +37,8 @@ regular_files = [
     'application-x-java-archive.svg',
     'application-x-kdenlive.svg',
     'application-x-model.svg',
+    'application-x-musescore4portable+xml.svg',
+    'application-x-musescore4portable.svg',
     'application-x-perl.svg',
     'application-x-photoshop.svg',
     'application-x-php.svg',

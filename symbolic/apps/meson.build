@@ -1424,6 +1424,7 @@ link_files = {
     ],
     'musescore-symbolic.svg': [
         'appimagekit-musescore-symbolic.svg',
+        'mscore4portable-symbolic.svg',
         'org.musescore.MuseScore-symbolic.svg',
     ],
     'lunarclient-symbolic.svg': [
