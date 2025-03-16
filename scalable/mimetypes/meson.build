@@ -45,6 +45,7 @@ regular_files = [
     'application-x-python-bytecode.svg',
     'application-x-rpm.svg',
     'application-x-shellscript.svg',
+    'application-x-spectrum.svg',
     'application-x-subrip.svg',
     'application-x-theme.svg',
     'application-x-xopp.svg',

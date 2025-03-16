@@ -457,6 +457,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/application-vnd.scribus.svg "Scribus")
 ![icon](./scalable/mimetypes/application-x-shellscript.svg "Shell Script")
 ![icon](./scalable/mimetypes/application-vnd.snap.svg "Snap")
+![icon](./scalable/mimetypes/application-x-spectrum.svg "Spectrum")
 ![icon](./scalable/mimetypes/application-x-subrip.svg "Subtitles")
 ![icon](./scalable/mimetypes/text-x-tex.svg "TEX")
 ![icon](./scalable/mimetypes/application-x-theme.svg "Theme")
