@@ -417,6 +417,8 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/text-x-maxima-out.svg "Maxima")
 ![icon](./scalable/mimetypes/text-x-meson.svg "Meson")
 ![icon](./scalable/mimetypes/application-x-model.svg "Model")
+![icon](./scalable/mimetypes/application-x-musescore4portable.svg "MuseScore")
+![icon](./scalable/mimetypes/application-x-musescore4portable+xml.svg "MuseScore XML")
 ![icon](./scalable/mimetypes/text-x-octave.svg "Octave")
 ![icon](./scalable/mimetypes/oasis-text.svg "Office Document")
 ![icon](./scalable/mimetypes/oasis-spreadsheet.svg "Office Spreadsheet")
