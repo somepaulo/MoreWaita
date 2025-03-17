@@ -55,6 +55,7 @@ regular_files = [
     'dbeaver-symbolic.svg',
     'de.leopoldluley.Clapgrep-symbolic.svg',
     'deadbeef-symbolic.svg',
+    'deezer-symbolic.svg',
     'designer-symbolic.svg',
     'dev.bsnes.bsnes-symbolic.svg',
     'discord-symbolic.svg',
@@ -1050,6 +1051,9 @@ link_files = {
     ],
     'neovide-symbolic.svg': [
         'dev.neovide.neovide-symbolic.svg',
+    ],
+    'deezer-symbolic.svg': [
+        'dev.aunetx.deezer-symbolic.svg',
     ],
     'MediathekView-symbolic.svg': [
         'de.mediathekview.MediathekView-symbolic.svg',

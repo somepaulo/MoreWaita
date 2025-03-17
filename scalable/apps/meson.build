@@ -62,6 +62,7 @@ regular_files = [
     'dbeaver.svg',
     'de.leopoldluley.Clapgrep.svg',
     'deadbeef.svg',
+    'deezer.svg',
     'designer.svg',
     'dev.bsnes.bsnes.svg',
     'discord-canary.svg',
@@ -1100,6 +1101,9 @@ link_files = {
     ],
     'neovide.svg': [
         'dev.neovide.neovide.svg',
+    ],
+    'deezer.svg': [
+        'dev.aunetx.deezer.svg',
     ],
     'MediathekView.svg': [
         'de.mediathekview.MediathekView.svg',
