@@ -17,6 +17,25 @@
   <defs
      id="defs3">
     <linearGradient
+       id="linearGradient8">
+      <stop
+         style="stop-color:#ff004c;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#00d886;stop-opacity:1;"
+         offset="0.25"
+         id="stop6" />
+      <stop
+         style="stop-color:#00d886;stop-opacity:1;"
+         offset="0.75"
+         id="stop7" />
+      <stop
+         style="stop-color:#ffab00;stop-opacity:1;"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient4">
       <stop
          style="stop-color:#ff004c;stop-opacity:1;"
@@ -89,7 +108,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-99.168319,-60.415841)" />
     <linearGradient
-       xlink:href="#linearGradient4"
+       xlink:href="#linearGradient8"
        id="linearGradient2221"
        x1="19.692181"
        y1="21.027628"
