@@ -9,6 +9,7 @@ regular_files = [
     'application-loc+xml.svg',
     'application-mathematica.svg',
     'application-mathematicaplayer.svg',
+    'application-mbox.svg',
     'application-octet-stream.svg',
     'application-pgp-encrypted.svg',
     'application-pgp-keys.svg',

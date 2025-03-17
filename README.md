@@ -412,6 +412,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/application-loc+xml.svg "Location")
 ![icon](./scalable/mimetypes/text-x-log.svg "Log")
 ![icon](./scalable/mimetypes/text-x-lua.svg "Lua")
+![icon](./scalable/mimetypes/application-mbox.svg "Mailbox")
 ![icon](./scalable/mimetypes/text-x-makefile.svg "Makefile")
 ![icon](./scalable/mimetypes/application-mathematica.svg "Mathematica")
 ![icon](./scalable/mimetypes/application-mathematicaplayer.svg "Mathematica Player")
