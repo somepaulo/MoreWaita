@@ -3,6 +3,7 @@ scalable_apps_iconsdir = join_paths(apps_iconsdir, 'scalable')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'CMakeSetup.svg',
+    'GrandOrgue.svg',
     'MediathekView.svg',
     'Notesnook.svg',
     'TeamViewer.svg',
@@ -993,6 +994,10 @@ link_files = {
         'gvim.svg',
         'org.vim.Vim.svg',
         'vim-qt.svg',
+    ],
+    'GrandOrgue.svg': [
+        'grandorgue.svg',
+        'net.sourceforge.GrandOrgue.svg',
     ],
     'google-earth.svg': [
         'google-earth-pro.svg',

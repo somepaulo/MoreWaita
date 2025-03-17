@@ -129,6 +129,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/google-earth.svg "Google Earth")
 ![icon](./scalable/apps/gparted.svg "GParted")
 ![icon](./scalable/apps/gpsd-logo.svg "GPSd")
+![icon](./scalable/apps/GrandOrgue.svg "GrandOrgue")
 ![icon](./scalable/apps/grapejuice.svg "Grapejuice")
 ![icon](./scalable/apps/grapejuice-roblox-player.svg "Grapejuice Player")
 ![icon](./scalable/apps/grapejuice-roblox-studio.svg "Grapejuice Studio")

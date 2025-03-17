@@ -3,6 +3,7 @@ symbolic_apps_iconsdir = join_paths(apps_iconsdir, 'symbolic')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'CMakeSetup-symbolic.svg',
+    'GrandOrgue-symbolic.svg',
     'MediathekView-symbolic.svg',
     'Notesnook-symbolic.svg',
     'TeamViewer-symbolic.svg',
@@ -950,6 +951,10 @@ link_files = {
         'gvim-symbolic.svg',
         'org.vim.Vim-symbolic.svg',
         'vim-qt-symbolic.svg',
+    ],
+    'GrandOrgue-symbolic.svg': [
+        'grandorgue-symbolic.svg',
+        'net.sourceforge.GrandOrgue-symbolic.svg',
     ],
     'google-earth-symbolic.svg': [
         'google-earth-pro-symbolic.svg',
