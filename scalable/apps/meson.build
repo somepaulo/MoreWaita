@@ -128,6 +128,7 @@ regular_files = [
     'heroic.svg',
     'hp_logo.svg',
     'htop.svg',
+    'hu.irl.cameractrls.svg',
     'hwloc.svg',
     'input-remapper.svg',
     'insomnia.svg',

@@ -56,6 +56,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/calibre-ebook-edit.svg "Calibre Editor")
 ![icon](./scalable/apps/calibre-viewer.svg "Calibre Viewer")
 ![icon](./scalable/apps/carla.svg "Carla")
+![icon](./scalable/apps/hu.irl.cameractrls.svg "Cameractrls")
 ![icon](./scalable/apps/carla-control.svg "Carla Control")
 ![icon](./scalable/apps/cawbird.svg "Cawbird")
 ![icon](./scalable/apps/accessories-character-map.svg "Character Map")
