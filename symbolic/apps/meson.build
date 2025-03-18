@@ -240,6 +240,7 @@ regular_files = [
     'qgis-symbolic.svg',
     'qq-symbolic.svg',
     'qt5ct-symbolic.svg',
+    'qtcreator-symbolic.svg',
     'qutebrowser-symbolic.svg',
     'qv4l2-symbolic.svg',
     'rawtherapee-symbolic.svg',
@@ -1542,6 +1543,15 @@ link_files = {
         'spotify-linux-48x48-symbolic.svg',
         'spotify-linux-512x512-symbolic.svg',
         'spotify-qt-symbolic.svg',
+    ],
+    'qtcreator-symbolic.svg': [
+        'QtProject-qtcreator-qt5-symbolic.svg',
+        'QtProject-qtcreator-symbolic.svg',
+        'io.qt.QtCreator-symbolic.svg',
+        'qt-creator-symbolic.svg',
+        'qtcreator_logo_32-symbolic.svg',
+        'qtcreatorubuntu-symbolic.svg',
+        'ubuntu-qtcreator-symbolic.svg',
     ],
     'qdbusviewer-symbolic.svg': [
         'QtProject-qdbusviewer-symbolic.svg',
