@@ -294,7 +294,7 @@
   </linearGradient>
   <path
      id="rect1711-2"
-     style="display:inline;fill:#c0bfbc;stroke-width:0.25;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     style="display:inline;fill:#ffffff;stroke-width:0.25;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new;fill-opacity:1"
      d="m 20,16 h 88 c 4.432,0 8,3.568 8,8 v 84 c 0,4.432 -3.568,8 -8,8 H 20 c -4.432,0 -8,-3.568 -8,-8 V 24 c 0,-4.432 3.568,-8 8,-8 z" />
   <path
      d="m 49.81818,116 0,-8 h 28.36363 l 0,8 z"
