@@ -2,6 +2,7 @@ scalable_apps_iconsdir = join_paths(apps_iconsdir, 'scalable')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
+    '0ad.svg',
     'CMakeSetup.svg',
     'GrandOrgue.svg',
     'MediathekView.svg',
@@ -266,6 +267,7 @@ regular_files = [
     'qq.svg',
     'qt5ct.svg',
     'qtcreator.svg',
+    'qtdesignstudio.svg',
     'qutebrowser.svg',
     'qv4l2.svg',
     'rawtherapee.svg',
@@ -1181,6 +1183,9 @@ link_files = {
     'qq.svg': [
         'com.qq.QQ.svg',
     ],
+    '0ad.svg': [
+        'com.play0ad.zeroad.svg',
+    ],
     'opera.svg': [
         'com.opera.Opera.svg',
     ],
@@ -1608,6 +1613,10 @@ link_files = {
         'spotify-linux-48x48.svg',
         'spotify-linux-512x512.svg',
         'spotify-qt.svg',
+    ],
+    'qtdesignstudio.svg': [
+        'QtProject-qtdesignstudio.svg',
+        'io.qt.qtdesignstudio.svg',
     ],
     'qtcreator.svg': [
         'QtProject-qtcreator-qt5.svg',

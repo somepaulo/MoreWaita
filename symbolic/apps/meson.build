@@ -2,6 +2,7 @@ symbolic_apps_iconsdir = join_paths(apps_iconsdir, 'symbolic')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
+    '0ad-symbolic.svg',
     'CMakeSetup-symbolic.svg',
     'GrandOrgue-symbolic.svg',
     'MediathekView-symbolic.svg',
@@ -241,6 +242,7 @@ regular_files = [
     'qq-symbolic.svg',
     'qt5ct-symbolic.svg',
     'qtcreator-symbolic.svg',
+    'qtdesignstudio-symbolic.svg',
     'qutebrowser-symbolic.svg',
     'qv4l2-symbolic.svg',
     'rawtherapee-symbolic.svg',
@@ -1126,6 +1128,9 @@ link_files = {
     'qq-symbolic.svg': [
         'com.qq.QQ-symbolic.svg',
     ],
+    '0ad-symbolic.svg': [
+        'com.play0ad.zeroad-symbolic.svg',
+    ],
     'opera-symbolic.svg': [
         'com.opera.Opera-symbolic.svg',
     ],
@@ -1543,6 +1548,10 @@ link_files = {
         'spotify-linux-48x48-symbolic.svg',
         'spotify-linux-512x512-symbolic.svg',
         'spotify-qt-symbolic.svg',
+    ],
+    'qtdesignstudio-symbolic.svg': [
+        'QtProject-qtdesignstudio-symbolic.svg',
+        'io.qt.qtdesignstudio-symbolic.svg',
     ],
     'qtcreator-symbolic.svg': [
         'QtProject-qtcreator-qt5-symbolic.svg',
