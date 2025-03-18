@@ -48,6 +48,7 @@ regular_files = [
     'com.github.rafostar.Clapper-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
     'com.tonikelope.MegaBasterd-symbolic.svg',
+    'coppwr-symbolic.svg',
     'corectrl-symbolic.svg',
     'cudatext-512-symbolic.svg',
     'cups-symbolic.svg',
@@ -910,6 +911,9 @@ link_files = {
     ],
     'boxbuddyrs-symbolic.svg': [
         'io.github.dvlv.boxbuddyrs-symbolic.svg',
+    ],
+    'coppwr-symbolic.svg': [
+        'io.github.dimtpap.coppwr-symbolic.svg',
     ],
     'cudatext-512-symbolic.svg': [
         'io.github.cudatext.CudaText-Qt-symbolic.svg',

@@ -55,6 +55,7 @@ regular_files = [
     'com.github.rafostar.Clapper.svg',
     'com.obsproject.Studio.svg',
     'com.tonikelope.MegaBasterd.svg',
+    'coppwr.svg',
     'corectrl.svg',
     'cudatext-512.svg',
     'cups.svg',
@@ -956,6 +957,9 @@ link_files = {
     ],
     'boxbuddyrs.svg': [
         'io.github.dvlv.boxbuddyrs.svg',
+    ],
+    'coppwr.svg': [
+        'io.github.dimtpap.coppwr.svg',
     ],
     'cudatext-512.svg': [
         'io.github.cudatext.CudaText-Qt.svg',
