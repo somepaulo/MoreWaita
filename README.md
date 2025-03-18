@@ -346,6 +346,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/trivalent.svg "Trivalent")
 ![icon](./scalable/apps/tutanota-desktop.svg "Tuta Mail")
 ![icon](./scalable/apps/ugene.svg "Ugene")
+![icon](./scalable/apps/unciv.svg "Unciv")
 ![icon](./scalable/apps/ungoogled-chromium.svg "Ungoogled Chromium")
 ![icon](./scalable/apps/unityhub.svg "Unity Hub")
 ![icon](./scalable/apps/unity-editor-icon.svg "Unity Editor")

@@ -327,6 +327,7 @@ regular_files = [
     'trivalent.svg',
     'tutanota-desktop.svg',
     'ugene.svg',
+    'unciv.svg',
     'ungoogled-chromium.svg',
     'unity-editor-icon.svg',
     'unityhub.svg',
@@ -946,6 +947,9 @@ link_files = {
     ],
     'headlines.svg': [
         'io.gitlab.caveman250.headlines.svg',
+    ],
+    'unciv.svg': [
+        'io.github.yairm210.unciv.svg',
     ],
     'maxima.svg': [
         'io.github.wxmaxima_developers.wxMaxima.svg',

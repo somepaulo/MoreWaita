@@ -299,6 +299,7 @@ regular_files = [
     'tor-browser-symbolic.svg',
     'tutanota-desktop-symbolic.svg',
     'ugene-symbolic.svg',
+    'unciv-symbolic.svg',
     'ungoogled-chromium-symbolic.svg',
     'unityhub-symbolic.svg',
     'veracrypt-symbolic.svg',
@@ -900,6 +901,9 @@ link_files = {
     ],
     'headlines-symbolic.svg': [
         'io.gitlab.caveman250.headlines-symbolic.svg',
+    ],
+    'unciv-symbolic.svg': [
+        'io.github.yairm210.unciv-symbolic.svg',
     ],
     'maxima-symbolic.svg': [
         'io.github.wxmaxima_developers.wxMaxima-symbolic.svg',
