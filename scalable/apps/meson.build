@@ -38,6 +38,7 @@ regular_files = [
     'boxy-svg.svg',
     'brave-desktop.svg',
     'btop.svg',
+    'buzz.svg',
     'calibre-ebook-edit.svg',
     'calibre-viewer.svg',
     'calibre.svg',
@@ -964,6 +965,9 @@ link_files = {
     'cudatext-512.svg': [
         'io.github.cudatext.CudaText-Qt.svg',
         'io.github.cudatext.CudaText-Qt5.svg',
+    ],
+    'buzz.svg': [
+        'io.github.chidiwilliams.Buzz.svg',
     ],
     'opentoonz.svg': [
         'io.github.OpenToonz.svg',

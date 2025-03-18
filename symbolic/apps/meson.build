@@ -35,6 +35,7 @@ regular_files = [
     'boxy-svg-symbolic.svg',
     'brave-desktop-symbolic.svg',
     'btop-symbolic.svg',
+    'buzz-symbolic.svg',
     'calibre-symbolic.svg',
     'carla-symbolic.svg',
     'cawbird-symbolic.svg',
@@ -918,6 +919,9 @@ link_files = {
     'cudatext-512-symbolic.svg': [
         'io.github.cudatext.CudaText-Qt-symbolic.svg',
         'io.github.cudatext.CudaText-Qt5-symbolic.svg',
+    ],
+    'buzz-symbolic.svg': [
+        'io.github.chidiwilliams.Buzz-symbolic.svg',
     ],
     'opentoonz-symbolic.svg': [
         'io.github.OpenToonz-symbolic.svg',
