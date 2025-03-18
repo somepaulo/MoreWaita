@@ -271,6 +271,7 @@ regular_files = [
     'sioyek-symbolic.svg',
     'skypeforlinux-symbolic.svg',
     'slack-symbolic.svg',
+    'sound-juicer-symbolic.svg',
     'soundconverter-symbolic.svg',
     'spek-symbolic.svg',
     'spotify-symbolic.svg',
@@ -575,6 +576,9 @@ link_files = {
     ],
     'jdownloader-symbolic.svg': [
         'org.jdownloader.JDownloader-symbolic.svg',
+    ],
+    'sound-juicer-symbolic.svg': [
+        'org.gnome.SoundJuicer-symbolic.svg',
     ],
     'shotwell-symbolic.svg': [
         'org.gnome.Shotwell-symbolic.svg',
