@@ -11,82 +11,90 @@
   <defs
      id="defs12">
     <linearGradient
-       id="b-6"
-       gradientUnits="userSpaceOnUse"
-       x1="17.27986"
-       x2="110.72014"
-       y1="47.100357"
-       y2="47.100357"
-       gradientTransform="matrix(1.0060201,0,0,1.0061763,-120.38529,-11.168444)">
+       id="linearGradient20">
       <stop
+         style="stop-color:#be915f;stop-opacity:1;"
          offset="0"
-         stop-color="#be915f"
-         id="stop7" />
+         id="stop21" />
       <stop
-         offset="0.0451508"
-         stop-color="#cdab8f"
-         id="stop8" />
+         style="stop-color:#cdab8f;stop-opacity:1;"
+         offset="0.05"
+         id="stop23" />
       <stop
+         style="stop-color:#bd9573;stop-opacity:1;"
          offset="0.09"
-         stop-color="#bd9573"
-         id="stop9" />
+         id="stop24" />
       <stop
-         offset="0.91"
-         stop-color="#bd9573"
-         id="stop10" />
+         style="stop-color:#bd9573;stop-opacity:1;"
+         offset="0.91000003"
+         id="stop25" />
       <stop
-         offset="0.95"
-         stop-color="#cdab8f"
-         id="stop11" />
+         style="stop-color:#cdab8f;stop-opacity:1;"
+         offset="0.94999999"
+         id="stop26" />
       <stop
+         style="stop-color:#be915f;stop-opacity:1;"
          offset="1"
-         stop-color="#be915f"
-         id="stop12" />
+         id="stop22" />
     </linearGradient>
     <linearGradient
-       id="a-2"
-       gradientTransform="matrix(0.211538,0,0,0.25,-124.4351,43.949219)"
-       gradientUnits="userSpaceOnUse"
-       x1="48"
-       x2="464"
-       y1="44"
-       y2="44">
+       id="linearGradient15">
       <stop
+         style="stop-color:#986a44;stop-opacity:1;"
          offset="0"
-         stop-color="#986a44"
-         id="stop1" />
+         id="stop15" />
       <stop
-         offset="0.0454547"
-         stop-color="#cdab8f"
-         id="stop2" />
+         style="stop-color:#cdab8f;stop-opacity:1;"
+         offset="0.05"
+         id="stop17" />
       <stop
-         offset="0.0909092"
-         stop-color="#b5835a"
-         id="stop3" />
+         style="stop-color:#b5835a;stop-opacity:1;"
+         offset="0.09"
+         id="stop18" />
       <stop
-         offset="0.909091"
-         stop-color="#b5835a"
-         id="stop4" />
+         style="stop-color:#b5835a;stop-opacity:1;"
+         offset="0.91000003"
+         id="stop19" />
       <stop
-         offset="0.954546"
-         stop-color="#cdab8f"
-         id="stop5" />
+         style="stop-color:#cdab8f;stop-opacity:1;"
+         offset="0.94999999"
+         id="stop20" />
       <stop
+         style="stop-color:#986a44;stop-opacity:1;"
          offset="1"
-         stop-color="#986a44"
-         id="stop6" />
+         id="stop16" />
     </linearGradient>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask2">
+      <g
+         id="g4"
+         transform="translate(8,-3)">
+        <g
+           filter="url(#a)"
+           id="g3"
+           transform="translate(-8,3)">
+          <rect
+             fill-opacity="0.1"
+             height="128"
+             width="128"
+             id="rect3"
+             x="0"
+             y="0" />
+        </g>
+      </g>
+    </mask>
     <linearGradient
-       xlink:href="#a-2"
-       id="linearGradient14"
+       xlink:href="#linearGradient15"
+       id="linearGradient16"
        x1="20"
        y1="64"
        x2="108"
        y2="64"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       xlink:href="#b-6"
-       id="linearGradient17"
+       xlink:href="#linearGradient20"
+       id="linearGradient22"
        x1="17"
        y1="39"
        x2="111"
@@ -105,29 +113,10 @@
        values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
        id="feColorMatrix1" />
   </filter>
-  <mask
-     id="b">
-    <g
-       filter="url(#a)"
-       id="g1">
-      <rect
-         fill-opacity="0.1"
-         height="128"
-         width="128"
-         id="rect1" />
-    </g>
-  </mask>
-  <clipPath
-     id="c">
-    <rect
-       height="152"
-       width="192"
-       id="rect2" />
-  </clipPath>
   <path
      id="path2"
      d="M 27.996096,8 C 23.564665,8 20,11.566406 20,16 v 96 c 0,4.43359 3.564665,8 7.996096,8 H 99.960955 C 104.39238,120 108,116.41016 108,111.97656 V 37.921875 37.917969 15.921875 C 108,11.488281 104.39238,8 99.960955,8 L 77.975597,8.0039062 77.971693,8 Z"
-     style="stroke-width:0.999756;fill:url(#linearGradient14)" />
+     style="stroke-width:0.999756;fill:url(#linearGradient16);fill-opacity:1;stroke:none" />
   <path
      d="m 64,88 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z"
      fill="#ffffff"
@@ -138,15 +127,11 @@
      fill="#c0bfbc"
      id="path6"
      style="fill:#513924;fill-opacity:1" />
-  <g
-     clip-path="url(#c)"
-     mask="url(#b)"
+  <path
+     d="m 68,67 c -2.214844,0 -4,1.785156 -4,4 v 10 c 0,2.214844 1.785156,4 4,4 v 8 c 0,1.109375 0.890625,2 2,2 h 4 c 1.109375,0 2,-0.890625 2,-2 v -8 c 2.214844,0 4,-1.785156 4,-4 V 71 c 0,-2.214844 -1.785156,-4 -4,-4 z m 2,22 h 4 v 4 h -4 z m 0,0"
+     id="path5"
      transform="translate(-8,3)"
-     id="g5">
-    <path
-       d="m 68,67 c -2.214844,0 -4,1.785156 -4,4 v 10 c 0,2.214844 1.785156,4 4,4 v 8 c 0,1.109375 0.890625,2 2,2 h 4 c 1.109375,0 2,-0.890625 2,-2 v -8 c 2.214844,0 4,-1.785156 4,-4 V 71 c 0,-2.214844 -1.785156,-4 -4,-4 z m 2,22 h 4 v 4 h -4 z m 0,0"
-       id="path5" />
-  </g>
+     mask="url(#mask2)" />
   <path
      d="m 62,76 c -1.109375,0 -2,0.890625 -2,2 v 16 c 0,1.109375 0.890625,2 2,2 h 4 c 1.109375,0 2,-0.890625 2,-2 V 78 c 0,-1.109375 -0.890625,-2 -2,-2 z m 0,14 h 4 v 4 h -4 z m 0,0"
      fill="#77767b"
@@ -180,7 +165,7 @@
      d="m 25.54331,16 h 76.91338 C 107.17634,16 111,19.16936 111,23.078108 V 54.921892 C 111,58.830641 107.17634,62 102.45669,62 H 25.54331 C 20.82366,62 17,58.830641 17,54.921892 V 23.078108 C 17,19.16936 20.82366,16 25.54331,16 Z m 0,0"
      fill="#cdab8f"
      id="path16"
-     style="stroke-width:0.995887;fill:url(#linearGradient17)" />
+     style="stroke-width:0.995887;fill:url(#linearGradient22);fill-opacity:1" />
   <path
      d="m 25.54331,8 h 76.91338 C 107.17634,8 111,11.16936 111,15.078108 V 46.921892 C 111,50.830641 107.17634,54 102.45669,54 H 25.54331 C 20.82366,54 17,50.830641 17,46.921892 V 15.078108 C 17,11.16936 20.82366,8 25.54331,8 Z m 0,0"
      fill="#cdab8f"
