@@ -288,6 +288,7 @@ regular_files = [
     'system-software-install-symbolic.svg',
     'teams-symbolic.svg',
     'telegram-symbolic.svg',
+    'tenacity-symbolic.svg',
     'texstudio-symbolic.svg',
     'texts-symbolic.svg',
     'thunderbird-symbolic.svg',
@@ -477,6 +478,9 @@ link_files = {
     ],
     'vlc-symbolic.svg': [
         'org.videolan.VLC-symbolic.svg',
+    ],
+    'tenacity-symbolic.svg': [
+        'org.tenacityaudio.Tenacity-symbolic.svg',
     ],
     'telegram-symbolic.svg': [
         'org.telegram.desktop-symbolic.svg',

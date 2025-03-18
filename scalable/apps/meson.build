@@ -314,6 +314,7 @@ regular_files = [
     'system-software-install.svg',
     'teams.svg',
     'telegram.svg',
+    'tenacity.svg',
     'texmaker.svg',
     'texstudio.svg',
     'texts.svg',
@@ -509,6 +510,9 @@ link_files = {
     ],
     'texstudio.svg': [
         'org.texstudio.TeXstudio.svg',
+    ],
+    'tenacity.svg': [
+        'org.tenacityaudio.Tenacity.svg',
     ],
     'telegram.svg': [
         'org.telegram.desktop.svg',
