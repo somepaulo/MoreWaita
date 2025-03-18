@@ -321,6 +321,7 @@ regular_files = [
     'texstudio.svg',
     'texts.svg',
     'thunderbird.svg',
+    'tidal-hifi.svg',
     'todoist.svg',
     'tor-browser.svg',
     'trivalent.svg',
@@ -1225,6 +1226,9 @@ link_files = {
         'com.mattermost.Desktop.svg',
         'mattermost-desktop-bin.svg',
         'mattermost-desktop.svg',
+    ],
+    'tidal-hifi.svg': [
+        'com.mastermindzh.tidal-hifi.svg',
     ],
     'webstorm.svg': [
         'com.jetbrains.WebStorm.svg',

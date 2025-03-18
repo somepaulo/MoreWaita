@@ -294,6 +294,7 @@ regular_files = [
     'texstudio-symbolic.svg',
     'texts-symbolic.svg',
     'thunderbird-symbolic.svg',
+    'tidal-hifi-symbolic.svg',
     'todoist-symbolic.svg',
     'tor-browser-symbolic.svg',
     'tutanota-desktop-symbolic.svg',
@@ -1170,6 +1171,9 @@ link_files = {
         'com.mattermost.Desktop-symbolic.svg',
         'mattermost-desktop-bin-symbolic.svg',
         'mattermost-desktop-symbolic.svg',
+    ],
+    'tidal-hifi-symbolic.svg': [
+        'com.mastermindzh.tidal-hifi-symbolic.svg',
     ],
     'webstorm-symbolic.svg': [
         'com.jetbrains.WebStorm-symbolic.svg',
