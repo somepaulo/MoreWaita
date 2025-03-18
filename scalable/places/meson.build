@@ -98,6 +98,8 @@ regular_files = [
     'folder-opensuse.svg',
     'folder-platformio-legacy.svg',
     'folder-platformio.svg',
+    'folder-podcast-legacy.svg',
+    'folder-podcast.svg',
     'folder-private-legacy.svg',
     'folder-private.svg',
     'folder-projects-legacy.svg',
