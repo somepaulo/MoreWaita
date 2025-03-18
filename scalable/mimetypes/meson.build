@@ -239,6 +239,9 @@ link_files = {
     'virtualbox-hdd.svg': [
         'application-x-virtualbox-hdd.svg',
     ],
+    'application-x-spectrum.svg': [
+        'application-x-spectrum-tzx.svg',
+    ],
     'application-x-rpm.svg': [
         'application-x-source-rpm.svg',
     ],
