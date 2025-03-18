@@ -21,6 +21,7 @@ regular_files = [
     'assistant-symbolic.svg',
     'atomix-symbolic.svg',
     'audacity-symbolic.svg',
+    'augustus-symbolic.svg',
     'avogadro-symbolic.svg',
     'betterbird-symbolic.svg',
     'bitwarden-symbolic.svg',
