@@ -142,6 +142,7 @@ regular_files = [
     'folder-wine.svg',
     'folder-work-legacy.svg',
     'folder-work.svg',
+    'go-home.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
