@@ -191,6 +191,7 @@ regular_files = [
     'nextcloud-symbolic.svg',
     'nheko-symbolic.svg',
     'nicotine-plus-symbolic.svg',
+    'nuclear-symbolic.svg',
     'nufraw-symbolic.svg',
     'nvidia-symbolic.svg',
     'nvim-symbolic.svg',
@@ -1462,6 +1463,10 @@ link_files = {
     'obsidian-symbolic.svg': [
         'appimagekit-obsidian-symbolic.svg',
         'md.obsidian.Obsidian-symbolic.svg',
+    ],
+    'nuclear-symbolic.svg': [
+        'appimagekit-nuclear-symbolic.svg',
+        'org.js.nuclear.Nuclear-symbolic.svg',
     ],
     'musescore-symbolic.svg': [
         'appimagekit-musescore-symbolic.svg',

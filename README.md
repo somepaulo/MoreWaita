@@ -237,6 +237,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/nheko.svg "Nheko")
 ![icon](./scalable/apps/nicotine-plus.svg "Nicotine+")
 ![icon](./scalable/apps/Notesnook.svg "Notesnook")
+![icon](./scalable/apps/nuclear.svg "Nuclear")
 ![icon](./scalable/apps/nufraw.svg "nUFRaw")
 ![icon](./scalable/apps/nvidia.svg "nVidia Settings")
 ![icon](./scalable/apps/nvtop.svg "NVTOP")

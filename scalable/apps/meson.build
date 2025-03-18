@@ -212,6 +212,7 @@ regular_files = [
     'nextcloud.svg',
     'nheko.svg',
     'nicotine-plus.svg',
+    'nuclear.svg',
     'nufraw.svg',
     'nvidia.svg',
     'nvim.svg',
@@ -1528,6 +1529,10 @@ link_files = {
     'obsidian.svg': [
         'appimagekit-obsidian.svg',
         'md.obsidian.Obsidian.svg',
+    ],
+    'nuclear.svg': [
+        'appimagekit-nuclear.svg',
+        'org.js.nuclear.Nuclear.svg',
     ],
     'musescore.svg': [
         'appimagekit-musescore.svg',
