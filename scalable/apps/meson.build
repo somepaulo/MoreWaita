@@ -24,6 +24,7 @@ regular_files = [
     'assistant.svg',
     'atomix.svg',
     'audacity.svg',
+    'augustus.svg',
     'avogadro.svg',
     'betterbird.svg',
     'bitwarden.svg',
@@ -241,6 +242,8 @@ regular_files = [
     'pamac.svg',
     'parsehub.svg',
     'pavucontrol.svg',
+    'photorec.se2',
+    'photorec.ses',
     'phpstorm.svg',
     'pidgin.svg',
     'pinta.svg',
@@ -1261,6 +1264,9 @@ link_files = {
         'tor-browser-ru.svg',
         'tor.svg',
         'torbrowser.svg',
+    ],
+    'augustus.svg': [
+        'com.github.keriew.augustus.svg',
     ],
     'jellyfin.svg': [
         'com.github.iwalton3.jellyfin-media-player.svg',
