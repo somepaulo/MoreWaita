@@ -4,6 +4,7 @@ regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'accessories-text-editor.svg',
     'applications-accessories.svg',
+    'applications-all.svg',
     'applications-development.svg',
     'applications-education.svg',
     'applications-engineering.svg',
@@ -37,6 +38,12 @@ link_files = {
     # DO NOT REMOVE: Begining of link segment
     'applications-system.svg': [
         'preferences-system.svg',
+    ],
+    'applications-all.svg': [
+        'gnome-applications.svg',
+    ],
+    'preferences-desktop-locale.svg': [
+        'applications-education-language.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

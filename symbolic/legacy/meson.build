@@ -3,6 +3,7 @@ scalable_panel_iconsdir = join_paths(panel_iconsdir, 'symbolic')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'applications-accessories-symbolic.svg',
+    'applications-all-symbolic.svg',
     'applications-development-symbolic.svg',
     'applications-internet-symbolic.svg',
     'applications-other-symbolic.svg',
@@ -13,6 +14,9 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'applications-all-symbolic.svg': [
+        'gnome-applications-symbolic.svg',
+    ],
     '../places/folder-work-symbolic.svg': [
         'applications-office-symbolic.svg',
     ],
