@@ -135,6 +135,7 @@ regular_files = [
     'keepassxc-symbolic.svg',
     'kicad-symbolic.svg',
     'kitty-symbolic.svg',
+    'kodi-symbolic.svg',
     'kolourpaint-symbolic.svg',
     'krita-symbolic.svg',
     'kruler-symbolic.svg',
@@ -408,6 +409,9 @@ link_files = {
     ],
     'cawbird-symbolic.svg': [
         'uk.co.ibboard.cawbird-symbolic.svg',
+    ],
+    'kodi-symbolic.svg': [
+        'tv.kodi.Kodi-symbolic.svg',
     ],
     'TeamViewer-symbolic.svg': [
         'teamviewer-symbolic.svg',

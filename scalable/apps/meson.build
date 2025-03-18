@@ -153,6 +153,7 @@ regular_files = [
     'keepassxc.svg',
     'kicad.svg',
     'kitty.svg',
+    'kodi.svg',
     'kolourpaint.svg',
     'krita.svg',
     'kruler.svg',
@@ -429,6 +430,9 @@ link_files = {
     ],
     'cawbird.svg': [
         'uk.co.ibboard.cawbird.svg',
+    ],
+    'kodi.svg': [
+        'tv.kodi.Kodi.svg',
     ],
     'TeamViewer.svg': [
         'teamviewer.svg',
