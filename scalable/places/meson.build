@@ -147,6 +147,9 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'folder-recent.svg': [
+        'open-document-recent.svg',
+    ],
     'folder-bitwig.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder.svg',
     ],
