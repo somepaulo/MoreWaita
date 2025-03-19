@@ -86,6 +86,7 @@ regular_files = [
     'text-x-cpp.svg',
     'text-x-cpphdr.svg',
     'text-x-csharp.svg',
+    'text-x-fsharp.svg',
     'text-x-gettext-translation-template.svg',
     'text-x-gettext-translation.svg',
     'text-x-go.svg',
@@ -152,6 +153,9 @@ link_files = {
         'text-x-less.svg',
         'text-x-sass.svg',
         'text-x-scss.svg',
+    ],
+    'text-x-fsharp.svg': [
+        'text-fsharp.svg',
     ],
     'text-x-arduino.svg': [
         'text-arduino.svg',

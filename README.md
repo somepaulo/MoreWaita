@@ -416,6 +416,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/image-vnd.djvu.svg "DjVu")
 ![icon](./scalable/mimetypes/application-epub+zip.svg "eBook")
 ![icon](./scalable/mimetypes/application-vnd.flatpak.svg "Flatpak")
+![icon](./scalable/mimetypes/text-x-fsharp.svg "F#")
 ![icon](./scalable/mimetypes/text-x-go.svg "Go")
 ![icon](./scalable/mimetypes/application-x-godot-project.svg "Godot Project")
 ![icon](./scalable/mimetypes/application-vnd.iccprofile.svg "ICC Profile")
