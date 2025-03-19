@@ -84,6 +84,7 @@ regular_files = [
     'text-x-clojure.svg',
     'text-x-cobol.svg',
     'text-x-coffeescript.svg',
+    'text-x-common-lisp.svg',
     'text-x-cpp.svg',
     'text-x-cpphdr.svg',
     'text-x-csharp.svg',
