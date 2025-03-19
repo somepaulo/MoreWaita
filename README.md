@@ -1,4 +1,4 @@
-![showcase](https://repository-images.githubusercontent.com/543632052/45ef16b6-daca-4d88-91f5-47d5b657904c)
+![showcase](https://repository-images.githubusercontent.com/543632052/75d580a1-34ab-44cf-a67f-46ff6d7d3828)
 
 # MoreWaita
 
