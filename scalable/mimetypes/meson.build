@@ -81,6 +81,7 @@ regular_files = [
     'text-x-c.svg',
     'text-x-chdr.svg',
     'text-x-clojure.svg',
+    'text-x-coffeescript.svg',
     'text-x-cpp.svg',
     'text-x-cpphdr.svg',
     'text-x-csharp.svg',
@@ -425,6 +426,10 @@ link_files = {
         'application-x-cbr.svg',
         'application-x-cbt.svg',
         'application-x-cbz.svg',
+    ],
+    'text-x-coffeescript.svg': [
+        'application-vnd.coffeescript.svg',
+        'text-coffeescript.svg',
     ],
     'application-x-iso9600-appimage.svg': [
         'application-vnd.appimage.svg',

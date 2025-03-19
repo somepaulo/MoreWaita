@@ -1,10 +1,10 @@
-![showcase](https://repository-images.githubusercontent.com/543632052/75d580a1-34ab-44cf-a67f-46ff6d7d3828)
+![showcase](https://repository-images.githubusercontent.com/543632052/3d86675f-5459-4dad-a48c-4f7845aabd63)
 
 # MoreWaita
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![GitHub Release](https://img.shields.io/github/v/release/somepaulo/MoreWaita?label=Release&color=007800) ![Static Badge](https://img.shields.io/badge/Made%20in-UK%F0%9F%87%AC%F0%9F%87%A7-blue.svg)
 
-An expanded Adwaita-styled companion icon theme, built largely upon the work of GNOME's Adwaita designers and GNOME Circle apps' developers, as well as inspiration from the Papirus icon theme designers, and a touch of tinkering from myself, [@dusansimic](https://github.com/dusansimic), [@julianfairfax](https://github.com/julianfairfax) and [a few others](https://github.com/somepaulo/MoreWaita/graphs/contributors).
+An expanded Adwaita-styled companion icon theme, built largely upon the work of GNOME's Adwaita designers and GNOME Circle apps' developers, as well as inspiration from the Papirus icon theme designers, and a touch of tinkering from myself and [a few others](https://github.com/somepaulo/MoreWaita/graphs/contributors).
 
 <details>
 <summary><h3>About the theme</h3> <em>(expand)</em></summary>
@@ -408,6 +408,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/text-x-csharp.svg "C#")
 ![icon](./scalable/mimetypes/application-x-cd-image.svg "CD Image")
 ![icon](./scalable/mimetypes/text-x-clojure.svg "Clojure")
+![icon](./scalable/mimetypes/text-x-coffeescript.svg "CoffeeScript")
 ![icon](./scalable/mimetypes/application-vnd.comicbook+zip.svg "Comic Book")
 ![icon](./scalable/mimetypes/text-css.svg "CSS")
 ![icon](./scalable/mimetypes/application-x-deb.svg "deb")
