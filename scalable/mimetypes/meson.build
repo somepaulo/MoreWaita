@@ -31,6 +31,7 @@ regular_files = [
     'application-x-bittorrent.svg',
     'application-x-bitwig-studio.svg',
     'application-x-cd-image.svg',
+    'application-x-cson.svg',
     'application-x-deb.svg',
     'application-x-gettext-translation.svg',
     'application-x-godot-project.svg',
@@ -410,6 +411,9 @@ link_files = {
         'libreoffice-oasis-text.svg',
         'libreoffice-text.svg',
         'openoffice4-oasis-text.svg',
+    ],
+    'application-vnd.flatpak.svg': [
+        'application-vnd.flatpak.ref.svg',
     ],
     'application-x-cd-image.svg': [
         'application-vnd.efi.img.svg',
