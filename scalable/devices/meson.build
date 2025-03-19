@@ -3,6 +3,7 @@ scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'audio-card.svg',
+    'audio-speakers.svg',
     'cpu.svg',
     'drive-harddisk-solidstate.svg',
     'keyboard.svg',

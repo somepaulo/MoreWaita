@@ -1,5 +1,5 @@
 project('morewaita',
-        version : '47.4',
+        version : '48',
   meson_version : '>= 0.61.0'
 )
 
