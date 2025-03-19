@@ -409,6 +409,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/text-x-csharp.svg "C#")
 ![icon](./scalable/mimetypes/application-x-cd-image.svg "CD Image")
 ![icon](./scalable/mimetypes/text-x-clojure.svg "Clojure")
+![icon](./scalable/mimetypes/text-x-cobol.svg "Cobol")
 ![icon](./scalable/mimetypes/text-x-coffeescript.svg "CoffeeScript")
 ![icon](./scalable/mimetypes/application-vnd.comicbook+zip.svg "Comic Book")
 ![icon](./scalable/mimetypes/text-css.svg "CSS")
