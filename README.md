@@ -396,6 +396,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/android-package-archive.svg "APK")
 ![icon](./scalable/mimetypes/application-x-iso9600-appimage.svg "AppImage")
 ![icon](./scalable/mimetypes/text-x-arduino.svg "Arduino")
+![icon](./scalable/mimetypes/text-asciidoc.svg "AsciiDoc")
 ![icon](./scalable/mimetypes/application-x-audacity-project.svg "Audacity Project")
 ![icon](./scalable/mimetypes/text-x-bibtex.svg "BibTeX")
 ![icon](./scalable/mimetypes/application-octet-stream.svg "Binary")

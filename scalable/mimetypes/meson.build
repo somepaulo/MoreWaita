@@ -74,6 +74,7 @@ regular_files = [
     'oasis-web-template.svg',
     'oasis-web.svg',
     'org.wireshark.Wireshark-mimetype.svg',
+    'text-asciidoc.svg',
     'text-css.svg',
     'text-rust.svg',
     'text-x-arduino.svg',
