@@ -76,7 +76,7 @@
        xlink:href="#radialGradient27"
        id="radialGradient382"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(68.7291,0,0,68.7291,92.005,52.751212)"
+       gradientTransform="matrix(68.7291,0,0,68.7291,92.005,46.465998)"
        cx="0"
        cy="0"
        r="1" /></defs><linearGradient
@@ -124,7 +124,7 @@
      style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new;opacity:0.2"
      d="M 77.978074,8.0000006 V 30.000002 c 0,4.432 3.610527,7.923448 8.042527,7.923448 l 22.000369,-0.0055 z"
      id="path4413" /><path
-     d="M 94,110.28522 H 34 V 50.285214 H 94 L 63.379,79.850215 Z"
+     d="M 94,104.00001 H 34 V 44 H 94 L 63.379,73.565001 Z"
      fill="url(#kotlin-logo-large_svg__a)"
      id="path3"
      style="fill:url(#radialGradient382);stroke-width:3"
