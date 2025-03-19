@@ -6,6 +6,7 @@ regular_files = [
     'cpu.svg',
     'drive-harddisk-solidstate.svg',
     'keyboard.svg',
+    'media-tape.svg',
     'memory.svg',
     'network-card.svg',
     'uninterruptible-power-supply.svg',
