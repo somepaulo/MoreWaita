@@ -519,6 +519,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/devices/network-card.svg "Network Card")
 ![icon](./scalable/apps/jockey.svg "PCI Card")
 ![icon](./scalable/devices/drive-harddisk-solidstate.svg "SSD")
+![icon](./scalable/devices/uninterruptible-power-supply.svg "UPS")
 </details>
 <details>
 <summary><h3>Places</h3> <em>(expand)</em></summary>

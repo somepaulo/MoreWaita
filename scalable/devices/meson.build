@@ -8,6 +8,7 @@ regular_files = [
     'keyboard.svg',
     'memory.svg',
     'network-card.svg',
+    'uninterruptible-power-supply.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
