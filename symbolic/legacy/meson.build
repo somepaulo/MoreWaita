@@ -5,6 +5,7 @@ regular_files = [
     'applications-accessories-symbolic.svg',
     'applications-all-symbolic.svg',
     'applications-development-symbolic.svg',
+    'applications-electronics-symbolic.svg',
     'applications-internet-symbolic.svg',
     'applications-other-symbolic.svg',
     'package-symbolic.svg',

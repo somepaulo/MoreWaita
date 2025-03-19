@@ -7,6 +7,7 @@ regular_files = [
     'applications-all.svg',
     'applications-development.svg',
     'applications-education.svg',
+    'applications-electronics.svg',
     'applications-engineering.svg',
     'applications-games.svg',
     'applications-graphics.svg',

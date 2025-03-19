@@ -506,6 +506,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/virtualbox-vdi.svg "VirtualBox VDI Image")
 ![icon](./scalable/mimetypes/virtualbox-vhd.svg "VirtualBox VHD Image")
 ![icon](./scalable/mimetypes/virtualbox-vmdk.svg "VirtualBox VMDK Image")
+![icon](./scalable/mimetypes/application-wasm.svg "WebAssembly")
 ![icon](./scalable/mimetypes/org.wireshark.Wireshark-mimetype.svg "Wireshark Packet Capture")
 </details>
 <details>

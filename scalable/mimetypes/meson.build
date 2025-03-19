@@ -26,6 +26,7 @@ regular_files = [
     'application-vnd.scribus.svg',
     'application-vnd.snap.svg',
     'application-vnd.wolfram.mathematica.package.svg',
+    'application-wasm.svg',
     'application-x-adobe-indesign.svg',
     'application-x-audacity-project.svg',
     'application-x-bittorrent.svg',
