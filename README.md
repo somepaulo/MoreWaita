@@ -427,6 +427,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/application-json.svg "JSON")
 ![icon](./scalable/mimetypes/text-x-julia.svg "Julia")
 ![icon](./scalable/mimetypes/application-x-ipynb+json.svg "Jupyter Notebook")
+![icon](./scalable/mimetypes/text-x-kotlin.svg "Kotlin")
 ![icon](./scalable/mimetypes/application-vnd.leocad.svg "LeoCAD")
 ![icon](./scalable/mimetypes/text-x-common-lisp.svg "Lisp")
 ![icon](./scalable/mimetypes/application-loc+xml.svg "Location")

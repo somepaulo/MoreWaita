@@ -95,6 +95,7 @@ regular_files = [
     'text-x-java.svg',
     'text-x-javascript.svg',
     'text-x-julia.svg',
+    'text-x-kotlin.svg',
     'text-x-log.svg',
     'text-x-lua.svg',
     'text-x-makefile.svg',
