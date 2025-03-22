@@ -421,6 +421,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/text-x-fsharp.svg "F#")
 ![icon](./scalable/mimetypes/text-x-go.svg "Go")
 ![icon](./scalable/mimetypes/application-x-godot-project.svg "Godot Project")
+![icon](./scalable/mimetypes/application-x-hwp.svg "Hancom Document")
 ![icon](./scalable/mimetypes/application-vnd.iccprofile.svg "ICC Profile")
 ![icon](./scalable/mimetypes/text-x-java.svg "Java")
 ![icon](./scalable/mimetypes/application-x-java-archive.svg "Java Archive")

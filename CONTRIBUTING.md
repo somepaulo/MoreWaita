@@ -31,7 +31,7 @@ Symlinks for alternative names have to be created in the same way as with apps.
 **5. Every folder icon has to have a legacy folder icon and a symbolic icon**  
 The icons used on the modern and legacy full-color folder icons may or may not differ. They are used as symbolic icons for the respective folders. When the icon is the same for both folder versions, use a symbolic icon file for the modern version and a symlink to it for the legacy version.
 
-**6. Add your icon to the README**
+**6. Add your icon to the README**  
 Find the correct section in the README.md file and add your main `.svg` icon name (not a symlink) and description into the correct alphabetical position by description (not by filename).
 
 **7. Always update `meson.build` files before committing**  
