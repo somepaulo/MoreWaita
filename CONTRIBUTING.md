@@ -8,7 +8,9 @@ Thank you for showing your interest in contributing! Contributions are most welc
 #### Here are seven basic rules that will help get your pull request merged:
 
 **1. Follow the icon sizes and placements from existing icons**  
-Generally, the best way to create new icons is to modify existing ones of a similar shape and colour.
+Generally, the best way to create new icons is to modify existing ones of a similar shape and colour.  
+You can also use Gnome's official [icon template](https://gitlab.gnome.org/Teams/Design/HIG-app-icons/blob/master/template.svg) for app icons.  
+Check the [Gnome HIG](https://developer.gnome.org/hig/guidelines/app-icons.html) on app icons for more info.
 
 **2. Always clean up and save as 'Plain SVG' in Inkscape**  
 Inkscape usually saves into its own _'Inkscape SVG'_ format with additional data, unneeded in the icon. So always do a _'Clean Up Document'_ action from the File menu and _'Save As'_ -> _'Plain SVG'_. 
