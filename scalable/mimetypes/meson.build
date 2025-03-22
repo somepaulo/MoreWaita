@@ -36,6 +36,7 @@ regular_files = [
     'application-x-deb.svg',
     'application-x-gettext-translation.svg',
     'application-x-godot-project.svg',
+    'application-x-hwp.svg',
     'application-x-ipynb+json.svg',
     'application-x-iso9600-appimage.svg',
     'application-x-java-archive.svg',
@@ -521,6 +522,11 @@ link_files = {
         'application-x-java-applet.svg',
         'application-x-java.svg',
         'text-x-java-source.svg',
+    ],
+    'application-x-hwp.svg': [
+        'application-hwp.svg',
+        'application-hwpx.svg',
+        'application-x-hwpx.svg',
     ],
     'application-loc+xml.svg': [
         'application-geo+json.svg',
