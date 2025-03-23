@@ -232,6 +232,8 @@ regular_files = [
     'preferences-system-network-symbolic.svg',
     'prismlauncher-symbolic.svg',
     'projectM-symbolic.svg',
+    'proton-mail-symbolic.svg',
+    'proton-pass-symbolic.svg',
     'protonmail-bridge-symbolic.svg',
     'protonmail-ie-symbolic.svg',
     'protonvpn-gui-symbolic.svg',
@@ -721,6 +723,12 @@ link_files = {
     ],
     'com.tonikelope.MegaBasterd-symbolic.svg': [
         'megabasterd-symbolic.svg',
+    ],
+    'proton-pass-symbolic.svg': [
+        'me.proton.Pass-symbolic.svg',
+    ],
+    'proton-mail-symbolic.svg': [
+        'me.proton.Mail-symbolic.svg',
     ],
     'syncthing-gtk-symbolic.svg': [
         'me.kozec.syncthingtk-symbolic.svg',

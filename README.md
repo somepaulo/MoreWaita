@@ -277,6 +277,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/proton-mail.svg "Proton Mail")
 ![icon](./scalable/apps/protonmail-bridge.svg "Proton Mail Bridge")
 ![icon](./scalable/apps/protonmail-ie.svg "Proton Mail Import Export App")
+![icon](./scalable/apps/proton-pass.svg "Proton Pass")
 ![icon](./scalable/apps/protonvpn-gui.svg "Proton VPN")
 ![icon](./scalable/apps/pulsar.svg "Pulsar")
 ![icon](./scalable/apps/pure-maps.svg "Pure Maps")

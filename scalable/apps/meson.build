@@ -258,6 +258,7 @@ regular_files = [
     'prismlauncher.svg',
     'projectM.svg',
     'proton-mail.svg',
+    'proton-pass.svg',
     'protonmail-bridge.svg',
     'protonmail-ie.svg',
     'protonvpn-gui.svg',
@@ -760,6 +761,9 @@ link_files = {
     ],
     'com.tonikelope.MegaBasterd.svg': [
         'megabasterd.svg',
+    ],
+    'proton-pass.svg': [
+        'me.proton.Pass.svg',
     ],
     'proton-mail.svg': [
         'me.proton.Mail.svg',
