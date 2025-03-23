@@ -1,4 +1,4 @@
-apps_iconsdir = join_paths(iconsdir, 'scalable')
+scalable_iconsdir = join_paths(iconsdir, 'scalable')
 
 subdir('apps')
 subdir('devices')

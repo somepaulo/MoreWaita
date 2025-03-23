@@ -1,4 +1,4 @@
-scalable_panel_iconsdir = join_paths(panel_iconsdir, 'symbolic')
+symbolic_status_iconsdir = join_paths(symbolic_iconsdir, 'status')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
@@ -87,10 +87,10 @@ link_files = {
     # DO NOT REMOVE: End of link segment
 }
 
-install_data(regular_files, install_dir: scalable_panel_iconsdir)
+install_data(regular_files, install_dir: symbolic_status_iconsdir)
 
 foreach dest_file, link_files_for_dest : link_files
     foreach link_file : link_files_for_dest
-        install_symlink(link_file, install_dir: scalable_panel_iconsdir, pointing_to: dest_file)
+        install_symlink(link_file, install_dir: symbolic_status_iconsdir, pointing_to: dest_file)
     endforeach
 endforeach
