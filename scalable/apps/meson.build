@@ -257,6 +257,7 @@ regular_files = [
     'preferences-system-network.svg',
     'prismlauncher.svg',
     'projectM.svg',
+    'proton-mail.svg',
     'protonmail-bridge.svg',
     'protonmail-ie.svg',
     'protonvpn-gui.svg',
@@ -759,6 +760,9 @@ link_files = {
     ],
     'com.tonikelope.MegaBasterd.svg': [
         'megabasterd.svg',
+    ],
+    'proton-mail.svg': [
+        'me.proton.Mail.svg',
     ],
     'syncthing-gtk.svg': [
         'me.kozec.syncthingtk.svg',
