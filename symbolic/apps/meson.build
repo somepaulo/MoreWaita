@@ -1,4 +1,4 @@
-symbolic_apps_iconsdir = join_paths(apps_iconsdir, 'symbolic')
+symbolic_apps_iconsdir = join_paths(symbolic_iconsdir, 'apps')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment

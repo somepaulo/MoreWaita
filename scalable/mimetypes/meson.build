@@ -1,4 +1,4 @@
-scalable_mimes_iconsdir = join_paths(mimes_iconsdir, 'scalable')
+scalable_mimes_iconsdir = join_paths(scalable_iconsdir, 'mimetypes')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment

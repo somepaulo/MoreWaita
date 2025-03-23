@@ -1,4 +1,4 @@
-scalable_apps_iconsdir = join_paths(apps_iconsdir, 'scalable')
+scalable_apps_iconsdir = join_paths(scalable_iconsdir, 'apps')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment

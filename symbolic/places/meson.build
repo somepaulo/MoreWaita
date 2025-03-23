@@ -1,4 +1,4 @@
-symbolic_places_iconsdir = join_paths(places_iconsdir, 'symbolic')
+symbolic_places_iconsdir = join_paths(symbolic_iconsdir, 'places')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment

@@ -1,4 +1,4 @@
-scalable_places_iconsdir = join_paths(places_iconsdir, 'scalable')
+scalable_places_iconsdir = join_paths(scalable_iconsdir, 'places')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
