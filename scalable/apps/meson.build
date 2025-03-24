@@ -56,6 +56,7 @@ regular_files = [
     'com.github.rafostar.Clapper.svg',
     'com.obsproject.Studio.svg',
     'com.tonikelope.MegaBasterd.svg',
+    'coolercontrol.svg',
     'coppwr.svg',
     'corectrl.svg',
     'cudatext-512.svg',
@@ -652,6 +653,9 @@ link_files = {
     ],
     'setzer.svg': [
         'org.cvfosammmm.Setzer.svg',
+    ],
+    'coolercontrol.svg': [
+        'org.coolercontrol.CoolerControl.svg',
     ],
     'codeblocks.svg': [
         'org.codeblocks.codeblocks.svg',

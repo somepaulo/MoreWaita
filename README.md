@@ -71,6 +71,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/CMakeSetup.svg "CMake Setup")
 ![icon](./scalable/apps/org.cockpit_project.CockpitClient.svg "Cockpit Client")
 ![icon](./scalable/apps/codeblocks.svg "Code::Blocks")
+![icon](./scalable/apps/coolercontrol.svg "CoolerControl")
 ![icon](./scalable/apps/coppwr.svg "coppwr")
 ![icon](./scalable/apps/code-oss.svg "Code OSS")
 ![icon](./scalable/apps/corectrl.svg "CoreCtrl")

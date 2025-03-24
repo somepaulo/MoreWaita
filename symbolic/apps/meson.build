@@ -49,6 +49,7 @@ regular_files = [
     'com.github.rafostar.Clapper-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
     'com.tonikelope.MegaBasterd-symbolic.svg',
+    'coolercontrol-symbolic.svg',
     'coppwr-symbolic.svg',
     'corectrl-symbolic.svg',
     'cudatext-512-symbolic.svg',
@@ -616,6 +617,9 @@ link_files = {
     ],
     'setzer-symbolic.svg': [
         'org.cvfosammmm.Setzer-symbolic.svg',
+    ],
+    'coolercontrol-symbolic.svg': [
+        'org.coolercontrol.CoolerControl-symbolic.svg',
     ],
     'codeblocks-symbolic.svg': [
         'org.codeblocks.codeblocks-symbolic.svg',
