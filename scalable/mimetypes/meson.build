@@ -11,6 +11,7 @@ regular_files = [
     'application-mathematicaplayer.svg',
     'application-mbox.svg',
     'application-octet-stream.svg',
+    'application-pdf.svg',
     'application-pgp-encrypted.svg',
     'application-pgp-keys.svg',
     'application-pgp-signature.svg',
@@ -288,6 +289,11 @@ link_files = {
     ],
     'application-x-java-archive.svg': [
         'application-x-jar.svg',
+    ],
+    'application-pdf.svg': [
+        'application-x-gzpdf.svg',
+        'application-x-lzpdf.svg',
+        'application-x-xzpdf.svg',
     ],
     'application-x-godot-project.svg': [
         'application-x-gdscript.svg',

@@ -471,6 +471,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/oasis-empty-template.svg "Office Empty Template")
 ![icon](./scalable/mimetypes/text-x-patch.svg "Patch")
 ![icon](./scalable/mimetypes/application-x-perl.svg "Perl")
+![icon](./scalable/mimetypes/application-pdf.svg "PDF")
 ![icon](./scalable/mimetypes/application-pgp-encrypted.svg "PGP Encrypted")
 ![icon](./scalable/mimetypes/application-pgp-keys.svg "PGP Key")
 ![icon](./scalable/mimetypes/application-pgp-signature.svg "PGP Signature")
