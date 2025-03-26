@@ -206,6 +206,7 @@ regular_files = [
     'mixxx.svg',
     'mockoon.svg',
     'monero.svg',
+    'mousam.svg',
     'mpv.svg',
     'mumble.svg',
     'musescore.svg',
@@ -1004,6 +1005,9 @@ link_files = {
     ],
     'buzz.svg': [
         'io.github.chidiwilliams.Buzz.svg',
+    ],
+    'mousam.svg': [
+        'io.github.amit9838.mousam.svg',
     ],
     'opentoonz.svg': [
         'io.github.OpenToonz.svg',
