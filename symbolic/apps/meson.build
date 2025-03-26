@@ -142,6 +142,7 @@ regular_files = [
     'kitty-symbolic.svg',
     'kodi-symbolic.svg',
     'kolourpaint-symbolic.svg',
+    'kotatogram-symbolic.svg',
     'krita-symbolic.svg',
     'kruler-symbolic.svg',
     'kvantum-symbolic.svg',
@@ -935,6 +936,9 @@ link_files = {
     ],
     'gimagereader-symbolic.svg': [
         'io.github.manisandro.gImageReader-symbolic.svg',
+    ],
+    'kotatogram-symbolic.svg': [
+        'io.github.kotatogram-symbolic.svg',
     ],
     'boxbuddyrs-symbolic.svg': [
         'io.github.dvlv.boxbuddyrs-symbolic.svg',

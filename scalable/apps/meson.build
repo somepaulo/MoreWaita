@@ -160,6 +160,7 @@ regular_files = [
     'kitty.svg',
     'kodi.svg',
     'kolourpaint.svg',
+    'kotatogram.svg',
     'krita.svg',
     'kruler.svg',
     'kvantum.svg',
@@ -981,6 +982,9 @@ link_files = {
     ],
     'gimagereader.svg': [
         'io.github.manisandro.gImageReader.svg',
+    ],
+    'kotatogram.svg': [
+        'io.github.kotatogram.svg',
     ],
     'boxbuddyrs.svg': [
         'io.github.dvlv.boxbuddyrs.svg',

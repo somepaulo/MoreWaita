@@ -180,6 +180,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/kitty.svg "Kitty")
 ![icon](./scalable/apps/kodi.svg "Kodi")
 ![icon](./scalable/apps/kolourpaint.svg "Kolourpaint")
+![icon](./scalable/apps/kotatogram.svg "Kotatogram")
 ![icon](./scalable/apps/krita.svg "Krita")
 ![icon](./scalable/apps/kruler.svg "Kruler")
 ![icon](./scalable/apps/kvantum.svg "Kvantum")
