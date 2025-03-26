@@ -141,6 +141,7 @@ regular_files = [
     'input-remapper.svg',
     'insomnia.svg',
     'intellij.svg',
+    'interstellar.svg',
     'io.element.Element.svg',
     'io.github.alainm23.planify.svg',
     'io.github.quodlibet.ExFalso.svg',
@@ -677,6 +678,9 @@ link_files = {
     ],
     'org.onlyoffice.desktopeditors.svg': [
         'onlyoffice-desktopeditors.svg',
+    ],
+    'interstellar.svg': [
+        'one.jwr.interstellar.svg',
     ],
     'floorp.svg': [
         'one.ablaze.floorp.svg',

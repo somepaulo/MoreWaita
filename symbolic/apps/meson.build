@@ -127,6 +127,7 @@ regular_files = [
     'input-remapper-symbolic.svg',
     'insomnia-symbolic.svg',
     'intellij-symbolic.svg',
+    'interstellar-symbolic.svg',
     'io.element.Element-symbolic.svg',
     'java-openjdk-symbolic.svg',
     'jdownloader-symbolic.svg',
@@ -638,6 +639,9 @@ link_files = {
     ],
     'org.onlyoffice.desktopeditors-symbolic.svg': [
         'onlyoffice-desktopeditors-symbolic.svg',
+    ],
+    'interstellar-symbolic.svg': [
+        'one.jwr.interstellar-symbolic.svg',
     ],
     'floorp-symbolic.svg': [
         'one.ablaze.floorp-symbolic.svg',
