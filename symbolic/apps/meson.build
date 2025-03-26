@@ -166,6 +166,7 @@ regular_files = [
     'localsend-symbolic.svg',
     'logseq-symbolic.svg',
     'lpub3d-symbolic.svg',
+    'lunacy-symbolic.svg',
     'lunarclient-symbolic.svg',
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
@@ -1244,6 +1245,9 @@ link_files = {
     ],
     'clion-symbolic.svg': [
         'com.jetbrains.CLion-symbolic.svg',
+    ],
+    'lunacy-symbolic.svg': [
+        'com.icons8.Lunacy-symbolic.svg',
     ],
     'whatsapp-symbolic.svg': [
         'com.github.xeco23.WasIstLos-symbolic.svg',

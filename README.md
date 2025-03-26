@@ -204,6 +204,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/localsend.svg "LocalSend")
 ![icon](./scalable/apps/logseq.svg "Logseq")
 ![icon](./scalable/apps/lpub3d.svg "LPub3D")
+![icon](./scalable/apps/lunacy.svg "Lunacy")
 ![icon](./scalable/apps/lunarclient.svg "Lunar Client")
 ![icon](./scalable/apps/lvim.svg "LunarVim")
 ![icon](./scalable/apps/mailspring.svg "Mailspring")
