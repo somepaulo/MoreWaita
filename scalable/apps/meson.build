@@ -27,6 +27,7 @@ regular_files = [
     'audacity.svg',
     'augustus.svg',
     'avogadro.svg',
+    'bambustudio.svg',
     'betterbird.svg',
     'bitwarden.svg',
     'bitwig-studio.svg',
@@ -1360,6 +1361,9 @@ link_files = {
     ],
     'bitwig-studio.svg': [
         'com.bitwig.BitwigStudio.svg',
+    ],
+    'bambustudio.svg': [
+        'com.bambulab.BambuStudio.svg',
     ],
     'anydesk.svg': [
         'com.anydesk.Anydesk.svg',

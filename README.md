@@ -40,6 +40,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/audacity.svg "Audacity")
 ![icon](./scalable/apps/augustus.svg "Augustus")
 ![icon](./scalable/apps/avogadro.svg "Avogadro")
+![icon](./scalable/apps/bambustudio.svg "Bambu Studio")
 ![icon](./scalable/apps/betterbird.svg "Betterbird")
 ![icon](./scalable/apps/bitwarden.svg "Bitwarden")
 ![icon](./scalable/apps/bitwig-studio.svg "Bitwig Studio")

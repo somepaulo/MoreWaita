@@ -24,6 +24,7 @@ regular_files = [
     'audacity-symbolic.svg',
     'augustus-symbolic.svg',
     'avogadro-symbolic.svg',
+    'bambustudio-symbolic.svg',
     'betterbird-symbolic.svg',
     'bitwarden-symbolic.svg',
     'bitwig-studio-symbolic.svg',
@@ -1283,6 +1284,9 @@ link_files = {
     ],
     'bitwig-studio-symbolic.svg': [
         'com.bitwig.BitwigStudio-symbolic.svg',
+    ],
+    'bambustudio-symbolic.svg': [
+        'com.bambulab.BambuStudio-symbolic.svg',
     ],
     'anydesk-symbolic.svg': [
         'com.anydesk.Anydesk-symbolic.svg',
