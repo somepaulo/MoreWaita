@@ -130,6 +130,8 @@ regular_files = [
     'folder-syncthing.svg',
     'folder-temp-legacy.svg',
     'folder-temp.svg',
+    'folder-torrent-legacy.svg',
+    'folder-torrent.svg',
     'folder-translation-legacy.svg',
     'folder-translation.svg',
     'folder-ubuntu-legacy.svg',

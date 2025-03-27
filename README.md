@@ -600,6 +600,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-shell.svg "Shell")
 ![icon](./scalable/places/folder-syncthing.svg "Syncthing")
 ![icon](./scalable/places/folder-temp.svg "Temp")
+![icon](./scalable/places/folder-torrent.svg "Torrent")
 ![icon](./scalable/places/folder-translation.svg "Translation")
 ![icon](./scalable/places/folder-ubuntu.svg "Ubuntu")
 ![icon](./scalable/places/folder-user.svg "User")
