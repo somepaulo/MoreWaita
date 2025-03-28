@@ -341,6 +341,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/surfshark.svg "Surfshark")
 ![icon](./scalable/apps/suyu.svg "Suyu")
 ![icon](./scalable/apps/syncthing-gtk.svg "Syncthing")
+![icon](./scalable/apps/sysd-manager.svg "SysD Manager")
 ![icon](./scalable/apps/teams.svg "Teams")
 ![icon](./scalable/apps/TeamViewer.svg "TeamViewer")
 ![icon](./scalable/apps/telegram.svg "Telegram")

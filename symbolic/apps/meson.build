@@ -295,6 +295,7 @@ regular_files = [
     'surfshark-symbolic.svg',
     'suyu-symbolic.svg',
     'syncthing-gtk-symbolic.svg',
+    'sysd-manager-symbolic.svg',
     'system-software-install-symbolic.svg',
     'teams-symbolic.svg',
     'telegram-symbolic.svg',
@@ -940,6 +941,9 @@ link_files = {
     ],
     'osmscout-server-symbolic.svg': [
         'io.github.rinigus.OSMScoutServer-symbolic.svg',
+    ],
+    'sysd-manager-symbolic.svg': [
+        'io.github.plrigaux.sysd-manager-symbolic.svg',
     ],
     'gimagereader-symbolic.svg': [
         'io.github.manisandro.gImageReader-symbolic.svg',
