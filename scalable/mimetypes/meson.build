@@ -212,6 +212,7 @@ link_files = {
         'openoffice4-oasis-drawing-template.svg',
     ],
     'image-vnd.djvu.svg': [
+        'image-vnd.djvu+multipage.svg',
         'image-x-djvu.svg',
     ],
     'text-x-makefile.svg': [
