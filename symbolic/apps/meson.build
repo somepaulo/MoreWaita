@@ -94,6 +94,7 @@ regular_files = [
     'freetube-symbolic.svg',
     'fuse-emulator-symbolic.svg',
     'gda-control-center-symbolic.svg',
+    'gdevelop-symbolic.svg',
     'geany-symbolic.svg',
     'geneious-symbolic.svg',
     'genymotion-symbolic.svg',
@@ -961,6 +962,9 @@ link_files = {
     ],
     'opentoonz-symbolic.svg': [
         'io.github.OpenToonz-symbolic.svg',
+    ],
+    'gdevelop-symbolic.svg': [
+        'io.gdevelop.ide-symbolic.svg',
     ],
     'frappe-books-symbolic.svg': [
         'io.frappe.books-symbolic.svg',

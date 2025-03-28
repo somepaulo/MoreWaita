@@ -120,6 +120,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/fuse-emulator.svg "Fuse Spectrum Emulator")
 ![icon](./scalable/apps/gda-browser-5.0.svg "Gda Browser")
 ![icon](./scalable/apps/gda-control-center.svg "Gda Control Center")
+![icon](./scalable/apps/gdevelop.svg "GDevelop")
 ![icon](./scalable/apps/geany.svg "Geany")
 ![icon](./scalable/apps/geneious.svg "Geneious")
 ![icon](./scalable/apps/genymotion.svg "Genymotion")

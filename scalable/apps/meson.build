@@ -105,6 +105,7 @@ regular_files = [
     'fuse-emulator.svg',
     'gda-browser-5.0.svg',
     'gda-control-center.svg',
+    'gdevelop.svg',
     'geany.svg',
     'geneious.svg',
     'genymotion.svg',
@@ -1011,6 +1012,9 @@ link_files = {
     ],
     'opentoonz.svg': [
         'io.github.OpenToonz.svg',
+    ],
+    'gdevelop.svg': [
+        'io.gdevelop.ide.svg',
     ],
     'frappe-books.svg': [
         'io.frappe.books.svg',
