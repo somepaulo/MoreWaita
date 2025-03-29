@@ -35,6 +35,7 @@ regular_files = [
     'boxbuddyrs-symbolic.svg',
     'boxy-svg-symbolic.svg',
     'brave-desktop-symbolic.svg',
+    'briar-symbolic.svg',
     'btop-symbolic.svg',
     'buzz-symbolic.svg',
     'calibre-symbolic.svg',
@@ -633,6 +634,9 @@ link_files = {
     ],
     'foot-symbolic.svg': [
         'org.codeberg.dnkl.foot-symbolic.svg',
+    ],
+    'briar-symbolic.svg': [
+        'org.briarproject.Briar-symbolic.svg',
     ],
     'bleachbit-symbolic.svg': [
         'org.bleachbit.BleachBit-symbolic.svg',

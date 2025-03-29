@@ -38,6 +38,7 @@ regular_files = [
     'boxbuddyrs.svg',
     'boxy-svg.svg',
     'brave-desktop.svg',
+    'briar.svg',
     'btop.svg',
     'buzz.svg',
     'calibre-ebook-edit.svg',
@@ -670,6 +671,9 @@ link_files = {
     ],
     'foot.svg': [
         'org.codeberg.dnkl.foot.svg',
+    ],
+    'briar.svg': [
+        'org.briarproject.Briar.svg',
     ],
     'menulibre.svg': [
         'org.bluesabre.MenuLibre.svg',

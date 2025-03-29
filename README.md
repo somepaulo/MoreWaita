@@ -52,6 +52,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/boxbuddyrs.svg "BoxBuddy")
 ![icon](./scalable/apps/boxy-svg.svg "Boxy SVG")
 ![icon](./scalable/apps/brave-desktop.svg "Brave")
+![icon](./scalable/apps/briar.svg "Briar")
 ![icon](./scalable/apps/dev.bsnes.bsnes.svg "BSNES")
 ![icon](./scalable/apps/btop.svg "Btop")
 ![icon](./scalable/apps/buzz.svg "Buzz")
