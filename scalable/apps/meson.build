@@ -232,6 +232,7 @@ regular_files = [
     'onetagger.svg',
     'openbabel.svg',
     'openboard.svg',
+    'openchrom.svg',
     'openra-cnc.svg',
     'openra-d2k.svg',
     'openra-ra.svg',
@@ -1267,6 +1268,9 @@ link_files = {
     ],
     'tidal-hifi.svg': [
         'com.mastermindzh.tidal-hifi.svg',
+    ],
+    'openchrom.svg': [
+        'com.lablicate.OpenChrom.svg',
     ],
     'webstorm.svg': [
         'com.jetbrains.WebStorm.svg',

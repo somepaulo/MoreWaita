@@ -210,6 +210,7 @@ regular_files = [
     'onetagger-symbolic.svg',
     'openbabel-symbolic.svg',
     'openboard-symbolic.svg',
+    'openchrom-symbolic.svg',
     'openra-cnc-symbolic.svg',
     'openra-d2k-symbolic.svg',
     'openra-ra-symbolic.svg',
@@ -1208,6 +1209,9 @@ link_files = {
     ],
     'tidal-hifi-symbolic.svg': [
         'com.mastermindzh.tidal-hifi-symbolic.svg',
+    ],
+    'openchrom-symbolic.svg': [
+        'com.lablicate.OpenChrom-symbolic.svg',
     ],
     'webstorm-symbolic.svg': [
         'com.jetbrains.WebStorm-symbolic.svg',
