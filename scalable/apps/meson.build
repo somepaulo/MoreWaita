@@ -302,6 +302,7 @@ regular_files = [
     'scribus.svg',
     'session-desktop.svg',
     'setzer.svg',
+    'shotcut.svg',
     'shotwell.svg',
     'signal-desktop.svg',
     'sioyek.svg',
@@ -550,6 +551,9 @@ link_files = {
     ],
     'signal-desktop.svg': [
         'org.signal.Signal.svg',
+    ],
+    'shotcut.svg': [
+        'org.shotcut.Shotcut.svg',
     ],
     'ryujinx.svg': [
         'org.ryujinx.Ryujinx.svg',

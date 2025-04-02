@@ -276,6 +276,7 @@ regular_files = [
     'scribus-symbolic.svg',
     'session-desktop-symbolic.svg',
     'setzer-symbolic.svg',
+    'shotcut-symbolic.svg',
     'shotwell-symbolic.svg',
     'signal-desktop-symbolic.svg',
     'sioyek-symbolic.svg',
@@ -513,6 +514,9 @@ link_files = {
     ],
     'signal-desktop-symbolic.svg': [
         'org.signal.Signal-symbolic.svg',
+    ],
+    'shotcut-symbolic.svg': [
+        'org.shotcut.Shotcut-symbolic.svg',
     ],
     'ryujinx-symbolic.svg': [
         'org.ryujinx.Ryujinx-symbolic.svg',
