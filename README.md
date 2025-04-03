@@ -272,7 +272,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/pamac.svg "Pamac")
 ![icon](./scalable/apps/org.parlatype.Parlatype.svg "Parlatype")
 ![icon](./scalable/apps/parsehub.svg "Parsehub")
-![icon](./scalable/apps/pavucontrol.svg "PulseAudio Volume Control")
+![icon](./scalable/apps/pianoteq.svg "Pianoteq")
 ![icon](./scalable/apps/pidgin.svg "Pidgin")
 ![icon](./scalable/apps/pinta.svg "Pinta")
 ![icon](./scalable/apps/net.poedit.Poedit.svg "Poedit")
@@ -289,6 +289,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/proton-pass.svg "Proton Pass")
 ![icon](./scalable/apps/protonvpn-gui.svg "Proton VPN")
 ![icon](./scalable/apps/pulsar.svg "Pulsar")
+![icon](./scalable/apps/pavucontrol.svg "PulseAudio Volume Control")
 ![icon](./scalable/apps/pure-maps.svg "Pure Maps")
 ![icon](./scalable/apps/pymol.svg "PyMOL")
 ![icon](./scalable/apps/qbittorrent.svg "qBitTorrent")
@@ -777,12 +778,6 @@ Install via [@trixieua's COPR](https://copr.fedorainfracloud.org/coprs/trixieua/
 
 ```sh
 dnf copr enable trixieua/morewaita-icon-theme && dnf install morewaita-icon-theme
-```
-
-or via [@dusansimic's COPR](https://copr.fedorainfracloud.org/coprs/dusansimic/themes):
-
-```sh
-dnf copr enable dusansimic/themes && dnf install morewaita-icon-theme
 ```
 
 #### Ubuntu/Debian Linux

@@ -230,6 +230,7 @@ regular_files = [
     'pacseek-symbolic.svg',
     'parsehub-symbolic.svg',
     'phpstorm-symbolic.svg',
+    'pianoteq-symbolic.svg',
     'pidgin-symbolic.svg',
     'pinta-symbolic.svg',
     'polychromatic-symbolic.svg',
@@ -468,6 +469,9 @@ link_files = {
     ],
     'net.poedit.Poedit-symbolic.svg': [
         'poedit-symbolic.svg',
+    ],
+    'pianoteq-symbolic.svg': [
+        'pianoteq-stage-symbolic.svg',
     ],
     'system-software-install-symbolic.svg': [
         'pamac-manager-symbolic.svg',

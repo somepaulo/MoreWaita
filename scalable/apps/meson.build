@@ -256,6 +256,7 @@ regular_files = [
     'parsehub.svg',
     'pavucontrol.svg',
     'phpstorm.svg',
+    'pianoteq.svg',
     'pidgin.svg',
     'pinta.svg',
     'polychromatic.svg',
@@ -501,6 +502,9 @@ link_files = {
     ],
     'net.poedit.Poedit.svg': [
         'poedit.svg',
+    ],
+    'pianoteq.svg': [
+        'pianoteq-stage.svg',
     ],
     'pamac.svg': [
         'pamac-manager.svg',
