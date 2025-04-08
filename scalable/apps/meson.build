@@ -187,6 +187,7 @@ regular_files = [
     'liferea.svg',
     'lightworks.svg',
     'linguist.svg',
+    'linux-assistant.svg',
     'localsend.svg',
     'logseq.svg',
     'lpub3d.svg',
@@ -1016,6 +1017,9 @@ link_files = {
     ],
     'kotatogram.svg': [
         'io.github.kotatogram.svg',
+    ],
+    'linux-assistant.svg': [
+        'io.github.jean28518.Linux-Assistant.svg',
     ],
     'boxbuddyrs.svg': [
         'io.github.dvlv.boxbuddyrs.svg',

@@ -168,6 +168,7 @@ regular_files = [
     'liferea-symbolic.svg',
     'lightworks-symbolic.svg',
     'linguist-symbolic.svg',
+    'linux-assistant-symbolic.svg',
     'localsend-symbolic.svg',
     'logseq-symbolic.svg',
     'lpub3d-symbolic.svg',
@@ -969,6 +970,9 @@ link_files = {
     ],
     'kotatogram-symbolic.svg': [
         'io.github.kotatogram-symbolic.svg',
+    ],
+    'linux-assistant-symbolic.svg': [
+        'io.github.jean28518.Linux-Assistant-symbolic.svg',
     ],
     'boxbuddyrs-symbolic.svg': [
         'io.github.dvlv.boxbuddyrs-symbolic.svg',
