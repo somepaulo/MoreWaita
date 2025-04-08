@@ -7,6 +7,8 @@ regular_files = [
     'GrandOrgue-symbolic.svg',
     'MediathekView-symbolic.svg',
     'Notesnook-symbolic.svg',
+    'PrusaSlicer-gcodeviewer-symbolic.svg',
+    'PrusaSlicer-symbolic.svg',
     'TeamViewer-symbolic.svg',
     'Zoom-symbolic.svg',
     'abiword-symbolic.svg',
@@ -1196,6 +1198,14 @@ link_files = {
     ],
     'qq-symbolic.svg': [
         'com.qq.QQ-symbolic.svg',
+    ],
+    'PrusaSlicer-gcodeviewer-symbolic.svg': [
+        'com.prusa3d.PrusaSlicer.GCodeViewer-symbolic.svg',
+        'prusa-slicer-gcodeviewer-symbolic.svg',
+    ],
+    'PrusaSlicer-symbolic.svg': [
+        'com.prusa3d.PrusaSlicer-symbolic.svg',
+        'prusa-slicer-symbolic.svg',
     ],
     '0ad-symbolic.svg': [
         'com.play0ad.zeroad-symbolic.svg',

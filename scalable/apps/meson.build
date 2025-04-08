@@ -7,6 +7,8 @@ regular_files = [
     'GrandOrgue.svg',
     'MediathekView.svg',
     'Notesnook.svg',
+    'PrusaSlicer-gcodeviewer.svg',
+    'PrusaSlicer.svg',
     'TeamViewer.svg',
     'Zoom.svg',
     'abiword.svg',
@@ -1255,6 +1257,14 @@ link_files = {
     ],
     'qq.svg': [
         'com.qq.QQ.svg',
+    ],
+    'PrusaSlicer.svg': [
+        'com.prusa3d.PrusaSlicer.svg',
+        'prusa-slicer.svg',
+    ],
+    'PrusaSlicer-gcodeviewer.svg': [
+        'com.prusa3d.PrusaSlicer.GCodeViewer.svg',
+        'prusa-slicer-gcodeviewer.svg',
     ],
     '0ad.svg': [
         'com.play0ad.zeroad.svg',

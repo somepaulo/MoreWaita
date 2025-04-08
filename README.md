@@ -288,6 +288,8 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/protonmail-ie.svg "Proton Mail Import Export App")
 ![icon](./scalable/apps/proton-pass.svg "Proton Pass")
 ![icon](./scalable/apps/protonvpn-gui.svg "Proton VPN")
+![icon](./scalable/apps/PrusaSlicer.svg "PrusaSlicer")
+![icon](./scalable/apps/PrusaSlicer-gcodeviewer.svg "PrusaSlicer GCodeViewer")
 ![icon](./scalable/apps/pulsar.svg "Pulsar")
 ![icon](./scalable/apps/pavucontrol.svg "PulseAudio Volume Control")
 ![icon](./scalable/apps/pure-maps.svg "Pure Maps")
