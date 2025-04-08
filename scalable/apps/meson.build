@@ -283,6 +283,7 @@ regular_files = [
     'qt5ct.svg',
     'qtcreator.svg',
     'qtdesignstudio.svg',
+    'qucs-s.svg',
     'qutebrowser.svg',
     'qv4l2.svg',
     'rawtherapee.svg',
@@ -1001,6 +1002,9 @@ link_files = {
     ],
     'osmscout-server.svg': [
         'io.github.rinigus.OSMScoutServer.svg',
+    ],
+    'qucs-s.svg': [
+        'io.github.ra3xdh.qucs_s.svg',
     ],
     'sysd-manager.svg': [
         'io.github.plrigaux.sysd-manager.svg',

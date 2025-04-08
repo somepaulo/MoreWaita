@@ -305,6 +305,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/qv4l2.svg "Qt Video for Linux Utility")
 ![icon](./scalable/apps/io.github.quodlibet.QuodLibet.svg "QuodLibet")
 ![icon](./scalable/apps/io.github.quodlibet.ExFalso.svg "ExFalso")
+![icon](./scalable/apps/qucs-s.svg "Qucs-S")
 ![icon](./scalable/apps/qutebrowser.svg "Qute Browser")
 ![icon](./scalable/apps/rpi-imager.svg "Raspberry Pi Imager")
 ![icon](./scalable/apps/rawtherapee.svg "RawTherapee")

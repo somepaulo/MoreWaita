@@ -257,6 +257,7 @@ regular_files = [
     'qt5ct-symbolic.svg',
     'qtcreator-symbolic.svg',
     'qtdesignstudio-symbolic.svg',
+    'qucs-s-symbolic.svg',
     'qutebrowser-symbolic.svg',
     'qv4l2-symbolic.svg',
     'rawtherapee-symbolic.svg',
@@ -954,6 +955,9 @@ link_files = {
     ],
     'osmscout-server-symbolic.svg': [
         'io.github.rinigus.OSMScoutServer-symbolic.svg',
+    ],
+    'qucs-s-symbolic.svg': [
+        'io.github.ra3xdh.qucs_s-symbolic.svg',
     ],
     'sysd-manager-symbolic.svg': [
         'io.github.plrigaux.sysd-manager-symbolic.svg',
