@@ -12,7 +12,6 @@ regular_files = [
     'TeamViewer.svg',
     'Zoom.svg',
     'abiword.svg',
-    'accessories-character-map.svg',
     'alacarte.svg',
     'alacritty.svg',
     'android-studio-canary.svg',
@@ -266,8 +265,6 @@ regular_files = [
     'popcorntime.svg',
     'portmaster.svg',
     'postman.svg',
-    'preferences-desktop-theme.svg',
-    'preferences-system-network.svg',
     'prismlauncher.svg',
     'projectM.svg',
     'proton-mail.svg',
@@ -1107,9 +1104,6 @@ link_files = {
     ],
     'gnome-nettool.svg': [
         'gnome-nettools.svg',
-    ],
-    'accessories-character-map.svg': [
-        'gnome-character-map.svg',
     ],
     'genymotion.svg': [
         'genymotion-bin.svg',

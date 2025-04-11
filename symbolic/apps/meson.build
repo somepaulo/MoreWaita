@@ -240,8 +240,6 @@ regular_files = [
     'popcorntime-symbolic.svg',
     'portmaster-symbolic.svg',
     'postman-symbolic.svg',
-    'preferences-desktop-theme-symbolic.svg',
-    'preferences-system-network-symbolic.svg',
     'prismlauncher-symbolic.svg',
     'projectM-symbolic.svg',
     'proton-mail-symbolic.svg',

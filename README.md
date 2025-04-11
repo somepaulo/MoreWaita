@@ -63,7 +63,6 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/hu.irl.cameractrls.svg "Cameractrls")
 ![icon](./scalable/apps/carla-control.svg "Carla Control")
 ![icon](./scalable/apps/cawbird.svg "Cawbird")
-![icon](./scalable/apps/accessories-character-map.svg "Character Map")
 ![icon](./scalable/apps/chromium-browser.svg "Chromium")
 ![icon](./scalable/apps/cider.svg "Cider")
 ![icon](./scalable/apps/clamtk.svg "ClamTK")
@@ -85,7 +84,6 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/dbeaver.svg "DBeaver")
 ![icon](./scalable/apps/deadbeef.svg "DeaDBeeF")
 ![icon](./scalable/apps/deezer.svg "Deezer")
-![icon](./scalable/apps/preferences-desktop-theme.svg "Desktop Preferences")
 ![icon](./scalable/apps/discord.svg "Discord")
 ![icon](./scalable/apps/discord-canary.svg "Discord Canary")
 ![icon](./scalable/apps/org.DolphinEmu.dolphin-emu.svg "Dolphin Emulator")
@@ -240,7 +238,6 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/nvim.svg "Neovim")
 ![icon](./scalable/apps/netbeans.svg "NetBeans")
 ![icon](./scalable/apps/gnome-nettool.svg "Network Tools")
-![icon](./scalable/apps/preferences-system-network.svg "Network Preferences")
 ![icon](./scalable/apps/network-wired.svg "Network Wired")
 ![icon](./scalable/apps/nextcloud.svg "NextCloud")
 ![icon](./scalable/apps/nheko.svg "Nheko")
@@ -623,6 +620,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <summary><h3>Legacy</h3> <em>(expand)</em></summary>
 
 #### Apps & MIME types
+![icon](./scalable/legacy/accessories-character-map.svg "Character Map")
 ![icon](./scalable/legacy/system-file-manager.svg "File manager")
 ![icon](./scalable/legacy/accessories-text-editor.svg "Text editor")
 ![icon](./scalable/legacy/package.svg "Package")
@@ -647,7 +645,9 @@ _These are the icons currently in git, versioned theme releases will be behind m
 #### Preferences
 ![icon](./scalable/legacy/preferences-desktop.svg "Preferences")
 ![icon](./scalable/legacy/preferences-desktop-accessibility.svg "Accessibility preferences")
+![icon](./scalable/legacy/preferences-desktop-theme.svg "Desktop Preferences")
 ![icon](./scalable/legacy/preferences-desktop-locale.svg "Locale preferences")
+![icon](./scalable/legacy/preferences-system-network.svg "Network Preferences")
 ![icon](./scalable/legacy/preferences-desktop-screensaver.svg "Screensaver preferences")
 ![icon](./scalable/legacy/system-users.svg "User preferences")
 ![icon](./scalable/legacy/preferences-desktop-wallpaper.svg "Wallpaper preferences")
