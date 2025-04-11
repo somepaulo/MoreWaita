@@ -118,10 +118,10 @@
      d="M 27.996096,8 C 23.564665,8 20,11.566406 20,16 v 96 c 0,4.43359 3.564665,8 7.996096,8 H 99.960955 C 104.39238,120 108,116.41016 108,111.97656 V 37.921875 37.917969 15.921875 C 108,11.488281 104.39238,8 99.960955,8 L 77.975597,8.0039062 77.971693,8 Z"
      style="stroke-width:0.999756;fill:url(#linearGradient16);fill-opacity:1;stroke:none" />
   <path
-     d="m 64,88 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z"
+     d="m 64,88 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 H 67.9891 68 v 2 h -4"
      fill="#ffffff"
      id="path4"
-     style="fill:#b5835a;fill-opacity:1" />
+     style="fill:#d5b7a0;fill-opacity:1" />
   <path
      d="m 64,90 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z m 0,6 v 2 h -4 v 4 h 4 v -2 h 4 v -4 z"
      fill="#c0bfbc"
