@@ -386,6 +386,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/webcord.svg "Webcord")
 ![icon](./scalable/apps/wezterm.svg "Wezterm")
 ![icon](./scalable/apps/com.github.eneshecan.WhatsAppForLinux.svg "WhatsApp")
+![icon](./scalable/apps/whatsapp-business.svg "WhatsApp Business")
 ![icon](./scalable/apps/windscribe.svg "Windscribe")
 ![icon](./scalable/apps/wireshark.svg "Wireshark")
 ![icon](./scalable/apps/wonderpen.svg "WonderPen")

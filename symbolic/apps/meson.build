@@ -338,6 +338,7 @@ regular_files = [
     'webcord-symbolic.svg',
     'webstorm-symbolic.svg',
     'wezterm-symbolic.svg',
+    'whatsapp-business-symbolic.svg',
     'windscribe-symbolic.svg',
     'wireshark-symbolic.svg',
     'wonderpen-symbolic.svg',

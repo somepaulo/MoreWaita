@@ -367,6 +367,7 @@ regular_files = [
     'webcord.svg',
     'webstorm.svg',
     'wezterm.svg',
+    'whatsapp-business.svg',
     'windscribe.svg',
     'wireshark.svg',
     'wonderpen.svg',
