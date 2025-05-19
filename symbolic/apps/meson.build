@@ -313,6 +313,7 @@ regular_files = [
     'texts-symbolic.svg',
     'thunderbird-symbolic.svg',
     'tidal-hifi-symbolic.svg',
+    'timeshift-symbolic.svg',
     'todoist-symbolic.svg',
     'tor-browser-symbolic.svg',
     'tutanota-desktop-symbolic.svg',
