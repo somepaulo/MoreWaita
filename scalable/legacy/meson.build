@@ -33,6 +33,7 @@ regular_files = [
     'system-log-out.svg',
     'system-reboot.svg',
     'system-shutdown.svg',
+    'system-software-install.svg',
     'system-suspend-hibernate.svg',
     'system-suspend.svg',
     'system-users.svg',
@@ -43,6 +44,9 @@ link_files = {
     # DO NOT REMOVE: Begining of link segment
     'software-sources.svg': [
         'x-system-software-sources.svg',
+    ],
+    'system-software-install.svg': [
+        'system-software-installer.svg',
     ],
     'applications-system.svg': [
         'preferences-system.svg',

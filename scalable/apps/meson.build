@@ -331,7 +331,6 @@ regular_files = [
     'suyu.svg',
     'syncthing-gtk.svg',
     'sysd-manager.svg',
-    'system-software-install.svg',
     'teams.svg',
     'telegram.svg',
     'tenacity.svg',
@@ -466,11 +465,6 @@ link_files = {
     ],
     'TeamViewer.svg': [
         'teamviewer.svg',
-    ],
-    'system-software-install.svg': [
-        'synaptic.svg',
-        'system-software-installer.svg',
-        'system-software-update.svg',
     ],
     'carla.svg': [
         'studio.kx.carla.svg',

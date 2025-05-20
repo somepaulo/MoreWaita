@@ -305,7 +305,6 @@ regular_files = [
     'suyu-symbolic.svg',
     'syncthing-gtk-symbolic.svg',
     'sysd-manager-symbolic.svg',
-    'system-software-install-symbolic.svg',
     'teams-symbolic.svg',
     'telegram-symbolic.svg',
     'tenacity-symbolic.svg',
@@ -478,13 +477,6 @@ link_files = {
     ],
     'pianoteq-symbolic.svg': [
         'pianoteq-stage-symbolic.svg',
-    ],
-    'system-software-install-symbolic.svg': [
-        'pamac-manager-symbolic.svg',
-        'pamac-symbolic.svg',
-        'pamac-updater-symbolic.svg',
-        'system-software-installer-symbolic.svg',
-        'system-software-update-symbolic.svg',
     ],
     'osu-symbolic.svg': [
         'osu-lazer-symbolic.svg',

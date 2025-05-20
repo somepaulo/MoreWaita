@@ -13,6 +13,7 @@ regular_files = [
     'preferences-desktop-theme-symbolic.svg',
     'preferences-system-network-symbolic.svg',
     'software-sources-symbolic.svg',
+    'system-software-install-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
@@ -20,6 +21,9 @@ link_files = {
     # DO NOT REMOVE: Begining of link segment
     'software-sources-symbolic.svg': [
         'x-system-software-sources-symbolic.svg',
+    ],
+    'system-software-install-symbolic.svg': [
+        'system-software-installer-symbolic.svg',
     ],
     'applications-all-symbolic.svg': [
         'gnome-applications-symbolic.svg',
