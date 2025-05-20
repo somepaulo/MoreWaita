@@ -34,6 +34,7 @@ regular_files = [
     'system-reboot.svg',
     'system-shutdown.svg',
     'system-software-install.svg',
+    'system-software-update.svg',
     'system-suspend-hibernate.svg',
     'system-suspend.svg',
     'system-users.svg',

@@ -14,6 +14,7 @@ regular_files = [
     'preferences-system-network-symbolic.svg',
     'software-sources-symbolic.svg',
     'system-software-install-symbolic.svg',
+    'system-software-update-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
