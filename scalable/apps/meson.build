@@ -382,6 +382,10 @@ regular_files = [
     'zed.svg',
     'zen-browser.svg',
     'zim.svg',
+    'zoho-mail.svg',
+    'zoho-sheet.svg',
+    'zoho-show.svg',
+    'zoho-writer.svg',
     'zrythm.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -1552,6 +1556,10 @@ link_files = {
         'sun-javaws32-jdk6.svg',
         'sun-javaws32-jdk7.svg',
         'sun-javaws32-jdk8.svg',
+    ],
+    'zoho-mail.svg': [
+        'appimagekit-zoho-mail-desktop.svg',
+        'zoho-mail-desktop.svg',
     ],
     'yuzu.svg': [
         'appimagekit-yuzu.svg',

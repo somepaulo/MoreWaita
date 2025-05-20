@@ -353,6 +353,10 @@ regular_files = [
     'zed-symbolic.svg',
     'zen-browser-symbolic.svg',
     'zim-symbolic.svg',
+    'zoho-mail-symbolic.svg',
+    'zoho-sheet-symbolic.svg',
+    'zoho-show-symbolic.svg',
+    'zoho-writer-symbolic.svg',
     'zrythm-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
@@ -1485,6 +1489,10 @@ link_files = {
         'sun-javaws32-jdk6-symbolic.svg',
         'sun-javaws32-jdk7-symbolic.svg',
         'sun-javaws32-jdk8-symbolic.svg',
+    ],
+    'zoho-mail-symbolic.svg': [
+        'appimagekit-zoho-mail-desktop-symbolic.svg',
+        'zoho-mail-desktop-symbolic.svg',
     ],
     'yuzu-symbolic.svg': [
         'appimagekit-yuzu-symbolic.svg',

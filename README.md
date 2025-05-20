@@ -402,6 +402,10 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/zen-browser.svg "Zen Browser")
 ![icon](./scalable/apps/0ad.svg "0 A.D.")
 ![icon](./scalable/apps/zim.svg "Zim")
+![icon](./scalable/apps/zoho-mail.svg "Zoho Mail")
+![icon](./scalable/apps/zoho-sheet.svg "Zoho Sheet")
+![icon](./scalable/apps/zoho-show.svg "Zoho Show")
+![icon](./scalable/apps/zoho-writer.svg "Zoho Writer")
 ![icon](./scalable/apps/Zoom.svg "Zoom")
 ![icon](./scalable/apps/zrythm.svg "Zrythm")
 </details>
