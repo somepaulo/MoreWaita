@@ -19,6 +19,7 @@ regular_files = [
     'anytype-symbolic.svg',
     'app.bluebubbles.BlueBubbles-symbolic.svg',
     'appflowy-symbolic.svg',
+    'apple-music-symbolic.svg',
     'ardour-symbolic.svg',
     'arduino-symbolic.svg',
     'assistant-symbolic.svg',

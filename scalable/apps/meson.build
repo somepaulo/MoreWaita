@@ -21,6 +21,7 @@ regular_files = [
     'anytype.svg',
     'app.bluebubbles.BlueBubbles.svg',
     'appflowy.svg',
+    'apple-music.svg',
     'ardour.svg',
     'arduino.svg',
     'assistant.svg',
