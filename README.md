@@ -332,7 +332,6 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/sioyek.svg "Sioyek")
 ![icon](./scalable/apps/skypeforlinux.svg "Skype")
 ![icon](./scalable/apps/slack.svg "Slack")
-![icon](./scalable/apps/system-software-install.svg "Software")
 ![icon](./scalable/apps/soundconverter.svg "Sound Converter")
 ![icon](./scalable/apps/sound-juicer.svg "Sound Juicer")
 ![icon](./scalable/apps/spek.svg "Spek")
@@ -626,6 +625,10 @@ _These are the icons currently in git, versioned theme releases will be behind m
 #### Apps & MIME types
 ![icon](./scalable/legacy/accessories-character-map.svg "Character Map")
 ![icon](./scalable/legacy/system-file-manager.svg "File manager")
+![icon](./scalable/legacy/system-software-install.svg "Software Install")
+![icon](./scalable/legacy/software-sources.svg "Software Sources")
+![icon](./scalable/legacy/system-software-update.svg "Software Update")
+![icon](./scalable/legacy/synaptic.svg "Synaptic")
 ![icon](./scalable/legacy/accessories-text-editor.svg "Text editor")
 ![icon](./scalable/legacy/package.svg "Package")
 

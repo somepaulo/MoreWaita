@@ -28,6 +28,7 @@ regular_files = [
     'preferences-desktop.svg',
     'preferences-system-network.svg',
     'software-sources.svg',
+    'synaptic.svg',
     'system-file-manager.svg',
     'system-lock-screen.svg',
     'system-log-out.svg',

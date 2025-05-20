@@ -13,6 +13,7 @@ regular_files = [
     'preferences-desktop-theme-symbolic.svg',
     'preferences-system-network-symbolic.svg',
     'software-sources-symbolic.svg',
+    'synaptic-symbolic.svg',
     'system-software-install-symbolic.svg',
     'system-software-update-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
