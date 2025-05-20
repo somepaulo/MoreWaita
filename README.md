@@ -359,6 +359,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/texts.svg "Texts")
 ![icon](./scalable/apps/thunderbird.svg "Thunderbird")
 ![icon](./scalable/apps/tidal-hifi.svg "Tidal Hi-Fi")
+![icon](./scalable/apps/timeshift.svg "Timeshift")
 ![icon](./scalable/apps/todoist.svg "Todoist")
 ![icon](./scalable/apps/tor-browser.svg "TOR Browser")
 ![icon](./scalable/apps/trivalent.svg "Trivalent")

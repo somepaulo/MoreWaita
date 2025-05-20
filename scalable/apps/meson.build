@@ -340,6 +340,7 @@ regular_files = [
     'texts.svg',
     'thunderbird.svg',
     'tidal-hifi.svg',
+    'timeshift.svg',
     'todoist.svg',
     'tor-browser.svg',
     'trivalent.svg',
