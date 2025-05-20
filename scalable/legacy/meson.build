@@ -27,6 +27,7 @@ regular_files = [
     'preferences-desktop-wallpaper.svg',
     'preferences-desktop.svg',
     'preferences-system-network.svg',
+    'software-sources.svg',
     'system-file-manager.svg',
     'system-lock-screen.svg',
     'system-log-out.svg',
@@ -40,6 +41,9 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'software-sources.svg': [
+        'x-system-software-sources.svg',
+    ],
     'applications-system.svg': [
         'preferences-system.svg',
     ],
