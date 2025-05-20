@@ -272,6 +272,7 @@ regular_files = [
     'ringracers-symbolic.svg',
     'rocketchat-symbolic.svg',
     'rpi-imager-symbolic.svg',
+    'rpminstall-symbolic.svg',
     'rstudio-symbolic.svg',
     'rubymine-symbolic.svg',
     'rustdesk-symbolic.svg',
