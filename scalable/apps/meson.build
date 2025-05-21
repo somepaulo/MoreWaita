@@ -459,11 +459,6 @@ link_files = {
     'veracrypt.svg': [
         'veracrypt.xpm.svg',
     ],
-    'Zoom.svg': [
-        'us.zoom.Zoom.svg',
-        'zoom-desktop.svg',
-        'zoom-icon.svg',
-    ],
     'cawbird.svg': [
         'uk.co.ibboard.cawbird.svg',
     ],
@@ -1557,6 +1552,12 @@ link_files = {
         'sun-javaws32-jdk6.svg',
         'sun-javaws32-jdk7.svg',
         'sun-javaws32-jdk8.svg',
+    ],
+    'Zoom.svg': [
+        'application-x-zoom.svg',
+        'us.zoom.Zoom.svg',
+        'zoom-desktop.svg',
+        'zoom-icon.svg',
     ],
     'zoho-mail.svg': [
         'appimagekit-zoho-mail-desktop.svg',
