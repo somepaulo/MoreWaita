@@ -1,4 +1,4 @@
-![showcase](https://repository-images.githubusercontent.com/543632052/3d86675f-5459-4dad-a48c-4f7845aabd63)
+![showcase](https://repository-images.githubusercontent.com/543632052/bb450f13-02a5-4174-91a3-7cc125654473)
 
 # MoreWaita
 
@@ -111,6 +111,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/flightgear.svg "FlightGear")
 ![icon](./scalable/apps/fgcom.svg "FlightGear FGCom")
 ![icon](./scalable/apps/floorp.svg "Floorp")
+![icon](./scalable/apps/flowblade.svg "Flowblade")
 ![icon](./scalable/apps/foobar2000.svg "Foobar 2000")
 ![icon](./scalable/apps/foot.svg "Foot")
 ![icon](./scalable/apps/frappe-books.svg "Frappe Books")

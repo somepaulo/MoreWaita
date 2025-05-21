@@ -89,6 +89,7 @@ regular_files = [
     'fleet-symbolic.svg',
     'flightgear-symbolic.svg',
     'floorp-symbolic.svg',
+    'flowblade-symbolic.svg',
     'foobar2000-symbolic.svg',
     'foot-symbolic.svg',
     'fr.handbrake.ghb-symbolic.svg',
@@ -970,6 +971,9 @@ link_files = {
     ],
     'kotatogram-symbolic.svg': [
         'io.github.kotatogram-symbolic.svg',
+    ],
+    'flowblade-symbolic.svg': [
+        'io.github.jliljebl.Flowblade-symbolic.svg',
     ],
     'linux-assistant-symbolic.svg': [
         'io.github.jean28518.Linux-Assistant-symbolic.svg',

@@ -98,6 +98,7 @@ regular_files = [
     'fleet.svg',
     'flightgear.svg',
     'floorp.svg',
+    'flowblade.svg',
     'foobar2000.svg',
     'foot.svg',
     'fr.handbrake.ghb.svg',
@@ -1018,6 +1019,9 @@ link_files = {
     ],
     'kotatogram.svg': [
         'io.github.kotatogram.svg',
+    ],
+    'flowblade.svg': [
+        'io.github.jliljebl.Flowblade.svg',
     ],
     'linux-assistant.svg': [
         'io.github.jean28518.Linux-Assistant.svg',
