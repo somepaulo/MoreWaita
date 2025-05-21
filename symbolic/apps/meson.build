@@ -71,6 +71,7 @@ regular_files = [
     'dev.bsnes.bsnes-symbolic.svg',
     'discord-symbolic.svg',
     'dropbox-symbolic.svg',
+    'dune3d-symbolic.svg',
     'eclipse-symbolic.svg',
     'electron-symbolic.svg',
     'electrum-symbolic.svg',
@@ -627,6 +628,9 @@ link_files = {
     ],
     'electrum-symbolic.svg': [
         'org.electrum.electrum-symbolic.svg',
+    ],
+    'dune3d-symbolic.svg': [
+        'org.dune3d.dune3d-symbolic.svg',
     ],
     'darktable-symbolic.svg': [
         'org.darktable.Darktable-symbolic.svg',

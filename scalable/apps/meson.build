@@ -78,6 +78,7 @@ regular_files = [
     'discord-canary.svg',
     'discord.svg',
     'dropbox.svg',
+    'dune3d.svg',
     'eclipse.svg',
     'electron.svg',
     'electrum.svg',
@@ -665,6 +666,9 @@ link_files = {
     ],
     'electrum.svg': [
         'org.electrum.electrum.svg',
+    ],
+    'dune3d.svg': [
+        'org.dune3d.dune3d.svg',
     ],
     'darktable.svg': [
         'org.darktable.Darktable.svg',
