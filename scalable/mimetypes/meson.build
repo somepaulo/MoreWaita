@@ -58,6 +58,8 @@ regular_files = [
     'application-x-yaml.svg',
     'application-xml.svg',
     'com.bitwig.BitwigStudio.audio-x.dawproject.svg',
+    'com.fender.studio.application-x.fender-fenderstudio.svg',
+    'com.fender.studio.application-x.fender-jamtrack.svg',
     'image-vnd.djvu.svg',
     'oasis-database-template.svg',
     'oasis-database.svg',

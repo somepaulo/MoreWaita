@@ -56,6 +56,7 @@ regular_files = [
     'clion.svg',
     'code-oss.svg',
     'codeblocks.svg',
+    'com.fender.studio.svg',
     'com.github.eneshecan.WhatsAppForLinux.svg',
     'com.github.rafostar.Clapper.svg',
     'com.obsproject.Studio.svg',
