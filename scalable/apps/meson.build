@@ -75,6 +75,7 @@ regular_files = [
     'deezer.svg',
     'designer.svg',
     'dev.bsnes.bsnes.svg',
+    'dev.deedles.Trayscale.svg',
     'discord-canary.svg',
     'discord.svg',
     'dropbox.svg',

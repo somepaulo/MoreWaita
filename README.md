@@ -365,6 +365,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/timeshift.svg "Timeshift")
 ![icon](./scalable/apps/todoist.svg "Todoist")
 ![icon](./scalable/apps/tor-browser.svg "TOR Browser")
+![icon](./scalable/apps/dev.deedles.Trayscale.svg "Trayscale")
 ![icon](./scalable/apps/trivalent.svg "Trivalent")
 ![icon](./scalable/apps/tutanota-desktop.svg "Tuta Mail")
 ![icon](./scalable/apps/ugene.svg "Ugene")

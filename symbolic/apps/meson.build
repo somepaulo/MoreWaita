@@ -69,6 +69,7 @@ regular_files = [
     'deezer-symbolic.svg',
     'designer-symbolic.svg',
     'dev.bsnes.bsnes-symbolic.svg',
+    'dev.deedles.Trayscale-symbolic.svg',
     'discord-symbolic.svg',
     'dropbox-symbolic.svg',
     'dune3d-symbolic.svg',
