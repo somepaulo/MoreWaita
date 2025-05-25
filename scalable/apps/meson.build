@@ -79,6 +79,7 @@ regular_files = [
     'dev.deedles.Trayscale.svg',
     'discord-canary.svg',
     'discord.svg',
+    'drawio.svg',
     'dropbox.svg',
     'dune3d.svg',
     'eclipse.svg',
@@ -1305,6 +1306,9 @@ link_files = {
     ],
     'openchrom.svg': [
         'com.lablicate.OpenChrom.svg',
+    ],
+    'drawio.svg': [
+        'com.jgraph.drawio.desktop.svg',
     ],
     'webstorm.svg': [
         'com.jetbrains.WebStorm.svg',

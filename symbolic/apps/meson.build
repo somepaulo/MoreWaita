@@ -72,6 +72,7 @@ regular_files = [
     'dev.bsnes.bsnes-symbolic.svg',
     'dev.deedles.Trayscale-symbolic.svg',
     'discord-symbolic.svg',
+    'drawio-symbolic.svg',
     'dropbox-symbolic.svg',
     'dune3d-symbolic.svg',
     'eclipse-symbolic.svg',
@@ -1248,6 +1249,9 @@ link_files = {
     ],
     'openchrom-symbolic.svg': [
         'com.lablicate.OpenChrom-symbolic.svg',
+    ],
+    'drawio-symbolic.svg': [
+        'com.jgraph.drawio.desktop-symbolic.svg',
     ],
     'webstorm-symbolic.svg': [
         'com.jetbrains.WebStorm-symbolic.svg',
