@@ -818,9 +818,11 @@ link_files = {
         'org.xonotic.Xonotic.svg',
     ],
     'minetest.svg': [
+        'luanti.svg',
         'lutris_minetest.svg',
         'minetest-icon.svg',
         'net.minetest.Minetest.svg',
+        'org.luanti.luanti.svg',
     ],
     'libreoffice-main.svg': [
         'libreoffice7.6-main.svg',
