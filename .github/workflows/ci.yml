@@ -1,0 +1,23 @@
+name: CI
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  symlinks:
+    timeout-minutes: 15
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Check no broken symlinks
+        run: |
+          broken_symlinks="$(find . -xtype l)"
+          echo "${broken_symlinks}"
+          [[ -z "$broken_symlinks" ]]
