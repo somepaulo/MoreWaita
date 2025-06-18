@@ -527,9 +527,6 @@ link_files = {
     'shotcut-symbolic.svg': [
         'org.shotcut.Shotcut-symbolic.svg',
     ],
-    'ryujinx-symbolic.svg': [
-        'org.ryujinx.Ryujinx-symbolic.svg',
-    ],
     'rpi-imager-symbolic.svg': [
         'org.raspberrypi.rpi-imager-symbolic.svg',
         'rpi-symbolic.svg',
@@ -959,6 +956,10 @@ link_files = {
     ],
     'webcord-symbolic.svg': [
         'io.github.spacingbat3.webcord-symbolic.svg',
+    ],
+    'ryujinx-symbolic.svg': [
+        'io.github.ryubing.Ryujinx-symbolic.svg',
+        'org.ryujinx.Ryujinx-symbolic.svg',
     ],
     'osmscout-server-symbolic.svg': [
         'io.github.rinigus.OSMScoutServer-symbolic.svg',
