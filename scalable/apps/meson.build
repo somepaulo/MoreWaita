@@ -565,9 +565,6 @@ link_files = {
     'shotcut.svg': [
         'org.shotcut.Shotcut.svg',
     ],
-    'ryujinx.svg': [
-        'org.ryujinx.Ryujinx.svg',
-    ],
     'rpi-imager.svg': [
         'org.raspberrypi.rpi-imager.svg',
         'rpi.svg',
@@ -1009,6 +1006,10 @@ link_files = {
     ],
     'webcord.svg': [
         'io.github.spacingbat3.webcord.svg',
+    ],
+    'ryujinx.svg': [
+        'io.github.ryubing.Ryujinx.svg',
+        'org.ryujinx.Ryujinx.svg',
     ],
     'osmscout-server.svg': [
         'io.github.rinigus.OSMScoutServer.svg',

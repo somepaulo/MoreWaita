@@ -6,158 +6,158 @@
    id="svg11300"
    height="128"
    width="128"
+   sodipodi:docname="ryujinx.svg"
+   xml:space="preserve"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:export-filename="ryujinx-new.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title4162">Adwaita Icon Template</title>
-  <defs
-     id="defs3">
-    <linearGradient
-       id="linearGradient14">
-      <stop
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4"
+     inkscape:cx="64.5"
+     inkscape:cy="66.75"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11300" /><title
+     id="title4162">Adwaita Icon Template</title><defs
+     id="defs3"><linearGradient
+       id="linearGradient41"><stop
+         id="stop39"
+         offset="0.80165356"
+         style="stop-color:#aca207;stop-opacity:1;" /><stop
+         style="stop-color:#fcef82;stop-opacity:1;"
+         offset="0.90818417"
+         id="stop40" /><stop
+         style="stop-color:#aca208;stop-opacity:1;"
+         offset="1"
+         id="stop41" /></linearGradient><linearGradient
+       id="linearGradient38"><stop
+         style="stop-color:#0a4273;stop-opacity:1;"
+         offset="0"
+         id="stop36" /><stop
+         style="stop-color:#62a0ea;stop-opacity:1;"
+         offset="0.08568466"
+         id="stop37" /><stop
+         style="stop-color:#0b4474;stop-opacity:1;"
+         offset="0.20308708"
+         id="stop38" /></linearGradient><linearGradient
+       id="linearGradient14"><stop
          style="stop-color:#016d7e;stop-opacity:1;"
          offset="0"
-         id="stop14" />
-      <stop
+         id="stop14" /><stop
          style="stop-color:#4ee6fe;stop-opacity:1;"
          offset="0.08568466"
-         id="stop16" />
-      <stop
+         id="stop16" /><stop
          style="stop-color:#016d7e;stop-opacity:1;"
          offset="0.20308708"
-         id="stop15" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient13">
-      <stop
+         id="stop15" /></linearGradient><linearGradient
+       id="linearGradient13"><stop
          id="stop11"
          offset="0.80165356"
-         style="stop-color:#bd0b00;stop-opacity:1;" />
-      <stop
+         style="stop-color:#bd0b00;stop-opacity:1;" /><stop
          style="stop-color:#ff918a;stop-opacity:1;"
          offset="0.90818417"
-         id="stop12" />
-      <stop
+         id="stop12" /><stop
          style="stop-color:#bd0b00;stop-opacity:1;"
          offset="1"
-         id="stop13" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient13"
+         id="stop13" /></linearGradient><linearGradient
+       xlink:href="#linearGradient41"
        id="linearGradient8"
        x1="-94.453217"
        y1="72.570541"
        x2="-63.056732"
        y2="72.570541"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(179.05699,1.141152)" />
-    <linearGradient
-       xlink:href="#linearGradient14"
+       gradientTransform="translate(179.05699,1.141152)" /><linearGradient
+       xlink:href="#linearGradient38"
        id="linearGradient15"
        x1="-167.05724"
        y1="57.147144"
        x2="-135.66076"
        y2="57.147144"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(179.05699,1.141152)" />
-  </defs>
-  <metadata
-     id="metadata4">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>GNOME Design Team</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:source />
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:title>Adwaita Icon Template</dc:title>
-        <dc:subject>
-          <rdf:Bag />
-        </dc:subject>
-        <dc:date />
-        <dc:rights>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:rights>
-        <dc:publisher>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:publisher>
-        <dc:identifier />
-        <dc:relation />
-        <dc:language />
-        <dc:coverage />
-        <dc:description />
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:contributor>
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <path
+       gradientTransform="translate(179.05699,1.141152)" /></defs><metadata
+     id="metadata4"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:creator><cc:Agent><dc:title>GNOME Design Team</dc:title></cc:Agent></dc:creator><dc:source /><cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" /><dc:title>Adwaita Icon Template</dc:title><dc:subject><rdf:Bag /></dc:subject><dc:date /><dc:rights><cc:Agent><dc:title /></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title /></cc:Agent></dc:publisher><dc:identifier /><dc:relation /><dc:language /><dc:coverage /><dc:description /><dc:contributor><cc:Agent><dc:title /></cc:Agent></dc:contributor></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/"><cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /><cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" /></cc:License></rdf:RDF></metadata><path
      id="path17"
-     style="fill:#bd0b00;fill-opacity:1;stroke-width:0.436059"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.436059"
      class="cls-2"
-     d="m 72.23668,48.510292 -2.4336,9.822268 H 65.0941 l -0.77149,4 h 4.71094 l -1.75943,7.380857 h -4.71094 l -0.87338,4 h 4.70703 l -2.26562,5.777343 v 4 h 3.10351 l 2.26563,-9.777343 h 7.56445 l 1.06835,-4 v -3.318358 l -7.75553,3.318358 1.76139,-7.380857 h 6.88672 l 1.068369,-4 v -3.318363 l -7.185559,3.318363 2.43359,-9.822268 z" />
-  <path
-     id="path16"
-     style="fill:#016d7e;fill-opacity:1;stroke-width:0.436059"
-     class="cls-1"
-     d="m 61.79722,48.510292 -2.27169,9.822268 h -9.64062 v 4 h 8.70919 l -1.7123,7.380857 h -8.96484 v 4 h 8.04042 l -2.26562,5.777343 v 4 h 3.03125 l 2.26562,-9.777343 h 2.70117 l 0.92052,-4 h -2.69727 l 1.7123,-7.380857 h 2.69726 l 0.93339,-4 h -2.69922 l 2.27169,-9.822268 z" />
-  <path
+     d="M 64.828125 44.509766 L 63.900391 48.509766 L 61.796875 48.509766 L 59.525391 58.332031 L 49.884766 58.332031 L 49.884766 62.332031 L 58.59375 62.332031 L 56.880859 69.712891 L 47.916016 69.712891 L 47.916016 73.712891 L 55.957031 73.712891 L 53.691406 79.490234 L 53.691406 83.490234 L 56.722656 83.490234 L 58.988281 73.712891 L 61.689453 73.712891 L 66.396484 73.712891 L 64.130859 79.490234 L 64.130859 83.490234 L 67.234375 83.490234 L 69.5 73.712891 L 77.064453 73.712891 L 78.132812 69.712891 L 78.132812 66.394531 L 70.376953 69.712891 L 72.138672 62.332031 L 79.025391 62.332031 L 80.09375 58.332031 L 80.09375 55.013672 L 72.908203 58.332031 L 75.341797 48.509766 L 75.341797 44.509766 L 74.416016 48.509766 L 72.236328 48.509766 L 70.330078 56.203125 L 63.0625 56.144531 L 64.828125 48.509766 L 64.828125 44.509766 z M 61.625 62.332031 L 64.322266 62.332031 L 69.033203 62.332031 L 67.273438 69.712891 L 62.609375 69.712891 L 62.5625 69.712891 L 59.912109 69.712891 L 61.625 62.332031 z " /><path
      id="path7"
      style="display:inline;fill:url(#linearGradient8);fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-     d="m 84.603773,25.660206 v 96.102974 h 23.396487 c 4.432,0 8,-3.568 8,-8 V 33.660206 c 0,-4.432 -3.568,-8 -8,-8 z" />
-  <path
+     d="m 84.603773,25.660206 v 96.102974 h 23.396487 c 4.432,0 8,-3.568 8,-8 V 33.660206 c 0,-4.432 -3.568,-8 -8,-8 z" /><path
      id="path6"
      style="display:inline;fill:url(#linearGradient15);fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-     d="m 11.99975,18.23681 v 80.102968 c 0,4.432002 3.568,8.000002 8,8.000002 H 43.39623 V 10.23681 H 19.99975 c -4.432,0 -8,3.568 -8,8 z" />
-  <path
-     id="path5"
-     style="display:inline;fill:#ff5f55;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-     d="m 84.603773,21.660206 v 96.102974 h 23.396487 c 4.432,0 8,-3.568 8,-8 V 29.660206 c 0,-4.432 -3.568,-8 -8,-8 z" />
-  <path
-     id="path4"
-     style="display:inline;fill:#02c5e5;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
-     d="m 11.99975,14.23681 v 80.102968 c 0,4.432 3.568,8.000002 8,8.000002 H 43.39623 V 6.2368103 H 19.99975 c -4.432,0 -8,3.568 -8,7.9999997 z" />
-  <path
-     id="polygon2"
-     style="fill:#02c5e5;stroke-width:0.436059"
-     class="cls-1"
-     d="M 61.797224,44.510292 59.363629,55.014197 H 50.705428 L 49.88491,58.33256 h 8.709188 l -1.867186,8.062499 h -7.984375 l -0.825579,3.318358 h 8.040424 l -2.265626,9.777343 h 3.031249 l 2.265626,-9.777343 h 2.70117 l 0.765628,-3.318358 h -2.697268 l 1.867186,-8.062499 h 2.697268 l 0.771483,-3.318363 h -2.699216 l 2.433591,-10.503905 z" />
-  <path
-     id="polygon3"
-     style="fill:#ff5f55;stroke-width:0.436059"
-     class="cls-2"
-     d="m 72.236679,44.510292 -2.433596,10.503905 h -4.708985 l -0.771483,3.318363 h 4.710938 l -1.867186,8.062499 h -4.710938 l -0.765628,3.318358 h 4.707031 l -2.265625,9.777343 h 3.103517 l 2.265625,-9.777343 h 7.564455 l 1.068356,-3.318358 h -7.86328 l 1.869139,-8.062499 h 6.886723 l 1.068357,-3.318363 h -7.185545 l 2.433591,-10.503905 z" />
-</svg>
+     d="m 11.99975,18.23681 v 80.102968 c 0,4.432002 3.568,8.000002 8,8.000002 H 43.39623 V 10.23681 H 19.99975 c -4.432,0 -8,3.568 -8,8 z" /><path
+     d="m 108.37126,117.75473 c 4.25869,-0.19216 7.6279,-3.68318 7.6279,-7.99098 V 101.6095 L 90.81023,76.420578 84.603773,70.214121 v 23.775937 z"
+     style="display:inline;opacity:1;fill:#fd8d62;fill-opacity:1;stroke-width:0.249995;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     id="path13-2" /><path
+     d="M 108.37126,117.75473 84.603773,93.990058 v 23.773122 h 23.395937 c 0.12408,0 0.24884,-0.003 0.37155,-0.009 z"
+     style="display:inline;opacity:1;fill:#f9f06b;fill-opacity:1;stroke-width:0.249995;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     id="path12-8" /><path
+     d="m 84.603773,70.214121 6.206457,6.206457 25.18893,25.188922 V 77.490171 L 84.603773,46.094788 Z"
+     style="display:inline;opacity:1;fill:#fe625e;fill-opacity:1;stroke-width:0.249995;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     id="path10-9" /><path
+     d="M 84.603773,46.094788 115.99916,77.490171 V 53.058404 L 84.603773,21.660206 Z"
+     style="display:inline;opacity:1;fill:#cdab8f;fill-opacity:1;stroke-width:0.249995;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     id="path8-7" /><path
+     d="M 84.603773,21.660206 115.99916,53.058404 V 29.65964 c 0,-4.431917 -3.56752,-7.999434 -7.99945,-7.999434 z"
+     style="display:inline;opacity:1;fill:#77767b;fill-opacity:1;stroke-width:0.249995;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     id="path2-3" /><path
+     d="m 19.628734,6.2452554 c -4.258687,0.1921582 -7.627877,3.6831885 -7.627877,7.9909886 v 8.154242 l 25.188917,25.188925 6.206456,6.206457 V 30.009932 Z"
+     style="display:inline;opacity:1;fill:#fd8d62;fill-opacity:1;stroke-width:0.249995;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     id="path13" /><path
+     d="M 19.628734,6.2452554 43.39623,30.009932 V 6.2368103 H 20.000288 c -0.124082,0 -0.248841,0.00288 -0.371554,0.0085 z"
+     style="display:inline;opacity:1;fill:#fe625e;fill-opacity:1;stroke-width:0.249995;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     id="path12" /><path
+     d="M 43.39623,53.785868 37.189774,47.579411 12.000857,22.390486 V 46.509818 L 43.39623,77.9052 Z"
+     style="display:inline;opacity:1;fill:#f9f06b;fill-opacity:1;stroke-width:0.249995;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     id="path10" /><path
+     d="M 43.39623,77.9052 12.000857,46.509818 V 70.941584 L 43.39623,102.33978 Z"
+     style="display:inline;opacity:1;fill:#33d17a;fill-opacity:1;stroke-width:0.249995;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     id="path8" /><path
+     d="M 43.39623,102.33978 12.000857,70.941584 v 23.398763 c 0,4.431917 3.567504,7.999433 7.999431,7.999433 z"
+     style="display:inline;opacity:1;fill:#62a0ea;fill-opacity:1;stroke-width:0.249995;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     id="path2" /><path
+     d="m 67.689448,77.527349 -2.52929,-2.47852 -1.0293,4.44141 h 3.10351 z"
+     style="display:inline;opacity:1;fill:#f9f06b;stroke-width:1.25;enable-background:new;fill-opacity:1"
+     id="path22" /><path
+     d="m 59.714838,69.712889 -3.38672,-3.31836 h -7.58593 l -0.82617,3.31836 h 8.04101 l -2.26562,9.77735 h 3.03125 l 2.26562,-9.77735 z"
+     style="display:inline;opacity:1;fill:#f9f06b;stroke-width:1.25;enable-background:new;fill-opacity:1"
+     id="path21" /><path
+     d="m 72.236328,44.509766 -2.4336,10.503903 h -0.79492 l 3.39063,3.31836 h 6.62695 l 1.06836,-3.31836 h -7.185551 l 2.4336,-10.503903 z"
+     style="display:inline;fill:#fe625e;fill-opacity:1;stroke-width:0.436059;enable-background:new"
+     id="path34" /><path
+     d="m 61.796868,44.509766 -0.65039,2.808594 2.47071,2.417969 1.21093,-5.226563 z"
+     style="display:inline;fill:#fe625e;fill-opacity:1;stroke-width:0.436059;enable-background:new"
+     id="path33" /><path
+     d="m 61.146478,47.31836 -1.7832,7.695309 h -8.6582 l -0.82031,3.31836 h 8.70898 l -1.86719,8.0625 h -0.42383 l 3.39649,3.31836 h 1.99023 4.70703 l -1.23632,5.33594 2.53125,2.47266 1.80859,-7.8086 h 7.564449 l 1.06836,-3.31836 h -7.86328 l 1.86914,-8.0625 h 0.25977 l -3.39063,-3.31836 h -3.91406 -2.69922 l 1.22266,-5.27734 z m 0.48438,10.988279 h 7.4082 l -1.86719,8.0625 h -7.4082 z"
+     style="display:inline;opacity:1;fill:#fd8d62;stroke-width:1.25;enable-background:new;fill-opacity:1"
+     id="path36" /></svg>
