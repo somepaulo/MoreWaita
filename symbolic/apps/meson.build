@@ -28,6 +28,7 @@ regular_files = [
     'augustus-symbolic.svg',
     'avogadro-symbolic.svg',
     'bambustudio-symbolic.svg',
+    'beepertexts-symbolic.svg',
     'betterbird-symbolic.svg',
     'bitwarden-symbolic.svg',
     'bitwig-studio-symbolic.svg',
@@ -1438,6 +1439,9 @@ link_files = {
         'cinnamon-virtual-keyboard-symbolic.svg',
         'gnome-dev-keyboard-symbolic.svg',
         'keyboard-symbolic.svg',
+    ],
+    'beepertexts-symbolic.svg': [
+        'beeper-symbolic.svg',
     ],
     'avogadro-symbolic.svg': [
         'avogadro-icon-symbolic.svg',

@@ -30,6 +30,7 @@ regular_files = [
     'augustus.svg',
     'avogadro.svg',
     'bambustudio.svg',
+    'beepertexts.svg',
     'betterbird.svg',
     'bitwarden.svg',
     'bitwig-studio.svg',
@@ -1500,6 +1501,9 @@ link_files = {
         'gscan2pdf.svg',
         'vuescan.svg',
         'yast-scanner.svg',
+    ],
+    'beepertexts.svg': [
+        'beeper.svg',
     ],
     'btop.svg': [
         'bashtop.svg',
