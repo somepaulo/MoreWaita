@@ -605,6 +605,7 @@ link_files = {
         'org.mozilla.Thunderbird.svg',
         'thunderbird-3.0.svg',
         'thunderbird-bin.svg',
+        'thunderbird-esr.svg',
         'thunderbird-icon.svg',
         'thunderbird-mozilla-build.svg',
     ],
@@ -1119,6 +1120,9 @@ link_files = {
     ],
     'gnome-nettool.svg': [
         'gnome-nettools.svg',
+    ],
+    '../legacy/accessories-character-map.svg': [
+        'gnome-character-map.svg',
     ],
     'genymotion.svg': [
         'genymotion-bin.svg',

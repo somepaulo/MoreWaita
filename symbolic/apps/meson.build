@@ -486,6 +486,11 @@ link_files = {
     'pianoteq-symbolic.svg': [
         'pianoteq-stage-symbolic.svg',
     ],
+    '../legacy/system-software-install-symbolic.svg': [
+        'pamac-manager-symbolic.svg',
+        'pamac-symbolic.svg',
+        'pamac-updater-symbolic.svg',
+    ],
     'osu-symbolic.svg': [
         'osu-lazer-symbolic.svg',
         'sh.ppy.osu-symbolic.svg',
@@ -567,6 +572,7 @@ link_files = {
         'org.mozilla.Thunderbird-symbolic.svg',
         'thunderbird-3.0-symbolic.svg',
         'thunderbird-bin-symbolic.svg',
+        'thunderbird-esr-symbolic.svg',
         'thunderbird-icon-symbolic.svg',
         'thunderbird-mozilla-buld-symbolic.svg',
     ],
