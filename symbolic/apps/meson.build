@@ -1423,6 +1423,7 @@ link_files = {
     ],
     'brave-desktop-symbolic.svg': [
         'brave-browser-symbolic.svg',
+        'com.brave.Browser-symbolic.svg',
     ],
     'xsane-symbolic.svg': [
         'blueman-scanner-symbolic.svg',

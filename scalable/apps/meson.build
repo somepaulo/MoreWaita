@@ -1491,6 +1491,7 @@ link_files = {
     ],
     'brave-desktop.svg': [
         'brave-browser.svg',
+        'com.brave.Browser.svg',
     ],
     'xsane.svg': [
         'blueman-scanner.svg',
