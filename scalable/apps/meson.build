@@ -79,6 +79,7 @@ regular_files = [
     'designer.svg',
     'dev.bsnes.bsnes.svg',
     'dev.deedles.Trayscale.svg',
+    'devpod.svg',
     'discord-canary.svg',
     'discord.svg',
     'drawio.svg',
@@ -479,6 +480,9 @@ link_files = {
     ],
     'spyder.svg': [
         'spyder3.svg',
+    ],
+    'devpod.svg': [
+        'sh.loft.devpod.svg',
     ],
     'yandex-browser.svg': [
         'ru.yandex.Browser.svg',

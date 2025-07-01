@@ -73,6 +73,7 @@ regular_files = [
     'designer-symbolic.svg',
     'dev.bsnes.bsnes-symbolic.svg',
     'dev.deedles.Trayscale-symbolic.svg',
+    'devpod-symbolic.svg',
     'discord-symbolic.svg',
     'drawio-symbolic.svg',
     'dropbox-symbolic.svg',
@@ -455,6 +456,9 @@ link_files = {
     ],
     'spyder-symbolic.svg': [
         'spyder3-symbolic.svg',
+    ],
+    'devpod-symbolic.svg': [
+        'sh.loft.devpod-symbolic.svg',
     ],
     'yandex-browser-symbolic.svg': [
         'ru.yandex.Browser-symbolic.svg',
