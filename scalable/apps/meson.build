@@ -385,6 +385,7 @@ regular_files = [
     'xonotic.svg',
     'xsane.svg',
     'yandex-browser.svg',
+    'youtube-music.svg',
     'yuzu.svg',
     'zaproxy.svg',
     'zathura.svg',
@@ -1730,6 +1731,12 @@ link_files = {
         'app.zen_browser.zen.svg',
         'appimagekit-zen-browser.svg',
         'io.github.zen_browser.zen.svg',
+    ],
+    'youtube-music.svg': [
+        'app.ytmdesktop.ytmdesktop.svg',
+        'chrome-cinhimbnkkaeohfgghhklpknlkffjgod-Default.svg',
+        'org.gnome.Epiphany.WebApp_d0edcaa68dd928524737c844042dd085d6e2824e.svg',
+        'ytmdesktop.svg',
     ],
     'polychromatic.svg': [
         'app.polychromatic.controller.svg',

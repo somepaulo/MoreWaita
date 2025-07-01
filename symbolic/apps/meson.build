@@ -356,6 +356,7 @@ regular_files = [
     'xonotic-symbolic.svg',
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
+    'youtube-music-symbolic.svg',
     'yuzu-symbolic.svg',
     'zaproxy-symbolic.svg',
     'zathura-symbolic.svg',
@@ -1666,6 +1667,12 @@ link_files = {
         'app.zen_browser.zen-symbolic.svg',
         'appimagekit-zen-browser-symbolic.svg',
         'io.github.zen_browser.zen-symbolic.svg',
+    ],
+    'youtube-music-symbolic.svg': [
+        'app.ytmdesktop.ytmdesktop-symbolic.svg',
+        'chrome-cinhimbnkkaeohfgghhklpknlkffjgod-Default-symbolic.svg',
+        'org.gnome.Epiphany.WebApp_d0edcaa68dd928524737c844042dd085d6e2824e-symbolic.svg',
+        'ytmdesktop-symbolic.svg',
     ],
     'polychromatic-symbolic.svg': [
         'app.polychromatic.controller-symbolic.svg',
