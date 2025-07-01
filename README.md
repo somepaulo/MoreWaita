@@ -337,7 +337,6 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/shotcut.svg "Shotcut")
 ![icon](./scalable/apps/signal-desktop.svg "Signal")
 ![icon](./scalable/apps/sioyek.svg "Sioyek")
-![icon](./scalable/apps/skypeforlinux.svg "Skype")
 ![icon](./scalable/apps/slack.svg "Slack")
 ![icon](./scalable/apps/soundconverter.svg "Sound Converter")
 ![icon](./scalable/apps/sound-juicer.svg "Sound Juicer")
