@@ -48,6 +48,7 @@ regular_files = [
     'clamtk-symbolic.svg',
     'classicube-symbolic.svg',
     'clion-symbolic.svg',
+    'cockos-reaper-symbolic.svg',
     'code-oss-symbolic.svg',
     'codeblocks-symbolic.svg',
     'com.fender.studio-symbolic.svg',
@@ -1085,6 +1086,9 @@ link_files = {
     'freecad-symbolic.svg': [
         'freecad-daily-symbolic.svg',
         'org.freecadweb.FreeCAD-symbolic.svg',
+    ],
+    'cockos-reaper-symbolic.svg': [
+        'fm.reaper.Reaper-symbolic.svg',
     ],
     'helio-workstation-symbolic.svg': [
         'fm.helio.Worksatation-symbolic.svg',

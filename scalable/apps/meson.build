@@ -54,6 +54,7 @@ regular_files = [
     'clamtk.svg',
     'classicube.svg',
     'clion.svg',
+    'cockos-reaper.svg',
     'code-oss.svg',
     'codeblocks.svg',
     'com.fender.studio.svg',
@@ -1135,6 +1136,9 @@ link_files = {
         'freecad-daily.svg',
         'org.freecad.FreeCAD.svg',
         'org.freecadweb.FreeCAD.svg',
+    ],
+    'cockos-reaper.svg': [
+        'fm.reaper.Reaper.svg',
     ],
     'helio-workstation.svg': [
         'fm.helio.Worksatation.svg',
