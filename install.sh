@@ -1,18 +1,22 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 is_user_root ()
 {
 		[ "$(id -u)" -eq 0 ]
 }
 
-if is_user_root; then
-    if [ ! -w "/usr/" ]; then
-        THEMEDIR="/usr/local/share/icons/MoreWaita/"
+THEMEDIR="${THEMEDIR:-}"
+
+if [ -z "$THEMEDIR" ]; then
+    if is_user_root; then
+        if [ ! -w "/usr/" ]; then
+            THEMEDIR="/usr/local/share/icons/MoreWaita/"
+        else
+            THEMEDIR="/usr/share/icons/MoreWaita/"
+        fi
     else
-        THEMEDIR="/usr/share/icons/MoreWaita/"
+        THEMEDIR="${HOME}/.local/share/icons/MoreWaita/"
     fi
-else
-    THEMEDIR="${HOME}/.local/share/icons/MoreWaita/"
 fi
 SCRIPTDIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
