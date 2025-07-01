@@ -92,6 +92,7 @@ regular_files = [
     'firefox-symbolic.svg',
     'firewall-config-symbolic.svg',
     'fish-symbolic.svg',
+    'flameshot-symbolic.svg',
     'fleet-symbolic.svg',
     'flightgear-symbolic.svg',
     'floorp-symbolic.svg',
@@ -634,6 +635,9 @@ link_files = {
     ],
     'fgcom-symbolic.svg': [
         'org.flightgear.FGCom-symbolic.svg',
+    ],
+    'flameshot-symbolic.svg': [
+        'org.flameshot.Flameshot-symbolic.svg',
     ],
     'filezilla-symbolic.svg': [
         'org.filezillaproject.Filezilla-symbolic.svg',

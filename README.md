@@ -112,6 +112,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/firefox-nightly.svg "Firefox Nightly")
 ![icon](./scalable/apps/firewall-config.svg "Firewalld")
 ![icon](./scalable/apps/fish.svg "Fish Shell")
+![icon](./scalable/apps/flameshot.svg "Flameshot")
 ![icon](./scalable/apps/flightgear.svg "FlightGear")
 ![icon](./scalable/apps/fgcom.svg "FlightGear FGCom")
 ![icon](./scalable/apps/floorp.svg "Floorp")

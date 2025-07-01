@@ -101,6 +101,7 @@ regular_files = [
     'firefox.svg',
     'firewall-config.svg',
     'fish.svg',
+    'flameshot.svg',
     'fleet.svg',
     'flightgear.svg',
     'floorp.svg',
@@ -667,6 +668,9 @@ link_files = {
     ],
     'fgcom.svg': [
         'org.flightgear.FGCom.svg',
+    ],
+    'flameshot.svg': [
+        'org.flameshot.Flameshot.svg',
     ],
     'filezilla.svg': [
         'org.filezillaproject.Filezilla.svg',
