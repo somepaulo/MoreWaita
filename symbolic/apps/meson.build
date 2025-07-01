@@ -294,7 +294,6 @@ regular_files = [
     'shotwell-symbolic.svg',
     'signal-desktop-symbolic.svg',
     'sioyek-symbolic.svg',
-    'skypeforlinux-symbolic.svg',
     'slack-symbolic.svg',
     'sound-juicer-symbolic.svg',
     'soundconverter-symbolic.svg',
@@ -1211,11 +1210,6 @@ link_files = {
     ],
     'slack-symbolic.svg': [
         'com.slack.Slack-symbolic.svg',
-    ],
-    'skypeforlinux-symbolic.svg': [
-        'com.skype.Client-symbolic.svg',
-        'ms-skype-symbolic.svg',
-        'skype-symbolic.svg',
     ],
     'rawtherapee-symbolic.svg': [
         'com.rawtherapee.RawTherapee-symbolic.svg',
