@@ -411,6 +411,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/zathura.svg "Zathura")
 ![icon](./scalable/apps/zed.svg "Zed")
 ![icon](./scalable/apps/zen-browser.svg "Zen Browser")
+![icon](./scalable/apps/zen-twilight.svg "Zen Twilight")
 ![icon](./scalable/apps/0ad.svg "0 A.D.")
 ![icon](./scalable/apps/zim.svg "Zim")
 ![icon](./scalable/apps/zoho-mail.svg "Zoho Mail")

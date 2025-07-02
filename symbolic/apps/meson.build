@@ -1671,6 +1671,7 @@ link_files = {
         'app.zen_browser.zen-symbolic.svg',
         'appimagekit-zen-browser-symbolic.svg',
         'io.github.zen_browser.zen-symbolic.svg',
+        'zen-twilight-symbolic.svg',
     ],
     'youtube-music-symbolic.svg': [
         'app.ytmdesktop.ytmdesktop-symbolic.svg',

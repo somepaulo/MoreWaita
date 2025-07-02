@@ -392,6 +392,7 @@ regular_files = [
     'zathura.svg',
     'zed.svg',
     'zen-browser.svg',
+    'zen-twilight.svg',
     'zim.svg',
     'zoho-mail.svg',
     'zoho-sheet.svg',
