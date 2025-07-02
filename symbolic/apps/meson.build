@@ -245,6 +245,7 @@ regular_files = [
     'pianoteq-symbolic.svg',
     'pidgin-symbolic.svg',
     'pinta-symbolic.svg',
+    'plugdata-symbolic.svg',
     'polychromatic-symbolic.svg',
     'popcorntime-symbolic.svg',
     'portmaster-symbolic.svg',

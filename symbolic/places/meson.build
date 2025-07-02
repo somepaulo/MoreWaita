@@ -54,6 +54,7 @@ regular_files = [
     'folder-openscad-symbolic.svg',
     'folder-opensuse-symbolic.svg',
     'folder-platformio-symbolic.svg',
+    'folder-plugdata-symbolic.svg',
     'folder-podcast-symbolic.svg',
     'folder-private-legacy-symbolic.svg',
     'folder-private-symbolic.svg',
@@ -138,6 +139,9 @@ link_files = {
     ],
     'folder-podcast-symbolic.svg': [
         'folder-podcast-legacy-symbolic.svg',
+    ],
+    'folder-plugdata-symbolic.svg': [
+        'folder-plugdata-legacy-symbolic.svg',
     ],
     'folder-platformio-symbolic.svg': [
         'folder-platformio-legacy-symbolic.svg',
