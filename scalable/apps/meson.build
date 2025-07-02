@@ -286,6 +286,7 @@ regular_files = [
     'protonmail-ie.svg',
     'protonvpn-gui.svg',
     'pulsar.svg',
+    'pupgui-qt.svg',
     'pure-maps.svg',
     'pycharm.svg',
     'pymol.svg',
@@ -768,6 +769,9 @@ link_files = {
     ],
     'mediainfo.svg': [
         'net.mediaarea.MediaInfo.svg',
+    ],
+    'pupgui-qt.svg': [
+        'net.davidotek.pupgui2.svg',
     ],
     'classicube.svg': [
         'net.classicube.flatpak.client.svg',
