@@ -275,6 +275,7 @@ regular_files = [
     'pianoteq.svg',
     'pidgin.svg',
     'pinta.svg',
+    'plugdata.svg',
     'polychromatic.svg',
     'popcorntime.svg',
     'portmaster.svg',
