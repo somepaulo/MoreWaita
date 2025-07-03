@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 128 128"
+   style="display:inline;enable-background:new"
+   version="1.0"
+   id="svg11300"
+   height="128"
+   width="128"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title4162">Adwaita Icon Template</title>
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient16">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11" />
+      <stop
+         id="stop12"
+         offset="0.04166667"
+         style="stop-color:#999999;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.08333334"
+         id="stop13" />
+      <stop
+         id="stop14"
+         offset="0.91666669"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0.95833331"
+         id="stop15" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient16"
+       id="linearGradient2"
+       x1="12"
+       y1="83.739128"
+       x2="116"
+       y2="83.739128"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,4)" />
+    <linearGradient
+       xlink:href="#linearGradient16"
+       id="linearGradient4"
+       x1="12"
+       y1="24.1"
+       x2="49"
+       y2="24.1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,2.399999)" />
+  </defs>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>GNOME Design Team</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>Adwaita Icon Template</dc:title>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier />
+        <dc:relation />
+        <dc:language />
+        <dc:coverage />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="display:inline;fill:url(#linearGradient2);stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+     id="rect1"
+     width="104"
+     height="56.52174"
+     x="12"
+     y="59.47826"
+     rx="8"
+     ry="8" />
+  <rect
+     style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+     id="rect1711"
+     width="104"
+     height="60.146667"
+     x="12"
+     y="51.853333"
+     rx="8"
+     ry="8" />
+  <path
+     id="rect2"
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+     d="m 31.335937,53.666163 v 7.007585 H 14 v 42.505832 h 17.337891 v 7.00759 h 76.662099 c 3.32401,0 6.00001,-2.87979 6.00001,-6.45691 V 60.673748 H 96.654295 v -7.007585 z" />
+  <polyline
+     transform="matrix(2.173913,0,0,2.173913,-213.00092,-162.65217)"
+     points="107.0 94.0 107.0 99.0"
+     id="l7fb48cc19700 cord"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:round" />
+  <path
+     id="path2"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:url(#linearGradient4);stroke-width:1.06376;enable-background:accumulate;stop-color:#000000"
+     d="M 17.410377,8 C 14.432429,8 12,10.43437 12,13.412152 V 39.587848 C 12,42.56563 14.432429,45 17.410377,45 H 43.589622 C 46.56757,45 49,42.56563 49,39.587848 V 13.412152 C 49,10.43437 46.56757,8 43.589622,8 Z" />
+  <path
+     id="path7"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke-width:1.06376;enable-background:accumulate;stop-color:#000000"
+     d="M 17.410377,6 C 14.432429,6 12,8.43437 12,11.412152 V 37.587848 C 12,40.56563 14.432429,43 17.410377,43 H 43.589622 C 46.56757,43 49,40.56563 49,37.587848 V 11.412152 C 49,8.43437 46.56757,6 43.589622,6 Z" />
+  <path
+     id="path9"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#00fc04;fill-opacity:1;stroke-width:0.97751;enable-background:accumulate;stop-color:#000000"
+     d="M 18.471698,7.5000003 C 15.735205,7.5000003 13.5,9.73699 13.5,12.473328 V 36.526671 C 13.5,39.263011 15.735205,41.5 18.471698,41.5 H 42.528301 C 45.264794,41.5 47.5,39.263011 47.5,36.526671 V 12.473328 C 47.5,9.73699 45.264794,7.5000002 42.528301,7.5000002 Z" />
+  <path
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-width:1.11715;enable-background:accumulate;stop-color:#000000"
+     d="M 30.500001,7.5000004 C 21.125177,7.5000004 13.5,15.124688 13.5,24.498909 13.5,33.873131 21.125177,41.5 30.500001,41.5 39.874823,41.5 47.5,33.873131 47.5,24.498909 47.5,15.124688 39.874823,7.5000004 30.500001,7.5000004 Z m 0,2.4284152 c 8.062275,0 14.571428,6.5087364 14.571428,14.5704934 0,8.06176 -6.509153,14.572676 -14.571428,14.572676 -8.062276,0 -14.57143,-6.510916 -14.57143,-14.572676 0,-8.061758 6.509154,-14.5704934 14.57143,-14.5704934 z"
+     id="path11" />
+  <path
+     style="font-weight:bold;font-size:46.2667px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';letter-spacing:2.31333px;stroke-width:0"
+     d="m 29.673982,71.049006 v 9.894929 h 2.733531 q 3.275719,0 4.586006,-1.106967 1.332879,-1.106967 1.332879,-3.840498 0,-2.73353 -1.332879,-3.840497 -1.310287,-1.106967 -4.586006,-1.106967 z m -6.664393,-5.602609 h 9.149421 q 6.980669,0 10.030476,2.485028 3.072398,2.485028 3.072398,8.065045 0,5.580017 -3.072398,8.065045 -3.049807,2.485028 -10.030476,2.485028 h -2.485028 v 12.62846 H 23.009589 Z M 67.387664,77.464896 V 64.023154 h 6.59662 v 35.151849 h -6.59662 V 95.42487 q -1.061784,2.191343 -2.756121,3.29831 -1.671746,1.106967 -3.953454,1.106967 -4.337503,0 -6.732166,-3.479039 -2.394663,-3.479039 -2.394663,-9.804565 0,-6.41589 2.417254,-9.849747 2.439846,-3.433856 6.935487,-3.433856 2.033204,0 3.637177,1.061784 1.626564,1.039194 2.846486,3.140172 z m -9.217194,9.12683 q 0,3.659768 1.219923,5.738155 1.219923,2.078387 3.366083,2.078387 2.146161,0 3.388675,-2.078387 1.242513,-2.078387 1.242513,-5.738155 0,-3.659769 -1.242513,-5.738156 -1.242514,-2.078387 -3.388675,-2.078387 -2.14616,0 -3.366083,2.078387 -1.219923,2.078387 -1.219923,5.738156 z"
+     id=".x7fb48cd26890.t7fb48cc1a7d0 obj text-6"
+     aria-label="Pd" />
+</svg>

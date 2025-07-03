@@ -88,6 +88,7 @@ regular_files = [
     'org.wireshark.Wireshark-mimetype.svg',
     'text-asciidoc.svg',
     'text-css.svg',
+    'text-pureDataPatch.svg',
     'text-rust.svg',
     'text-x-arduino.svg',
     'text-x-bibtex.svg',
