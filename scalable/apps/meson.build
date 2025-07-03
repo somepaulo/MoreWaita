@@ -30,6 +30,7 @@ regular_files = [
     'augustus.svg',
     'avogadro.svg',
     'bambustudio.svg',
+    'beepertexts.svg',
     'betterbird.svg',
     'bitwarden.svg',
     'bitwig-studio.svg',
@@ -54,6 +55,7 @@ regular_files = [
     'clamtk.svg',
     'classicube.svg',
     'clion.svg',
+    'cockos-reaper.svg',
     'code-oss.svg',
     'codeblocks.svg',
     'com.fender.studio.svg',
@@ -77,6 +79,7 @@ regular_files = [
     'designer.svg',
     'dev.bsnes.bsnes.svg',
     'dev.deedles.Trayscale.svg',
+    'devpod.svg',
     'discord-canary.svg',
     'discord.svg',
     'drawio.svg',
@@ -98,6 +101,7 @@ regular_files = [
     'firefox.svg',
     'firewall-config.svg',
     'fish.svg',
+    'flameshot.svg',
     'fleet.svg',
     'flightgear.svg',
     'floorp.svg',
@@ -266,6 +270,7 @@ regular_files = [
     'pamac.svg',
     'parsehub.svg',
     'pavucontrol.svg',
+    'pd.svg',
     'phpstorm.svg',
     'pianoteq.svg',
     'pidgin.svg',
@@ -283,7 +288,9 @@ regular_files = [
     'protonmail-ie.svg',
     'protonvpn-gui.svg',
     'pulsar.svg',
+    'pupgui-qt.svg',
     'pure-maps.svg',
+    'puredata.svg',
     'pycharm.svg',
     'pymol.svg',
     'qbittorrent.svg',
@@ -319,7 +326,6 @@ regular_files = [
     'shotwell.svg',
     'signal-desktop.svg',
     'sioyek.svg',
-    'skypeforlinux.svg',
     'slack.svg',
     'sound-juicer.svg',
     'soundconverter.svg',
@@ -383,11 +389,13 @@ regular_files = [
     'xonotic.svg',
     'xsane.svg',
     'yandex-browser.svg',
+    'youtube-music.svg',
     'yuzu.svg',
     'zaproxy.svg',
     'zathura.svg',
     'zed.svg',
     'zen-browser.svg',
+    'zen-twilight.svg',
     'zim.svg',
     'zoho-mail.svg',
     'zoho-sheet.svg',
@@ -480,6 +488,9 @@ link_files = {
     'spyder.svg': [
         'spyder3.svg',
     ],
+    'devpod.svg': [
+        'sh.loft.devpod.svg',
+    ],
     'yandex-browser.svg': [
         'ru.yandex.Browser.svg',
         'yandex-browser-beta.svg',
@@ -566,9 +577,6 @@ link_files = {
     'shotcut.svg': [
         'org.shotcut.Shotcut.svg',
     ],
-    'ryujinx.svg': [
-        'org.ryujinx.Ryujinx.svg',
-    ],
     'rpi-imager.svg': [
         'org.raspberrypi.rpi-imager.svg',
         'rpi.svg',
@@ -608,6 +616,7 @@ link_files = {
         'org.mozilla.Thunderbird.svg',
         'thunderbird-3.0.svg',
         'thunderbird-bin.svg',
+        'thunderbird-esr.svg',
         'thunderbird-icon.svg',
         'thunderbird-mozilla-build.svg',
     ],
@@ -665,6 +674,9 @@ link_files = {
     ],
     'fgcom.svg': [
         'org.flightgear.FGCom.svg',
+    ],
+    'flameshot.svg': [
+        'org.flameshot.Flameshot.svg',
     ],
     'filezilla.svg': [
         'org.filezillaproject.Filezilla.svg',
@@ -762,6 +774,9 @@ link_files = {
     'mediainfo.svg': [
         'net.mediaarea.MediaInfo.svg',
     ],
+    'pupgui-qt.svg': [
+        'net.davidotek.pupgui2.svg',
+    ],
     'classicube.svg': [
         'net.classicube.flatpak.client.svg',
     ],
@@ -819,9 +834,11 @@ link_files = {
         'org.xonotic.Xonotic.svg',
     ],
     'minetest.svg': [
+        'luanti.svg',
         'lutris_minetest.svg',
         'minetest-icon.svg',
         'net.minetest.Minetest.svg',
+        'org.luanti.luanti.svg',
     ],
     'libreoffice-main.svg': [
         'libreoffice7.6-main.svg',
@@ -1009,6 +1026,10 @@ link_files = {
     'webcord.svg': [
         'io.github.spacingbat3.webcord.svg',
     ],
+    'ryujinx.svg': [
+        'io.github.ryubing.Ryujinx.svg',
+        'org.ryujinx.Ryujinx.svg',
+    ],
     'osmscout-server.svg': [
         'io.github.rinigus.OSMScoutServer.svg',
     ],
@@ -1117,6 +1138,9 @@ link_files = {
     'gnome-nettool.svg': [
         'gnome-nettools.svg',
     ],
+    '../legacy/accessories-character-map.svg': [
+        'gnome-character-map.svg',
+    ],
     'genymotion.svg': [
         'genymotion-bin.svg',
         'genymotion-player.svg',
@@ -1133,6 +1157,9 @@ link_files = {
         'freecad-daily.svg',
         'org.freecad.FreeCAD.svg',
         'org.freecadweb.FreeCAD.svg',
+    ],
+    'cockos-reaper.svg': [
+        'fm.reaper.Reaper.svg',
     ],
     'helio-workstation.svg': [
         'fm.helio.Worksatation.svg',
@@ -1256,11 +1283,6 @@ link_files = {
     ],
     'slack.svg': [
         'com.slack.Slack.svg',
-    ],
-    'skypeforlinux.svg': [
-        'com.skype.Client.svg',
-        'ms-skype.svg',
-        'skype.svg',
     ],
     'rawtherapee.svg': [
         'com.rawtherapee.RawTherapee.svg',
@@ -1487,6 +1509,7 @@ link_files = {
     ],
     'brave-desktop.svg': [
         'brave-browser.svg',
+        'com.brave.Browser.svg',
     ],
     'xsane.svg': [
         'blueman-scanner.svg',
@@ -1495,6 +1518,9 @@ link_files = {
         'gscan2pdf.svg',
         'vuescan.svg',
         'yast-scanner.svg',
+    ],
+    'beepertexts.svg': [
+        'beeper.svg',
     ],
     'btop.svg': [
         'bashtop.svg',
@@ -1713,6 +1739,12 @@ link_files = {
         'app.zen_browser.zen.svg',
         'appimagekit-zen-browser.svg',
         'io.github.zen_browser.zen.svg',
+    ],
+    'youtube-music.svg': [
+        'app.ytmdesktop.ytmdesktop.svg',
+        'chrome-cinhimbnkkaeohfgghhklpknlkffjgod-Default.svg',
+        'org.gnome.Epiphany.WebApp_d0edcaa68dd928524737c844042dd085d6e2824e.svg',
+        'ytmdesktop.svg',
     ],
     'polychromatic.svg': [
         'app.polychromatic.controller.svg',

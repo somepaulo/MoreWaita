@@ -28,6 +28,7 @@ regular_files = [
     'augustus-symbolic.svg',
     'avogadro-symbolic.svg',
     'bambustudio-symbolic.svg',
+    'beepertexts-symbolic.svg',
     'betterbird-symbolic.svg',
     'bitwarden-symbolic.svg',
     'bitwig-studio-symbolic.svg',
@@ -48,6 +49,7 @@ regular_files = [
     'clamtk-symbolic.svg',
     'classicube-symbolic.svg',
     'clion-symbolic.svg',
+    'cockos-reaper-symbolic.svg',
     'code-oss-symbolic.svg',
     'codeblocks-symbolic.svg',
     'com.fender.studio-symbolic.svg',
@@ -71,6 +73,7 @@ regular_files = [
     'designer-symbolic.svg',
     'dev.bsnes.bsnes-symbolic.svg',
     'dev.deedles.Trayscale-symbolic.svg',
+    'devpod-symbolic.svg',
     'discord-symbolic.svg',
     'drawio-symbolic.svg',
     'dropbox-symbolic.svg',
@@ -89,6 +92,7 @@ regular_files = [
     'firefox-symbolic.svg',
     'firewall-config-symbolic.svg',
     'fish-symbolic.svg',
+    'flameshot-symbolic.svg',
     'fleet-symbolic.svg',
     'flightgear-symbolic.svg',
     'floorp-symbolic.svg',
@@ -241,6 +245,7 @@ regular_files = [
     'osu-symbolic.svg',
     'pacseek-symbolic.svg',
     'parsehub-symbolic.svg',
+    'pd-symbolic.svg',
     'phpstorm-symbolic.svg',
     'pianoteq-symbolic.svg',
     'pidgin-symbolic.svg',
@@ -258,7 +263,9 @@ regular_files = [
     'protonmail-ie-symbolic.svg',
     'protonvpn-gui-symbolic.svg',
     'pulsar-symbolic.svg',
+    'pupgui-qt-symbolic.svg',
     'pure-maps-symbolic.svg',
+    'puredata-symbolic.svg',
     'pycharm-symbolic.svg',
     'pymol-symbolic.svg',
     'qbittorrent-symbolic.svg',
@@ -294,7 +301,6 @@ regular_files = [
     'shotwell-symbolic.svg',
     'signal-desktop-symbolic.svg',
     'sioyek-symbolic.svg',
-    'skypeforlinux-symbolic.svg',
     'slack-symbolic.svg',
     'sound-juicer-symbolic.svg',
     'soundconverter-symbolic.svg',
@@ -354,6 +360,7 @@ regular_files = [
     'xonotic-symbolic.svg',
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
+    'youtube-music-symbolic.svg',
     'yuzu-symbolic.svg',
     'zaproxy-symbolic.svg',
     'zathura-symbolic.svg',
@@ -456,6 +463,9 @@ link_files = {
     'spyder-symbolic.svg': [
         'spyder3-symbolic.svg',
     ],
+    'devpod-symbolic.svg': [
+        'sh.loft.devpod-symbolic.svg',
+    ],
     'yandex-browser-symbolic.svg': [
         'ru.yandex.Browser-symbolic.svg',
         'yandex-browser-beta-symbolic.svg',
@@ -485,6 +495,11 @@ link_files = {
     ],
     'pianoteq-symbolic.svg': [
         'pianoteq-stage-symbolic.svg',
+    ],
+    '../legacy/system-software-install-symbolic.svg': [
+        'pamac-manager-symbolic.svg',
+        'pamac-symbolic.svg',
+        'pamac-updater-symbolic.svg',
     ],
     'osu-symbolic.svg': [
         'osu-lazer-symbolic.svg',
@@ -528,9 +543,6 @@ link_files = {
     'shotcut-symbolic.svg': [
         'org.shotcut.Shotcut-symbolic.svg',
     ],
-    'ryujinx-symbolic.svg': [
-        'org.ryujinx.Ryujinx-symbolic.svg',
-    ],
     'rpi-imager-symbolic.svg': [
         'org.raspberrypi.rpi-imager-symbolic.svg',
         'rpi-symbolic.svg',
@@ -570,6 +582,7 @@ link_files = {
         'org.mozilla.Thunderbird-symbolic.svg',
         'thunderbird-3.0-symbolic.svg',
         'thunderbird-bin-symbolic.svg',
+        'thunderbird-esr-symbolic.svg',
         'thunderbird-icon-symbolic.svg',
         'thunderbird-mozilla-buld-symbolic.svg',
     ],
@@ -627,6 +640,9 @@ link_files = {
     ],
     'fgcom-symbolic.svg': [
         'org.flightgear.FGCom-symbolic.svg',
+    ],
+    'flameshot-symbolic.svg': [
+        'org.flameshot.Flameshot-symbolic.svg',
     ],
     'filezilla-symbolic.svg': [
         'org.filezillaproject.Filezilla-symbolic.svg',
@@ -726,6 +742,9 @@ link_files = {
     'mediainfo-symbolic.svg': [
         'net.mediaarea.MediaInfo-symbolic.svg',
     ],
+    'pupgui-qt-symbolic.svg': [
+        'net.davidotek.pupgui2-symbolic.svg',
+    ],
     'classicube-symbolic.svg': [
         'net.classicube.flatpak.client-symbolic.svg',
     ],
@@ -779,9 +798,11 @@ link_files = {
         'org.xonotic.Xonotic-symbolic.svg',
     ],
     'minetest-symbolic.svg': [
+        'luanti-symbolic.svg',
         'lutris_minetest-symbolic.svg',
         'minetest-icon-symbolic.svg',
         'net.minetest.Minetest-symbolic.svg',
+        'org.luanti.luanti-symbolic.svg',
     ],
     'libreoffice-main-symbolic.svg': [
         'libreoffice7.6-main-symbolic.svg',
@@ -961,6 +982,10 @@ link_files = {
     'webcord-symbolic.svg': [
         'io.github.spacingbat3.webcord-symbolic.svg',
     ],
+    'ryujinx-symbolic.svg': [
+        'io.github.ryubing.Ryujinx-symbolic.svg',
+        'org.ryujinx.Ryujinx-symbolic.svg',
+    ],
     'osmscout-server-symbolic.svg': [
         'io.github.rinigus.OSMScoutServer-symbolic.svg',
     ],
@@ -1084,6 +1109,9 @@ link_files = {
         'freecad-daily-symbolic.svg',
         'org.freecadweb.FreeCAD-symbolic.svg',
     ],
+    'cockos-reaper-symbolic.svg': [
+        'fm.reaper.Reaper-symbolic.svg',
+    ],
     'helio-workstation-symbolic.svg': [
         'fm.helio.Worksatation-symbolic.svg',
     ],
@@ -1199,11 +1227,6 @@ link_files = {
     ],
     'slack-symbolic.svg': [
         'com.slack.Slack-symbolic.svg',
-    ],
-    'skypeforlinux-symbolic.svg': [
-        'com.skype.Client-symbolic.svg',
-        'ms-skype-symbolic.svg',
-        'skype-symbolic.svg',
     ],
     'rawtherapee-symbolic.svg': [
         'com.rawtherapee.RawTherapee-symbolic.svg',
@@ -1417,6 +1440,7 @@ link_files = {
     ],
     'brave-desktop-symbolic.svg': [
         'brave-browser-symbolic.svg',
+        'com.brave.Browser-symbolic.svg',
     ],
     'xsane-symbolic.svg': [
         'blueman-scanner-symbolic.svg',
@@ -1431,6 +1455,9 @@ link_files = {
         'cinnamon-virtual-keyboard-symbolic.svg',
         'gnome-dev-keyboard-symbolic.svg',
         'keyboard-symbolic.svg',
+    ],
+    'beepertexts-symbolic.svg': [
+        'beeper-symbolic.svg',
     ],
     'avogadro-symbolic.svg': [
         'avogadro-icon-symbolic.svg',
@@ -1647,6 +1674,13 @@ link_files = {
         'app.zen_browser.zen-symbolic.svg',
         'appimagekit-zen-browser-symbolic.svg',
         'io.github.zen_browser.zen-symbolic.svg',
+        'zen-twilight-symbolic.svg',
+    ],
+    'youtube-music-symbolic.svg': [
+        'app.ytmdesktop.ytmdesktop-symbolic.svg',
+        'chrome-cinhimbnkkaeohfgghhklpknlkffjgod-Default-symbolic.svg',
+        'org.gnome.Epiphany.WebApp_d0edcaa68dd928524737c844042dd085d6e2824e-symbolic.svg',
+        'ytmdesktop-symbolic.svg',
     ],
     'polychromatic-symbolic.svg': [
         'app.polychromatic.controller-symbolic.svg',
