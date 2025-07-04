@@ -187,6 +187,7 @@ regular_files = [
     'lpub3d-symbolic.svg',
     'lunacy-symbolic.svg',
     'lunarclient-symbolic.svg',
+    'lutris-symbolic.svg',
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
     'maple-symbolic.svg',
@@ -741,6 +742,9 @@ link_files = {
     ],
     'mediainfo-symbolic.svg': [
         'net.mediaarea.MediaInfo-symbolic.svg',
+    ],
+    'lutris-symbolic.svg': [
+        'net.lutris.Lutris-symbolic.svg',
     ],
     'pupgui-qt-symbolic.svg': [
         'net.davidotek.pupgui2-symbolic.svg',

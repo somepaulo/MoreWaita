@@ -205,6 +205,7 @@ regular_files = [
     'lpub3d.svg',
     'lunacy.svg',
     'lunarclient.svg',
+    'lutris.svg',
     'lvim.svg',
     'mailspring.svg',
     'maple.svg',
@@ -773,6 +774,9 @@ link_files = {
     ],
     'mediainfo.svg': [
         'net.mediaarea.MediaInfo.svg',
+    ],
+    'lutris.svg': [
+        'net.lutris.Lutris.svg',
     ],
     'pupgui-qt.svg': [
         'net.davidotek.pupgui2.svg',
