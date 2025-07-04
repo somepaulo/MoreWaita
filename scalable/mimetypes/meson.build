@@ -101,6 +101,7 @@ regular_files = [
     'text-x-cpp.svg',
     'text-x-cpphdr.svg',
     'text-x-csharp.svg',
+    'text-x-emacs-lisp.svg',
     'text-x-fsharp.svg',
     'text-x-gettext-translation-template.svg',
     'text-x-gettext-translation.svg',

@@ -458,6 +458,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/application-x-deb.svg "deb")
 ![icon](./scalable/mimetypes/image-vnd.djvu.svg "DjVu")
 ![icon](./scalable/mimetypes/application-epub+zip.svg "eBook")
+![icon](./scalable/mimetypes/text-x-emacs-lisp.svg "Emacs")
 ![icon](./scalable/mimetypes/com.fender.studio.application-x.fender-fenderstudio.svg "Fender Studio")
 ![icon](./scalable/mimetypes/com.fender.studio.application-x.fender-jamtrack.svg "Fender Studio jamtrack")
 ![icon](./scalable/mimetypes/application-vnd.flatpak.svg "Flatpak")
