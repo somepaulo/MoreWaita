@@ -255,6 +255,7 @@ regular_files = [
     'openra-ra.svg',
     'openrgb.svg',
     'openscad.svg',
+    'openshot.svg',
     'opensnitch-ui.svg',
     'opentoonz.svg',
     'opera.svg',
@@ -714,6 +715,10 @@ link_files = {
     ],
     'audacity.svg': [
         'org.audacityteam.Audacity.svg',
+    ],
+    'openshot.svg': [
+        'openshot-qt.svg',
+        'org.openshot.OpenShot.svg',
     ],
     'org.onlyoffice.desktopeditors.svg': [
         'onlyoffice-desktopeditors.svg',

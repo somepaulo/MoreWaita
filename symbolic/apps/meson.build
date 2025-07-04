@@ -234,6 +234,7 @@ regular_files = [
     'openra-ra-symbolic.svg',
     'openrgb-symbolic.svg',
     'openscad-symbolic.svg',
+    'openshot-symbolic.svg',
     'opensnitch-ui-symbolic.svg',
     'opentoonz-symbolic.svg',
     'opera-symbolic.svg',
@@ -677,6 +678,10 @@ link_files = {
     ],
     'audacity-symbolic.svg': [
         'org.audacityteam.Audacity-symbolic.svg',
+    ],
+    'openshot-symbolic.svg': [
+        'openshot-qt-symbolic.svg',
+        'org.openshot.OpenShot-symbolic.svg',
     ],
     'org.onlyoffice.desktopeditors-symbolic.svg': [
         'onlyoffice-desktopeditors-symbolic.svg',
