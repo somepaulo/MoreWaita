@@ -170,6 +170,7 @@ regular_files = [
     'joplin.svg',
     'josm.svg',
     'julia.svg',
+    'julius.svg',
     'jupyter.svg',
     'kate.svg',
     'kdenlive.svg',
@@ -1421,6 +1422,9 @@ link_files = {
     'org.parlatype.Parlatype.svg': [
         'com.github.gkarsay.parlatype.svg',
         'parlatype.svg',
+    ],
+    'julius.svg': [
+        'com.github.bvschaik.julius.svg',
     ],
     'sioyek.svg': [
         'com.github.ahrm.sioyek.svg',

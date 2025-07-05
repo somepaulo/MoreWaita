@@ -153,6 +153,7 @@ regular_files = [
     'joplin-symbolic.svg',
     'josm-symbolic.svg',
     'julia-symbolic.svg',
+    'julius-symbolic.svg',
     'jupyter-symbolic.svg',
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
@@ -1358,6 +1359,9 @@ link_files = {
         'com.github.iwalton3.jellyfin-mpv-shim-symbolic.svg',
         'jellyfin-desktop-symbolic.svg',
         'org.jellyfin.JellyfinServer-symbolic.svg',
+    ],
+    'julius-symbolic.svg': [
+        'com.github.bvschaik.julius-symbolic.svg',
     ],
     'sioyek-symbolic.svg': [
         'com.github.ahrm.sioyek-symbolic.svg',
