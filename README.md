@@ -330,6 +330,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/rawtherapee.svg "RawTherapee")
 ![icon](./scalable/apps/retroarch.svg "Retro Arch")
 ![icon](./scalable/apps/revolt-desktop.svg "Revolt")
+![icon](./scalable/apps/rio.svg "Rio")
 ![icon](./scalable/apps/rocketchat.svg "Rocket.Chat")
 ![icon](./scalable/apps/rstudio.svg "RStudio")
 ![icon](./scalable/apps/rustdesk.svg "RustDesk")

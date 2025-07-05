@@ -311,6 +311,7 @@ regular_files = [
     'revolt-desktop.svg',
     'rider.svg',
     'ringracers.svg',
+    'rio.svg',
     'rocketchat.svg',
     'rpi-imager.svg',
     'rpminstall.svg',
@@ -1292,6 +1293,9 @@ link_files = {
     ],
     'slack.svg': [
         'com.slack.Slack.svg',
+    ],
+    'rio.svg': [
+        'com.rioterm.Rio.svg',
     ],
     'rawtherapee.svg': [
         'com.rawtherapee.RawTherapee.svg',
