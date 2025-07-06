@@ -10,45 +10,6 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2889">
-    <linearGradient
-       id="linearGradient965"
-       gradientUnits="userSpaceOnUse"
-       x1="48"
-       x2="464"
-       y1="44"
-       y2="44"
-       gradientTransform="matrix(0.25,0,0,0.25,-148.41437,52.905389)">
-      <stop
-         offset="0"
-         stop-color="#77767b"
-         id="stop2"
-         style="stop-color:#c64600;stop-opacity:1" />
-      <stop
-         offset=".05"
-         stop-color="#c0bfbc"
-         id="stop4"
-         style="stop-color:#ff7800;stop-opacity:1" />
-      <stop
-         offset=".1"
-         stop-color="#9a9996"
-         id="stop6"
-         style="stop-color:#e01b24;stop-opacity:1" />
-      <stop
-         offset=".9"
-         stop-color="#9a9996"
-         id="stop8"
-         style="stop-color:#ff7800;stop-opacity:1" />
-      <stop
-         offset=".95"
-         stop-color="#c0bfbc"
-         id="stop10"
-         style="stop-color:#f9f06b;stop-opacity:1" />
-      <stop
-         offset="1"
-         stop-color="#77767b"
-         id="stop12"
-         style="stop-color:#f5c211;stop-opacity:1" />
-    </linearGradient>
     <radialGradient
        xlink:href="#radialGradient1030"
        id="radialGradient523"
@@ -204,14 +165,6 @@
        y1="89.66507"
        x2="64"
        y2="40" />
-    <linearGradient
-       xlink:href="#linearGradient965"
-       id="linearGradient11"
-       x1="12"
-       y1="69"
-       x2="116"
-       y2="69"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <linearGradient
      id="a"
@@ -224,27 +177,33 @@
     <stop
        offset="0"
        stop-color="#3d3846"
-       id="stop2851" />
+       id="stop2851"
+       style="stop-color:#c64600;stop-opacity:1;" />
     <stop
        offset="0.05"
        stop-color="#77767b"
-       id="stop2853" />
+       id="stop2853"
+       style="stop-color:#ff7800;stop-opacity:1;" />
     <stop
        offset="0.1"
        stop-color="#5e5c64"
-       id="stop2855" />
+       id="stop2855"
+       style="stop-color:#e01b24;stop-opacity:1;" />
     <stop
-       offset="0.899999"
+       offset="0.89999902"
        stop-color="#504e56"
-       id="stop2857" />
+       id="stop2857"
+       style="stop-color:#ff7800;stop-opacity:1;" />
     <stop
-       offset="0.95"
+       offset="0.94999999"
        stop-color="#77767b"
-       id="stop2859" />
+       id="stop2859"
+       style="stop-color:#f9f06b;stop-opacity:1;" />
     <stop
        offset="1"
        stop-color="#3d3846"
-       id="stop2861" />
+       id="stop2861"
+       style="stop-color:#f5c211;stop-opacity:1;" />
   </linearGradient>
   <linearGradient
      id="b"
@@ -275,10 +234,10 @@
        style="stop-color:#cfcdc9;stop-opacity:1;" />
   </linearGradient>
   <path
-     d="m 20 22 h 88 c 4.417969 0 8 3.582031 8 8 v 78 c 0 4.417969 -3.582031 8 -8 8 h -88 c -4.417969 0 -8 -3.582031 -8 -8 v -78 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0"
+     d="m 20,22 h 88 c 4.41797,0 8,3.582031 8,8 v 78 c 0,4.41797 -3.58203,8 -8,8 H 20 c -4.417969,0 -8,-3.58203 -8,-8 V 30 c 0,-4.417969 3.582031,-8 8,-8 z m 0,0"
      fill="url(#a)"
-     id="path2873"
-     style="fill:url(#linearGradient11);fill-opacity:1" />
+     id="path2873-7"
+     style="fill:url(#a)" />
   <path
      d="m 20 12 h 88 c 4.417969 0 8 3.582031 8 8 v 80 c 0 4.417969 -3.582031 8 -8 8 h -88 c -4.417969 0 -8 -3.582031 -8 -8 v -80 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0"
      fill="url(#b)"
