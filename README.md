@@ -243,6 +243,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/mixxx.svg "Mixxx")
 ![icon](./scalable/apps/mockoon.svg "Mockoon")
 ![icon](./scalable/apps/monero.svg "Monero")
+![icon](./scalable/apps/moonlight.svg "Moonlight")
 ![icon](./scalable/apps/mousam.svg "Mousam")
 ![icon](./scalable/apps/mpv.svg "mpv")
 ![icon](./scalable/apps/mumble.svg "Mumble")

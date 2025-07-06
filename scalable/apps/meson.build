@@ -225,6 +225,7 @@ regular_files = [
     'mixxx.svg',
     'mockoon.svg',
     'monero.svg',
+    'moonlight.svg',
     'mousam.svg',
     'mpv.svg',
     'mumble.svg',
@@ -1320,6 +1321,9 @@ link_files = {
     ],
     'Notesnook.svg': [
         'com.notesnook.Notesnook.svg',
+    ],
+    'moonlight.svg': [
+        'com.moonlight_stream.Moonlight.svg',
     ],
     'minecraft.svg': [
         'com.mojang.Minecraft.svg',

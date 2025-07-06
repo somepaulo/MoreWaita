@@ -207,6 +207,7 @@ regular_files = [
     'mixxx-symbolic.svg',
     'mockoon-symbolic.svg',
     'monero-symbolic.svg',
+    'moonlight-symbolic.svg',
     'mumble-symbolic.svg',
     'musescore-symbolic.svg',
     'neovide-symbolic.svg',
@@ -1264,6 +1265,9 @@ link_files = {
     ],
     'Notesnook-symbolic.svg': [
         'com.notesnook.Notesnook-symbolic.svg',
+    ],
+    'moonlight-symbolic.svg': [
+        'com.moonlight_stream.Moonlight-symbolic.svg',
     ],
     'minecraft-symbolic.svg': [
         'com.mojang.Minecraft-symbolic.svg',
