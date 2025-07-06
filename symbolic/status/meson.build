@@ -11,6 +11,7 @@ regular_files = [
     'Zoom-indicator.svg',
     'bitwarden-tray.svg',
     'emblem-ok-symbolic.svg',
+    'emblem-photos-symbolic.svg',
     'emblem-synchronizing-symbolic.svg',
     'firewall-applet-error.svg',
     'firewall-applet-panic.svg',
