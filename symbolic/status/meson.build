@@ -10,7 +10,7 @@ regular_files = [
     'TeamViewer-indicator.svg',
     'Zoom-indicator.svg',
     'bitwarden-tray.svg',
-    'checkmark.svg',
+    'emblem-ok-symbolic.svg',
     'firewall-applet-error.svg',
     'firewall-applet-panic.svg',
     'jdownloader-indicator.svg',
