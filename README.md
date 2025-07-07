@@ -936,5 +936,5 @@ sudo update-mime-database /usr/share/mime
 For local installation, put the `.xml` files into `~/local/share/mime/packages/` and run:
 
 ```sh
-update-mime-database ~/.local/share/mime/
+update-mime-database ~/.local/share/mime
 ```
