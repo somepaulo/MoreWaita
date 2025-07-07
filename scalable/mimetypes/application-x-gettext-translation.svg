@@ -8,45 +8,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs39">
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       id="filter23"
-       x="-1.158925e-06"
-       y="-1.2440671e-06"
-       width="1.0000023"
-       height="1.0000025">
-      <feFlood
-         result="flood"
-         in="SourceGraphic"
-         flood-opacity="0.376471"
-         flood-color="rgb(0,0,0)"
-         id="feFlood22" />
-      <feGaussianBlur
-         result="blur"
-         in="SourceGraphic"
-         stdDeviation="2.8860313e-05"
-         id="feGaussianBlur22" />
-      <feOffset
-         result="offset"
-         in="blur"
-         dx="0.000000"
-         dy="0.000000"
-         id="feOffset22" />
-      <feComposite
-         result="comp1"
-         operator="in"
-         in="flood"
-         in2="offset"
-         id="feComposite22" />
-      <feComposite
-         result="comp2"
-         operator="atop"
-         in="comp1"
-         in2="comp1"
-         id="feComposite23" />
-    </filter>
-  </defs>
+     id="defs39" />
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -129,7 +91,7 @@
      fill="#c057ea"
      style="fill:#585858;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.981132" />
   <path
-     style="display:inline;vector-effect:none;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+     style="display:inline;vector-effect:none;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
      d="M 77.978074,8.0000006 V 30.000002 c 0,4.432 3.610527,7.923448 8.042527,7.923448 l 22.000369,-0.0055 z"
      id="path4413" />
   <g

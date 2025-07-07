@@ -8,19 +8,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs39">
-    <filter
-       height="1.0214333"
-       y="-0.010716652"
-       width="1.0272651"
-       x="-0.01363253"
-       id="filter16020-6"
-       style="color-interpolation-filters:sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur16022-2"
-         stdDeviation="2.0004419" />
-    </filter>
-  </defs>
+     id="defs39" />
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -178,5 +166,5 @@
   <path
      id="path1875-7"
      d="M 77.97807,8.0000006 V 30.000002 c 0,4.432 3.610521,7.923448 8.04252,7.923448 l 22.00037,-0.0055 z"
-     style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:6.51672;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new;stop-color:#000000" />
+     style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:0.30000001;stroke:none;stroke-width:6.51672;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new;stop-color:#000000" />
 </svg>

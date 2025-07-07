@@ -10,14 +10,6 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs39">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath86012">
-      <path
-         style="color:#000000;fill:url(#linearGradient86016);stroke-width:12;stroke-linecap:round;stroke-dashoffset:26.4;-inkscape-stroke:none"
-         d="m 6.6666667,228.66667 a 8,8 0 0 0 8.0000003,8 H 29.333333 A 2.6666667,2.6666667 0 0 0 32,234 1.3333333,1.3333333 0 0 1 33.333333,232.66667 H 38 A 1.3333333,1.3333333 0 0 1 39.333333,234 2.6666667,2.6666667 0 0 0 42,236.66667 h 1.333333 v -16 H 42 A 2.6666667,2.6666667 0 0 0 39.333333,223.33333 1.3333333,1.3333333 0 0 1 38,224.66667 H 33.333333 A 1.3333333,1.3333333 0 0 1 32,223.33333 2.6666667,2.6666667 0 0 0 29.333333,220.66667 H 14.666667 a 8,8 0 0 0 -8.0000003,8 z"
-         id="path86014" />
-    </clipPath>
     <linearGradient
        xlink:href="#linearGradient51600"
        id="linearGradient71668"
@@ -135,7 +127,7 @@
      d="m 27.978072,8.0000006 h 50.000002 l 30.042896,29.9178934 10e-4,74.060006 c 8e-5,4.432 -3.6122,8.0221 -8.044196,8.0221 H 27.978011 c -4.431999,0 -7.999999,-3.568 -7.999999,-8.00001 V 16 c 0,-4.431999 3.568,-7.9999994 7.999999,-7.9999994 z"
      id="path4411" />
   <path
-     style="display:inline;vector-effect:none;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+     style="display:inline;vector-effect:none;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
      d="M 77.978074,8.0000006 V 30.000002 c 0,4.432 3.610527,7.923448 8.042527,7.923448 l 22.000369,-0.0055 z"
      id="path4413" />
   <g
