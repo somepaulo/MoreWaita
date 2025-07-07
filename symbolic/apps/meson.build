@@ -26,6 +26,7 @@ regular_files = [
     'atomix-symbolic.svg',
     'audacity-symbolic.svg',
     'augustus-symbolic.svg',
+    'avidemux-symbolic.svg',
     'avogadro-symbolic.svg',
     'bambustudio-symbolic.svg',
     'beepertexts-symbolic.svg',
@@ -1484,6 +1485,10 @@ link_files = {
         'avogadro-icon-symbolic.svg',
         'avogadro2-symbolic.svg',
         'org.openchemistry.Avogadro2-symbolic.svg',
+    ],
+    'avidemux-symbolic.svg': [
+        'avidemux_icon-symbolic.svg',
+        'org.avidemux.Avidemux-symbolic.svg',
     ],
     'arduino-symbolic.svg': [
         'arduino-icon-small-symbolic.svg',

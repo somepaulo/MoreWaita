@@ -28,6 +28,7 @@ regular_files = [
     'atomix.svg',
     'audacity.svg',
     'augustus.svg',
+    'avidemux.svg',
     'avogadro.svg',
     'bambustudio.svg',
     'beepertexts.svg',
@@ -1550,6 +1551,10 @@ link_files = {
         'avogadro-icon.svg',
         'avogadro2.svg',
         'org.openchemistry.Avogadro2.svg',
+    ],
+    'avidemux.svg': [
+        'avidemux_icon.svg',
+        'org.avidemux.Avidemux.svg',
     ],
     'arduino.svg': [
         'arduino-icon-small.svg',
