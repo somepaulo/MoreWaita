@@ -35,6 +35,7 @@ regular_files = [
     'application-x-cd-image.svg',
     'application-x-cson.svg',
     'application-x-deb.svg',
+    'application-x-designer.svg',
     'application-x-gettext-translation.svg',
     'application-x-godot-project.svg',
     'application-x-hwp.svg',
@@ -119,7 +120,6 @@ regular_files = [
     'text-x-meson.svg',
     'text-x-octave.svg',
     'text-x-patch.svg',
-    'text-x-pkgbuild.svg',
     'text-x-python.svg',
     'text-x-r-markdown.svg',
     'text-x-r.svg',
@@ -229,6 +229,7 @@ link_files = {
     'text-x-makefile.svg': [
         'gnome-mime-text-x-makefile.svg',
         'text-x-cmake.svg',
+        'text-x-pkgbuild.svg',
     ],
     'application-x-yaml.svg': [
         'application-yaml.svg',

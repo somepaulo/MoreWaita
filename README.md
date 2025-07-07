@@ -521,6 +521,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/application-pgp-signature.svg "PGP Signature")
 ![icon](./scalable/mimetypes/application-pkix-cert.svg "PGP Certificate")
 ![icon](./scalable/mimetypes/application-x-php.svg "PHP")
+![icon](./scalable/mimetypes/text-x-pkgbuild.svg "PKGBUILD")
 ![icon](./scalable/mimetypes/application-postscript.svg "PostScript")
 ![icon](./scalable/mimetypes/text-pureDataPatch.svg "Pure Data")
 ![icon](./scalable/mimetypes/text-x-python.svg "Python")
