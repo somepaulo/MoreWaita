@@ -36,6 +36,7 @@ regular_files = [
     'application-x-cson.svg',
     'application-x-deb.svg',
     'application-x-designer.svg',
+    'application-x-firmware.svg',
     'application-x-gettext-translation.svg',
     'application-x-godot-project.svg',
     'application-x-hwp.svg',

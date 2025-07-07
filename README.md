@@ -465,6 +465,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/text-x-emacs-lisp.svg "Emacs")
 ![icon](./scalable/mimetypes/com.fender.studio.application-x.fender-fenderstudio.svg "Fender Studio")
 ![icon](./scalable/mimetypes/com.fender.studio.application-x.fender-jamtrack.svg "Fender Studio jamtrack")
+![icon](./scalable/mimetypes/application-x-firmware.svg "Firmware")
 ![icon](./scalable/mimetypes/application-vnd.flatpak.svg "Flatpak")
 ![icon](./scalable/mimetypes/text-x-fsharp.svg "F#")
 ![icon](./scalable/mimetypes/text-x-go.svg "Go")
