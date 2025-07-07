@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-spectrum-tzx">
+    <comment>ZX Spectrum Tape</comment>
+    <glob pattern="*.tzx"/>
+    <glob pattern="*.z80"/>
+    <glob pattern="*.tzx.zip"/>
+    <glob pattern="*.z80.zip"/>
+  </mime-type>
+</mime-info>

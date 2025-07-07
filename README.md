@@ -889,7 +889,7 @@ If you need to assign the icons using the CLI you have to use the GIO command-li
     gio set $HOME/Coding/C metadata::custom-icon -d
     ```
 
-Alternatively, if you prefer to automate things using a list of folders, take a look at the [custom_folder_icons.sh](./custom_folder_icons.sh) script by [@hasecilu](https://github.com/hasecilu). You can change it to your needs and add it to your dotfiles.
+Alternatively, if you prefer to automate things using a list of folders, take a look at the [custom_folder_icons.sh](./_extras/custom_folder_icons.sh) script by [@hasecilu](https://github.com/hasecilu). You can change it to your needs and add it to your dotfiles.
 
 ## Accent colours support
 
@@ -920,3 +920,21 @@ If the theme applies, but a particular app doesn't get themed (and its icon is i
 If you happen to have such apps, you'll need to copy their `.desktop` files into `~/.local/share/applications` and modify them there providing the correct icon name. Alternatively, use a menu editor like `Main Menu`, `MenuLibre` or `Alacarte`.
 
 If your app's `.desktop` file references an icon name not present in MoreWaita's `scalable/apps` folder, please report it in an issue providing the icon name from your system.
+
+#### Some mime types don't apply
+
+If some mime type icons are not getting applied to the respective file types, your system might not have these mime types registered or have them assigned to different file types with the same extension (like `.key` files that can be either Keynote presentations or PGP keys). In this case you need to create the respective `.xml` files for the missing mime types and add them to your system for the icons to apply.
+
+You can use the `.xml` files from the `_extras` folder or create your own as needed.
+
+For system-wide installation, put the `.xml` files into `/usr/share/mime/packages/` and run:
+
+```sh
+sudo update-mime-database /usr/share/mime
+```
+
+For local installation, put the `.xml` files into `~/local/share/mime/packages/` and run:
+
+```sh
+update-mime-database ~/.local/share/mime/
+```
