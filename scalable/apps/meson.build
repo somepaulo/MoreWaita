@@ -224,6 +224,7 @@ regular_files = [
     'microsoft-edge.svg',
     'minecraft.svg',
     'minetest.svg',
+    'mixin.svg',
     'mixxx.svg',
     'mockoon.svg',
     'monero.svg',
@@ -824,6 +825,10 @@ link_files = {
         'mixxx-icon.svg',
         'mixxx_icon.svg',
         'org.mixxx.Mixxx.svg',
+    ],
+    'mixin.svg': [
+        'mixin-messenger.svg',
+        'one.mixin.messenger.svg',
     ],
     'com.tonikelope.MegaBasterd.svg': [
         'megabasterd.svg',
