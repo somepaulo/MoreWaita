@@ -46,6 +46,7 @@ regular_files = [
     'calibre-symbolic.svg',
     'carla-symbolic.svg',
     'cawbird-symbolic.svg',
+    'cherry-studio-symbolic.svg',
     'cider-symbolic.svg',
     'clamtk-symbolic.svg',
     'classicube-symbolic.svg',
@@ -1418,6 +1419,10 @@ link_files = {
         'googlechrome-symbolic.svg',
         'org.chromium.Chromium-symbolic.svg',
         'trivalent-symbolic.svg',
+    ],
+    'cherry-studio-symbolic.svg': [
+        'cherrystudio-symbolic.svg',
+        'com.cherry_ai.CherryStudio-symbolic.svg',
     ],
     'rocketchat-symbolic.svg': [
         'chat.rocket.RocketChat-symbolic.svg',

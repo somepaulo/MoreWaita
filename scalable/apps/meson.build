@@ -51,6 +51,7 @@ regular_files = [
     'carla-control.svg',
     'carla.svg',
     'cawbird.svg',
+    'cherry-studio.svg',
     'chromium-browser.svg',
     'cider.svg',
     'clamtk.svg',
@@ -1496,6 +1497,10 @@ link_files = {
         'com.google.Chrome.svg',
         'google-chrome2.svg',
         'googlechrome.svg',
+    ],
+    'cherry-studio.svg': [
+        'cherrystudio.svg',
+        'com.cherry_ai.CherryStudio.svg',
     ],
     'rocketchat.svg': [
         'chat.rocket.RocketChat.svg',
