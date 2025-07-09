@@ -878,13 +878,13 @@ If you need to assign the icons using the CLI you have to use the GIO command-li
     gio set $HOME/Coding/C metadata::custom-icon-name "folder-c"
     ```
 
-- You can confirm the change showing the `metadata::custom-icon` attribute with:
+- You can confirm the change showing the `custom-icon-name` attribute with:
 
     ```sh
     gio info $HOME/Coding/C | grep custom-icon-name
     ```
 
-- To delete the `metadata::custom-icon` attribute use `-d` flag:
+- To delete the `custom-icon-name` attribute use `-d` flag:
 
     ```sh
     gio set -d $HOME/Coding/C metadata::custom-icon-name
