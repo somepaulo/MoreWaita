@@ -163,6 +163,9 @@ link_files = {
         'text-x-c++src.svg',
         'text-x-cppsrc.svg',
     ],
+    'application-x-subrip.svg': [
+        'text-vtt.svg',
+    ],
     'text-x-markdown.svg': [
         'text-markdown.svg',
     ],
