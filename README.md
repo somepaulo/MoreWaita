@@ -875,20 +875,19 @@ If you need to assign the icons using the CLI you have to use the GIO command-li
 - Set a custom (C programming language) icon on a folder:
 
     ```sh
-    gio set $HOME/Coding/C metadata::custom-icon \
-           file:///usr/share/icons/MoreWaita/scalable/places/folder-c.svg
+    gio set $HOME/Coding/C metadata::custom-icon-name "folder-c"
     ```
 
 - You can confirm the change showing the `metadata::custom-icon` attribute with:
 
     ```sh
-    gio info --attributes="metadata::custom-icon" $HOME/Coding/C
+    gio info $HOME/Coding/C | grep custom-icon-name
     ```
 
 - To delete the `metadata::custom-icon` attribute use `-d` flag:
 
     ```sh
-    gio set $HOME/Coding/C metadata::custom-icon -d
+    gio set -d $HOME/Coding/C metadata::custom-icon-name
     ```
 
 Alternatively, if you prefer to automate things using a list of folders, take a look at the [custom_folder_icons.sh](./_extras/custom_folder_icons.sh) script by [@hasecilu](https://github.com/hasecilu). You can change it to your needs and add it to your dotfiles.
