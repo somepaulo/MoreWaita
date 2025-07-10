@@ -213,6 +213,7 @@ regular_files = [
     'moonlight-symbolic.svg',
     'mumble-symbolic.svg',
     'musescore-symbolic.svg',
+    'n-trackstudio-symbolic.svg',
     'neovide-symbolic.svg',
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
@@ -1269,6 +1270,10 @@ link_files = {
     ],
     'opera-symbolic.svg': [
         'com.opera.Opera-symbolic.svg',
+    ],
+    'n-trackstudio-symbolic.svg': [
+        'com.ntrack.n-track-symbolic.svg',
+        'n-track-studio-symbolic.svg',
     ],
     'Notesnook-symbolic.svg': [
         'com.notesnook.Notesnook-symbolic.svg',

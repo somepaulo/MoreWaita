@@ -233,6 +233,7 @@ regular_files = [
     'mpv.svg',
     'mumble.svg',
     'musescore.svg',
+    'n-trackstudio.svg',
     'neovide.svg',
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',
@@ -1325,6 +1326,10 @@ link_files = {
     ],
     'opera.svg': [
         'com.opera.Opera.svg',
+    ],
+    'n-trackstudio.svg': [
+        'com.ntrack.n-track.svg',
+        'n-track-studio.svg',
     ],
     'Notesnook.svg': [
         'com.notesnook.Notesnook.svg',
