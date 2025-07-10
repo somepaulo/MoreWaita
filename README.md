@@ -875,22 +875,24 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 
 If you need to assign the icons using the CLI you have to use the GIO command-line tool.
 
-- Set a custom (C programming language) icon on a folder:
+- Set a custom icon on a folder (Projects in ~ for this example):
 
     ```sh
-    gio set $HOME/Coding/C metadata::custom-icon-name "folder-c"
+    gio set $HOME/Projects metadata::custom-icon-name "folder-projects"
     ```
+    
+<sup>_*This will persist the custom icon across themes as long as they provide an icon with the same name._</sup>
 
 - You can confirm the change showing the `custom-icon-name` attribute with:
 
     ```sh
-    gio info $HOME/Coding/C | grep custom-icon-name
+    gio info $HOME/Projects | grep custom-icon-name
     ```
 
 - To delete the `custom-icon-name` attribute use `-d` flag:
 
     ```sh
-    gio set -d $HOME/Coding/C metadata::custom-icon-name
+    gio set -d $HOME/Projects metadata::custom-icon-name
     ```
 
 Alternatively, if you prefer to automate things using a list of folders, take a look at the [custom_folder_icons.sh](./_extras/custom_folder_icons.sh) script by [@hasecilu](https://github.com/hasecilu). You can change it to your needs and add it to your dotfiles.
