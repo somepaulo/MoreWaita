@@ -87,6 +87,7 @@ regular_files = [
     'oasis-text.svg',
     'oasis-web-template.svg',
     'oasis-web.svg',
+    'org.kiwix.desktop.x-zim_source.svg',
     'org.wireshark.Wireshark-mimetype.svg',
     'text-asciidoc.svg',
     'text-css.svg',

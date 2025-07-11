@@ -179,6 +179,7 @@ regular_files = [
     'keepassxc.svg',
     'kicad.svg',
     'kitty.svg',
+    'kiwix-desktop.svg',
     'kodi.svg',
     'kolourpaint.svg',
     'kotatogram.svg',
@@ -638,6 +639,9 @@ link_files = {
     ],
     'leocad.svg': [
         'org.leocad.LeoCAD.svg',
+    ],
+    'kiwix-desktop.svg': [
+        'org.kiwix.desktop.svg',
     ],
     'kicad.svg': [
         'org.kicad.KiCad.svg',

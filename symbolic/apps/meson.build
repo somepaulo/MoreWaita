@@ -162,6 +162,7 @@ regular_files = [
     'keepassxc-symbolic.svg',
     'kicad-symbolic.svg',
     'kitty-symbolic.svg',
+    'kiwix-desktop-symbolic.svg',
     'kodi-symbolic.svg',
     'kolourpaint-symbolic.svg',
     'kotatogram-symbolic.svg',
@@ -604,6 +605,9 @@ link_files = {
     ],
     'leocad-symbolic.svg': [
         'org.leocad.LeoCAD-symbolic.svg',
+    ],
+    'kiwix-desktop-symbolic.svg': [
+        'org.kiwix.desktop-symbolic.svg',
     ],
     'kicad-symbolic.svg': [
         'org.kicad.KiCad-symbolic.svg',
