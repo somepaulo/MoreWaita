@@ -25,6 +25,8 @@ regular_files = [
     'protonvpngui-disconnected.svg',
     'protonvpngui-no-network.svg',
     'search-symbolic.svg',
+    'solaar-attention.svg',
+    'solaar-init.svg',
     'strawberry-panel.svg',
     'user-available.svg',
     'user-away.svg',

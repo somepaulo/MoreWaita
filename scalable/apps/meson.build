@@ -337,6 +337,7 @@ regular_files = [
     'signal-desktop.svg',
     'sioyek.svg',
     'slack.svg',
+    'solaar.svg',
     'sound-juicer.svg',
     'soundconverter.svg',
     'spek.svg',
@@ -1059,6 +1060,10 @@ link_files = {
     ],
     'qucs-s.svg': [
         'io.github.ra3xdh.qucs_s.svg',
+    ],
+    'solaar.svg': [
+        'io.github.pwr_Solaar.Solaar.svg',
+        'io.github.pwr_solaar.solaar.svg',
     ],
     'sysd-manager.svg': [
         'io.github.plrigaux.sysd-manager.svg',

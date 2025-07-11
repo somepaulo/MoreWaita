@@ -312,6 +312,7 @@ regular_files = [
     'signal-desktop-symbolic.svg',
     'sioyek-symbolic.svg',
     'slack-symbolic.svg',
+    'solaar-symbolic.svg',
     'sound-juicer-symbolic.svg',
     'soundconverter-symbolic.svg',
     'spek-symbolic.svg',
@@ -1015,6 +1016,10 @@ link_files = {
     ],
     'qucs-s-symbolic.svg': [
         'io.github.ra3xdh.qucs_s-symbolic.svg',
+    ],
+    'solaar-symbolic.svg': [
+        'io.github.pwr_Solaar.Solaar-symbolic.svg',
+        'io.github.pwr_solaar.solaar-symbolic.svg',
     ],
     'sysd-manager-symbolic.svg': [
         'io.github.plrigaux.sysd-manager-symbolic.svg',
