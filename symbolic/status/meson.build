@@ -28,6 +28,10 @@ regular_files = [
     'solaar-attention.svg',
     'solaar-init.svg',
     'strawberry-panel.svg',
+    'sunshine-locked.svg',
+    'sunshine-pausing.svg',
+    'sunshine-playing.svg',
+    'sunshine-tray.svg',
     'user-available.svg',
     'user-away.svg',
     'user-busy.svg',
@@ -68,6 +72,18 @@ link_files = {
     ],
     'keepassxc-locked.svg': [
         'org.keepassxc.KeePassXC-locked.svg',
+    ],
+    'sunshine-tray.svg': [
+        'dev.lizardbyte.app.Sunshine-tray.svg',
+    ],
+    'sunshine-playing.svg': [
+        'dev.lizardbyte.app.Sunshine-playing.svg',
+    ],
+    'sunshine-pausing.svg': [
+        'dev.lizardbyte.app.Sunshine-pausing.svg',
+    ],
+    'sunshine-locked.svg': [
+        'dev.lizardbyte.app.Sunshine-locked.svg',
     ],
     'protonvpngui-no-network.svg': [
         'com.protonvpn.www.state-error.svg',

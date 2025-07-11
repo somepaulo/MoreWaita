@@ -46,6 +46,7 @@ regular_files = [
     'calibre-symbolic.svg',
     'carla-symbolic.svg',
     'cawbird-symbolic.svg',
+    'chatterino-symbolic.svg',
     'cherry-studio-symbolic.svg',
     'cider-symbolic.svg',
     'clamtk-symbolic.svg',
@@ -326,6 +327,7 @@ regular_files = [
     'studioone7-symbolic.svg',
     'sublime-merge-symbolic.svg',
     'sublime-text-symbolic.svg',
+    'sunshine-symbolic.svg',
     'surfshark-symbolic.svg',
     'suyu-symbolic.svg',
     'syncthing-gtk-symbolic.svg',
@@ -1205,6 +1207,9 @@ link_files = {
     'neovide-symbolic.svg': [
         'dev.neovide.neovide-symbolic.svg',
     ],
+    'sunshine-symbolic.svg': [
+        'dev.lizardbyte.app.Sunshine-symbolic.svg',
+    ],
     'deezer-symbolic.svg': [
         'dev.aunetx.deezer-symbolic.svg',
     ],
@@ -1442,6 +1447,10 @@ link_files = {
     'cherry-studio-symbolic.svg': [
         'cherrystudio-symbolic.svg',
         'com.cherry_ai.CherryStudio-symbolic.svg',
+    ],
+    'chatterino-symbolic.svg': [
+        'chatterino2-symbolic.svg',
+        'com.chatterino.chatterino-symbolic.svg',
     ],
     'rocketchat-symbolic.svg': [
         'chat.rocket.RocketChat-symbolic.svg',

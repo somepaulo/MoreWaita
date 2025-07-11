@@ -51,6 +51,7 @@ regular_files = [
     'carla-control.svg',
     'carla.svg',
     'cawbird.svg',
+    'chatterino.svg',
     'cherry-studio.svg',
     'chromium-browser.svg',
     'cider.svg',
@@ -352,6 +353,7 @@ regular_files = [
     'studioone7.svg',
     'sublime-merge.svg',
     'sublime-text.svg',
+    'sunshine.svg',
     'surfshark.svg',
     'suyu.svg',
     'syncthing-gtk.svg',
@@ -1256,6 +1258,9 @@ link_files = {
     'neovide.svg': [
         'dev.neovide.neovide.svg',
     ],
+    'sunshine.svg': [
+        'dev.lizardbyte.app.Sunshine.svg',
+    ],
     'deezer.svg': [
         'dev.aunetx.deezer.svg',
     ],
@@ -1520,6 +1525,10 @@ link_files = {
     'cherry-studio.svg': [
         'cherrystudio.svg',
         'com.cherry_ai.CherryStudio.svg',
+    ],
+    'chatterino.svg': [
+        'chatterino2.svg',
+        'com.chatterino.chatterino.svg',
     ],
     'rocketchat.svg': [
         'chat.rocket.RocketChat.svg',
