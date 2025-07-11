@@ -301,6 +301,7 @@ regular_files = [
     'pupgui-qt.svg',
     'pure-maps.svg',
     'puredata.svg',
+    'pwvucontrol.svg',
     'pycharm.svg',
     'pymol.svg',
     'qbittorrent.svg',
@@ -1317,6 +1318,9 @@ link_files = {
     ],
     'slack.svg': [
         'com.slack.Slack.svg',
+    ],
+    'pwvucontrol.svg': [
+        'com.saivert.pwvucontrol.svg',
     ],
     'rio.svg': [
         'com.rioterm.Rio.svg',

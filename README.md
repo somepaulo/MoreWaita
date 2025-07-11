@@ -316,6 +316,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/puredata.svg "Pure Data (Pd)")
 ![icon](./scalable/apps/pd.svg "Pure Data")
 ![icon](./scalable/apps/pure-maps.svg "Pure Maps")
+![icon](./scalable/apps/pwvucontrol.svg "pwvucontrol")
 ![icon](./scalable/apps/pymol.svg "PyMOL")
 ![icon](./scalable/apps/qbittorrent.svg "qBitTorrent")
 ![icon](./scalable/apps/qgis.svg "QGIS")

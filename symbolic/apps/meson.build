@@ -276,6 +276,7 @@ regular_files = [
     'pupgui-qt-symbolic.svg',
     'pure-maps-symbolic.svg',
     'puredata-symbolic.svg',
+    'pwvucontrol-symbolic.svg',
     'pycharm-symbolic.svg',
     'pymol-symbolic.svg',
     'qbittorrent-symbolic.svg',
