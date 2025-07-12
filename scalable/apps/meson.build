@@ -274,6 +274,7 @@ regular_files = [
     'org.inkscape.Inkscape.svg',
     'org.onlyoffice.desktopeditors.svg',
     'org.parlatype.Parlatype.svg',
+    'org.squidowl.halloy.svg',
     'osmscout-server.svg',
     'osu.svg',
     'pacseek.svg',

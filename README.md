@@ -156,6 +156,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/gsmartcontrol.svg "GSmartControl")
 ![icon](./scalable/apps/gtkterm.svg "GTKTerm")
 ![icon](./scalable/apps/gufw.svg "GUFW")
+![icon](./scalable/apps/org.squidowl.halloy.svg "Halloy")
 ![icon](./scalable/apps/fr.handbrake.ghb.svg "Handbrake")
 ![icon](./scalable/apps/hardinfo.svg "Hardinfo")
 ![icon](./scalable/apps/hwloc.svg "Hardware Locality")

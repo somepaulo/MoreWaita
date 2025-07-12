@@ -251,6 +251,7 @@ regular_files = [
     'org.fdroid.Repomaker-symbolic.svg',
     'org.inkscape.Inkscape-symbolic.svg',
     'org.onlyoffice.desktopeditors-symbolic.svg',
+    'org.squidowl.halloy-symbolic.svg',
     'osmscout-server-symbolic.svg',
     'osu-symbolic.svg',
     'pacseek-symbolic.svg',
@@ -1262,6 +1263,9 @@ link_files = {
     ],
     'slack-symbolic.svg': [
         'com.slack.Slack-symbolic.svg',
+    ],
+    'pwvucontrol-symbolic.svg': [
+        'com.saivert.pwvucontrol-symbolic.svg',
     ],
     'rio-symbolic.svg': [
         'com.rioterm.Rio-symbolic.svg',
