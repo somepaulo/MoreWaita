@@ -55,6 +55,7 @@ regular_files = [
     'cherry-studio.svg',
     'chromium-browser.svg',
     'cider.svg',
+    'cinecred.svg',
     'clamtk.svg',
     'classicube.svg',
     'clion.svg',
@@ -1490,6 +1491,9 @@ link_files = {
     ],
     'discord.svg': [
         'com.discordapp.Discord.svg',
+    ],
+    'cinecred.svg': [
+        'com.cinecred.cinecred.svg',
     ],
     'calibre-viewer.svg': [
         'com.calibre_ebook.calibre.ebook-viewer.svg',

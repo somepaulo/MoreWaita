@@ -49,6 +49,7 @@ regular_files = [
     'chatterino-symbolic.svg',
     'cherry-studio-symbolic.svg',
     'cider-symbolic.svg',
+    'cinecred-symbolic.svg',
     'clamtk-symbolic.svg',
     'classicube-symbolic.svg',
     'clion-symbolic.svg',
@@ -1421,6 +1422,9 @@ link_files = {
     ],
     'discord-canary-symbolic.svg': [
         'com.discordapp.DiscordCanary-symbolic.svg',
+    ],
+    'cinecred-symbolic.svg': [
+        'com.cinecred.cinecred-symbolic.svg',
     ],
     'boxy-svg-symbolic.svg': [
         'com.boxy_svg.BoxySVG-symbolic.svg',
