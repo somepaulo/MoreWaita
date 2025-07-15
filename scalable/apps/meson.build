@@ -232,6 +232,7 @@ regular_files = [
     'monero.svg',
     'moonlight.svg',
     'mousam.svg',
+    'mozillavpn.svg',
     'mpv.svg',
     'mumble.svg',
     'musescore.svg',
@@ -626,6 +627,9 @@ link_files = {
     ],
     'nicotine-plus.svg': [
         'org.nicotine_plus.Nicotine.svg',
+    ],
+    'mozillavpn.svg': [
+        'org.mozilla.vpn.svg',
     ],
     'thunderbird.svg': [
         'org.mozilla.Thunderbird.svg',
@@ -1304,6 +1308,9 @@ link_files = {
     'todoist.svg': [
         'com.todoist.Todoist.svg',
         'goa-account-todoist.svg',
+    ],
+    'surfshark.svg': [
+        'com.surfshark.Surfshark.svg',
     ],
     'sublime-text.svg': [
         'com.sublimetext.three.svg',

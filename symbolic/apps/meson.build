@@ -213,6 +213,7 @@ regular_files = [
     'mockoon-symbolic.svg',
     'monero-symbolic.svg',
     'moonlight-symbolic.svg',
+    'mozillavpn-symbolic.svg',
     'mumble-symbolic.svg',
     'musescore-symbolic.svg',
     'n-trackstudio-symbolic.svg',
@@ -592,6 +593,9 @@ link_files = {
     ],
     'nicotine-plus-symbolic.svg': [
         'org.nicotine_plus.Nicotine-symbolic.svg',
+    ],
+    'mozillavpn-symbolic.svg': [
+        'org.mozilla.vpn-symbolic.svg',
     ],
     'thunderbird-symbolic.svg': [
         'org.mozilla.Thunderbird-symbolic.svg',
@@ -1248,6 +1252,9 @@ link_files = {
     'todoist-symbolic.svg': [
         'com.todoist.Todoist-symbolic.svg',
         'goa-account-todoist-symbolic.svg',
+    ],
+    'surfshark-symbolic.svg': [
+        'com.surfshark.Surfshark-symbolic.svg',
     ],
     'sublime-text-symbolic.svg': [
         'com.sublimetext.three-symbolic.svg',
