@@ -177,9 +177,6 @@ link_files = {
         'text-x-sass.svg',
         'text-x-scss.svg',
     ],
-    'application-json.svg': [
-        'text-json.svg',
-    ],
     'text-x-fsharp.svg': [
         'text-fsharp.svg',
     ],
@@ -513,6 +510,10 @@ link_files = {
         'openoffice4-oasis-database.svg',
         'qgis-sqlite.svg',
         'text-x-sql.svg',
+    ],
+    'application-json.svg': [
+        'application-schema+json.svg',
+        'text-json.svg',
     ],
     'application-pgp-signature.svg': [
         'application-pkcs7-signature.svg',
