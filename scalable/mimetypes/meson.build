@@ -177,6 +177,9 @@ link_files = {
         'text-x-sass.svg',
         'text-x-scss.svg',
     ],
+    'application-json.svg': [
+        'text-json.svg',
+    ],
     'text-x-fsharp.svg': [
         'text-fsharp.svg',
     ],
