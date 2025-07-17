@@ -414,6 +414,7 @@ regular_files = [
     'yuzu.svg',
     'zaproxy.svg',
     'zathura.svg',
+    'zed-preview.svg',
     'zed.svg',
     'zen-browser.svg',
     'zen-twilight.svg',
@@ -1259,6 +1260,9 @@ link_files = {
     ],
     'zed.svg': [
         'dev.zed.Zed.svg',
+    ],
+    'zed-preview.svg': [
+        'dev.zed.Zed-Preview.svg',
     ],
     'vesktop.svg': [
         'dev.vencord.Vesktop.svg',

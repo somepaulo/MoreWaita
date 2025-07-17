@@ -1207,7 +1207,9 @@ link_files = {
         'org.eclipse.Javascript-symbolic.svg',
     ],
     'zed-symbolic.svg': [
+        'dev.zed.Zed-Preview-symbolic.svg',
         'dev.zed.Zed-symbolic.svg',
+        'zed-preview-symbolic.svg',
     ],
     'vesktop-symbolic.svg': [
         'dev.vencord.Vesktop-symbolic.svg',
