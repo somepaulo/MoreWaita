@@ -792,6 +792,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-shell-legacy.svg "Shell")
 ![icon](./scalable/places/folder-syncthing-legacy.svg "Syncthing")
 ![icon](./scalable/places/folder-temp-legacy.svg "Temp")
+![icon](./scalable/places/folder-torrent-legacy.svg "Torrent")
 ![icon](./scalable/places/folder-translation-legacy.svg "Translation")
 ![icon](./scalable/places/folder-ubuntu-legacy.svg "Ubuntu")
 ![icon](./scalable/places/folder-user-legacy.svg "User")
