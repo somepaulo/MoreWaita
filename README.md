@@ -338,6 +338,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/qucs-s.svg "Qucs-S")
 ![icon](./scalable/apps/qutebrowser.svg "Qute Browser")
 ![icon](./scalable/apps/rpi-imager.svg "Raspberry Pi Imager")
+![icon](./scalable/apps/io.github.pieterdd.RcloneShuttle.svg "Rclone Shuttle")
 ![icon](./scalable/apps/cockos-reaper.svg "Reaper")
 ![icon](./scalable/apps/rpminstall.svg "RPM Install")
 ![icon](./scalable/apps/rawtherapee.svg "RawTherapee")

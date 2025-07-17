@@ -150,6 +150,7 @@ regular_files = [
     'intellij-symbolic.svg',
     'interstellar-symbolic.svg',
     'io.element.Element-symbolic.svg',
+    'io.github.pieterdd.RcloneShuttle-symbolic.svg',
     'io.github.tobagin.karere-symbolic.svg',
     'java-openjdk-symbolic.svg',
     'jdownloader-symbolic.svg',
