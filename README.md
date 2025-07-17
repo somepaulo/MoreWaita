@@ -129,6 +129,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/freedroidrpg.svg "FreeDroid RPG")
 ![icon](./scalable/apps/freetube.svg "FreeTube")
 ![icon](./scalable/apps/fuse-emulator.svg "Fuse Spectrum Emulator")
+![icon](./scalable/apps/gaiasky.svg "Gaia Sky")
 ![icon](./scalable/apps/gda-browser-5.0.svg "Gda Browser")
 ![icon](./scalable/apps/gda-control-center.svg "Gda Control Center")
 ![icon](./scalable/apps/gdevelop.svg "GDevelop")

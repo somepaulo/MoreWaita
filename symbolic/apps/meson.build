@@ -110,6 +110,7 @@ regular_files = [
     'freedroidrpg-symbolic.svg',
     'freetube-symbolic.svg',
     'fuse-emulator-symbolic.svg',
+    'gaiasky-symbolic.svg',
     'gda-control-center-symbolic.svg',
     'gdevelop-symbolic.svg',
     'geany-symbolic.svg',
@@ -1114,6 +1115,10 @@ link_files = {
         'gvim-symbolic.svg',
         'org.vim.Vim-symbolic.svg',
         'vim-qt-symbolic.svg',
+    ],
+    'gaiasky-symbolic.svg': [
+        'gs_icon-symbolic.svg',
+        'space.gaiasky.GaiaSky-symbolic.svg',
     ],
     'GrandOrgue-symbolic.svg': [
         'grandorgue-symbolic.svg',
