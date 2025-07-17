@@ -182,6 +182,7 @@ regular_files = [
     'kdenlive.svg',
     'keepassxc.svg',
     'kicad.svg',
+    'kiro.svg',
     'kitty.svg',
     'kiwix-desktop.svg',
     'kodi.svg',
@@ -1012,6 +1013,9 @@ link_files = {
         'libreoffice7.5-base.svg',
         'libreoffice7.6-base.svg',
         'org.libreoffice.LibreOffice.base.svg',
+    ],
+    'kiro.svg': [
+        'kiro-icon.svg',
     ],
     'kate.svg': [
         'kate2.svg',

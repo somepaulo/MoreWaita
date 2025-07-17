@@ -165,6 +165,7 @@ regular_files = [
     'kdenlive-symbolic.svg',
     'keepassxc-symbolic.svg',
     'kicad-symbolic.svg',
+    'kiro-symbolic.svg',
     'kitty-symbolic.svg',
     'kiwix-desktop-symbolic.svg',
     'kodi-symbolic.svg',
@@ -974,6 +975,9 @@ link_files = {
         'libreoffice7.5-base-symbolic.svg',
         'libreoffice7.6-base-symbolic.svg',
         'org.libreoffice.LibreOffice.base-symbolic.svg',
+    ],
+    'kiro-symbolic.svg': [
+        'kiro-icon-symbolic.svg',
     ],
     'kate-symbolic.svg': [
         'kate2-symbolic.svg',

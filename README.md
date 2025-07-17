@@ -198,6 +198,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/kdenlive.svg "KDEnlive")
 ![icon](./scalable/apps/keepassxc.svg "Keepass XC")
 ![icon](./scalable/apps/kicad.svg "KiCad")
+![icon](./scalable/apps/kiro.svg "Kiro")
 ![icon](./scalable/apps/kitty.svg "Kitty")
 ![icon](./scalable/apps/kiwix-desktop.svg "Kiwix")
 ![icon](./scalable/apps/kodi.svg "Kodi")
