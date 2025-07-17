@@ -313,6 +313,7 @@ regular_files = [
     'saber-symbolic.svg',
     'scrcpy-symbolic.svg',
     'scribus-symbolic.svg',
+    'seabird-symbolic.svg',
     'session-desktop-symbolic.svg',
     'setzer-symbolic.svg',
     'shotcut-symbolic.svg',
@@ -1213,6 +1214,9 @@ link_files = {
     ],
     'vesktop-symbolic.svg': [
         'dev.vencord.Vesktop-symbolic.svg',
+    ],
+    'seabird-symbolic.svg': [
+        'dev.skynomads.Seabird-symbolic.svg',
     ],
     'pulsar-symbolic.svg': [
         'dev.pulsar_edit.Pulsar-symbolic.svg',

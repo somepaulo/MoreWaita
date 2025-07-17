@@ -338,6 +338,7 @@ regular_files = [
     'saber.svg',
     'scrcpy.svg',
     'scribus.svg',
+    'seabird.svg',
     'session-desktop.svg',
     'setzer.svg',
     'shotcut.svg',
@@ -1266,6 +1267,9 @@ link_files = {
     ],
     'vesktop.svg': [
         'dev.vencord.Vesktop.svg',
+    ],
+    'seabird.svg': [
+        'dev.skynomads.Seabird.svg',
     ],
     'pulsar.svg': [
         'dev.pulsar_edit.Pulsar.svg',
