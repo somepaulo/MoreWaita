@@ -166,6 +166,7 @@ regular_files = [
     'io.github.alainm23.planify.svg',
     'io.github.quodlibet.ExFalso.svg',
     'io.github.quodlibet.QuodLibet.svg',
+    'io.github.tobagin.karere.svg',
     'java-openjdk.svg',
     'jdownloader.svg',
     'jellyfin.svg',

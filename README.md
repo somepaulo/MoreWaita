@@ -192,6 +192,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/julia.svg "Julia")
 ![icon](./scalable/apps/julius.svg "Julius")
 ![icon](./scalable/apps/jupyter.svg "Jupyter")
+![icon](./scalable/apps/io.github.tobagin.karere.svg "Karere")
 ![icon](./scalable/apps/kate.svg "Kate")
 ![icon](./scalable/apps/kdenlive.svg "KDEnlive")
 ![icon](./scalable/apps/keepassxc.svg "Keepass XC")
