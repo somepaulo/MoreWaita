@@ -8,6 +8,7 @@ regular_files = [
     'applications-electronics-symbolic.svg',
     'applications-internet-symbolic.svg',
     'applications-other-symbolic.svg',
+    'applications-webapps-symbolic.svg',
     'package-symbolic.svg',
     'preferences-desktop-symbolic.svg',
     'preferences-desktop-theme-symbolic.svg',

@@ -366,6 +366,7 @@ regular_files = [
     'warpinator-symbolic.svg',
     'waterfox-symbolic.svg',
     'waydroid-symbolic.svg',
+    'webapp-manager-symbolic.svg',
     'webcord-symbolic.svg',
     'webstorm-symbolic.svg',
     'wezterm-symbolic.svg',

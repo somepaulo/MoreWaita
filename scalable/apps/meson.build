@@ -395,6 +395,7 @@ regular_files = [
     'warpinator.svg',
     'waterfox.svg',
     'waydroid.svg',
+    'webapp-manager.svg',
     'webcord.svg',
     'webstorm.svg',
     'wezterm.svg',

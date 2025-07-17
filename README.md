@@ -414,6 +414,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/warpinator.svg "Warpinator")
 ![icon](./scalable/apps/waterfox.svg "Waterfox")
 ![icon](./scalable/apps/waydroid.svg "Waydroid")
+![icon](./scalable/apps/webapp-manager.svg "Webapp Manager")
 ![icon](./scalable/apps/webcord.svg "Webcord")
 ![icon](./scalable/apps/wezterm.svg "Wezterm")
 ![icon](./scalable/apps/com.github.eneshecan.WhatsAppForLinux.svg "WhatsApp")
@@ -701,6 +702,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/legacy/applications-science.svg "Science app category")
 ![icon](./scalable/legacy/applications-system.svg "System app category")
 ![icon](./scalable/legacy/applications-utilities.svg "Utilities app category")
+![icon](./scalable/legacy/applications-webapps.svg "Webapps app category")
 
 #### Preferences
 ![icon](./scalable/legacy/preferences-desktop.svg "Preferences")
