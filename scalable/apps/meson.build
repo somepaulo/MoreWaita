@@ -241,6 +241,7 @@ regular_files = [
     'musescore.svg',
     'n-trackstudio.svg',
     'neovide.svg',
+    'net.gpro.gproapp.svg',
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',
     'netbeans.svg',

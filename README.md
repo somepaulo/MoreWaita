@@ -148,6 +148,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/google-sheets.svg "Google Sheets")
 ![icon](./scalable/apps/google-slides.svg "Google Slides")
 ![icon](./scalable/apps/gparted.svg "GParted")
+![icon](./scalable/apps/net.gpro.gproapp.svg "GPRO")
 ![icon](./scalable/apps/gpsd-logo.svg "GPSd")
 ![icon](./scalable/apps/GrandOrgue.svg "GrandOrgue")
 ![icon](./scalable/apps/grapejuice.svg "Grapejuice")

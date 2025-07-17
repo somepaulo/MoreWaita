@@ -221,6 +221,7 @@ regular_files = [
     'musescore-symbolic.svg',
     'n-trackstudio-symbolic.svg',
     'neovide-symbolic.svg',
+    'net.gpro.gproapp-symbolic.svg',
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
     'netbeans-symbolic.svg',
