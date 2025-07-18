@@ -4,6 +4,7 @@ regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     '0ad.svg',
     'CMakeSetup.svg',
+    'GPU_Viewer.svg',
     'GrandOrgue.svg',
     'MediathekView.svg',
     'Notesnook.svg',
@@ -1112,6 +1113,9 @@ link_files = {
     ],
     'buzz.svg': [
         'io.github.chidiwilliams.Buzz.svg',
+    ],
+    'GPU_Viewer.svg': [
+        'io.github.arunsivaramanneo.GPUViewer.svg',
     ],
     'mousam.svg': [
         'io.github.amit9838.mousam.svg',
