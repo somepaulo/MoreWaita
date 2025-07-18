@@ -276,6 +276,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/nufraw.svg "nUFRaw")
 ![icon](./scalable/apps/nvidia.svg "nVidia Settings")
 ![icon](./scalable/apps/nvtop.svg "NVTOP")
+![icon](./scalable/apps/nym-vpn.svg "NymVPN")
 ![icon](./scalable/apps/com.obsproject.Studio.svg "OBS Studio")
 ![icon](./scalable/apps/obsidian.svg "Obsidian")
 ![icon](./scalable/apps/octave.svg "Octave")

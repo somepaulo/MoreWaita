@@ -237,6 +237,7 @@ regular_files = [
     'nvidia-symbolic.svg',
     'nvim-symbolic.svg',
     'nvtop-symbolic.svg',
+    'nym-vpn-symbolic.svg',
     'nz.mega.MEGAsync-symbolic.svg',
     'obsidian-symbolic.svg',
     'octave-symbolic.svg',
@@ -774,6 +775,10 @@ link_files = {
     ],
     'openra-ra-symbolic.svg': [
         'net.openra.OpenRA-symbolic.svg',
+    ],
+    'nym-vpn-symbolic.svg': [
+        'net.nymtech.NymVPN-symbolic.svg',
+        'nymvpn-symbolic.svg',
     ],
     'mediainfo-symbolic.svg': [
         'net.mediaarea.MediaInfo-symbolic.svg',

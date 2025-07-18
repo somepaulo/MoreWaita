@@ -258,6 +258,7 @@ regular_files = [
     'nvidia.svg',
     'nvim.svg',
     'nvtop.svg',
+    'nym-vpn.svg',
     'nz.mega.MEGAsync.svg',
     'obsidian.svg',
     'octave.svg',
@@ -807,6 +808,10 @@ link_files = {
     ],
     'openra-cnc.svg': [
         'net.openra.OpenRA.openra-cnc.svg',
+    ],
+    'nym-vpn.svg': [
+        'net.nymtech.NymVPN.svg',
+        'nymvpn.svg',
     ],
     'mediainfo.svg': [
         'net.mediaarea.MediaInfo.svg',
