@@ -202,6 +202,7 @@ regular_files = [
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
     'maple-symbolic.svg',
+    'materialgram-symbolic.svg',
     'mathematica-symbolic.svg',
     'matlab-symbolic.svg',
     'mattermost-symbolic.svg',
@@ -1046,6 +1047,9 @@ link_files = {
     ],
     'gimagereader-symbolic.svg': [
         'io.github.manisandro.gImageReader-symbolic.svg',
+    ],
+    'materialgram-symbolic.svg': [
+        'io.github.kukuruzka165.materialgram-symbolic.svg',
     ],
     'kotatogram-symbolic.svg': [
         'io.github.kotatogram-symbolic.svg',

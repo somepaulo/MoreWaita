@@ -235,6 +235,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/lutris.svg "Lutris")
 ![icon](./scalable/apps/mailspring.svg "Mailspring")
 ![icon](./scalable/apps/maple.svg "Maple")
+![icon](./scalable/apps/materialgram.svg "Maple")
 ![icon](./scalable/apps/mathematica.svg "Mathematica")
 ![icon](./scalable/apps/matlab.svg "Matlab")
 ![icon](./scalable/apps/mattermost.svg "Mattermost")

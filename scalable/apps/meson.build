@@ -220,6 +220,7 @@ regular_files = [
     'lvim.svg',
     'mailspring.svg',
     'maple.svg',
+    'materialgram.svg',
     'mathematica.svg',
     'matlab.svg',
     'mattermost.svg',
@@ -1091,6 +1092,9 @@ link_files = {
     ],
     'gimagereader.svg': [
         'io.github.manisandro.gImageReader.svg',
+    ],
+    'materialgram.svg': [
+        'io.github.kukuruzka165.materialgram.svg',
     ],
     'kotatogram.svg': [
         'io.github.kotatogram.svg',
