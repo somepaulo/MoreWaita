@@ -81,6 +81,7 @@ regular_files = [
     'de.leopoldluley.Clapgrep.svg',
     'deadbeef.svg',
     'deezer.svg',
+    'deltachat.svg',
     'designer.svg',
     'dev.bsnes.bsnes.svg',
     'dev.deedles.Trayscale.svg',
@@ -1605,6 +1606,10 @@ link_files = {
     ],
     'revolt-desktop.svg': [
         'chat.revolt.RevoltDesktop.svg',
+    ],
+    'deltachat.svg': [
+        'chat.delta.desktop.svg',
+        'deltachat-desktop.svg',
     ],
     'protonmail-ie.svg': [
         'ch.protonmail.protonmail-import-export-app.svg',

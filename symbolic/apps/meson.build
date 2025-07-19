@@ -75,6 +75,7 @@ regular_files = [
     'de.leopoldluley.Clapgrep-symbolic.svg',
     'deadbeef-symbolic.svg',
     'deezer-symbolic.svg',
+    'deltachat-symbolic.svg',
     'designer-symbolic.svg',
     'dev.bsnes.bsnes-symbolic.svg',
     'dev.deedles.Trayscale-symbolic.svg',
@@ -1529,6 +1530,10 @@ link_files = {
     ],
     'revolt-desktop-symbolic.svg': [
         'chat.revolt.RevoltDesktop-symbolic.svg',
+    ],
+    'deltachat-symbolic.svg': [
+        'chat.delta.desktop-symbolic.svg',
+        'deltachat-desktop-symbolic.svg',
     ],
     'protonmail-ie-symbolic.svg': [
         'ch.protonmail.protonmail-import-export-app-symbolic.svg',
