@@ -355,6 +355,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/cockos-reaper.svg "Reaper")
 ![icon](./scalable/apps/rpminstall.svg "RPM Install")
 ![icon](./scalable/apps/rawtherapee.svg "RawTherapee")
+![icon](./scalable/apps/remmina.svg "Remmina")
 ![icon](./scalable/apps/retroarch.svg "Retro Arch")
 ![icon](./scalable/apps/revolt-desktop.svg "Revolt")
 ![icon](./scalable/apps/rio.svg "Rio")

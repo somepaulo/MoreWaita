@@ -309,6 +309,7 @@ regular_files = [
     'qutebrowser-symbolic.svg',
     'qv4l2-symbolic.svg',
     'rawtherapee-symbolic.svg',
+    'remmina-symbolic.svg',
     'resolve-symbolic.svg',
     'retroarch-symbolic.svg',
     'revolt-desktop-symbolic.svg',
@@ -580,6 +581,9 @@ link_files = {
     ],
     'shotcut-symbolic.svg': [
         'org.shotcut.Shotcut-symbolic.svg',
+    ],
+    'remmina-symbolic.svg': [
+        'org.remmina.Remmina-symbolic.svg',
     ],
     'rpi-imager-symbolic.svg': [
         'org.raspberrypi.rpi-imager-symbolic.svg',

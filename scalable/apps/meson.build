@@ -333,6 +333,7 @@ regular_files = [
     'qutebrowser.svg',
     'qv4l2.svg',
     'rawtherapee.svg',
+    'remmina.svg',
     'resolve.svg',
     'retroarch.svg',
     'revolt-desktop.svg',
@@ -611,6 +612,9 @@ link_files = {
     ],
     'shotcut.svg': [
         'org.shotcut.Shotcut.svg',
+    ],
+    'remmina.svg': [
+        'org.remmina.Remmina.svg',
     ],
     'rpi-imager.svg': [
         'org.raspberrypi.rpi-imager.svg',
