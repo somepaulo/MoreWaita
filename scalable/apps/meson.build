@@ -82,6 +82,7 @@ regular_files = [
     'deadbeef.svg',
     'deezer.svg',
     'deltachat.svg',
+    'deluge.svg',
     'designer.svg',
     'dev.bsnes.bsnes.svg',
     'dev.deedles.Trayscale.svg',
@@ -728,6 +729,9 @@ link_files = {
     ],
     'dune3d.svg': [
         'org.dune3d.dune3d.svg',
+    ],
+    'deluge.svg': [
+        'org.deluge_torrent.deluge.svg',
     ],
     'darktable.svg': [
         'org.darktable.Darktable.svg',

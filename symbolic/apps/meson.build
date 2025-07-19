@@ -76,6 +76,7 @@ regular_files = [
     'deadbeef-symbolic.svg',
     'deezer-symbolic.svg',
     'deltachat-symbolic.svg',
+    'deluge-symbolic.svg',
     'designer-symbolic.svg',
     'dev.bsnes.bsnes-symbolic.svg',
     'dev.deedles.Trayscale-symbolic.svg',
@@ -697,6 +698,9 @@ link_files = {
     ],
     'dune3d-symbolic.svg': [
         'org.dune3d.dune3d-symbolic.svg',
+    ],
+    'deluge-symbolic.svg': [
+        'org.deluge_torrent.deluge-symbolic.svg',
     ],
     'darktable-symbolic.svg': [
         'org.darktable.Darktable-symbolic.svg',

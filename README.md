@@ -91,6 +91,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/deadbeef.svg "DeaDBeeF")
 ![icon](./scalable/apps/deezer.svg "Deezer")
 ![icon](./scalable/apps/deltachat.svg "Delta Chat")
+![icon](./scalable/apps/deluge.svg "Deluge")
 ![icon](./scalable/apps/devpod.svg "Devpod")
 ![icon](./scalable/apps/discord.svg "Discord")
 ![icon](./scalable/apps/discord-canary.svg "Discord Canary")
