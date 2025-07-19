@@ -139,6 +139,7 @@ regular_files = [
     'gnome-nettool.svg',
     'godot.svg',
     'goland.svg',
+    'gonnect.svg',
     'google-chrome.svg',
     'google-docs.svg',
     'google-earth.svg',
@@ -1321,6 +1322,9 @@ link_files = {
     'MediathekView.svg': [
         'de.mediathekview.MediathekView.svg',
         'mediathekview.svg',
+    ],
+    'gonnect.svg': [
+        'de.gonicus.gonnect.svg',
     ],
     'dbeaver.svg': [
         'dbeaver-ee.svg',

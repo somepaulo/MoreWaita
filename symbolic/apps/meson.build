@@ -128,6 +128,7 @@ regular_files = [
     'gnome-aisleriot-symbolic.svg',
     'godot-symbolic.svg',
     'goland-symbolic.svg',
+    'gonnect-symbolic.svg',
     'google-chrome-symbolic.svg',
     'google-docs-symbolic.svg',
     'google-earth-symbolic.svg',
@@ -1272,6 +1273,9 @@ link_files = {
     'MediathekView-symbolic.svg': [
         'de.mediathekview.MediathekView-symbolic.svg',
         'mediathekview-symbolic.svg',
+    ],
+    'gonnect-symbolic.svg': [
+        'de.gonicus.gonnect-symbolic.svg',
     ],
     'dbeaver-symbolic.svg': [
         'dbeaver-ee-symbolic.svg',
