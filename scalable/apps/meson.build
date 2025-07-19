@@ -353,6 +353,7 @@ regular_files = [
     'sioyek.svg',
     'slack.svg',
     'solaar.svg',
+    'sonar.svg',
     'sound-juicer.svg',
     'soundconverter.svg',
     'spek.svg',
@@ -1075,6 +1076,9 @@ link_files = {
     ],
     'lpub3d.svg': [
         'io.github.trevorsandy.LPub3D.svg',
+    ],
+    'sonar.svg': [
+        'io.github.tobagin.sonar.svg',
     ],
     'webcord.svg': [
         'io.github.spacingbat3.webcord.svg',

@@ -328,6 +328,7 @@ regular_files = [
     'sioyek-symbolic.svg',
     'slack-symbolic.svg',
     'solaar-symbolic.svg',
+    'sonar-symbolic.svg',
     'sound-juicer-symbolic.svg',
     'soundconverter-symbolic.svg',
     'spek-symbolic.svg',
@@ -1030,6 +1031,9 @@ link_files = {
     ],
     'lpub3d-symbolic.svg': [
         'io.github.trevorsandy.LPub3D-symbolic.svg',
+    ],
+    'sonar-symbolic.svg': [
+        'io.github.tobagin.sonar-symbolic.svg',
     ],
     'webcord-symbolic.svg': [
         'io.github.spacingbat3.webcord-symbolic.svg',

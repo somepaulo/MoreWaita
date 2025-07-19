@@ -371,6 +371,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/sioyek.svg "Sioyek")
 ![icon](./scalable/apps/slack.svg "Slack")
 ![icon](./scalable/apps/solaar.svg "Solaar")
+![icon](./scalable/apps/sonar.svg "Sonar")
 ![icon](./scalable/apps/soundconverter.svg "Sound Converter")
 ![icon](./scalable/apps/sound-juicer.svg "Sound Juicer")
 ![icon](./scalable/apps/spek.svg "Spek")
