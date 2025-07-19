@@ -417,6 +417,7 @@ regular_files = [
     'wireshark.svg',
     'wonderpen.svg',
     'xdvi.svg',
+    'xemu.svg',
     'xonotic.svg',
     'xsane.svg',
     'yandex-browser.svg',
@@ -1865,6 +1866,9 @@ link_files = {
         'chrome-cinhimbnkkaeohfgghhklpknlkffjgod-Default.svg',
         'org.gnome.Epiphany.WebApp_d0edcaa68dd928524737c844042dd085d6e2824e.svg',
         'ytmdesktop.svg',
+    ],
+    'xemu.svg': [
+        'app.xemu.xemu.svg',
     ],
     'polychromatic.svg': [
         'app.polychromatic.controller.svg',

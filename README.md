@@ -436,6 +436,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/wireshark.svg "Wireshark")
 ![icon](./scalable/apps/wonderpen.svg "WonderPen")
 ![icon](./scalable/apps/xdvi.svg "xdvi")
+![icon](./scalable/apps/xemu.svg "xemu")
 ![icon](./scalable/apps/xonotic.svg "Xonotic")
 ![icon](./scalable/apps/xsane.svg "xSane")
 ![icon](./scalable/apps/yandex-browser.svg "Yandex Browser")

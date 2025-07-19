@@ -389,6 +389,7 @@ regular_files = [
     'wireshark-symbolic.svg',
     'wonderpen-symbolic.svg',
     'xdvi-symbolic.svg',
+    'xemu-symbolic.svg',
     'xonotic-symbolic.svg',
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
@@ -1801,6 +1802,9 @@ link_files = {
         'chrome-cinhimbnkkaeohfgghhklpknlkffjgod-Default-symbolic.svg',
         'org.gnome.Epiphany.WebApp_d0edcaa68dd928524737c844042dd085d6e2824e-symbolic.svg',
         'ytmdesktop-symbolic.svg',
+    ],
+    'xemu-symbolic.svg': [
+        'app.xemu.xemu-symbolic.svg',
     ],
     'polychromatic-symbolic.svg': [
         'app.polychromatic.controller-symbolic.svg',
