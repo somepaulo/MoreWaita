@@ -111,6 +111,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/facebook-messenger.svg "Facebook Messenger")
 ![icon](./scalable/apps/org.fdroid.Repomaker.svg "F-Droid Repomaker")
 ![icon](./scalable/apps/com.fender.studio.svg "Fender Studio")
+![icon](./scalable/apps/ferdium.svg "Ferdium")
 ![icon](./scalable/apps/figma.svg "Figma")
 ![icon](./scalable/apps/filezilla.svg "FileZilla")
 ![icon](./scalable/apps/firefox.svg "Firefox")

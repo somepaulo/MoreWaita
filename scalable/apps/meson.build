@@ -100,6 +100,7 @@ regular_files = [
     'enpass.svg',
     'etcher.svg',
     'facebook-messenger.svg',
+    'ferdium.svg',
     'fgcom.svg',
     'figma.svg',
     'filezilla.svg',
@@ -723,6 +724,9 @@ link_files = {
     ],
     'filezilla.svg': [
         'org.filezillaproject.Filezilla.svg',
+    ],
+    'ferdium.svg': [
+        'org.ferdium.Ferdium.svg',
     ],
     'electrum.svg': [
         'org.electrum.electrum.svg',

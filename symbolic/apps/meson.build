@@ -93,6 +93,7 @@ regular_files = [
     'enpass-symbolic.svg',
     'etcher-symbolic.svg',
     'facebook-messenger-symbolic.svg',
+    'ferdium-symbolic.svg',
     'fgcom-symbolic.svg',
     'figma-symbolic.svg',
     'filezilla-symbolic.svg',
@@ -692,6 +693,9 @@ link_files = {
     ],
     'filezilla-symbolic.svg': [
         'org.filezillaproject.Filezilla-symbolic.svg',
+    ],
+    'ferdium-symbolic.svg': [
+        'org.ferdium.Ferdium-symbolic.svg',
     ],
     'electrum-symbolic.svg': [
         'org.electrum.electrum-symbolic.svg',
