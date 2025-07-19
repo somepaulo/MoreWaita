@@ -198,6 +198,7 @@ regular_files = [
     'krita.svg',
     'kruler.svg',
     'kvantum.svg',
+    'lapce.svg',
     'lazarus.svg',
     'lazpaint.svg',
     'leocad.svg',
@@ -1327,6 +1328,9 @@ link_files = {
     ],
     'sunshine.svg': [
         'dev.lizardbyte.app.Sunshine.svg',
+    ],
+    'lapce.svg': [
+        'dev.lapce.lapce.svg',
     ],
     'deezer.svg': [
         'dev.aunetx.deezer.svg',

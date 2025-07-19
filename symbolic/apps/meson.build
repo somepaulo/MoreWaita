@@ -182,6 +182,7 @@ regular_files = [
     'krita-symbolic.svg',
     'kruler-symbolic.svg',
     'kvantum-symbolic.svg',
+    'lapce-symbolic.svg',
     'lazarus-symbolic.svg',
     'lazpaint-symbolic.svg',
     'leocad-symbolic.svg',
@@ -1278,6 +1279,9 @@ link_files = {
     ],
     'sunshine-symbolic.svg': [
         'dev.lizardbyte.app.Sunshine-symbolic.svg',
+    ],
+    'lapce-symbolic.svg': [
+        'dev.lapce.lapce-symbolic.svg',
     ],
     'deezer-symbolic.svg': [
         'dev.aunetx.deezer-symbolic.svg',
