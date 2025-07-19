@@ -326,6 +326,7 @@ regular_files = [
     'setzer-symbolic.svg',
     'shotcut-symbolic.svg',
     'shotwell-symbolic.svg',
+    'sigil-symbolic.svg',
     'signal-desktop-symbolic.svg',
     'sioyek-symbolic.svg',
     'slack-symbolic.svg',
@@ -1313,6 +1314,9 @@ link_files = {
     ],
     'slack-symbolic.svg': [
         'com.slack.Slack-symbolic.svg',
+    ],
+    'sigil-symbolic.svg': [
+        'com.sigil_ebook.Sigil-symbolic.svg',
     ],
     'pwvucontrol-symbolic.svg': [
         'com.saivert.pwvucontrol-symbolic.svg',
