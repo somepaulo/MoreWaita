@@ -169,6 +169,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/heroic.svg "Heroic Launcher")
 ![icon](./scalable/apps/hp_logo.svg "HP")
 ![icon](./scalable/apps/htop.svg "Htop")
+![icon](./scalable/apps/hydrogen.svg "Hydrogen")
 ![icon](./scalable/apps/org.inkscape.Inkscape.svg "Inkscape")
 ![icon](./scalable/apps/input-remapper.svg "Input Remapper")
 ![icon](./scalable/apps/insomnia.svg "Insomnia")

@@ -159,6 +159,7 @@ regular_files = [
     'htop.svg',
     'hu.irl.cameractrls.svg',
     'hwloc.svg',
+    'hydrogen.svg',
     'input-remapper.svg',
     'insomnia.svg',
     'intellij.svg',
@@ -683,6 +684,9 @@ link_files = {
     ],
     'jdownloader.svg': [
         'org.jdownloader.JDownloader.svg',
+    ],
+    'hydrogen.svg': [
+        'org.hydrogenmusic.Hydrogen.svg',
     ],
     'sound-juicer.svg': [
         'org.gnome.SoundJuicer.svg',

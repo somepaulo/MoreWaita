@@ -147,6 +147,7 @@ regular_files = [
     'hp_logo-symbolic.svg',
     'htop-symbolic.svg',
     'hu.irl.cameractrls-symbolic.svg',
+    'hydrogen-symbolic.svg',
     'input-remapper-symbolic.svg',
     'insomnia-symbolic.svg',
     'intellij-symbolic.svg',
@@ -652,6 +653,9 @@ link_files = {
     ],
     'jdownloader-symbolic.svg': [
         'org.jdownloader.JDownloader-symbolic.svg',
+    ],
+    'hydrogen-symbolic.svg': [
+        'org.hydrogenmusic.Hydrogen-symbolic.svg',
     ],
     'sound-juicer-symbolic.svg': [
         'org.gnome.SoundJuicer-symbolic.svg',
