@@ -115,6 +115,7 @@ regular_files = [
     'gda-control-center-symbolic.svg',
     'gdevelop-symbolic.svg',
     'geany-symbolic.svg',
+    'geforce-infinity-symbolic.svg',
     'geneious-symbolic.svg',
     'genymotion-symbolic.svg',
     'geogebra-symbolic.svg',
@@ -1089,6 +1090,9 @@ link_files = {
     ],
     'buzz-symbolic.svg': [
         'io.github.chidiwilliams.Buzz-symbolic.svg',
+    ],
+    'geforce-infinity-symbolic.svg': [
+        'io.github.astralvixen.geforce-infinity-symbolic.svg',
     ],
     'GPU_Viewer-symbolic.svg': [
         'io.github.arunsivaramanneo.GPUViewer-symbolic.svg',

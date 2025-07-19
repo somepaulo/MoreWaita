@@ -125,6 +125,7 @@ regular_files = [
     'gda-control-center.svg',
     'gdevelop.svg',
     'geany.svg',
+    'geforce-infinity.svg',
     'geneious.svg',
     'genymotion.svg',
     'geogebra.svg',
@@ -1130,6 +1131,9 @@ link_files = {
     ],
     'buzz.svg': [
         'io.github.chidiwilliams.Buzz.svg',
+    ],
+    'geforce-infinity.svg': [
+        'io.github.astralvixen.geforce-infinity.svg',
     ],
     'GPU_Viewer.svg': [
         'io.github.arunsivaramanneo.GPUViewer.svg',
