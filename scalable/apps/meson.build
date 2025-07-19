@@ -296,6 +296,7 @@ regular_files = [
     'pianoteq.svg',
     'pidgin.svg',
     'pinta.svg',
+    'pixelwheels.svg',
     'plugdata.svg',
     'polychromatic.svg',
     'popcorntime.svg',
@@ -1549,6 +1550,10 @@ link_files = {
     ],
     'anydesk.svg': [
         'com.anydesk.Anydesk.svg',
+    ],
+    'pixelwheels.svg': [
+        'com.agateau.PixelWheels.svg',
+        'pixel-wheels.svg',
     ],
     'saber.svg': [
         'com.adilhanney.saber.svg',

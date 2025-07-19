@@ -271,6 +271,7 @@ regular_files = [
     'pianoteq-symbolic.svg',
     'pidgin-symbolic.svg',
     'pinta-symbolic.svg',
+    'pixelwheels-symbolic.svg',
     'plugdata-symbolic.svg',
     'polychromatic-symbolic.svg',
     'popcorntime-symbolic.svg',
@@ -1469,6 +1470,10 @@ link_files = {
     ],
     'anydesk-symbolic.svg': [
         'com.anydesk.Anydesk-symbolic.svg',
+    ],
+    'pixelwheels-symbolic.svg': [
+        'com.agateau.PixelWheels-symbolic.svg',
+        'pixel-wheels-symbolic.svg',
     ],
     'saber-symbolic.svg': [
         'com.adilhanney.saber-symbolic.svg',
