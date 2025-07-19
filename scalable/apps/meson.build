@@ -151,7 +151,6 @@ regular_files = [
     'gsmartcontrol.svg',
     'gtkterm.svg',
     'gufw.svg',
-    'guiscrcpy.svg',
     'hardinfo.svg',
     'headlines.svg',
     'helio-workstation.svg',
@@ -323,6 +322,7 @@ regular_files = [
     'qt5ct.svg',
     'qtcreator.svg',
     'qtdesignstudio.svg',
+    'qtscrcpy.svg',
     'qucs-s.svg',
     'qutebrowser.svg',
     'qv4l2.svg',
@@ -530,9 +530,6 @@ link_files = {
     ],
     'qv4l2.svg': [
         'qvidcap.svg',
-    ],
-    'scrcpy.svg': [
-        'qtscrcpy.svg',
     ],
     'qt5ct.svg': [
         'qt6ct.svg',
@@ -1814,9 +1811,6 @@ link_files = {
     'heroic.svg': [
         'appimagekit-heroic.svg',
         'com.heroicgameslauncher.hgl.svg',
-    ],
-    'guiscrcpy.svg': [
-        'appimagekit-guiscrcpy.svg',
     ],
     'github-desktop.svg': [
         'appimagekit-github-desktop.svg',

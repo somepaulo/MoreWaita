@@ -298,6 +298,7 @@ regular_files = [
     'qt5ct-symbolic.svg',
     'qtcreator-symbolic.svg',
     'qtdesignstudio-symbolic.svg',
+    'qtscrcpy-symbolic.svg',
     'qucs-s-symbolic.svg',
     'qutebrowser-symbolic.svg',
     'qv4l2-symbolic.svg',
@@ -1745,11 +1746,6 @@ link_files = {
     'heroic-symbolic.svg': [
         'appimagekit-heroic-symbolic.svg',
         'com.heroicgameslauncher.hgl-symbolic.svg',
-    ],
-    'scrcpy-symbolic.svg': [
-        'appimagekit-guiscrcpy-symbolic.svg',
-        'guiscrcpy-symbolic.svg',
-        'qtscrcpy-symbolic.svg',
     ],
     'github-desktop-symbolic.svg': [
         'appimagekit-github-desktop-symbolic.svg',

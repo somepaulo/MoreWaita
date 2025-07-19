@@ -358,7 +358,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/ryujinx.svg "Ryujinx")
 ![icon](./scalable/apps/saber.svg "Saber")
 ![icon](./scalable/apps/scrcpy.svg "Scrcpy")
-![icon](./scalable/apps/guiscrcpy.svg "GUI Scrcpy")
+![icon](./scalable/apps/qtscrcpy.svg "QtScrcpy")
 ![icon](./scalable/apps/scribus.svg "Scribus")
 ![icon](./scalable/apps/seabird.svg "Scribus")
 ![icon](./scalable/apps/stoken-gui.svg "Security Token")
