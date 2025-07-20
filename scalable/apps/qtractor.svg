@@ -11,6 +11,24 @@
   <defs
      id="defs35">
     <linearGradient
+       id="linearGradient28">
+      <stop
+         stop-color="#ede1b9"
+         offset="0"
+         id="stop26"
+         style="stop-color:#ae912d;stop-opacity:1;" />
+      <stop
+         stop-color="#7a7152"
+         offset="0.5"
+         id="stop27"
+         style="stop-color:#1f1d15;stop-opacity:1;" />
+      <stop
+         stop-color="#927f39"
+         offset="1"
+         id="stop28"
+         style="stop-color:#25200e;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient189"
        gradientUnits="userSpaceOnUse">
       <stop
@@ -446,6 +464,15 @@
        y1="262.49228"
        x2="113.8"
        y2="262.49228" />
+    <linearGradient
+       xlink:href="#linearGradient28"
+       id="linearGradient26"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.42120367,0,0,0.55047164,7.053451,-7.18669)"
+       x1="167.38351"
+       y1="44.535805"
+       x2="423.51648"
+       y2="288.5332" />
   </defs>
   <linearGradient
      id="a"
@@ -670,6 +697,13 @@
      fill="url(#af)"
      id="path145"
      style="fill:url(#af);stroke-width:0.43506" />
+  <path
+     d="M 78.614501,5.47921 C 98.710321,-1.70961 116.35648,18.7134 123.70804,36.3587 131.06029,54.49393 130.08,81.615837 111.94451,90.765251 92.828561,99.914665 71.752011,81.942172 63.909661,60.86649 56.067221,40.27988 59.008191,12.17811 78.614501,5.47921 Z"
+     fill="url(#linearGradient2293)"
+     stroke="url(#linearGradient2306)"
+     stroke-width="0.48152pt"
+     id="path26"
+     style="fill:url(#linearGradient26);fill-rule:evenodd;stroke:none" />
   <path
      d="M 78.614501,1.47921 C 98.710321,-5.70961 116.35648,14.7134 123.70804,32.3587 131.06029,50.49393 130.08,77.615837 111.94451,86.765251 92.828561,95.914665 71.752011,77.942172 63.909661,56.86649 56.067221,36.27988 59.008191,8.17811 78.614501,1.47921 Z"
      fill="url(#linearGradient2293)"
