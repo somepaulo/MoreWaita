@@ -305,6 +305,7 @@ regular_files = [
     'qt5ct-symbolic.svg',
     'qtcreator-symbolic.svg',
     'qtdesignstudio-symbolic.svg',
+    'qtractor-symbolic.svg',
     'qtscrcpy-symbolic.svg',
     'qucs-s-symbolic.svg',
     'qutebrowser-symbolic.svg',
@@ -582,6 +583,9 @@ link_files = {
     ],
     'shotcut-symbolic.svg': [
         'org.shotcut.Shotcut-symbolic.svg',
+    ],
+    'qtractor-symbolic.svg': [
+        'org.rncbc.qtractor-symbolic.svg',
     ],
     'remmina-symbolic.svg': [
         'org.remmina.Remmina-symbolic.svg',

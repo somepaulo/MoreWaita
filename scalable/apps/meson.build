@@ -329,6 +329,7 @@ regular_files = [
     'qt5ct.svg',
     'qtcreator.svg',
     'qtdesignstudio.svg',
+    'qtractor.svg',
     'qtscrcpy.svg',
     'qucs-s.svg',
     'qutebrowser.svg',
@@ -613,6 +614,9 @@ link_files = {
     ],
     'shotcut.svg': [
         'org.shotcut.Shotcut.svg',
+    ],
+    'qtractor.svg': [
+        'org.rncbc.qtractor.svg',
     ],
     'remmina.svg': [
         'org.remmina.Remmina.svg',
