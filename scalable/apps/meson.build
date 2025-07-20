@@ -64,7 +64,6 @@ regular_files = [
     'code-oss.svg',
     'codeblocks.svg',
     'com.fender.studio.svg',
-    'com.github.eneshecan.WhatsAppForLinux.svg',
     'com.github.rafostar.Clapper.svg',
     'com.obsproject.Studio.svg',
     'com.tonikelope.MegaBasterd.svg',
@@ -421,6 +420,7 @@ regular_files = [
     'webstorm.svg',
     'wezterm.svg',
     'whatsapp-business.svg',
+    'whatsapp.svg',
     'windscribe.svg',
     'wireshark.svg',
     'wonderpen.svg',
@@ -494,16 +494,6 @@ link_files = {
         'libreoffice7.6-startcenter.svg',
         'org.libreoffice.LibreOffice.main.svg',
         'org.libreoffice.LibreOffice.startcenter.svg',
-    ],
-    'com.github.eneshecan.WhatsAppForLinux.svg': [
-        'com.gigitux.gtkwhats.svg',
-        'io.bit3.WhatsAppQT.svg',
-        'io.github.mimbrero.WhatsAppDesktop.svg',
-        'whatsapp-desktop.svg',
-        'whatsapp-for-linux.svg',
-        'whatsapp-nativefier.svg',
-        'whatsapp.svg',
-        'whatsdesk.svg',
     ],
     'mathematica.svg': [
         'wolfram-mathematica.svg',
@@ -1516,9 +1506,6 @@ link_files = {
     'lunacy.svg': [
         'com.icons8.Lunacy.svg',
     ],
-    'whatsapp.svg': [
-        'com.github.xeco23.WasIstLos.svg',
-    ],
     'tor-browser.svg': [
         'com.github.micahflee.torbrowser-launcher.svg',
         'org.torproject.torbrowser-launcher.svg',
@@ -1553,6 +1540,17 @@ link_files = {
     'ungoogled-chromium.svg': [
         'com.github.Eloston.UngoogledChromium.svg',
         'io.github.ungoogled_software.ungoogled_chromium.svg',
+    ],
+    'whatsapp.svg': [
+        'com.gigitux.gtkwhats.svg',
+        'com.github.eneshecan.WhatsAppForLinux.svg',
+        'com.github.xeco23.WasIstLos.svg',
+        'io.bit3.WhatsAppQT.svg',
+        'io.github.mimbrero.WhatsAppDesktop.svg',
+        'whatsapp-desktop.svg',
+        'whatsapp-for-linux.svg',
+        'whatsapp-nativefier.svg',
+        'whatsdesk.svg',
     ],
     'postman.svg': [
         'com.getpostman.Postman.svg',

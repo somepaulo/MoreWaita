@@ -58,7 +58,6 @@ regular_files = [
     'code-oss-symbolic.svg',
     'codeblocks-symbolic.svg',
     'com.fender.studio-symbolic.svg',
-    'com.github.eneshecan.WhatsAppForLinux-symbolic.svg',
     'com.github.rafostar.Clapper-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
     'com.tonikelope.MegaBasterd-symbolic.svg',
@@ -393,6 +392,7 @@ regular_files = [
     'webstorm-symbolic.svg',
     'wezterm-symbolic.svg',
     'whatsapp-business-symbolic.svg',
+    'whatsapp-symbolic.svg',
     'windscribe-symbolic.svg',
     'wireshark-symbolic.svg',
     'wonderpen-symbolic.svg',
@@ -465,16 +465,6 @@ link_files = {
         'libreoffice7.6-startcenter-symbolic.svg',
         'org.libreoffice.LibreOffice.main-symbolic.svg',
         'org.libreoffice.LibreOffice.startcenter-symbolic.svg',
-    ],
-    'com.github.eneshecan.WhatsAppForLinux-symbolic.svg': [
-        'com.gigitux.gtkwhats-symbolic.svg',
-        'io.bit3.WhatsAppQT-symbolic.svg',
-        'io.github.mimbrero.WhatsAppDesktop-symbolic.svg',
-        'whatsapp-desktop-symbolic.svg',
-        'whatsapp-for-linux-symbolic.svg',
-        'whatsapp-nativefier-symbolic.svg',
-        'whatsapp-symbolic.svg',
-        'whatsdesk-symbolic.svg',
     ],
     'discord-symbolic.svg': [
         'com.discordapp.Discord-symbolic.svg',
@@ -1462,9 +1452,6 @@ link_files = {
     'lunacy-symbolic.svg': [
         'com.icons8.Lunacy-symbolic.svg',
     ],
-    'whatsapp-symbolic.svg': [
-        'com.github.xeco23.WasIstLos-symbolic.svg',
-    ],
     'tor-browser-symbolic.svg': [
         'com.github.micahflee.torbrowser-launcher-symbolic.svg',
         'org.torproject.torbrowser-launcher-symbolic.svg',
@@ -1492,6 +1479,17 @@ link_files = {
     'ungoogled-chromium-symbolic.svg': [
         'com.github.Eloston.UngoogledChromium-symbolic.svg',
         'io.github.ungoogled_software.ungoogled_chromium-symbolic.svg',
+    ],
+    'whatsapp-symbolic.svg': [
+        'com.gigitux.gtkwhats-symbolic.svg',
+        'com.github.eneshecan.WhatsAppForLinux-symbolic.svg',
+        'com.github.xeco23.WasIstLos-symbolic.svg',
+        'io.bit3.WhatsAppQT-symbolic.svg',
+        'io.github.mimbrero.WhatsAppDesktop-symbolic.svg',
+        'whatsapp-desktop-symbolic.svg',
+        'whatsapp-for-linux-symbolic.svg',
+        'whatsapp-nativefier-symbolic.svg',
+        'whatsdesk-symbolic.svg',
     ],
     'mailspring-symbolic.svg': [
         'com.getmailspring.Mailspring-symbolic.svg',
