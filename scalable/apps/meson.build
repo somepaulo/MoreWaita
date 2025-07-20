@@ -119,6 +119,9 @@ regular_files = [
     'frappe-books.svg',
     'freac.svg',
     'freecad.svg',
+    'freeciv-client.svg',
+    'freeciv-modpack.svg',
+    'freeciv-server.svg',
     'freedroidrpg.svg',
     'freetube.svg',
     'fuse-emulator.svg',
@@ -1239,6 +1242,19 @@ link_files = {
     'freetube.svg': [
         'freetube-bin.svg',
         'io.freetubeapp.FreeTube.svg',
+    ],
+    'freeciv-server.svg': [
+        'freeciv21-server.svg',
+    ],
+    'freeciv-modpack.svg': [
+        'freeciv21-modpack.svg',
+    ],
+    'freeciv-client.svg': [
+        'freeciv21-client.svg',
+        'org.freeciv.gtk322.svg',
+        'org.freeciv.gtk4.svg',
+        'org.freeciv.qt.svg',
+        'org.freeciv.sdl2.svg',
     ],
     'freecad.svg': [
         'freecad-daily.svg',

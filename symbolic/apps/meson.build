@@ -110,6 +110,9 @@ regular_files = [
     'frappe-books-symbolic.svg',
     'freac-symbolic.svg',
     'freecad-symbolic.svg',
+    'freeciv-client-symbolic.svg',
+    'freeciv-modpack-symbolic.svg',
+    'freeciv-server-symbolic.svg',
     'freedroidrpg-symbolic.svg',
     'freetube-symbolic.svg',
     'fuse-emulator-symbolic.svg',
@@ -1194,6 +1197,19 @@ link_files = {
     'freetube-symbolic.svg': [
         'freetube-bin-symbolic.svg',
         'io.freetubeapp.FreeTube-symbolic.svg',
+    ],
+    'freeciv-server-symbolic.svg': [
+        'freeciv21-server-symbolic.svg',
+    ],
+    'freeciv-modpack-symbolic.svg': [
+        'freeciv21-modpack-symbolic.svg',
+    ],
+    'freeciv-client-symbolic.svg': [
+        'freeciv21-client-symbolic.svg',
+        'org.freeciv.gtk322-symbolic.svg',
+        'org.freeciv.gtk4-symbolic.svg',
+        'org.freeciv.qt-symbolic.svg',
+        'org.freeciv.sdl2-symbolic.svg',
     ],
     'freecad-symbolic.svg': [
         'freecad-daily-symbolic.svg',
