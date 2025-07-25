@@ -210,6 +210,7 @@ regular_files = [
     'lutris-symbolic.svg',
     'lvim-symbolic.svg',
     'mailspring-symbolic.svg',
+    'mangojuice-symbolic.svg',
     'maple-symbolic.svg',
     'materialgram-symbolic.svg',
     'mathematica-symbolic.svg',
@@ -1064,6 +1065,9 @@ link_files = {
     ],
     'osmscout-server-symbolic.svg': [
         'io.github.rinigus.OSMScoutServer-symbolic.svg',
+    ],
+    'mangojuice-symbolic.svg': [
+        'io.github.radiolamp.mangojuice-symbolic.svg',
     ],
     'qucs-s-symbolic.svg': [
         'io.github.ra3xdh.qucs_s-symbolic.svg',

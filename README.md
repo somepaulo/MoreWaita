@@ -244,8 +244,9 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/lvim.svg "LunarVim")
 ![icon](./scalable/apps/lutris.svg "Lutris")
 ![icon](./scalable/apps/mailspring.svg "Mailspring")
+![icon](./scalable/apps/mangojuice.svg "Mango Juice")
 ![icon](./scalable/apps/maple.svg "Maple")
-![icon](./scalable/apps/materialgram.svg "Maple")
+![icon](./scalable/apps/materialgram.svg "Materialgram")
 ![icon](./scalable/apps/mathematica.svg "Mathematica")
 ![icon](./scalable/apps/matlab.svg "Matlab")
 ![icon](./scalable/apps/mattermost.svg "Mattermost")
@@ -909,7 +910,7 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 5. Navigate to the MoreWaita installation folder and into the `places` subfolder (typically `/usr/share/icons/MoreWaita/scalable/places/`).
 6. Select the icon you wish to use.
 7. Click `Select`.
-8. Follow the same procedure to choose a different icon or click the _'Remove Custom Icon'_ badge to revert the icon to the default in step 4.  
+8. Follow the same procedure to choose a different icon or click the _'Remove Custom Icon'_ badge to revert the icon to the default in step 4.
 ![Screenshot From 2024-11-15 02-34-56](https://github.com/user-attachments/assets/a21e270d-b75e-4bf3-85d2-c3bc47b769ce)
 
 ### CLI method
@@ -921,7 +922,7 @@ If you need to assign the icons using the CLI you have to use the GIO command-li
     ```sh
     gio set $HOME/Projects metadata::custom-icon-name "folder-projects"
     ```
-    
+
 <sup>_*This will persist the custom icon across themes as long as they provide an icon with the same name._</sup>
 
 - You can confirm the change showing the `custom-icon-name` attribute with:

@@ -227,6 +227,7 @@ regular_files = [
     'lutris.svg',
     'lvim.svg',
     'mailspring.svg',
+    'mangojuice.svg',
     'maple.svg',
     'materialgram.svg',
     'mathematica.svg',
@@ -1105,6 +1106,9 @@ link_files = {
     ],
     'osmscout-server.svg': [
         'io.github.rinigus.OSMScoutServer.svg',
+    ],
+    'mangojuice.svg': [
+        'io.github.radiolamp.mangojuice.svg',
     ],
     'qucs-s.svg': [
         'io.github.ra3xdh.qucs_s.svg',
