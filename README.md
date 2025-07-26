@@ -597,6 +597,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/text-x-typescript.svg "TypeScript")
 ![icon](./scalable/mimetypes/text-x-typst.svg "Typst")
 ![icon](./scalable/mimetypes/text-x-vala.svg "Vala")
+![icon](./scalable/mimetypes/text-x-zig.svg "Zig")
 ![icon](./scalable/mimetypes/application-xml.svg "XML")
 ![icon](./scalable/mimetypes/application-x-xopp.svg "xApp")
 ![icon](./scalable/mimetypes/application-x-yaml.svg "YAML")

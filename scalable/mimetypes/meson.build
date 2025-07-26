@@ -133,6 +133,7 @@ regular_files = [
     'text-x-typescript.svg',
     'text-x-typst.svg',
     'text-x-vala.svg',
+    'text-x-zig.svg',
     'virtualbox-hdd.svg',
     'virtualbox-ova.svg',
     'virtualbox-ovf.svg',
