@@ -205,6 +205,7 @@ regular_files = [
     'lazpaint.svg',
     'leocad.svg',
     'libre-menu-editor.svg',
+    'librecad.svg',
     'libreoffice-base.svg',
     'libreoffice-basic.svg',
     'libreoffice-calc.svg',
@@ -667,6 +668,9 @@ link_files = {
     ],
     'localsend.svg': [
         'org.localsend.localsend_app.svg',
+    ],
+    'librecad.svg': [
+        'org.librecad.librecad.svg',
     ],
     'leocad.svg': [
         'org.leocad.LeoCAD.svg',

@@ -222,6 +222,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/lazarus.svg "Lazarus")
 ![icon](./scalable/apps/lazpaint.svg "Lazpaint")
 ![icon](./scalable/apps/leocad.svg "LeoCAD")
+![icon](./scalable/apps/librecad.svg "LibreCAD")
 ![icon](./scalable/apps/libre-menu-editor.svg "Libre Menu Editor")
 ![icon](./scalable/apps/libreoffice-writer.svg "LibreOffice Writer")
 ![icon](./scalable/apps/libreoffice-calc.svg "LibreOffice Calc")
