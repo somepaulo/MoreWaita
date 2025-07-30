@@ -256,6 +256,7 @@ regular_files = [
     'mumble.svg',
     'musescore.svg',
     'n-trackstudio.svg',
+    'nelson.svg',
     'neovide.svg',
     'net.gpro.gproapp.svg',
     'net.kuribo64.melonDS.svg',
@@ -1129,6 +1130,10 @@ link_files = {
     ],
     'sysd-manager.svg': [
         'io.github.plrigaux.sysd-manager.svg',
+    ],
+    'nelson.svg': [
+        'io.github.nelson_lang.Nelson.svg',
+        'nelson-desktop.svg',
     ],
     'gimagereader.svg': [
         'io.github.manisandro.gImageReader.svg',

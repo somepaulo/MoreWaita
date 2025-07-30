@@ -276,6 +276,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/mpv.svg "mpv")
 ![icon](./scalable/apps/mumble.svg "Mumble")
 ![icon](./scalable/apps/musescore.svg "Musescore")
+![icon](./scalable/apps/nelson.svg "Nelson")
 ![icon](./scalable/apps/neovide.svg "Neovide")
 ![icon](./scalable/apps/nvim.svg "Neovim")
 ![icon](./scalable/apps/netbeans.svg "NetBeans")

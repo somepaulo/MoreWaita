@@ -237,6 +237,7 @@ regular_files = [
     'mumble-symbolic.svg',
     'musescore-symbolic.svg',
     'n-trackstudio-symbolic.svg',
+    'nelson-symbolic.svg',
     'neovide-symbolic.svg',
     'net.gpro.gproapp-symbolic.svg',
     'net.kuribo64.melonDS-symbolic.svg',
@@ -1088,6 +1089,10 @@ link_files = {
     ],
     'sysd-manager-symbolic.svg': [
         'io.github.plrigaux.sysd-manager-symbolic.svg',
+    ],
+    'nelson-symbolic.svg': [
+        'io.github.nelson_lang.Nelson-symbolic.svg',
+        'nelson-desktop-symbolic.svg',
     ],
     'gimagereader-symbolic.svg': [
         'io.github.manisandro.gImageReader-symbolic.svg',
