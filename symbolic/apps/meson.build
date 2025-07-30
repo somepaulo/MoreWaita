@@ -204,6 +204,7 @@ regular_files = [
     'lightworks-symbolic.svg',
     'linguist-symbolic.svg',
     'linux-assistant-symbolic.svg',
+    'linuxthemestore-symbolic.svg',
     'localsend-symbolic.svg',
     'logseq-symbolic.svg',
     'lpub3d-symbolic.svg',
@@ -1108,6 +1109,9 @@ link_files = {
     ],
     'coppwr-symbolic.svg': [
         'io.github.dimtpap.coppwr-symbolic.svg',
+    ],
+    'linuxthemestore-symbolic.svg': [
+        'io.github.debasish_patra_1987.linuxthemestore-symbolic.svg',
     ],
     'cudatext-512-symbolic.svg': [
         'io.github.cudatext.CudaText-Qt-symbolic.svg',

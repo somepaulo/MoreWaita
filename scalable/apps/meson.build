@@ -221,6 +221,7 @@ regular_files = [
     'lightworks.svg',
     'linguist.svg',
     'linux-assistant.svg',
+    'linuxthemestore.svg',
     'localsend.svg',
     'logseq.svg',
     'lpub3d.svg',
@@ -1149,6 +1150,9 @@ link_files = {
     ],
     'coppwr.svg': [
         'io.github.dimtpap.coppwr.svg',
+    ],
+    'linuxthemestore.svg': [
+        'io.github.debasish_patra_1987.linuxthemestore.svg',
     ],
     'cudatext-512.svg': [
         'io.github.cudatext.CudaText-Qt.svg',

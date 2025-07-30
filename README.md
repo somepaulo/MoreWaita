@@ -238,6 +238,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/liferea.svg "Liferea")
 ![icon](./scalable/apps/lightworks.svg "Lightworks")
 ![icon](./scalable/apps/linux-assistant.svg "Linux-Assistant")
+![icon](./scalable/apps/linuxthemestore.svg "Linux Theme Store")
 ![icon](./scalable/apps/localsend.svg "LocalSend")
 ![icon](./scalable/apps/logseq.svg "Logseq")
 ![icon](./scalable/apps/lpub3d.svg "LPub3D")
