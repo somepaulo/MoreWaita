@@ -162,6 +162,7 @@ regular_files = [
     'io.element.Element-symbolic.svg',
     'io.github.pieterdd.RcloneShuttle-symbolic.svg',
     'io.github.tobagin.karere-symbolic.svg',
+    'jasp-symbolic.svg',
     'java-openjdk-symbolic.svg',
     'jdownloader-symbolic.svg',
     'jellyfin-symbolic.svg',
@@ -1033,6 +1034,10 @@ link_files = {
     ],
     'julia-symbolic.svg': [
         'juliabackend-symbolic.svg',
+    ],
+    'jasp-symbolic.svg': [
+        'jasp-desktop-symbolic.svg',
+        'org.jaspstats.JASP-symbolic.svg',
     ],
     'nvim-symbolic.svg': [
         'io.neovim.nvim-symbolic.svg',

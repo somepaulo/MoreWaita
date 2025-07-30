@@ -177,6 +177,7 @@ regular_files = [
     'io.github.quodlibet.ExFalso.svg',
     'io.github.quodlibet.QuodLibet.svg',
     'io.github.tobagin.karere.svg',
+    'jasp.svg',
     'java-openjdk.svg',
     'jdownloader.svg',
     'jellyfin.svg',
@@ -1070,6 +1071,10 @@ link_files = {
     ],
     'jockey.svg': [
         'jockey-kde.svg',
+    ],
+    'jasp.svg': [
+        'jasp-desktop.svg',
+        'org.jaspstats.JASP.svg',
     ],
     'nvim.svg': [
         'io.neovim.nvim.svg',

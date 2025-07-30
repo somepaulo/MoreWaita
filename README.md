@@ -182,6 +182,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/input-remapper.svg "Input Remapper")
 ![icon](./scalable/apps/insomnia.svg "Insomnia")
 ![icon](./scalable/apps/interstellar.svg "Interstellar")
+![icon](./scalable/apps/jasp.svg "JASP")
 ![icon](./scalable/apps/java-openjdk.svg "Java")
 ![icon](./scalable/apps/jdownloader.svg "JDownloader")
 ![icon](./scalable/apps/jellyfin.svg "Jellyfin Media Player")
