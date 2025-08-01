@@ -316,6 +316,7 @@ regular_files = [
     'popcorntime.svg',
     'portmaster.svg',
     'postman.svg',
+    'ppsspp.svg',
     'prismlauncher.svg',
     'projectM.svg',
     'proton-authenticator.svg',
@@ -647,6 +648,9 @@ link_files = {
     ],
     'prismlauncher.svg': [
         'org.prismlauncher.PrismLauncher.svg',
+    ],
+    'ppsspp.svg': [
+        'org.ppsspp.PPSSPP.svg',
     ],
     'josm.svg': [
         'org.openstreetmap.josm.svg',

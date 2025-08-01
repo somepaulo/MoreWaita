@@ -328,6 +328,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/portmaster.svg "Portmaster")
 ![icon](./scalable/apps/postman.svg "Postman")
 ![icon](./scalable/apps/org.gnome.PowerStats.svg "Power Statistics")
+![icon](./scalable/apps/ppsspp.svg "PPSSPP")
 ![icon](./scalable/apps/prismlauncher.svg "Prism Launcher")
 ![icon](./scalable/apps/projectM.svg "projectM")
 ![icon](./scalable/apps/proton-authenticator.svg "Proton Authenticator")

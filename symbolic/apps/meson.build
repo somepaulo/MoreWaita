@@ -292,6 +292,7 @@ regular_files = [
     'popcorntime-symbolic.svg',
     'portmaster-symbolic.svg',
     'postman-symbolic.svg',
+    'ppsspp-symbolic.svg',
     'prismlauncher-symbolic.svg',
     'projectM-symbolic.svg',
     'proton-authenticator-symbolic.svg',
@@ -616,6 +617,9 @@ link_files = {
     ],
     'prismlauncher-symbolic.svg': [
         'org.prismlauncher.PrismLauncher-symbolic.svg',
+    ],
+    'ppsspp-symbolic.svg': [
+        'org.ppsspp.PPSSPP-symbolic.svg',
     ],
     'josm-symbolic.svg': [
         'org.openstreetmap.josm-symbolic.svg',
