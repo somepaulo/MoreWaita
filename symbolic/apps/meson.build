@@ -294,6 +294,7 @@ regular_files = [
     'postman-symbolic.svg',
     'prismlauncher-symbolic.svg',
     'projectM-symbolic.svg',
+    'proton-authenticator-symbolic.svg',
     'proton-mail-symbolic.svg',
     'proton-pass-symbolic.svg',
     'protonmail-bridge-symbolic.svg',
