@@ -53,6 +53,7 @@ regular_files = [
     'cinecred-symbolic.svg',
     'clamtk-symbolic.svg',
     'classicube-symbolic.svg',
+    'claudia-symbolic.svg',
     'clion-symbolic.svg',
     'cockos-reaper-symbolic.svg',
     'code-oss-symbolic.svg',

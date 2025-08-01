@@ -75,6 +75,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/de.leopoldluley.Clapgrep.svg "Clapgrep")
 ![icon](./scalable/apps/com.github.rafostar.Clapper.svg "Clapper")
 ![icon](./scalable/apps/classicube.svg "ClassiCube")
+![icon](./scalable/apps/claudia.svg "Claudia")
 ![icon](./scalable/apps/CMakeSetup.svg "CMake Setup")
 ![icon](./scalable/apps/org.cockpit_project.CockpitClient.svg "Cockpit Client")
 ![icon](./scalable/apps/codeblocks.svg "Code::Blocks")

@@ -59,6 +59,7 @@ regular_files = [
     'cinecred.svg',
     'clamtk.svg',
     'classicube.svg',
+    'claudia.svg',
     'clion.svg',
     'cockos-reaper.svg',
     'code-oss.svg',
