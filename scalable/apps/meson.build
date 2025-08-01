@@ -414,6 +414,7 @@ regular_files = [
     'via-nativia.svg',
     'viber.svg',
     'vim.svg',
+    'vipsdisp.svg',
     'virt-manager.svg',
     'virtualbox.svg',
     'visual-studio-code.svg',
@@ -672,6 +673,9 @@ link_files = {
     ],
     'localsend.svg': [
         'org.localsend.localsend_app.svg',
+    ],
+    'vipsdisp.svg': [
+        'org.libvips.vipsdisp.svg',
     ],
     'librecad.svg': [
         'org.librecad.librecad.svg',

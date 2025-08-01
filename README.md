@@ -434,6 +434,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/via-nativia.svg "VIA")
 ![icon](./scalable/apps/viber.svg "Viber")
 ![icon](./scalable/apps/vim.svg "Vim")
+![icon](./scalable/apps/vipsdisp.svg "Vipsdisp")
 ![icon](./scalable/apps/virtualbox.svg "VirtualBox")
 ![icon](./scalable/apps/virt-manager.svg "Virtual Machine Manager")
 ![icon](./scalable/apps/visual-studio-code.svg "Visual Studio Code")

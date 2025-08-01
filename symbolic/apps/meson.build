@@ -386,6 +386,7 @@ regular_files = [
     'via-nativia-symbolic.svg',
     'viber-symbolic.svg',
     'vim-symbolic.svg',
+    'vipsdisp-symbolic.svg',
     'virt-manager-symbolic.svg',
     'virtualbox-symbolic.svg',
     'visual-studio-code-symbolic.svg',
@@ -641,6 +642,9 @@ link_files = {
     ],
     'localsend-symbolic.svg': [
         'org.localsend.localsend_app-symbolic.svg',
+    ],
+    'vipsdisp-symbolic.svg': [
+        'org.libvips.vipsdisp-symbolic.svg',
     ],
     'librecad-symbolic.svg': [
         'org.librecad.librecad-symbolic.svg',
