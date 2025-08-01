@@ -280,6 +280,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/neovide.svg "Neovide")
 ![icon](./scalable/apps/nvim.svg "Neovim")
 ![icon](./scalable/apps/netbeans.svg "NetBeans")
+![icon](./scalable/apps/netpeek.svg "NetPeek")
 ![icon](./scalable/apps/gnome-nettool.svg "Network Tools")
 ![icon](./scalable/apps/network-wired.svg "Network Wired")
 ![icon](./scalable/apps/nextcloud.svg "NextCloud")

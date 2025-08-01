@@ -262,6 +262,7 @@ regular_files = [
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',
     'netbeans.svg',
+    'netpeek.svg',
     'network-wired.svg',
     'nextcloud.svg',
     'nheko.svg',
@@ -1091,6 +1092,9 @@ link_files = {
     ],
     'headlines.svg': [
         'io.gitlab.caveman250.headlines.svg',
+    ],
+    'netpeek.svg': [
+        'io.github.zingytomato.netpeek.svg',
     ],
     'unciv.svg': [
         'io.github.yairm210.unciv.svg',

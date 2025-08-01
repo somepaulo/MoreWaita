@@ -243,6 +243,7 @@ regular_files = [
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
     'netbeans-symbolic.svg',
+    'netpeek-symbolic.svg',
     'nextcloud-symbolic.svg',
     'nheko-symbolic.svg',
     'nicotine-plus-symbolic.svg',
@@ -1050,6 +1051,9 @@ link_files = {
     ],
     'headlines-symbolic.svg': [
         'io.gitlab.caveman250.headlines-symbolic.svg',
+    ],
+    'netpeek-symbolic.svg': [
+        'io.github.zingytomato.netpeek-symbolic.svg',
     ],
     'unciv-symbolic.svg': [
         'io.github.yairm210.unciv-symbolic.svg',
