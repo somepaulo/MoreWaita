@@ -399,6 +399,7 @@ regular_files = [
     'vlc-symbolic.svg',
     'vmware-workstation-symbolic.svg',
     'vscodium-symbolic.svg',
+    'warp-terminal-symbolic.svg',
     'warpinator-symbolic.svg',
     'waterfox-symbolic.svg',
     'waydroid-symbolic.svg',
@@ -1318,6 +1319,9 @@ link_files = {
         'dev.zed.Zed-Preview-symbolic.svg',
         'dev.zed.Zed-symbolic.svg',
         'zed-preview-symbolic.svg',
+    ],
+    'warp-terminal-symbolic.svg': [
+        'dev.warp.Warp-symbolic.svg',
     ],
     'vesktop-symbolic.svg': [
         'dev.vencord.Vesktop-symbolic.svg',

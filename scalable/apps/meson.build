@@ -427,6 +427,7 @@ regular_files = [
     'vlc.svg',
     'vmware-workstation.svg',
     'vscodium.svg',
+    'warp-terminal.svg',
     'warpinator.svg',
     'waterfox.svg',
     'waydroid.svg',
@@ -1367,6 +1368,9 @@ link_files = {
     ],
     'zed-preview.svg': [
         'dev.zed.Zed-Preview.svg',
+    ],
+    'warp-terminal.svg': [
+        'dev.warp.Warp.svg',
     ],
     'vesktop.svg': [
         'dev.vencord.Vesktop.svg',
