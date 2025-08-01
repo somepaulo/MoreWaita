@@ -339,6 +339,7 @@ regular_files = [
     'saber-symbolic.svg',
     'scrcpy-symbolic.svg',
     'scribus-symbolic.svg',
+    'scummvm-symbolic.svg',
     'seabird-symbolic.svg',
     'session-desktop-symbolic.svg',
     'setzer-symbolic.svg',
@@ -589,6 +590,9 @@ link_files = {
     ],
     'shotcut-symbolic.svg': [
         'org.shotcut.Shotcut-symbolic.svg',
+    ],
+    'scummvm-symbolic.svg': [
+        'org.scummvm.ScummVM-symbolic.svg',
     ],
     'qtractor-symbolic.svg': [
         'org.rncbc.qtractor-symbolic.svg',

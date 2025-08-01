@@ -363,6 +363,7 @@ regular_files = [
     'saber.svg',
     'scrcpy.svg',
     'scribus.svg',
+    'scummvm.svg',
     'seabird.svg',
     'session-desktop.svg',
     'setzer.svg',
@@ -620,6 +621,9 @@ link_files = {
     ],
     'shotcut.svg': [
         'org.shotcut.Shotcut.svg',
+    ],
+    'scummvm.svg': [
+        'org.scummvm.ScummVM.svg',
     ],
     'qtractor.svg': [
         'org.rncbc.qtractor.svg',
