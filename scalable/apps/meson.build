@@ -371,6 +371,7 @@ regular_files = [
     'signal-desktop.svg',
     'sioyek.svg',
     'slack.svg',
+    'sober.svg',
     'solaar.svg',
     'sonar.svg',
     'sound-juicer.svg',
@@ -582,6 +583,9 @@ link_files = {
     ],
     'virt-manager.svg': [
         'org.virt_manager.virt-manager.svg',
+    ],
+    'sober.svg': [
+        'org.vinegarhq.Sober.svg',
     ],
     'vlc.svg': [
         'org.videolan.VLC.svg',
