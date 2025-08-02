@@ -87,6 +87,7 @@ regular_files = [
     'dropbox-symbolic.svg',
     'dune3d-symbolic.svg',
     'eclipse-symbolic.svg',
+    'ecode-symbolic.svg',
     'electron-symbolic.svg',
     'electrum-symbolic.svg',
     'emacs-symbolic.svg',
@@ -1346,6 +1347,9 @@ link_files = {
     ],
     'lapce-symbolic.svg': [
         'dev.lapce.lapce-symbolic.svg',
+    ],
+    'ecode-symbolic.svg': [
+        'dev.ensoft.ecode-symbolic.svg',
     ],
     'deezer-symbolic.svg': [
         'dev.aunetx.deezer-symbolic.svg',

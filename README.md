@@ -103,6 +103,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/dropbox.svg "Dropbox")
 ![icon](./scalable/apps/dune3d.svg "Dune3D")
 ![icon](./scalable/apps/eclipse.svg "Eclipse")
+![icon](./scalable/apps/ecode.svg "ecode")
 ![icon](./scalable/apps/electron.svg "Electron")
 ![icon](./scalable/apps/electrum.svg "Electrum")
 ![icon](./scalable/apps/io.element.Element.svg "Element")

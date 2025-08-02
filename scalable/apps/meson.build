@@ -94,6 +94,7 @@ regular_files = [
     'dropbox.svg',
     'dune3d.svg',
     'eclipse.svg',
+    'ecode.svg',
     'electron.svg',
     'electrum.svg',
     'emacs.svg',
@@ -1395,6 +1396,9 @@ link_files = {
     ],
     'lapce.svg': [
         'dev.lapce.lapce.svg',
+    ],
+    'ecode.svg': [
+        'dev.ensoft.ecode.svg',
     ],
     'deezer.svg': [
         'dev.aunetx.deezer.svg',
