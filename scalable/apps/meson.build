@@ -57,6 +57,7 @@ regular_files = [
     'chromium-browser.svg',
     'cider.svg',
     'cinecred.svg',
+    'ckb-next.svg',
     'clamtk.svg',
     'classicube.svg',
     'claudia.svg',

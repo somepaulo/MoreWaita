@@ -51,6 +51,7 @@ regular_files = [
     'cherry-studio-symbolic.svg',
     'cider-symbolic.svg',
     'cinecred-symbolic.svg',
+    'ckb-next-symbolic.svg',
     'clamtk-symbolic.svg',
     'classicube-symbolic.svg',
     'claudia-symbolic.svg',
