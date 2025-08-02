@@ -1,4 +1,4 @@
-![showcase](https://repository-images.githubusercontent.com/543632052/bb450f13-02a5-4174-91a3-7cc125654473)
+![showcase](https://repository-images.githubusercontent.com/543632052/530a35dc-86c3-4e24-9fec-fd972d5d577d)
 
 # MoreWaita
 
@@ -129,7 +129,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/flowblade.svg "Flowblade")
 ![icon](./scalable/apps/foobar2000.svg "Foobar 2000")
 ![icon](./scalable/apps/foot.svg "Foot")
-![icon](./scalable/apps/fooyin.svg "fooyin")
+![icon](./scalable/apps/fooyin.svg "fooyin") 0 5 37 39 42 59 61 64 96 1
 ![icon](./scalable/apps/frappe-books.svg "Frappe Books")
 ![icon](./scalable/apps/freac.svg "Fre:ac")
 ![icon](./scalable/apps/freecad.svg "FreeCAD")

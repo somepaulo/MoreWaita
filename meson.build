@@ -1,7 +1,4 @@
-project('morewaita',
-        version : '48.3.1',
-  meson_version : '>= 0.61.0'
-)
+project('morewaita', version: '48.4', meson_version: '>= 0.61.0')
 
 iconsdir = join_paths(get_option('prefix'), get_option('datadir'), 'icons', 'MoreWaita')
 
