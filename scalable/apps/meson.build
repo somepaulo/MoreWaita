@@ -117,6 +117,7 @@ regular_files = [
     'flowblade.svg',
     'foobar2000.svg',
     'foot.svg',
+    'fooyin.svg',
     'fr.handbrake.ghb.svg',
     'frappe-books.svg',
     'freac.svg',
@@ -743,6 +744,10 @@ link_files = {
     ],
     'geany.svg': [
         'org.geany.Geany.svg',
+    ],
+    'fooyin.svg': [
+        'org.fooyin.fooyin.svg',
+        'sc-fooyin.svg',
     ],
     'flightgear.svg': [
         'org.flightgear.FlightGear.svg',

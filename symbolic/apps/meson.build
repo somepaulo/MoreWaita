@@ -108,6 +108,7 @@ regular_files = [
     'flowblade-symbolic.svg',
     'foobar2000-symbolic.svg',
     'foot-symbolic.svg',
+    'fooyin-symbolic.svg',
     'fr.handbrake.ghb-symbolic.svg',
     'frappe-books-symbolic.svg',
     'freac-symbolic.svg',
@@ -712,6 +713,10 @@ link_files = {
     ],
     'geany-symbolic.svg': [
         'org.geany.Geany-symbolic.svg',
+    ],
+    'fooyin-symbolic.svg': [
+        'org.fooyin.fooyin-symbolic.svg',
+        'sc-fooyin-symbolic.svg',
     ],
     'flightgear-symbolic.svg': [
         'org.flightgear.FlightGear-symbolic.svg',
