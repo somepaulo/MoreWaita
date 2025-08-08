@@ -159,6 +159,10 @@ link_files = {
     'folder-onedrive-symbolic.svg': [
         'folder-onedrive-legacy-symbolic.svg',
     ],
+    '../apps/obs-symbolic.svg': [
+        'folder-obs-legacy-symbolic.svg',
+        'folder-obs-symbolic.svg',
+    ],
     'folder-nix-symbolic.svg': [
         'folder-nix-legacy-symbolic.svg',
     ],
