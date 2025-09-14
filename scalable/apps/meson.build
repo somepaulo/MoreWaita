@@ -451,6 +451,7 @@ regular_files = [
     'xonotic.svg',
     'xsane.svg',
     'yandex-browser.svg',
+    'youtube.svg',
     'youtube-music.svg',
     'yuzu.svg',
     'zaproxy.svg',
@@ -2123,6 +2124,12 @@ link_files = {
     'stardew-valley.svg': [
         'lutris_stardew-valley.svg',
         'steam_icon_413150.svg',
+    ],
+    'youtube.svg': [
+        'chrome-agimnkijcaahngcdmfeangaknmldooml-Default.svg',
+        'chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default.svg',
+        'eu.tiliado.NuvolaAppYoutube.svg',
+        'nuvolaplayer3_youtube.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
