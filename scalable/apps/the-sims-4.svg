@@ -4,7 +4,7 @@
 <svg
    width="128"
    height="128"
-   viewBox="0 0 33.866666 33.866666"
+   viewBox="0 0 128 128"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
@@ -23,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      inkscape:zoom="6.2265625"
      inkscape:cx="64"
      inkscape:cy="64"
@@ -60,21 +60,23 @@
        xlink:href="#linearGradient3"
        id="linearGradient4"
        x1="1.0583333"
-       y1="17.462499"
+       y1="17.4625"
        x2="32.808334"
-       y2="17.462499"
-       gradientUnits="userSpaceOnUse" />
+       y2="17.4625"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(3.7795274)" />
   </defs>
   <path
-     d="m 32.808334,17.462505 v 0 c 0,-8.6414816 -7.087054,-15.6104217 -15.875002,-15.6104217 v 0 c -8.7879456,0 -15.8749987,6.9689401 -15.8749987,15.6104217 v 0 c 0,8.64148 7.0870531,15.61041 15.8749987,15.61041 v 0 c 8.787948,0 15.875002,-6.96893 15.875002,-15.61041 z"
-     style="fill:url(#linearGradient4);stroke-width:0.562218"
+     d="m 124,66.000017 v 0 C 124,33.339299 97.214285,6.9999997 63.999994,6.9999997 v 0 C 30.785711,6.9999997 4,33.339299 4,66.000017 v 0 c 0,32.660711 26.785711,58.999973 59.999994,58.999973 v 0 C 97.214285,124.99999 124,98.660728 124,66.000017 Z"
+     style="fill:url(#linearGradient4);stroke-width:2.12492"
      id="path1" />
   <path
-     d="m 32.808333,16.404167 v 0 c 0,-8.6414809 -7.087055,-15.610417 -15.875,-15.610417 v 0 c -8.7879464,0 -15.8749997,6.9689361 -15.8749997,15.610417 v 0 c 0,8.64148 7.0870533,15.610416 15.8749997,15.610416 v 0 c 8.787945,0 15.875,-6.968936 15.875,-15.610416 z"
-     style="fill:#ececec;fill-opacity:1;stroke-width:0.562218"
+     d="m 124,61.999999 v 0 C 124,29.339285 97.214277,3 63.999998,3 V 3 C 30.785711,3 4,29.339285 4,61.999999 v 0 C 4,94.66071 30.785711,121 63.999998,121 v 0 C 97.214277,121 124,94.66071 124,61.999999 Z"
+     style="fill:#ececec;fill-opacity:1;stroke-width:2.12492"
      id="path2" />
   <g
-     id="g6">
+     id="g6"
+     transform="scale(3.7795274)">
     <path
        id="path3"
        style="fill:#35b82a;fill-opacity:1;stroke-width:0.0303511"
