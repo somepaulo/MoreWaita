@@ -57,6 +57,7 @@ regular_files = [
     'chromium-browser.svg',
     'cider.svg',
     'cinecred.svg',
+    'cities-skylines-2.svg',
     'ckb-next.svg',
     'clamtk.svg',
     'classicube.svg',
@@ -192,6 +193,7 @@ regular_files = [
     'julia.svg',
     'julius.svg',
     'jupyter.svg',
+    'kakaotalk.svg',
     'kate.svg',
     'kdenlive.svg',
     'keepassxc.svg',
@@ -1693,6 +1695,10 @@ link_files = {
         'cherrystudio.svg',
         'com.cherry_ai.CherryStudio.svg',
     ],
+    'cities-skylines-2.svg': [
+        'lutris_cities-skylines-2.svg',
+        'steam_icon_949230.svg',
+    ],
     'chatterino.svg': [
         'chatterino2.svg',
         'com.chatterino.chatterino.svg',
@@ -2104,6 +2110,10 @@ link_files = {
     'alacritty.svg': [
         'Alacritty.svg',
         'com.alacritty.Alacritty.svg',
+    ],
+    'kakaotalk.svg': [
+        'E51E_KakaoTalk.0.svg',
+        'KakaoTalk.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

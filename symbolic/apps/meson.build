@@ -51,6 +51,7 @@ regular_files = [
     'cherry-studio-symbolic.svg',
     'cider-symbolic.svg',
     'cinecred-symbolic.svg',
+    'cities-skylines-2-symbolic.svg',
     'ckb-next-symbolic.svg',
     'clamtk-symbolic.svg',
     'classicube-symbolic.svg',
@@ -176,6 +177,7 @@ regular_files = [
     'julia-symbolic.svg',
     'julius-symbolic.svg',
     'jupyter-symbolic.svg',
+    'kakaotalk-symbolic.svg',
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
     'keepassxc-symbolic.svg',
@@ -629,6 +631,10 @@ link_files = {
     ],
     'ppsspp-symbolic.svg': [
         'org.ppsspp.PPSSPP-symbolic.svg',
+    ],
+    'cities-skylines-2-symbolic.svg': [
+        'lutris_cities-skylines-2-symbolic.svg',
+        'steam_icon_949230-symbolic.svg',
     ],
     'josm-symbolic.svg': [
         'org.openstreetmap.josm-symbolic.svg',
@@ -1977,6 +1983,10 @@ link_files = {
     'protonmail-bridge-symbolic.svg': [
         'ProtonMail_Bridge-symbolic.svg',
         'ch.protonmail.protonmail-bridge-symbolic.svg',
+    ],
+    'kakaotalk-symbolic.svg': [
+        'KakaoTalk-symbolic.svg',
+        'E51E_KakaoTalk.0-symbolic.svg',
     ],
     'openrgb-symbolic.svg': [
         'OpenRGB-symbolic.svg',
