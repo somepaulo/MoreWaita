@@ -1988,6 +1988,10 @@ link_files = {
         'KakaoTalk-symbolic.svg',
         'E51E_KakaoTalk.0-symbolic.svg',
     ],
+    'the-sims-4-symbolic.svg': [
+        'lutris_the-sims-4-symbolic.svg',
+        'steam_icon_1222670-symbolic.svg',
+    ],
     'openrgb-symbolic.svg': [
         'OpenRGB-symbolic.svg',
         'appimagekit-OpenRGB-symbolic.svg',

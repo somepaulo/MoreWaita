@@ -2115,6 +2115,10 @@ link_files = {
         'E51E_KakaoTalk.0.svg',
         'KakaoTalk.svg',
     ],
+    'the-sims-4.svg': [
+        'lutris_the-sims-4.svg',
+        'steam_icon_1222670.svg',
+    ],
     # DO NOT REMOVE: End of link segment
 }
 
