@@ -3,6 +3,7 @@ scalable_apps_iconsdir = join_paths(scalable_iconsdir, 'apps')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     '0ad.svg',
+    '1password.svg',
     'CMakeSetup.svg',
     'GPU_Viewer.svg',
     'GrandOrgue.svg',
@@ -1491,6 +1492,9 @@ link_files = {
     ],
     'opera.svg': [
         'com.opera.Opera.svg',
+    ],
+    '1password.svg': [
+        'com.onepassword.OnePassword.svg',
     ],
     'n-trackstudio.svg': [
         'com.ntrack.n-track.svg',
