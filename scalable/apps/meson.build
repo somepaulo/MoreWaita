@@ -389,6 +389,7 @@ regular_files = [
     'spyder.svg',
     'sqlitebrowser.svg',
     'standard-notes.svg',
+    'stardew-valley.svg',
     'steam-icon.svg',
     'stellarium.svg',
     'stoken-gui.svg',
@@ -2118,6 +2119,10 @@ link_files = {
     'the-sims-4.svg': [
         'lutris_the-sims-4.svg',
         'steam_icon_1222670.svg',
+    ],
+    'stardew-valley.svg': [
+        'lutris_stardew-valley.svg',
+        'steam_icon_413150.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

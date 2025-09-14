@@ -364,6 +364,7 @@ regular_files = [
     'spotify-symbolic.svg',
     'spyder-symbolic.svg',
     'standard-notes-symbolic.svg',
+    'stardew-valley-symbolic.svg',
     'steam-icon-symbolic.svg',
     'stellarium-symbolic.svg',
     'stoken-gui-symbolic.svg',
@@ -2056,6 +2057,10 @@ link_files = {
     'alacritty-symbolic.svg': [
         'Alacritty-symbolic.svg',
         'com.alacritty.Alacritty-symbolic.svg',
+    ],
+    'stardew-valley-symbolic.svg': [
+        'lutris_stardew-valley-symbolic.svg',
+        'steam_icon_413150-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
