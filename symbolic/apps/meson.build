@@ -393,6 +393,7 @@ regular_files = [
     'vesktop-symbolic.svg',
     'via-nativia-symbolic.svg',
     'viber-symbolic.svg',
+    'vice-symbolic.svg',
     'vim-symbolic.svg',
     'vipsdisp-symbolic.svg',
     'virt-manager-symbolic.svg',
@@ -818,6 +819,10 @@ link_files = {
     ],
     'liferea-symbolic.svg': [
         'net.sourceforge.liferea-symbolic.svg',
+    ],
+    'vice-symbolic.svg': [
+        'net.sf.VICE-symbolic.svg',
+        'vice-emu-symbolic.svg',
     ],
     'scribus-symbolic.svg': [
         'net.scribus.Scribus-symbolic.svg',
