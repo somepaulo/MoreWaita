@@ -367,6 +367,7 @@ regular_files = [
     'rustrover.svg',
     'ryujinx.svg',
     'saber.svg',
+    'sameboy.svg',
     'scrcpy.svg',
     'scribus.svg',
     'scummvm.svg',
@@ -2130,6 +2131,9 @@ link_files = {
         'chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default.svg',
         'eu.tiliado.NuvolaAppYoutube.svg',
         'nuvolaplayer3_youtube.svg',
+    ],
+    'sameboy.svg': [
+        'io.github.sameboy.SameBoy.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

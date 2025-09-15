@@ -2069,6 +2069,9 @@ link_files = {
         'eu.tiliado.NuvolaAppYoutube-symbolic.svg',
         'nuvolaplayer3_youtube-symbolic.svg',
     ],
+    'sameboy-symbolic.svg': [
+        'io.github.sameboy.SameBoy-symbolic.svg',
+    ],
     # DO NOT REMOVE: End of link segment
 }
 
