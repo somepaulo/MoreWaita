@@ -19,6 +19,7 @@ regular_files = [
     'folder-codeberg-symbolic.svg',
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
+    'folder-docker-symbolic.svg',
     'folder-earth-symbolic.svg',
     'folder-emacs-symbolic.svg',
     'folder-extensions-symbolic.svg',
@@ -238,6 +239,9 @@ link_files = {
     '../apps/dropbox-symbolic.svg': [
         'folder-dropbox-legacy-symbolic.svg',
         'folder-dropbox-symbolic.svg',
+    ],
+    'folder-docker-symbolic.svg': [
+        'folder-docker-legacy-symbolic.svg',
     ],
     'folder-csharp-symbolic.svg': [
         'folder-csharp-legacy-symbolic.svg',
