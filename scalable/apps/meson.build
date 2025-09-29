@@ -57,6 +57,7 @@ regular_files = [
     'chromium-browser.svg',
     'cider.svg',
     'cinecred.svg',
+    'cities-skylines-2.svg',
     'ckb-next.svg',
     'clamtk.svg',
     'classicube.svg',
@@ -191,6 +192,7 @@ regular_files = [
     'julia.svg',
     'julius.svg',
     'jupyter.svg',
+    'kakaotalk.svg',
     'kate.svg',
     'kdenlive.svg',
     'keepassxc.svg',
@@ -364,6 +366,7 @@ regular_files = [
     'rustrover.svg',
     'ryujinx.svg',
     'saber.svg',
+    'sameboy.svg',
     'scrcpy.svg',
     'scribus.svg',
     'scummvm.svg',
@@ -386,6 +389,7 @@ regular_files = [
     'spyder.svg',
     'sqlitebrowser.svg',
     'standard-notes.svg',
+    'stardew-valley.svg',
     'steam-icon.svg',
     'stellarium.svg',
     'stoken-gui.svg',
@@ -447,6 +451,7 @@ regular_files = [
     'xonotic.svg',
     'xsane.svg',
     'yandex-browser.svg',
+    'youtube.svg',
     'youtube-music.svg',
     'yuzu.svg',
     'zaproxy.svg',
@@ -1689,6 +1694,10 @@ link_files = {
         'cherrystudio.svg',
         'com.cherry_ai.CherryStudio.svg',
     ],
+    'cities-skylines-2.svg': [
+        'lutris_cities-skylines-2.svg',
+        'steam_icon_949230.svg',
+    ],
     'chatterino.svg': [
         'chatterino2.svg',
         'com.chatterino.chatterino.svg',
@@ -2100,6 +2109,27 @@ link_files = {
     'alacritty.svg': [
         'Alacritty.svg',
         'com.alacritty.Alacritty.svg',
+    ],
+    'kakaotalk.svg': [
+        'E51E_KakaoTalk.0.svg',
+        'KakaoTalk.svg',
+    ],
+    'the-sims-4.svg': [
+        'lutris_the-sims-4.svg',
+        'steam_icon_1222670.svg',
+    ],
+    'stardew-valley.svg': [
+        'lutris_stardew-valley.svg',
+        'steam_icon_413150.svg',
+    ],
+    'youtube.svg': [
+        'chrome-agimnkijcaahngcdmfeangaknmldooml-Default.svg',
+        'chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default.svg',
+        'eu.tiliado.NuvolaAppYoutube.svg',
+        'nuvolaplayer3_youtube.svg',
+    ],
+    'sameboy.svg': [
+        'io.github.sameboy.SameBoy.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

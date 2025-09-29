@@ -51,6 +51,7 @@ regular_files = [
     'cherry-studio-symbolic.svg',
     'cider-symbolic.svg',
     'cinecred-symbolic.svg',
+    'cities-skylines-2-symbolic.svg',
     'ckb-next-symbolic.svg',
     'clamtk-symbolic.svg',
     'classicube-symbolic.svg',
@@ -175,6 +176,7 @@ regular_files = [
     'julia-symbolic.svg',
     'julius-symbolic.svg',
     'jupyter-symbolic.svg',
+    'kakaotalk-symbolic.svg',
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
     'keepassxc-symbolic.svg',
@@ -361,6 +363,7 @@ regular_files = [
     'spotify-symbolic.svg',
     'spyder-symbolic.svg',
     'standard-notes-symbolic.svg',
+    'stardew-valley-symbolic.svg',
     'steam-icon-symbolic.svg',
     'stellarium-symbolic.svg',
     'stoken-gui-symbolic.svg',
@@ -419,6 +422,7 @@ regular_files = [
     'xonotic-symbolic.svg',
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
+    'youtube-symbolic.svg',
     'youtube-music-symbolic.svg',
     'yuzu-symbolic.svg',
     'zaproxy-symbolic.svg',
@@ -628,6 +632,10 @@ link_files = {
     ],
     'ppsspp-symbolic.svg': [
         'org.ppsspp.PPSSPP-symbolic.svg',
+    ],
+    'cities-skylines-2-symbolic.svg': [
+        'lutris_cities-skylines-2-symbolic.svg',
+        'steam_icon_949230-symbolic.svg',
     ],
     'josm-symbolic.svg': [
         'org.openstreetmap.josm-symbolic.svg',
@@ -1974,6 +1982,14 @@ link_files = {
         'ProtonMail_Bridge-symbolic.svg',
         'ch.protonmail.protonmail-bridge-symbolic.svg',
     ],
+    'kakaotalk-symbolic.svg': [
+        'KakaoTalk-symbolic.svg',
+        'E51E_KakaoTalk.0-symbolic.svg',
+    ],
+    'the-sims-4-symbolic.svg': [
+        'lutris_the-sims-4-symbolic.svg',
+        'steam_icon_1222670-symbolic.svg',
+    ],
     'openrgb-symbolic.svg': [
         'OpenRGB-symbolic.svg',
         'appimagekit-OpenRGB-symbolic.svg',
@@ -2038,6 +2054,19 @@ link_files = {
     'alacritty-symbolic.svg': [
         'Alacritty-symbolic.svg',
         'com.alacritty.Alacritty-symbolic.svg',
+    ],
+    'stardew-valley-symbolic.svg': [
+        'lutris_stardew-valley-symbolic.svg',
+        'steam_icon_413150-symbolic.svg',
+    ],
+    'youtube-symbolic.svg': [
+        'chrome-agimnkijcaahngcdmfeangaknmldooml-Default-symbolic.svg',
+        'chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default-symbolic.svg',
+        'eu.tiliado.NuvolaAppYoutube-symbolic.svg',
+        'nuvolaplayer3_youtube-symbolic.svg',
+    ],
+    'sameboy-symbolic.svg': [
+        'io.github.sameboy.SameBoy-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
