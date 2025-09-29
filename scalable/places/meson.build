@@ -104,6 +104,8 @@ regular_files = [
     'folder-plugdata.svg',
     'folder-podcast-legacy.svg',
     'folder-podcast.svg',
+    'folder-podman-legacy.svg',
+    'folder-podman.svg',
     'folder-private-legacy.svg',
     'folder-private.svg',
     'folder-projects-legacy.svg',
