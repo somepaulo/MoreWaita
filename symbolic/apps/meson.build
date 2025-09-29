@@ -128,7 +128,6 @@ regular_files = [
     'geneious-symbolic.svg',
     'genymotion-symbolic.svg',
     'geogebra-symbolic.svg',
-    'ghostty-symbolic.svg',
     'gimagereader-symbolic.svg',
     'gimp-symbolic.svg',
     'github-desktop-symbolic.svg',
@@ -1453,9 +1452,6 @@ link_files = {
         'lutris_minecraft-symbolic.svg',
         'minecraft-launcher-symbolic.svg',
         'minecraft-pi-symbolic.svg',
-    ],
-    'ghostty-symbolic.svg': [
-        'com.mitchellh.ghostty-symbolic.svg',
     ],
     'microsoft-edge-symbolic.svg': [
         'com.microsoft.Edge-symbolic.svg',
