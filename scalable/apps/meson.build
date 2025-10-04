@@ -420,6 +420,7 @@ regular_files = [
     'vesktop.svg',
     'via-nativia.svg',
     'viber.svg',
+    'vice.svg',
     'vim.svg',
     'vipsdisp.svg',
     'virt-manager.svg',
@@ -846,6 +847,10 @@ link_files = {
     ],
     'liferea.svg': [
         'net.sourceforge.liferea.svg',
+    ],
+    'vice.svg': [
+        'net.sf.VICE.svg',
+        'vice-emu.svg',
     ],
     'scribus.svg': [
         'net.scribus.Scribus.svg',
