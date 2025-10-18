@@ -717,6 +717,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-vala.svg "Vala")
 ![icon](./scalable/places/folder-wine.svg "Wine")
 ![icon](./scalable/places/folder-work.svg "Work")
+![icon](./scalable/places/folder-cloud.svg "Cloud")
 
 </details>
 <details>
