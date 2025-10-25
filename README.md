@@ -148,6 +148,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/geneious.svg "Geneious")
 ![icon](./scalable/apps/genymotion.svg "Genymotion")
 ![icon](./scalable/apps/geogebra.svg "Geogebra")
+![icon](./scalable/apps/ghidra.svg "Ghidra")
 ![icon](./scalable/apps/ghostty.svg "Ghostty")
 ![icon](./scalable/apps/gimagereader.svg "gImageReader")
 ![icon](./scalable/apps/gimp.svg "GIMP")

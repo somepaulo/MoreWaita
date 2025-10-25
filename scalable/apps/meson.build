@@ -138,6 +138,7 @@ regular_files = [
     'geneious.svg',
     'genymotion.svg',
     'geogebra.svg',
+    'ghidra.svg',
     'ghostty.svg',
     'gimagereader.svg',
     'gimp.svg',
@@ -739,6 +740,9 @@ link_files = {
     ],
     'gimp.svg': [
         'org.gimp.GIMP.svg',
+    ],
+    'ghidra.svg': [
+        'org.ghidra_sre.Ghidra.svg',
     ],
     'geogebra.svg': [
         'org.geogebra.GeoGebra.svg',
