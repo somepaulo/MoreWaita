@@ -1458,9 +1458,6 @@ link_files = {
         'minecraft-launcher-symbolic.svg',
         'minecraft-pi-symbolic.svg',
     ],
-    'ghostty-symbolic.svg': [
-        'com.mitchellh.ghostty-symbolic.svg',
-    ],
     'microsoft-edge-symbolic.svg': [
         'com.microsoft.Edge-symbolic.svg',
     ],
