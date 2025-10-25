@@ -58,6 +58,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/briar.svg "Briar")
 ![icon](./scalable/apps/dev.bsnes.bsnes.svg "BSNES")
 ![icon](./scalable/apps/btop.svg "Btop")
+![icon](./scalable/apps/burp.svg "Burp Suite Community")
 ![icon](./scalable/apps/buzz.svg "Buzz")
 ![icon](./scalable/apps/calibre.svg "Calibre")
 ![icon](./scalable/apps/calibre-ebook-edit.svg "Calibre Editor")

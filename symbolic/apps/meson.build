@@ -43,6 +43,7 @@ regular_files = [
     'brave-desktop-symbolic.svg',
     'briar-symbolic.svg',
     'btop-symbolic.svg',
+    'burp-symbolic.svg',
     'buzz-symbolic.svg',
     'calibre-symbolic.svg',
     'carla-symbolic.svg',
@@ -823,6 +824,9 @@ link_files = {
         'net.scribus.Scribus-symbolic.svg',
         'scribus-ng-symbolic.svg',
         'scribus-trunk-symbolic.svg',
+    ],
+    'burp-symbolic.svg': [
+        'net.portswigger.BurpSuite-Community-symbolic.svg',
     ],
     'openra-d2k-symbolic.svg': [
         'net.openra.OpenRA.openra-d2k-symbolic.svg',
