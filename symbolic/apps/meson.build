@@ -379,6 +379,7 @@ regular_files = [
     'tenacity-symbolic.svg',
     'texstudio-symbolic.svg',
     'texts-symbolic.svg',
+    'thedarkmod-symbolic.svg',
     'thunderbird-symbolic.svg',
     'tidal-hifi-symbolic.svg',
     'timeshift-symbolic.svg',
@@ -901,6 +902,9 @@ link_files = {
     'xonotic-symbolic.svg': [
         'lutris_xonotic-symbolic.svg',
         'org.xonotic.Xonotic-symbolic.svg',
+    ],
+    'thedarkmod-symbolic.svg': [
+        'lutris-the-dark-mod-symbolic.svg',
     ],
     'minetest-symbolic.svg': [
         'luanti-symbolic.svg',
