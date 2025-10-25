@@ -937,7 +937,7 @@ link_files = {
         'org.xonotic.Xonotic.svg',
     ],
     'thedarkmod.svg': [
-        'lutris-the-dark-mod.svg',
+        'lutris_the-dark-mod.svg',
     ],
     'minetest.svg': [
         'luanti.svg',
