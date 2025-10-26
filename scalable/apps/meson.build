@@ -165,6 +165,7 @@ regular_files = [
     'hardinfo.svg',
     'headlines.svg',
     'helio-workstation.svg',
+    'helix.svg',
     'heroic.svg',
     'hp_logo.svg',
     'htop.svg',
@@ -1579,6 +1580,9 @@ link_files = {
     ],
     'lunacy.svg': [
         'com.icons8.Lunacy.svg',
+    ],
+    'helix.svg': [
+        'com.helix_editor.Helix.svg',
     ],
     'tor-browser.svg': [
         'com.github.micahflee.torbrowser-launcher.svg',
