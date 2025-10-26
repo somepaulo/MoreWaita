@@ -105,6 +105,7 @@ regular_files = [
     'ferdium.svg',
     'fgcom.svg',
     'figma.svg',
+    'filendesktop.svg',
     'filezilla.svg',
     'firefox-developer-edition.svg',
     'firefox-nightly.svg',
@@ -1930,6 +1931,9 @@ link_files = {
     'github-desktop.svg': [
         'appimagekit-github-desktop.svg',
         'io.github.shiftey.Desktop.svg',
+    ],
+    'filendesktop.svg': [
+        'appimagekit-filendesktop.svg',
     ],
     'endless-sky.svg': [
         'appimagekit-endless_sky.svg',
