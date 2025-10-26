@@ -405,6 +405,7 @@ regular_files = [
     'texmaker.svg',
     'texstudio.svg',
     'texts.svg',
+    'throne.svg',
     'thunderbird.svg',
     'tidal-hifi.svg',
     'timeshift.svg',

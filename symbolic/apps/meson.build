@@ -379,6 +379,7 @@ regular_files = [
     'tenacity-symbolic.svg',
     'texstudio-symbolic.svg',
     'texts-symbolic.svg',
+    'throne-symbolic.svg',
     'thunderbird-symbolic.svg',
     'tidal-hifi-symbolic.svg',
     'timeshift-symbolic.svg',
