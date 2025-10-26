@@ -100,6 +100,7 @@ regular_files = [
     'emacs.svg',
     'endless-sky.svg',
     'enpass.svg',
+    'ente-auth.svg',
     'etcher.svg',
     'facebook-messenger.svg',
     'ferdium.svg',
@@ -1213,6 +1214,9 @@ link_files = {
     ],
     'frappe-books.svg': [
         'io.frappe.books.svg',
+    ],
+    'ente-auth.svg': [
+        'io.ente.auth.svg',
     ],
     'appflowy.svg': [
         'io.appflowy.AppFlowy.svg',

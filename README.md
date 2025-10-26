@@ -110,6 +110,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/emacs.svg "Emacs")
 ![icon](./scalable/apps/endless-sky.svg "Endless Sky")
 ![icon](./scalable/apps/enpass.svg "Enpass")
+![icon](./scalable/apps/ente-auth.svg "Ente Auth")
 ![icon](./scalable/apps/etcher.svg "Etcher")
 ![icon](./scalable/apps/facebook-messenger.svg "Facebook Messenger")
 ![icon](./scalable/apps/org.fdroid.Repomaker.svg "F-Droid Repomaker")
