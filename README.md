@@ -24,7 +24,6 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <details>
 <summary><h3>Apps</h3> <em>(expand)</em></summary>
 
-![icon](./scalable/apps/1password.svg "1Password")
 ![icon](./scalable/apps/abiword.svg "Abiword")
 ![icon](./scalable/apps/gnome-aisleriot.svg "Aisleriot Solitaire")
 ![icon](./scalable/apps/alacarte.svg "Alacarte")
@@ -301,6 +300,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/obsidian.svg "Obsidian")
 ![icon](./scalable/apps/octave.svg "Octave")
 ![icon](./scalable/apps/okular.svg "Okular")
+![icon](./scalable/apps/1password.svg "1Password")
 ![icon](./scalable/apps/onetagger.svg "One Tagger")
 ![icon](./scalable/apps/org.onlyoffice.desktopeditors.svg "ONLYOFFICE")
 ![icon](./scalable/apps/openbabel.svg "Open Babel")
