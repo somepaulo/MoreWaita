@@ -3,6 +3,7 @@ symbolic_apps_iconsdir = join_paths(symbolic_iconsdir, 'apps')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     '0ad-symbolic.svg',
+    '1password-symbolic.svg',
     'CMakeSetup-symbolic.svg',
     'GPU_Viewer-symbolic.svg',
     'GrandOrgue-symbolic.svg',
@@ -1436,6 +1437,9 @@ link_files = {
     ],
     'opera-symbolic.svg': [
         'com.opera.Opera-symbolic.svg',
+    ],
+    '1password-symbolic.svg': [
+        'com.onepassword.OnePassword-symbolic.svg',
     ],
     'n-trackstudio-symbolic.svg': [
         'com.ntrack.n-track-symbolic.svg',
