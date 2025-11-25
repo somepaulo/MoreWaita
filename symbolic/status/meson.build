@@ -81,6 +81,9 @@ link_files = {
     'keepassxc-locked.svg': [
         'org.keepassxc.KeePassXC-locked.svg',
     ],
+    'emblem-ok-symbolic.svg': [
+        'emblem-default-symbolic.svg',
+    ],
     'sunshine-tray.svg': [
         'dev.lizardbyte.app.Sunshine-tray.svg',
     ],
