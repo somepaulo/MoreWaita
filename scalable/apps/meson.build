@@ -141,7 +141,6 @@ regular_files = [
     'genymotion.svg',
     'geogebra.svg',
     'ghidra.svg',
-    'ghostty.svg',
     'gimagereader.svg',
     'gimp.svg',
     'github-desktop.svg',
