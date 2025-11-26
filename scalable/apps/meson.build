@@ -405,6 +405,7 @@ regular_files = [
     'texmaker.svg',
     'texstudio.svg',
     'texts.svg',
+    'thedarkmod.svg',
     'thunderbird.svg',
     'tidal-hifi.svg',
     'timeshift.svg',
@@ -939,6 +940,9 @@ link_files = {
     'xonotic.svg': [
         'lutris_xonotic.svg',
         'org.xonotic.Xonotic.svg',
+    ],
+    'thedarkmod.svg': [
+        'lutris_the-dark-mod.svg',
     ],
     'minetest.svg': [
         'luanti.svg',
