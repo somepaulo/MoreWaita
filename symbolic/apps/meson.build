@@ -130,6 +130,8 @@ regular_files = [
     'geneious-symbolic.svg',
     'genymotion-symbolic.svg',
     'geogebra-symbolic.svg',
+    'ghidra-symbolic.svg',
+    'ghostty-symbolic.svg',
     'gimagereader-symbolic.svg',
     'gimp-symbolic.svg',
     'github-desktop-symbolic.svg',
@@ -711,6 +713,9 @@ link_files = {
     ],
     'gimp-symbolic.svg': [
         'org.gimp.GIMP-symbolic.svg',
+    ],
+    'ghidra-symbolic.svg': [
+        'org.ghidra_sre.Ghidra-symbolic.svg',
     ],
     'geogebra-symbolic.svg': [
         'org.geogebra.GeoGebra-symbolic.svg',
