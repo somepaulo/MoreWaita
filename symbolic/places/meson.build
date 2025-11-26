@@ -57,6 +57,7 @@ regular_files = [
     'folder-platformio-symbolic.svg',
     'folder-plugdata-symbolic.svg',
     'folder-podcast-symbolic.svg',
+    'folder-podman-symbolic.svg',
     'folder-private-legacy-symbolic.svg',
     'folder-private-symbolic.svg',
     'folder-projects-legacy-symbolic.svg',
@@ -141,6 +142,9 @@ link_files = {
     ],
     'folder-python-symbolic.svg': [
         'folder-python-legacy-symbolic.svg',
+    ],
+    'folder-podman-symbolic.svg': [
+        'folder-podman-legacy-symbolic.svg',
     ],
     'folder-podcast-symbolic.svg': [
         'folder-podcast-legacy-symbolic.svg',
