@@ -14,6 +14,7 @@ regular_files = [
     'folder-books-symbolic.svg',
     'folder-c-symbolic.svg',
     'folder-camera-symbolic.svg',
+    'folder-cloud-symbolic.svg',
     'folder-code-legacy-symbolic.svg',
     'folder-code-symbolic.svg',
     'folder-codeberg-symbolic.svg',
@@ -259,6 +260,9 @@ link_files = {
     ],
     'folder-codeberg-symbolic.svg': [
         'folder-codeberg-legacy-symbolic.svg',
+    ],
+    'folder-cloud-symbolic.svg': [
+        'folder-cloud-legacy-symbolic.svg',
     ],
     'folder-camera-symbolic.svg': [
         'folder-camera-legacy-symbolic.svg',

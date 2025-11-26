@@ -24,6 +24,8 @@ regular_files = [
     'folder-c.svg',
     'folder-camera-legacy.svg',
     'folder-camera.svg',
+    'folder-cloud-legacy.svg',
+    'folder-cloud.svg',
     'folder-code-legacy.svg',
     'folder-code.svg',
     'folder-codeberg-legacy.svg',
