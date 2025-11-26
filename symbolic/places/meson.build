@@ -51,6 +51,7 @@ regular_files = [
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
     'folder-nix-symbolic.svg',
+    'folder-obsidian-symbolic.svg',
     'folder-onedrive-symbolic.svg',
     'folder-openscad-symbolic.svg',
     'folder-opensuse-symbolic.svg',
@@ -163,6 +164,9 @@ link_files = {
     ],
     'folder-onedrive-symbolic.svg': [
         'folder-onedrive-legacy-symbolic.svg',
+    ],
+    'folder-obsidian-symbolic.svg': [
+        'folder-obsidian-legacy-symbolic.svg',
     ],
     '../apps/obs-symbolic.svg': [
         'folder-obs-legacy-symbolic.svg',

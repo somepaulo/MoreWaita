@@ -94,6 +94,8 @@ regular_files = [
     'folder-nix.svg',
     'folder-obs-legacy.svg',
     'folder-obs.svg',
+    'folder-obsidian-legacy.svg',
+    'folder-obsidian.svg',
     'folder-onedrive-legacy.svg',
     'folder-onedrive.svg',
     'folder-openscad-legacy.svg',
