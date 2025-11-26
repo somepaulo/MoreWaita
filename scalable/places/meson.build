@@ -32,6 +32,8 @@ regular_files = [
     'folder-cplusplus.svg',
     'folder-csharp-legacy.svg',
     'folder-csharp.svg',
+    'folder-docker-legacy.svg',
+    'folder-docker.svg',
     'folder-dropbox-legacy.svg',
     'folder-dropbox.svg',
     'folder-earth-legacy.svg',
