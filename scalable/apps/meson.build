@@ -46,6 +46,7 @@ regular_files = [
     'brave-desktop.svg',
     'briar.svg',
     'btop.svg',
+    'burp.svg',
     'buzz.svg',
     'calibre-ebook-edit.svg',
     'calibre-viewer.svg',
@@ -858,6 +859,9 @@ link_files = {
         'net.scribus.Scribus.svg',
         'scribus-ng.svg',
         'scribus-trunk.svg',
+    ],
+    'burp.svg': [
+        'net.portswigger.BurpSuite-Community.svg',
     ],
     'openra-ra.svg': [
         'net.openra.OpenRA.svg',
