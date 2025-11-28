@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16.000002"
+   viewBox="0 0 16 16.000003"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="stardew-valley-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="49.812497"
+     inkscape:cx="8.0000005"
+     inkscape:cy="8.0000005"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5275" />
+  <defs
+     id="defs1" />
+  <g
+     id="g5275"
+     transform="matrix(0.50000003,0,0,0.50000003,-4.0000002,-4.0000002)">
+    <path
+       id="rect1106"
+       style="opacity:0.7;fill:#000000;fill-opacity:1;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 17.999998,12.000001 2,-2.000001 h 6 v 2 l -4,2 h -4 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="rect2265"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 11.999998,19.999998 v 2.000001 h 6 v -2.000001 z m 2,18 v 2.000001 h 4 v -2.000001 z m 10,0 v 2.000001 h 4 v -2.000001 z" />
+    <path
+       d="m 17.999998,37.999998 v 2.000001 h 2 v -2.000001 z m 4,0 v 2.000001 h 2 v -2.000001 z"
+       style="fill:#000000;fill-opacity:1;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round"
+       id="path4304" />
+    <path
+       id="rect632"
+       style="fill:#000000;fill-opacity:1;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 19.999998,8 v 2 h 6 v 2 h 2 V 8 Z m 6,4 h -4 v 2 h 2 v 2 h 2 z m 0,4 v 5.999999 h 2 v -2.000001 h 2 V 18 h -2 v -2 z m 4,2 h 8 v -2 h -8 z m 8,0 v 3.999999 h 2 V 18 Z m 0,3.999999 h -2 V 24 h 2 z m 0,2.000001 v 3.999999 h 2 V 24 Z m 0,3.999999 h -2 v 3.999999 h 2 z m -2,3.999999 h -2 v 4.000003 h 2 z m -2,4.000003 h -4 v 1.999997 h 4 z m -4,1.999997 h -2 v 2.000001 h 2 z m -2,0 v -1.999997 h -4 v 1.999997 z M 23.999998,16 h -2 v 5.999999 h 2 z m -4,-6 h -2 v 2 h 2 z m -2,2 h -2 v 2 h 2 z m -2,2 h -2 v 2 h 2 z m 0,2 v 3.999998 h 2 V 16 Z m -2,0 h -2 v 3.999998 h 2 z m -2,3.999998 H 9.9999977 v 2.000001 h 2.0000003 z m 0,2.000001 V 24 h 2 v -2.000001 z m 0,2.000001 H 9.9999977 v 1.999998 H 11.999998 Z M 9.9999977,25.999998 H 8 v 6 h 1.9999977 z m 0,6 V 34 H 11.999998 V 31.999998 Z M 11.999998,34 v 2.000001 h 2 V 34 Z m 2,2.000001 v 1.999998 h 4 v -1.999998 z m 0,1.999998 h -2 V 40 h 2 z m 12,-12 V 28 h 2 v -2.000001 z m 2,2.000001 v 2.000002 h 4 V 28 Z m 4,0 h 2 v -2.000001 h -2 z m -12,9.999999 V 40 h 2 v -2.000001 z" />
+  </g>
+</svg>
