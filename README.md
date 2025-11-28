@@ -427,6 +427,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/texstudio.svg "Texstudio")
 ![icon](./scalable/apps/texts.svg "Texts")
 ![icon](./scalable/apps/thedarkmod.svg "The Dark Mod")
+![icon](./scalable/apps/the-sims-4.svg "The Sims 4")
 ![icon](./scalable/apps/thunderbird.svg "Thunderbird")
 ![icon](./scalable/apps/tidal-hifi.svg "Tidal Hi-Fi")
 ![icon](./scalable/apps/timeshift.svg "Timeshift")
