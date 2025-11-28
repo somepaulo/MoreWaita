@@ -385,6 +385,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/saber.svg "Saber")
 ![icon](./scalable/apps/scrcpy.svg "Scrcpy")
 ![icon](./scalable/apps/qtscrcpy.svg "QtScrcpy")
+![icon](./scalable/apps/sameboy.svg "SameBoy")
 ![icon](./scalable/apps/scribus.svg "Scribus")
 ![icon](./scalable/apps/seabird.svg "Scribus")
 ![icon](./scalable/apps/scummvm.svg "ScummVM")
