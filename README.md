@@ -72,6 +72,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/chromium-browser.svg "Chromium")
 ![icon](./scalable/apps/cider.svg "Cider")
 ![icon](./scalable/apps/cinecred.svg "Cinecred")
+![icon](./scalable/apps/cities-skylines-2.svg "Cities Skylines II")
 ![icon](./scalable/apps/ckb-next.svg "ckb-next")
 ![icon](./scalable/apps/clamtk.svg "ClamTK")
 ![icon](./scalable/apps/de.leopoldluley.Clapgrep.svg "Clapgrep")
