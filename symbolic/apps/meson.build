@@ -101,6 +101,7 @@ regular_files = [
     'ferdium-symbolic.svg',
     'fgcom-symbolic.svg',
     'figma-symbolic.svg',
+    'filendesktop-symbolic.svg',
     'filezilla-symbolic.svg',
     'firefox-symbolic.svg',
     'firewall-config-symbolic.svg',
@@ -1886,6 +1887,9 @@ link_files = {
     'github-desktop-symbolic.svg': [
         'appimagekit-github-desktop-symbolic.svg',
         'io.github.shiftey.Desktop-symbolic.svg',
+    ],
+    'filendesktop-symbolic.svg': [
+        'appimagekit-filendesktop-symbolic.svg',
     ],
     'endless-sky-symbolic.svg': [
         'appimagekit-endless_sky-symbolic.svg',
