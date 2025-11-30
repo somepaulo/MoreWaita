@@ -1603,6 +1603,9 @@ link_files = {
     'lunacy.svg': [
         'com.icons8.Lunacy.svg',
     ],
+    'tauonmb.svg': [
+        'com.github.taiko2k.tauonmb.svg',
+    ],
     'tor-browser.svg': [
         'com.github.micahflee.torbrowser-launcher.svg',
         'org.torproject.torbrowser-launcher.svg',
@@ -2131,9 +2134,6 @@ link_files = {
         'Alacritty.svg',
         'com.alacritty.Alacritty.svg',
     ],
-    'tauonmb.svg': [
-        'com.github.taiko2k.tauonmb.svg',
-    ],    
     # DO NOT REMOVE: End of link segment
 }
 
