@@ -378,6 +378,7 @@ regular_files = [
     'suyu-symbolic.svg',
     'syncthing-gtk-symbolic.svg',
     'sysd-manager-symbolic.svg',
+    'tauonmb-symbolic.svg',    
     'teams-symbolic.svg',
     'telegram-symbolic.svg',
     'tenacity-symbolic.svg',
@@ -2068,6 +2069,9 @@ link_files = {
         'Alacritty-symbolic.svg',
         'com.alacritty.Alacritty-symbolic.svg',
     ],
+    'tauonmb-symbolic.svg': [
+        'com.github.taiko2k.tauonmb-symbolic.svg',
+    ],      
     # DO NOT REMOVE: End of link segment
 }
 

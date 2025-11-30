@@ -403,6 +403,7 @@ regular_files = [
     'suyu.svg',
     'syncthing-gtk.svg',
     'sysd-manager.svg',
+    'tauonmb.svg',
     'teams.svg',
     'telegram.svg',
     'tenacity.svg',
@@ -2130,6 +2131,9 @@ link_files = {
         'Alacritty.svg',
         'com.alacritty.Alacritty.svg',
     ],
+    'tauonmb.svg': [
+        'com.github.taiko2k.tauonmb.svg',
+    ],    
     # DO NOT REMOVE: End of link segment
 }
 
