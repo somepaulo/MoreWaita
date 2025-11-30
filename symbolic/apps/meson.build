@@ -95,6 +95,7 @@ regular_files = [
     'emacs-symbolic.svg',
     'endless-sky-symbolic.svg',
     'enpass-symbolic.svg',
+    'ente-auth-symbolic.svg',
     'etcher-symbolic.svg',
     'facebook-messenger-symbolic.svg',
     'ferdium-symbolic.svg',
@@ -1186,6 +1187,9 @@ link_files = {
     ],
     'frappe-books-symbolic.svg': [
         'io.frappe.books-symbolic.svg',
+    ],
+    'ente-auth-symbolic.svg': [
+        'io.ente.auth-symbolic.svg',
     ],
     'appflowy-symbolic.svg': [
         'io.appflowy.AppFlowy-symbolic.svg',
