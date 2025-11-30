@@ -18,8 +18,6 @@ regular_files = [
     'jdownloader-indicator.svg',
     'keepassxc-locked.svg',
     'keepassxc-unlocked.svg',
-    'pamac-tray-no-update.svg',
-    'pamac-tray-update.svg',
     'protonvpn-tray.svg',
     'protonvpngui-connected.svg',
     'protonvpngui-disconnected.svg',
