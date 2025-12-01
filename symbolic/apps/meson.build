@@ -158,6 +158,7 @@ regular_files = [
     'hardinfo-symbolic.svg',
     'headlines-symbolic.svg',
     'helio-workstation-symbolic.svg',
+    'helix-symbolic.svg',
     'heroic-symbolic.svg',
     'hp_logo-symbolic.svg',
     'htop-symbolic.svg',
@@ -1550,6 +1551,8 @@ link_files = {
     'lunacy-symbolic.svg': [
         'com.icons8.Lunacy-symbolic.svg',
     ],
+    'helix-symbolic.svg': [
+        'com.helix_editor.Helix-symbolic.svg',
     'tauonmb-symbolic.svg': [
         'com.github.taiko2k.tauonmb-symbolic.svg',
     ],
