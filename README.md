@@ -948,6 +948,7 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 6. Select the icon you wish to use.
 7. Click `Select`.
 8. Follow the same procedure to choose a different icon or click the _'Remove Custom Icon'_ badge to revert the icon to the default in step 4.
+
 ![Screenshot From 2024-11-15 02-34-56](https://github.com/user-attachments/assets/a21e270d-b75e-4bf3-85d2-c3bc47b769ce)
 
 ### CLI method
