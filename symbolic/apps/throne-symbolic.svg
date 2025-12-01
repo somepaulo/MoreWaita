@@ -5,62 +5,12 @@
    width="16"
    version="1.1"
    id="svg15572"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs15576">
-    <linearGradient
-       xlink:href="#linearGradient14"
-       id="linearGradient16"
-       x1="1166.3658"
-       y1="158.28448"
-       x2="1110.1006"
-       y2="195.19315"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.03128652,0,0,0.03128652,-21.784496,4.1970056)" />
-    <linearGradient
-       id="linearGradient14">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop16" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.39720878;"
-         offset="1"
-         id="stop15" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient12"
-       id="linearGradient10"
-       x1="966.97382"
-       y1="179.39534"
-       x2="911.21936"
-       y2="222.73099"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.03128652,0,0,0.03128652,-21.784496,4.1970056)" />
-    <linearGradient
-       id="linearGradient12">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop13" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.3973555;"
-         offset="0.99982208"
-         id="stop14" />
-    </linearGradient>
-  </defs>
+     id="defs15576" />
   <path
-     d="m 11.59375,8.2167969 3.113281,4.8027341 C 15.482342,12.562381 16,11.718807 16,10.75 V 2.6230469 c 0,-0.00195 7e-6,-0.00391 0,-0.00586 z"
-     style="display:inline;fill:url(#linearGradient16);stroke-width:0.00312865;enable-background:new"
-     id="path13" />
-  <path
-     d="M 4.4042969,8.2148438 8.46875,13.382813 h 4.898438 c 0.489789,0 0.947873,-0.132165 1.339843,-0.363282 L 11.59375,8.2167969 7.9824219,2.6445313 Z"
-     style="display:inline;fill:url(#linearGradient10);stroke-width:0.00312865;enable-background:new"
-     id="path12" />
-  <path
-     id="path11"
-     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.0203364;enable-background:new"
-     d="m 0,2.6171875 c -4.307651e-6,0.00195 0,0.00391 0,0.00586 V 10.75 c 0,0.975713 0.52602613,1.824448 1.3105469,2.279297 0.3882608,0.225103 0.8393847,0.353516 1.3222656,0.353515 H 7.53125 8.46875 L 4.4042969,8.2148438 Z" />
+     id="path13"
+     style="display:inline;fill:#000000;stroke-width:0.00312865;enable-background:new;fill-opacity:1"
+     d="M 0 2.6171875 C -4.307651e-06 2.6191375 -5.6468863e-22 2.6210969 0 2.6230469 L 0 10.75 C 0 11.725713 0.52602607 12.574448 1.3105469 13.029297 C 1.6988077 13.2544 2.1499316 13.382815 2.6328125 13.382812 L 7.53125 13.382812 L 8.46875 13.382812 L 8.5097656 13.382812 L 4.4101562 8.2050781 L 4.4042969 8.2148438 L 2.3554688 5.6113281 L 2.2011719 5.4160156 L 0 2.6171875 z M 16 2.6171875 L 12.207031 7.4375 L 15.427734 12.392578 C 15.786033 11.942829 16 11.372337 16 10.75 L 16 2.6230469 C 16 2.6210969 16.000007 2.6191375 16 2.6171875 z M 7.9824219 2.6445312 L 4.9433594 7.375 L 9.6992188 13.382812 L 13.367188 13.382812 C 13.856977 13.382812 14.315061 13.250648 14.707031 13.019531 C 14.711152 13.017102 14.714644 13.01417 14.71875 13.011719 L 11.597656 8.2109375 L 11.59375 8.2167969 L 9.4316406 4.8808594 L 9.3847656 4.8085938 L 7.9824219 2.6445312 z " />
 </svg>
