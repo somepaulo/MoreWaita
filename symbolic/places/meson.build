@@ -14,11 +14,13 @@ regular_files = [
     'folder-books-symbolic.svg',
     'folder-c-symbolic.svg',
     'folder-camera-symbolic.svg',
+    'folder-cloud-symbolic.svg',
     'folder-code-legacy-symbolic.svg',
     'folder-code-symbolic.svg',
     'folder-codeberg-symbolic.svg',
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
+    'folder-docker-symbolic.svg',
     'folder-earth-symbolic.svg',
     'folder-emacs-symbolic.svg',
     'folder-extensions-symbolic.svg',
@@ -50,12 +52,14 @@ regular_files = [
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
     'folder-nix-symbolic.svg',
+    'folder-obsidian-symbolic.svg',
     'folder-onedrive-symbolic.svg',
     'folder-openscad-symbolic.svg',
     'folder-opensuse-symbolic.svg',
     'folder-platformio-symbolic.svg',
     'folder-plugdata-symbolic.svg',
     'folder-podcast-symbolic.svg',
+    'folder-podman-symbolic.svg',
     'folder-private-legacy-symbolic.svg',
     'folder-private-symbolic.svg',
     'folder-projects-legacy-symbolic.svg',
@@ -141,6 +145,9 @@ link_files = {
     'folder-python-symbolic.svg': [
         'folder-python-legacy-symbolic.svg',
     ],
+    'folder-podman-symbolic.svg': [
+        'folder-podman-legacy-symbolic.svg',
+    ],
     'folder-podcast-symbolic.svg': [
         'folder-podcast-legacy-symbolic.svg',
     ],
@@ -158,6 +165,9 @@ link_files = {
     ],
     'folder-onedrive-symbolic.svg': [
         'folder-onedrive-legacy-symbolic.svg',
+    ],
+    'folder-obsidian-symbolic.svg': [
+        'folder-obsidian-legacy-symbolic.svg',
     ],
     '../apps/obs-symbolic.svg': [
         'folder-obs-legacy-symbolic.svg',
@@ -239,6 +249,9 @@ link_files = {
         'folder-dropbox-legacy-symbolic.svg',
         'folder-dropbox-symbolic.svg',
     ],
+    'folder-docker-symbolic.svg': [
+        'folder-docker-legacy-symbolic.svg',
+    ],
     'folder-csharp-symbolic.svg': [
         'folder-csharp-legacy-symbolic.svg',
     ],
@@ -247,6 +260,9 @@ link_files = {
     ],
     'folder-codeberg-symbolic.svg': [
         'folder-codeberg-legacy-symbolic.svg',
+    ],
+    'folder-cloud-symbolic.svg': [
+        'folder-cloud-legacy-symbolic.svg',
     ],
     'folder-camera-symbolic.svg': [
         'folder-camera-legacy-symbolic.svg',

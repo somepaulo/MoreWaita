@@ -3,6 +3,7 @@ symbolic_apps_iconsdir = join_paths(symbolic_iconsdir, 'apps')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     '0ad-symbolic.svg',
+    '1password-symbolic.svg',
     'CMakeSetup-symbolic.svg',
     'GPU_Viewer-symbolic.svg',
     'GrandOrgue-symbolic.svg',
@@ -43,6 +44,7 @@ regular_files = [
     'brave-desktop-symbolic.svg',
     'briar-symbolic.svg',
     'btop-symbolic.svg',
+    'burp-symbolic.svg',
     'buzz-symbolic.svg',
     'calibre-symbolic.svg',
     'carla-symbolic.svg',
@@ -93,11 +95,13 @@ regular_files = [
     'emacs-symbolic.svg',
     'endless-sky-symbolic.svg',
     'enpass-symbolic.svg',
+    'ente-auth-symbolic.svg',
     'etcher-symbolic.svg',
     'facebook-messenger-symbolic.svg',
     'ferdium-symbolic.svg',
     'fgcom-symbolic.svg',
     'figma-symbolic.svg',
+    'filendesktop-symbolic.svg',
     'filezilla-symbolic.svg',
     'firefox-symbolic.svg',
     'firewall-config-symbolic.svg',
@@ -128,7 +132,7 @@ regular_files = [
     'geneious-symbolic.svg',
     'genymotion-symbolic.svg',
     'geogebra-symbolic.svg',
-    'ghostty-symbolic.svg',
+    'ghidra-symbolic.svg',
     'gimagereader-symbolic.svg',
     'gimp-symbolic.svg',
     'github-desktop-symbolic.svg',
@@ -374,12 +378,14 @@ regular_files = [
     'suyu-symbolic.svg',
     'syncthing-gtk-symbolic.svg',
     'sysd-manager-symbolic.svg',
+    'tauonmb-symbolic.svg',
     'teams-symbolic.svg',
     'telegram-symbolic.svg',
     'tenacity-symbolic.svg',
     'texstudio-symbolic.svg',
     'texts-symbolic.svg',
     'throne-symbolic.svg',
+    'thedarkmod-symbolic.svg',
     'thunderbird-symbolic.svg',
     'tidal-hifi-symbolic.svg',
     'timeshift-symbolic.svg',
@@ -394,6 +400,7 @@ regular_files = [
     'vesktop-symbolic.svg',
     'via-nativia-symbolic.svg',
     'viber-symbolic.svg',
+    'vice-symbolic.svg',
     'vim-symbolic.svg',
     'vipsdisp-symbolic.svg',
     'virt-manager-symbolic.svg',
@@ -710,6 +717,9 @@ link_files = {
     'gimp-symbolic.svg': [
         'org.gimp.GIMP-symbolic.svg',
     ],
+    'ghidra-symbolic.svg': [
+        'org.ghidra_sre.Ghidra-symbolic.svg',
+    ],
     'geogebra-symbolic.svg': [
         'org.geogebra.GeoGebra-symbolic.svg',
     ],
@@ -820,10 +830,17 @@ link_files = {
     'liferea-symbolic.svg': [
         'net.sourceforge.liferea-symbolic.svg',
     ],
+    'vice-symbolic.svg': [
+        'net.sf.VICE-symbolic.svg',
+        'vice-emu-symbolic.svg',
+    ],
     'scribus-symbolic.svg': [
         'net.scribus.Scribus-symbolic.svg',
         'scribus-ng-symbolic.svg',
         'scribus-trunk-symbolic.svg',
+    ],
+    'burp-symbolic.svg': [
+        'net.portswigger.BurpSuite-Community-symbolic.svg',
     ],
     'openra-d2k-symbolic.svg': [
         'net.openra.OpenRA.openra-d2k-symbolic.svg',
@@ -902,6 +919,9 @@ link_files = {
     'xonotic-symbolic.svg': [
         'lutris_xonotic-symbolic.svg',
         'org.xonotic.Xonotic-symbolic.svg',
+    ],
+    'thedarkmod-symbolic.svg': [
+        'lutris_the-dark-mod-symbolic.svg',
     ],
     'minetest-symbolic.svg': [
         'luanti-symbolic.svg',
@@ -1171,6 +1191,9 @@ link_files = {
     'frappe-books-symbolic.svg': [
         'io.frappe.books-symbolic.svg',
     ],
+    'ente-auth-symbolic.svg': [
+        'io.ente.auth-symbolic.svg',
+    ],
     'appflowy-symbolic.svg': [
         'io.appflowy.AppFlowy-symbolic.svg',
     ],
@@ -1439,6 +1462,9 @@ link_files = {
     'opera-symbolic.svg': [
         'com.opera.Opera-symbolic.svg',
     ],
+    '1password-symbolic.svg': [
+        'com.onepassword.OnePassword-symbolic.svg',
+    ],
     'n-trackstudio-symbolic.svg': [
         'com.ntrack.n-track-symbolic.svg',
         'n-track-studio-symbolic.svg',
@@ -1454,9 +1480,6 @@ link_files = {
         'lutris_minecraft-symbolic.svg',
         'minecraft-launcher-symbolic.svg',
         'minecraft-pi-symbolic.svg',
-    ],
-    'ghostty-symbolic.svg': [
-        'com.mitchellh.ghostty-symbolic.svg',
     ],
     'microsoft-edge-symbolic.svg': [
         'com.microsoft.Edge-symbolic.svg',
@@ -1526,6 +1549,9 @@ link_files = {
     ],
     'lunacy-symbolic.svg': [
         'com.icons8.Lunacy-symbolic.svg',
+    ],
+    'tauonmb-symbolic.svg': [
+        'com.github.taiko2k.tauonmb-symbolic.svg',
     ],
     'tor-browser-symbolic.svg': [
         'com.github.micahflee.torbrowser-launcher-symbolic.svg',
@@ -1866,6 +1892,9 @@ link_files = {
     'github-desktop-symbolic.svg': [
         'appimagekit-github-desktop-symbolic.svg',
         'io.github.shiftey.Desktop-symbolic.svg',
+    ],
+    'filendesktop-symbolic.svg': [
+        'appimagekit-filendesktop-symbolic.svg',
     ],
     'endless-sky-symbolic.svg': [
         'appimagekit-endless_sky-symbolic.svg',

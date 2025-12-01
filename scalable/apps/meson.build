@@ -3,6 +3,7 @@ scalable_apps_iconsdir = join_paths(scalable_iconsdir, 'apps')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     '0ad.svg',
+    '1password.svg',
     'CMakeSetup.svg',
     'GPU_Viewer.svg',
     'GrandOrgue.svg',
@@ -45,6 +46,7 @@ regular_files = [
     'brave-desktop.svg',
     'briar.svg',
     'btop.svg',
+    'burp.svg',
     'buzz.svg',
     'calibre-ebook-edit.svg',
     'calibre-viewer.svg',
@@ -100,11 +102,13 @@ regular_files = [
     'emacs.svg',
     'endless-sky.svg',
     'enpass.svg',
+    'ente-auth.svg',
     'etcher.svg',
     'facebook-messenger.svg',
     'ferdium.svg',
     'fgcom.svg',
     'figma.svg',
+    'filendesktop.svg',
     'filezilla.svg',
     'firefox-developer-edition.svg',
     'firefox-nightly.svg',
@@ -138,7 +142,7 @@ regular_files = [
     'geneious.svg',
     'genymotion.svg',
     'geogebra.svg',
-    'ghostty.svg',
+    'ghidra.svg',
     'gimagereader.svg',
     'gimp.svg',
     'github-desktop.svg',
@@ -399,6 +403,7 @@ regular_files = [
     'suyu.svg',
     'syncthing-gtk.svg',
     'sysd-manager.svg',
+    'tauonmb.svg',
     'teams.svg',
     'telegram.svg',
     'tenacity.svg',
@@ -406,6 +411,7 @@ regular_files = [
     'texstudio.svg',
     'texts.svg',
     'throne.svg',
+    'thedarkmod.svg',
     'thunderbird.svg',
     'tidal-hifi.svg',
     'timeshift.svg',
@@ -422,6 +428,7 @@ regular_files = [
     'vesktop.svg',
     'via-nativia.svg',
     'viber.svg',
+    'vice.svg',
     'vim.svg',
     'vipsdisp.svg',
     'virt-manager.svg',
@@ -741,6 +748,9 @@ link_files = {
     'gimp.svg': [
         'org.gimp.GIMP.svg',
     ],
+    'ghidra.svg': [
+        'org.ghidra_sre.Ghidra.svg',
+    ],
     'geogebra.svg': [
         'org.geogebra.GeoGebra.svg',
     ],
@@ -849,10 +859,17 @@ link_files = {
     'liferea.svg': [
         'net.sourceforge.liferea.svg',
     ],
+    'vice.svg': [
+        'net.sf.VICE.svg',
+        'vice-emu.svg',
+    ],
     'scribus.svg': [
         'net.scribus.Scribus.svg',
         'scribus-ng.svg',
         'scribus-trunk.svg',
+    ],
+    'burp.svg': [
+        'net.portswigger.BurpSuite-Community.svg',
     ],
     'openra-ra.svg': [
         'net.openra.OpenRA.svg',
@@ -935,6 +952,9 @@ link_files = {
     'xonotic.svg': [
         'lutris_xonotic.svg',
         'org.xonotic.Xonotic.svg',
+    ],
+    'thedarkmod.svg': [
+        'lutris_the-dark-mod.svg',
     ],
     'minetest.svg': [
         'luanti.svg',
@@ -1215,6 +1235,9 @@ link_files = {
     'frappe-books.svg': [
         'io.frappe.books.svg',
     ],
+    'ente-auth.svg': [
+        'io.ente.auth.svg',
+    ],
     'appflowy.svg': [
         'io.appflowy.AppFlowy.svg',
     ],
@@ -1493,6 +1516,9 @@ link_files = {
     'opera.svg': [
         'com.opera.Opera.svg',
     ],
+    '1password.svg': [
+        'com.onepassword.OnePassword.svg',
+    ],
     'n-trackstudio.svg': [
         'com.ntrack.n-track.svg',
         'n-track-studio.svg',
@@ -1508,9 +1534,6 @@ link_files = {
         'lutris_minecraft.svg',
         'minecraft-launcher.svg',
         'minecraft-pi.svg',
-    ],
-    'ghostty.svg': [
-        'com.mitchellh.ghostty.svg',
     ],
     'microsoft-edge.svg': [
         'com.microsoft.Edge.svg',
@@ -1580,6 +1603,9 @@ link_files = {
     ],
     'lunacy.svg': [
         'com.icons8.Lunacy.svg',
+    ],
+    'tauonmb.svg': [
+        'com.github.taiko2k.tauonmb.svg',
     ],
     'tor-browser.svg': [
         'com.github.micahflee.torbrowser-launcher.svg',
@@ -1931,6 +1957,9 @@ link_files = {
     'github-desktop.svg': [
         'appimagekit-github-desktop.svg',
         'io.github.shiftey.Desktop.svg',
+    ],
+    'filendesktop.svg': [
+        'appimagekit-filendesktop.svg',
     ],
     'endless-sky.svg': [
         'appimagekit-endless_sky.svg',
