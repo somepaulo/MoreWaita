@@ -181,6 +181,7 @@ regular_files = [
     'julia-symbolic.svg',
     'julius-symbolic.svg',
     'jupyter-symbolic.svg',
+    'kakaotalk-symbolic.svg',
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
     'keepassxc-symbolic.svg',
@@ -2046,6 +2047,10 @@ link_files = {
         'element-desktop-bin-symbolic.svg',
         'element-symbolic.svg',
         'im.riot.Riot-symbolic.svg',
+    ],
+    'kakaotalk-symbolic.svg': [
+        'E51E_KakaoTalk.0-symbolic.svg',
+        'KakaoTalk-symbolic.svg',
     ],
     'resolve-symbolic.svg': [
         'DV_Resolve-symbolic.svg',

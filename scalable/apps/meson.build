@@ -197,6 +197,7 @@ regular_files = [
     'julia.svg',
     'julius.svg',
     'jupyter.svg',
+    'kakaotalk.svg',
     'kate.svg',
     'kdenlive.svg',
     'keepassxc.svg',
@@ -2108,6 +2109,10 @@ link_files = {
         'element-desktop-bin.svg',
         'element.svg',
         'im.riot.Riot.svg',
+    ],
+    'kakaotalk.svg': [
+        'E51E_KakaoTalk.0.svg',
+        'KakaoTalk.svg',
     ],
     'resolve.svg': [
         'DV_Resolve.svg',
