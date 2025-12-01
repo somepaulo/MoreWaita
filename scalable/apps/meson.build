@@ -1607,6 +1607,7 @@ link_files = {
     ],
     'helix.svg': [
         'com.helix_editor.Helix.svg',
+    ],
     'tauonmb.svg': [
         'com.github.taiko2k.tauonmb.svg',
     ],

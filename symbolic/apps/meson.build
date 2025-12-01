@@ -1553,6 +1553,7 @@ link_files = {
     ],
     'helix-symbolic.svg': [
         'com.helix_editor.Helix-symbolic.svg',
+    ],
     'tauonmb-symbolic.svg': [
         'com.github.taiko2k.tauonmb-symbolic.svg',
     ],
