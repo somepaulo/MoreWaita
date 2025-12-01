@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <path
+     style="fill:#000000;fill-opacity:1"
+     d="M 9.8555,3.3613 A 5,5 0 0 1 13,8 H 11 A 3,3 0 0 0 9.1133,5.2148 Z M 5,8 a 3,3 0 0 0 1.8867,2.785 L 6.1445,12.639 A 5,5 0 0 1 3,8 Z M 6,8 A 2,2 0 0 0 8,10 2,2 0 0 0 10,8 2,2 0 0 0 8,6 2,2 0 0 0 6,8 Z M 8,0 A 8,8 0 0 1 16,8 8,8 0 0 1 8,16 8,8 0 0 1 0,8 8,8 0 0 1 8,0 Z M 8,2 A 6,6 0 0 0 2,8 6,6 0 0 0 8,14 6,6 0 0 0 14,8 6,6 0 0 0 8,2 Z"
+     id="path1" />
+</svg>
