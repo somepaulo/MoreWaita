@@ -102,11 +102,13 @@ regular_files = [
     'emacs.svg',
     'endless-sky.svg',
     'enpass.svg',
+    'ente-auth.svg',
     'etcher.svg',
     'facebook-messenger.svg',
     'ferdium.svg',
     'fgcom.svg',
     'figma.svg',
+    'filendesktop.svg',
     'filezilla.svg',
     'firefox-developer-edition.svg',
     'firefox-nightly.svg',
@@ -167,6 +169,7 @@ regular_files = [
     'hardinfo.svg',
     'headlines.svg',
     'helio-workstation.svg',
+    'helix.svg',
     'heroic.svg',
     'hp_logo.svg',
     'htop.svg',
@@ -194,6 +197,7 @@ regular_files = [
     'julia.svg',
     'julius.svg',
     'jupyter.svg',
+    'kakaotalk.svg',
     'kate.svg',
     'kdenlive.svg',
     'keepassxc.svg',
@@ -401,6 +405,7 @@ regular_files = [
     'suyu.svg',
     'syncthing-gtk.svg',
     'sysd-manager.svg',
+    'tauonmb.svg',
     'teams.svg',
     'telegram.svg',
     'tenacity.svg',
@@ -408,6 +413,7 @@ regular_files = [
     'texstudio.svg',
     'texts.svg',
     'thedarkmod.svg',
+    'throne.svg',
     'thunderbird.svg',
     'tidal-hifi.svg',
     'timeshift.svg',
@@ -1231,6 +1237,9 @@ link_files = {
     'frappe-books.svg': [
         'io.frappe.books.svg',
     ],
+    'ente-auth.svg': [
+        'io.ente.auth.svg',
+    ],
     'appflowy.svg': [
         'io.appflowy.AppFlowy.svg',
     ],
@@ -1597,6 +1606,12 @@ link_files = {
     'lunacy.svg': [
         'com.icons8.Lunacy.svg',
     ],
+    'helix.svg': [
+        'com.helix_editor.Helix.svg',
+    ],
+    'tauonmb.svg': [
+        'com.github.taiko2k.tauonmb.svg',
+    ],
     'tor-browser.svg': [
         'com.github.micahflee.torbrowser-launcher.svg',
         'org.torproject.torbrowser-launcher.svg',
@@ -1948,6 +1963,9 @@ link_files = {
         'appimagekit-github-desktop.svg',
         'io.github.shiftey.Desktop.svg',
     ],
+    'filendesktop.svg': [
+        'appimagekit-filendesktop.svg',
+    ],
     'endless-sky.svg': [
         'appimagekit-endless_sky.svg',
         'io.github.endless_sky.endless_sky.svg',
@@ -2091,6 +2109,10 @@ link_files = {
         'element-desktop-bin.svg',
         'element.svg',
         'im.riot.Riot.svg',
+    ],
+    'kakaotalk.svg': [
+        'E51E_KakaoTalk.0.svg',
+        'KakaoTalk.svg',
     ],
     'resolve.svg': [
         'DV_Resolve.svg',

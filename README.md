@@ -111,12 +111,14 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/emacs.svg "Emacs")
 ![icon](./scalable/apps/endless-sky.svg "Endless Sky")
 ![icon](./scalable/apps/enpass.svg "Enpass")
+![icon](./scalable/apps/ente-auth.svg "Ente Auth")
 ![icon](./scalable/apps/etcher.svg "Etcher")
 ![icon](./scalable/apps/facebook-messenger.svg "Facebook Messenger")
 ![icon](./scalable/apps/org.fdroid.Repomaker.svg "F-Droid Repomaker")
 ![icon](./scalable/apps/com.fender.studio.svg "Fender Studio")
 ![icon](./scalable/apps/ferdium.svg "Ferdium")
 ![icon](./scalable/apps/figma.svg "Figma")
+![icon](./scalable/apps/filendesktop.svg "Filen")
 ![icon](./scalable/apps/filezilla.svg "FileZilla")
 ![icon](./scalable/apps/firefox.svg "Firefox")
 ![icon](./scalable/apps/firefox-developer-edition.svg "Firefox Developer Edition")
@@ -179,6 +181,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/hwloc.svg "Hardware Locality")
 ![icon](./scalable/apps/headlines.svg "Headlines")
 ![icon](./scalable/apps/helio-workstation.svg "Helio")
+![icon](./scalable/apps/helix.svg "Helix")
 ![icon](./scalable/apps/heroic.svg "Heroic Launcher")
 ![icon](./scalable/apps/hp_logo.svg "HP")
 ![icon](./scalable/apps/htop.svg "Htop")
@@ -211,6 +214,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/julius.svg "Julius")
 ![icon](./scalable/apps/jupyter.svg "Jupyter")
 ![icon](./scalable/apps/io.github.tobagin.karere.svg "Karere")
+![icon](./scalable/apps/kakaotalk.svg "KakaoTalk")
 ![icon](./scalable/apps/kate.svg "Kate")
 ![icon](./scalable/apps/kdenlive.svg "KDEnlive")
 ![icon](./scalable/apps/keepassxc.svg "Keepass XC")
@@ -419,6 +423,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/suyu.svg "Suyu")
 ![icon](./scalable/apps/syncthing-gtk.svg "Syncthing")
 ![icon](./scalable/apps/sysd-manager.svg "SysD Manager")
+![icon](./scalable/apps/tauonmb.svg "Tauon")
 ![icon](./scalable/apps/teams.svg "Teams")
 ![icon](./scalable/apps/TeamViewer.svg "TeamViewer")
 ![icon](./scalable/apps/telegram.svg "Telegram")
@@ -426,6 +431,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/texmaker.svg "Texmaker")
 ![icon](./scalable/apps/texstudio.svg "Texstudio")
 ![icon](./scalable/apps/texts.svg "Texts")
+![icon](./scalable/apps/throne.svg "Throne")
 ![icon](./scalable/apps/thedarkmod.svg "The Dark Mod")
 ![icon](./scalable/apps/the-sims-4.svg "The Sims 4")
 ![icon](./scalable/apps/thunderbird.svg "Thunderbird")
@@ -943,6 +949,7 @@ gsettings set org.gnome.desktop.interface icon-theme 'MoreWaita'
 6. Select the icon you wish to use.
 7. Click `Select`.
 8. Follow the same procedure to choose a different icon or click the _'Remove Custom Icon'_ badge to revert the icon to the default in step 4.
+
 ![Screenshot From 2024-11-15 02-34-56](https://github.com/user-attachments/assets/a21e270d-b75e-4bf3-85d2-c3bc47b769ce)
 
 ### CLI method

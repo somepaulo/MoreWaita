@@ -95,11 +95,13 @@ regular_files = [
     'emacs-symbolic.svg',
     'endless-sky-symbolic.svg',
     'enpass-symbolic.svg',
+    'ente-auth-symbolic.svg',
     'etcher-symbolic.svg',
     'facebook-messenger-symbolic.svg',
     'ferdium-symbolic.svg',
     'fgcom-symbolic.svg',
     'figma-symbolic.svg',
+    'filendesktop-symbolic.svg',
     'filezilla-symbolic.svg',
     'firefox-symbolic.svg',
     'firewall-config-symbolic.svg',
@@ -156,6 +158,7 @@ regular_files = [
     'hardinfo-symbolic.svg',
     'headlines-symbolic.svg',
     'helio-workstation-symbolic.svg',
+    'helix-symbolic.svg',
     'heroic-symbolic.svg',
     'hp_logo-symbolic.svg',
     'htop-symbolic.svg',
@@ -178,6 +181,7 @@ regular_files = [
     'julia-symbolic.svg',
     'julius-symbolic.svg',
     'jupyter-symbolic.svg',
+    'kakaotalk-symbolic.svg',
     'kate-symbolic.svg',
     'kdenlive-symbolic.svg',
     'keepassxc-symbolic.svg',
@@ -376,12 +380,14 @@ regular_files = [
     'suyu-symbolic.svg',
     'syncthing-gtk-symbolic.svg',
     'sysd-manager-symbolic.svg',
+    'tauonmb-symbolic.svg',
     'teams-symbolic.svg',
     'telegram-symbolic.svg',
     'tenacity-symbolic.svg',
     'texstudio-symbolic.svg',
     'texts-symbolic.svg',
     'thedarkmod-symbolic.svg',
+    'throne-symbolic.svg',
     'thunderbird-symbolic.svg',
     'tidal-hifi-symbolic.svg',
     'timeshift-symbolic.svg',
@@ -1187,6 +1193,9 @@ link_files = {
     'frappe-books-symbolic.svg': [
         'io.frappe.books-symbolic.svg',
     ],
+    'ente-auth-symbolic.svg': [
+        'io.ente.auth-symbolic.svg',
+    ],
     'appflowy-symbolic.svg': [
         'io.appflowy.AppFlowy-symbolic.svg',
     ],
@@ -1543,6 +1552,12 @@ link_files = {
     'lunacy-symbolic.svg': [
         'com.icons8.Lunacy-symbolic.svg',
     ],
+    'helix-symbolic.svg': [
+        'com.helix_editor.Helix-symbolic.svg',
+    ],
+    'tauonmb-symbolic.svg': [
+        'com.github.taiko2k.tauonmb-symbolic.svg',
+    ],
     'tor-browser-symbolic.svg': [
         'com.github.micahflee.torbrowser-launcher-symbolic.svg',
         'org.torproject.torbrowser-launcher-symbolic.svg',
@@ -1883,6 +1898,9 @@ link_files = {
         'appimagekit-github-desktop-symbolic.svg',
         'io.github.shiftey.Desktop-symbolic.svg',
     ],
+    'filendesktop-symbolic.svg': [
+        'appimagekit-filendesktop-symbolic.svg',
+    ],
     'endless-sky-symbolic.svg': [
         'appimagekit-endless_sky-symbolic.svg',
         'io.github.endless_sky.endless_sky-symbolic.svg',
@@ -2029,6 +2047,10 @@ link_files = {
         'element-desktop-bin-symbolic.svg',
         'element-symbolic.svg',
         'im.riot.Riot-symbolic.svg',
+    ],
+    'kakaotalk-symbolic.svg': [
+        'E51E_KakaoTalk.0-symbolic.svg',
+        'KakaoTalk-symbolic.svg',
     ],
     'resolve-symbolic.svg': [
         'DV_Resolve-symbolic.svg',
