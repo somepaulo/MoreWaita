@@ -371,6 +371,7 @@ regular_files = [
     'rustrover.svg',
     'ryujinx.svg',
     'saber.svg',
+    'sameboy.svg',
     'scrcpy.svg',
     'scribus.svg',
     'scummvm.svg',
@@ -1164,6 +1165,9 @@ link_files = {
     ],
     'webcord.svg': [
         'io.github.spacingbat3.webcord.svg',
+    ],
+    'sameboy.svg': [
+        'io.github.sameboy.SameBoy.svg',
     ],
     'ryujinx.svg': [
         'io.github.ryubing.Ryujinx.svg',

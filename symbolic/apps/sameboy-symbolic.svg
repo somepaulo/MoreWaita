@@ -1,41 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    width="16"
    height="16"
-   viewBox="0 0 16 16"
-   version="1.1"
-   id="svg1"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="sameboy-symbolic.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   version="1"
+   id="svg566"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     inkscape:zoom="49.8125"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
   <defs
-     id="defs1" />
+     id="defs570" />
+  <g
+     id="g4039"
+     transform="matrix(0.48106175,0,0,0.48000998,-88.718766,-8.6263699)"
+     style="display:inline" />
   <path
      id="rect1"
      style="fill:#000000"
-     d="M 4,0 C 2.892,0 2,0.892 2,2 v 12 c 0,1.108 0.892,2 2,2 h 5 c 1.036219,0 1.599609,-0.488281 1.599609,-0.488281 l 2.761719,-1.873047 C 13.361328,13.638672 14,13.328765 14,12 V 2 C 14,0.892 13.108,0 12,0 Z m 1,2 h 6 V 7 H 5 Z m 5,7 c 0.552285,0 1,0.4477153 1,1 0,0.552285 -0.447715,1 -1,1 C 9.4477153,11 9,10.552285 9,10 9,9.4477153 9.4477153,9 10,9 Z m -3,2 c 0.5522847,0 1,0.447715 1,1 0,0.552285 -0.4477153,1 -1,1 -0.5522847,0 -1,-0.447715 -1,-1 0,-0.552285 0.4477153,-1 1,-1 z" />
+     d="M 4,0 C 2.892,0 2,0.892 2,2 v 12 c 0,1.108 0.892,2 2,2 h 5 c 1.036219,0 1.599609,-0.488281 1.599609,-0.488281 l 2.761719,-1.873047 C 13.361328,13.638672 14,13.328765 14,12 V 2 C 14,0.892 13.108,0 12,0 Z m 1,2 h 6 V 7 H 5 Z m 5,7 c 0.552285,0 1,0.4477153 1,1 0,0.552285 -0.447715,1 -1,1 C 9.447715,11 9,10.552285 9,10 9,9.4477153 9.447715,9 10,9 Z m -3,2 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z" />
 </svg>
