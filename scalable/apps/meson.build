@@ -459,6 +459,7 @@ regular_files = [
     'xsane.svg',
     'yandex-browser.svg',
     'youtube-music.svg',
+    'youtube.svg',
     'yuzu.svg',
     'zaproxy.svg',
     'zathura.svg',
@@ -1373,6 +1374,10 @@ link_files = {
     'figma.svg': [
         'figma-linux.svg',
         'io.github.Figma_Linux.figma_linux.svg',
+    ],
+    'youtube.svg': [
+        'eu.tiliado.NuvolaAppYoutube.svg',
+        'nuvolaplayer3_youtube.svg',
     ],
     'betterbird.svg': [
         'eu.betterbird.Betterbird.svg',

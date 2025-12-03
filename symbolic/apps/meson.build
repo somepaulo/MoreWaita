@@ -431,6 +431,7 @@ regular_files = [
     'xsane-symbolic.svg',
     'yandex-browser-symbolic.svg',
     'youtube-music-symbolic.svg',
+    'youtube-symbolic.svg',
     'yuzu-symbolic.svg',
     'zaproxy-symbolic.svg',
     'zathura-symbolic.svg',
@@ -1325,6 +1326,10 @@ link_files = {
     'figma-symbolic.svg': [
         'figma-linux-symbolic.svg',
         'io.github.Figma_Linux.figma_linux-symbolic.svg',
+    ],
+    'youtube-symbolic.svg': [
+        'eu.tiliado.NuvolaAppYoutube-symbolic.svg',
+        'nuvolaplayer3_youtube-symbolic.svg',
     ],
     'betterbird-symbolic.svg': [
         'eu.betterbird.Betterbird-symbolic.svg',
