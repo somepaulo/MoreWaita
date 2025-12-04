@@ -53,6 +53,7 @@ regular_files = [
     'cherry-studio-symbolic.svg',
     'cider-symbolic.svg',
     'cinecred-symbolic.svg',
+    'cities-skylines-2-symbolic.svg',
     'ckb-next-symbolic.svg',
     'clamtk-symbolic.svg',
     'classicube-symbolic.svg',
@@ -931,6 +932,10 @@ link_files = {
     'stardew-valley-symbolic.svg': [
         'lutris_stardew-valley-symbolic.svg',
         'steam_icon_413150-symbolic.svg',
+    ],
+    'cities-skylines-2-symbolic.svg': [
+        'lutris_cities-skylines-2-symbolic.svg',
+        'steam_icon_949230-symbolic.svg',
     ],
     'minetest-symbolic.svg': [
         'luanti-symbolic.svg',

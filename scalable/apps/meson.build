@@ -59,6 +59,7 @@ regular_files = [
     'chromium-browser.svg',
     'cider.svg',
     'cinecred.svg',
+    'cities-skylines-2.svg',
     'ckb-next.svg',
     'clamtk.svg',
     'classicube.svg',
@@ -964,6 +965,10 @@ link_files = {
     'stardew-valley.svg': [
         'lutris_stardew-valley.svg',
         'steam_icon_413150.svg',
+    ],
+    'cities-skylines-2.svg': [
+        'lutris_cities-skylines-2.svg',
+        'steam_icon_949230.svg',
     ],
     'minetest.svg': [
         'luanti.svg',
