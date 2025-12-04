@@ -394,6 +394,7 @@ regular_files = [
     'spyder.svg',
     'sqlitebrowser.svg',
     'standard-notes.svg',
+    'stardew-valley.svg',
     'steam-icon.svg',
     'stellarium.svg',
     'stoken-gui.svg',
@@ -959,6 +960,10 @@ link_files = {
     ],
     'thedarkmod.svg': [
         'lutris_the-dark-mod.svg',
+    ],
+    'stardew-valley.svg': [
+        'lutris_stardew-valley.svg',
+        'steam_icon_413150.svg',
     ],
     'minetest.svg': [
         'luanti.svg',
