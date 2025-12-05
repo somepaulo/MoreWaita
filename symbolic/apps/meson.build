@@ -389,6 +389,7 @@ regular_files = [
     'tenacity-symbolic.svg',
     'texstudio-symbolic.svg',
     'texts-symbolic.svg',
+    'the-sims-4-symbolic.svg',
     'thedarkmod-symbolic.svg',
     'throne-symbolic.svg',
     'thunderbird-symbolic.svg',
@@ -925,6 +926,10 @@ link_files = {
     'xonotic-symbolic.svg': [
         'lutris_xonotic-symbolic.svg',
         'org.xonotic.Xonotic-symbolic.svg',
+    ],
+    'the-sims-4-symbolic.svg': [
+        'lutris_the-sims-4-symbolic.svg',
+        'steam_icon_1222670-symbolic.svg',
     ],
     'thedarkmod-symbolic.svg': [
         'lutris_the-dark-mod-symbolic.svg',

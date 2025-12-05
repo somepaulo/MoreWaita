@@ -415,6 +415,7 @@ regular_files = [
     'texmaker.svg',
     'texstudio.svg',
     'texts.svg',
+    'the-sims-4.svg',
     'thedarkmod.svg',
     'throne.svg',
     'thunderbird.svg',
@@ -958,6 +959,10 @@ link_files = {
     'xonotic.svg': [
         'lutris_xonotic.svg',
         'org.xonotic.Xonotic.svg',
+    ],
+    'the-sims-4.svg': [
+        'lutris_the-sims-4.svg',
+        'steam_icon_1222670.svg',
     ],
     'thedarkmod.svg': [
         'lutris_the-dark-mod.svg',
