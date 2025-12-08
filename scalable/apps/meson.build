@@ -468,6 +468,7 @@ regular_files = [
     'xemu.svg',
     'xonotic.svg',
     'xsane.svg',
+    'xterm.svg',
     'yandex-browser.svg',
     'youtube-music.svg',
     'youtube.svg',
@@ -1325,6 +1326,11 @@ link_files = {
         'godot-mono.svg',
         'lutris_godot-engine.svg',
         'org.godotengine.Godot.svg',
+    ],
+    'xterm.svg': [
+        'gnome-xterm.svg',
+        'mini.xterm.svg',
+        'xterm-color.svg',
     ],
     'kruler.svg': [
         'gnome-screenruler.svg',

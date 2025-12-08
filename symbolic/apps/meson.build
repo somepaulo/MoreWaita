@@ -439,6 +439,7 @@ regular_files = [
     'xemu-symbolic.svg',
     'xonotic-symbolic.svg',
     'xsane-symbolic.svg',
+    'xterm-symbolic.svg',
     'yandex-browser-symbolic.svg',
     'youtube-music-symbolic.svg',
     'youtube-symbolic.svg',
@@ -1283,6 +1284,11 @@ link_files = {
         'godot-mono-symbolic.svg',
         'lutris_godot-engine-symbolic.svg',
         'org.godotengine.Godot-symbolic.svg',
+    ],
+    'xterm-symbolic.svg': [
+        'gnome-xterm-symbolic.svg',
+        'mini.xterm-symbolic.svg',
+        'xterm-color-symbolic.svg',
     ],
     'kruler-symbolic.svg': [
         'gnome-screenruler-symbolic.svg',

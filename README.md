@@ -487,6 +487,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/xemu.svg "xemu")
 ![icon](./scalable/apps/xonotic.svg "Xonotic")
 ![icon](./scalable/apps/xsane.svg "xSane")
+![icon](./scalable/apps/xterm.svg "xterm")
 ![icon](./scalable/apps/yandex-browser.svg "Yandex Browser")
 ![icon](./scalable/apps/youtube.svg "YouTube")
 ![icon](./scalable/apps/youtube-music.svg "YT Music")
