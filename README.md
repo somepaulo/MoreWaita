@@ -103,6 +103,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/discord-canary.svg "Discord Canary")
 ![icon](./scalable/apps/org.DolphinEmu.dolphin-emu.svg "Dolphin Emulator")
 ![icon](./scalable/apps/ringracers.svg "Dr. Robotnik's Ring Racers")
+![icon](./scalable/apps/dosbox-staging.svg "DOSBox Staging")
 ![icon](./scalable/apps/drawio.svg "Draw.io")
 ![icon](./scalable/apps/dropbox.svg "Dropbox")
 ![icon](./scalable/apps/dune3d.svg "Dune3D")

@@ -88,6 +88,7 @@ regular_files = [
     'dev.deedles.Trayscale-symbolic.svg',
     'devpod-symbolic.svg',
     'discord-symbolic.svg',
+    'dosbox-staging-symbolic.svg',
     'drawio-symbolic.svg',
     'dropbox-symbolic.svg',
     'dune3d-symbolic.svg',
@@ -302,6 +303,7 @@ regular_files = [
     'pinta-symbolic.svg',
     'pixelwheels-symbolic.svg',
     'plugdata-symbolic.svg',
+    'podman-desktop-symbolic.svg',
     'polychromatic-symbolic.svg',
     'popcorntime-symbolic.svg',
     'portmaster-symbolic.svg',
@@ -1118,6 +1120,9 @@ link_files = {
         'jasp-desktop-symbolic.svg',
         'org.jaspstats.JASP-symbolic.svg',
     ],
+    'podman-desktop-symbolic.svg': [
+        'io.podman_desktop.PodmanDesktop-symbolic.svg',
+    ],
     'nvim-symbolic.svg': [
         'io.neovim.nvim-symbolic.svg',
         'nvim-gtk-symbolic.svg',
@@ -1194,6 +1199,10 @@ link_files = {
     ],
     'boxbuddyrs-symbolic.svg': [
         'io.github.dvlv.boxbuddyrs-symbolic.svg',
+    ],
+    'dosbox-staging-symbolic.svg': [
+        'io.github.dosbox-staging-symbolic.svg',
+        'org.dosbox-staging.dosbox-staging-symbolic.svg',
     ],
     'coppwr-symbolic.svg': [
         'io.github.dimtpap.coppwr-symbolic.svg',

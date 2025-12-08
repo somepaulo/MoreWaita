@@ -96,6 +96,7 @@ regular_files = [
     'devpod.svg',
     'discord-canary.svg',
     'discord.svg',
+    'dosbox-staging.svg',
     'drawio.svg',
     'dropbox.svg',
     'dune3d.svg',
@@ -327,6 +328,7 @@ regular_files = [
     'pinta.svg',
     'pixelwheels.svg',
     'plugdata.svg',
+    'podman-desktop.svg',
     'polychromatic.svg',
     'popcorntime.svg',
     'portmaster.svg',
@@ -1156,6 +1158,9 @@ link_files = {
         'jasp-desktop.svg',
         'org.jaspstats.JASP.svg',
     ],
+    'podman-desktop.svg': [
+        'io.podman_desktop.PodmanDesktop.svg',
+    ],
     'nvim.svg': [
         'io.neovim.nvim.svg',
         'nvim-gtk.svg',
@@ -1236,6 +1241,10 @@ link_files = {
     ],
     'boxbuddyrs.svg': [
         'io.github.dvlv.boxbuddyrs.svg',
+    ],
+    'dosbox-staging.svg': [
+        'io.github.dosbox-staging.svg',
+        'org.dosbox-staging.dosbox-staging.svg',
     ],
     'coppwr.svg': [
         'io.github.dimtpap.coppwr.svg',
