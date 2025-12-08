@@ -375,6 +375,7 @@ regular_files = [
     'standard-notes-symbolic.svg',
     'stardew-valley-symbolic.svg',
     'steam-icon-symbolic.svg',
+    'steamvr-symbolic.svg',
     'stellarium-symbolic.svg',
     'stoken-gui-symbolic.svg',
     'strawberry-symbolic.svg',
@@ -1832,6 +1833,10 @@ link_files = {
         'us.zoom.Zoom-symbolic.svg',
         'zoom-desktop-symbolic.svg',
         'zoom-icon-symbolic.svg',
+    ],
+    'steamvr-symbolic.svg': [
+        'application-x-vrmonitor-symbolic.svg',
+        'steam_icon_250820-symbolic.svg',
     ],
     'zoho-mail-symbolic.svg': [
         'appimagekit-zoho-mail-desktop-symbolic.svg',

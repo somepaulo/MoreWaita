@@ -401,6 +401,7 @@ regular_files = [
     'standard-notes.svg',
     'stardew-valley.svg',
     'steam-icon.svg',
+    'steamvr.svg',
     'stellarium.svg',
     'stoken-gui.svg',
     'strawberry.svg',
@@ -1896,6 +1897,10 @@ link_files = {
         'us.zoom.Zoom.svg',
         'zoom-desktop.svg',
         'zoom-icon.svg',
+    ],
+    'steamvr.svg': [
+        'application-x-vrmonitor.svg',
+        'steam_icon_250820.svg',
     ],
     'zoho-mail.svg': [
         'appimagekit-zoho-mail-desktop.svg',

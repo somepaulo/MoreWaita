@@ -420,6 +420,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/standard-notes.svg "Standard Notes")
 ![icon](./scalable/apps/stardew-valley.svg "Stardew Valley")
 ![icon](./scalable/apps/steam-icon.svg "Steam")
+![icon](./scalable/apps/steamvr.svg "SteamVR")
 ![icon](./scalable/apps/stellarium.svg "Stellarium")
 ![icon](./scalable/apps/strawberry.svg "Strawberry")
 ![icon](./scalable/apps/studioone7.svg "Studio One")
