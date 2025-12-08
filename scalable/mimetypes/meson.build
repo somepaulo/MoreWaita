@@ -114,6 +114,8 @@ regular_files = [
     'text-x-gettext-translation-template.svg',
     'text-x-gettext-translation.svg',
     'text-x-go.svg',
+    'text-x-gradle-kotlin.svg',
+    'text-x-gradle.svg',
     'text-x-java.svg',
     'text-x-javascript.svg',
     'text-x-julia.svg',
