@@ -180,6 +180,7 @@ regular_files = [
     'hydrogen.svg',
     'input-remapper.svg',
     'insomnia.svg',
+    'instagram.svg',
     'intellij.svg',
     'interstellar.svg',
     'io.element.Element.svg',

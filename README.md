@@ -191,6 +191,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/org.inkscape.Inkscape.svg "Inkscape")
 ![icon](./scalable/apps/input-remapper.svg "Input Remapper")
 ![icon](./scalable/apps/insomnia.svg "Insomnia")
+![icon](./scalable/apps/instagram.svg "Instagram")
 ![icon](./scalable/apps/interstellar.svg "Interstellar")
 ![icon](./scalable/apps/jasp.svg "JASP")
 ![icon](./scalable/apps/java-openjdk.svg "Java")

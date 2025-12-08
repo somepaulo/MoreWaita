@@ -168,6 +168,7 @@ regular_files = [
     'hydrogen-symbolic.svg',
     'input-remapper-symbolic.svg',
     'insomnia-symbolic.svg',
+    'instagram-symbolic.svg',
     'intellij-symbolic.svg',
     'interstellar-symbolic.svg',
     'io.element.Element-symbolic.svg',
