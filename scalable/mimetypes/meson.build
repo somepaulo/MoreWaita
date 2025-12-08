@@ -99,6 +99,7 @@ regular_files = [
     'text-pureDataPatch.svg',
     'text-rust.svg',
     'text-x-arduino.svg',
+    'text-x-ass.svg',
     'text-x-bibtex.svg',
     'text-x-c.svg',
     'text-x-chdr.svg',
@@ -155,6 +156,9 @@ link_files = {
     'text-x-tex.svg': [
         'text-x-stex.svg',
         'text-x-texinfo.svg',
+    ],
+    'text-x-ass.svg': [
+        'text-x-ssa.svg',
     ],
     'text-x-python.svg': [
         'text-x-python3.svg',

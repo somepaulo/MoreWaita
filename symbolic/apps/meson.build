@@ -15,6 +15,7 @@ regular_files = [
     'TeamViewer-symbolic.svg',
     'Zoom-symbolic.svg',
     'abiword-symbolic.svg',
+    'aegisub-symbolic.svg',
     'affinity-symbolic.svg',
     'alacritty-symbolic.svg',
     'androidstudio-symbolic.svg',
@@ -798,6 +799,9 @@ link_files = {
     ],
     'audacity-symbolic.svg': [
         'org.audacityteam.Audacity-symbolic.svg',
+    ],
+    'aegisub-symbolic.svg': [
+        'org.aegisub.Aegisub-symbolic.svg',
     ],
     'openshot-symbolic.svg': [
         'openshot-qt-symbolic.svg',

@@ -15,6 +15,7 @@ regular_files = [
     'TeamViewer.svg',
     'Zoom.svg',
     'abiword.svg',
+    'aegisub.svg',
     'affinity.svg',
     'alacarte.svg',
     'alacritty.svg',
@@ -833,6 +834,9 @@ link_files = {
     ],
     'audacity.svg': [
         'org.audacityteam.Audacity.svg',
+    ],
+    'aegisub.svg': [
+        'org.aegisub.Aegisub.svg',
     ],
     'openshot.svg': [
         'openshot-qt.svg',
