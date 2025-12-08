@@ -337,6 +337,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/pinta.svg "Pinta")
 ![icon](./scalable/apps/pixelwheels.svg "Pixel Wheels")
 ![icon](./scalable/apps/plugdata.svg "plugdata")
+![icon](./scalable/apps/podman-desktop.svg "Podman Desktop")
 ![icon](./scalable/apps/net.poedit.Poedit.svg "Poedit")
 ![icon](./scalable/apps/polychromatic.svg "Polychromatic")
 ![icon](./scalable/apps/popcorntime.svg "Popcorn Time")
