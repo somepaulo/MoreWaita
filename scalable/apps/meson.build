@@ -455,6 +455,7 @@ regular_files = [
     'whatsapp-business.svg',
     'whatsapp.svg',
     'windscribe.svg',
+    'wine.svg',
     'wireshark.svg',
     'wonderpen.svg',
     'xdvi.svg',
@@ -602,6 +603,9 @@ link_files = {
     ],
     'warpinator.svg': [
         'org.x.Warpinator.svg',
+    ],
+    'wine.svg': [
+        'org.winehq.Wine.svg',
     ],
     'virt-manager.svg': [
         'org.virt_manager.virt-manager.svg',

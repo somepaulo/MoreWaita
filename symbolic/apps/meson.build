@@ -427,6 +427,7 @@ regular_files = [
     'whatsapp-business-symbolic.svg',
     'whatsapp-symbolic.svg',
     'windscribe-symbolic.svg',
+    'wine-symbolic.svg',
     'wireshark-symbolic.svg',
     'wonderpen-symbolic.svg',
     'xdvi-symbolic.svg',
@@ -578,6 +579,9 @@ link_files = {
     ],
     'warpinator-symbolic.svg': [
         'org.x.Warpinator-symbolic.svg',
+    ],
+    'wine-symbolic.svg': [
+        'org.winehq.Wine-symbolic.svg',
     ],
     'virt-manager-symbolic.svg': [
         'org.virt_manager.virt-manager-symbolic.svg',
