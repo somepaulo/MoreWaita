@@ -173,6 +173,7 @@ regular_files = [
     'gufw.svg',
     'hardinfo.svg',
     'headlines.svg',
+    'hedgemodmanager.svg',
     'helio-workstation.svg',
     'helix.svg',
     'heroic.svg',
@@ -181,6 +182,7 @@ regular_files = [
     'hu.irl.cameractrls.svg',
     'hwloc.svg',
     'hydrogen.svg',
+    'input-leap.svg',
     'input-remapper.svg',
     'insomnia.svg',
     'instagram.svg',
@@ -1238,6 +1240,12 @@ link_files = {
     ],
     'linux-assistant.svg': [
         'io.github.jean28518.Linux-Assistant.svg',
+    ],
+    'input-leap.svg': [
+        'io.github.input_leap.input-leap.svg',
+    ],
+    'hedgemodmanager.svg': [
+        'io.github.hedge_dev.hedgemodmanager.svg',
     ],
     'boxbuddyrs.svg': [
         'io.github.dvlv.boxbuddyrs.svg',

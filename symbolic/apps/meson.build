@@ -161,6 +161,7 @@ regular_files = [
     'gufw-symbolic.svg',
     'hardinfo-symbolic.svg',
     'headlines-symbolic.svg',
+    'hedgemodmanager-symbolic.svg',
     'helio-workstation-symbolic.svg',
     'helix-symbolic.svg',
     'heroic-symbolic.svg',
@@ -168,6 +169,7 @@ regular_files = [
     'htop-symbolic.svg',
     'hu.irl.cameractrls-symbolic.svg',
     'hydrogen-symbolic.svg',
+    'input-leap-symbolic.svg',
     'input-remapper-symbolic.svg',
     'insomnia-symbolic.svg',
     'instagram-symbolic.svg',
@@ -1196,6 +1198,12 @@ link_files = {
     ],
     'linux-assistant-symbolic.svg': [
         'io.github.jean28518.Linux-Assistant-symbolic.svg',
+    ],
+    'input-leap-symbolic.svg': [
+        'io.github.input_leap.input-leap-symbolic.svg',
+    ],
+    'hedgemodmanager-symbolic.svg': [
+        'io.github.hedge_dev.hedgemodmanager-symbolic.svg',
     ],
     'boxbuddyrs-symbolic.svg': [
         'io.github.dvlv.boxbuddyrs-symbolic.svg',
