@@ -1658,6 +1658,7 @@ link_files = {
         'chromium-freeworld-symbolic.svg',
         'chromium-symbolic.svg',
         'com.google.Chrome-symbolic.svg',
+        'com.google.ChromeDev-symbolic.svg',
         'google-chrome2-symbolic.svg',
         'googlechrome-symbolic.svg',
         'org.chromium.Chromium-symbolic.svg',

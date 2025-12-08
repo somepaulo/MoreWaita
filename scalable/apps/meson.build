@@ -71,6 +71,7 @@ regular_files = [
     'codeblocks.svg',
     'com.fender.studio.svg',
     'com.github.rafostar.Clapper.svg',
+    'com.google.ChromeDev.svg',
     'com.obsproject.Studio.svg',
     'com.tonikelope.MegaBasterd.svg',
     'coolercontrol.svg',
