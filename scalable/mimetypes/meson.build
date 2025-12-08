@@ -3,6 +3,8 @@ scalable_mimes_iconsdir = join_paths(scalable_iconsdir, 'mimetypes')
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'android-package-archive.svg',
+    'application-affinity-template.svg',
+    'application-affinity.svg',
     'application-epub+zip.svg',
     'application-illustrator.svg',
     'application-json.svg',

@@ -14,6 +14,7 @@ regular_files = [
     'TeamViewer-symbolic.svg',
     'Zoom-symbolic.svg',
     'abiword-symbolic.svg',
+    'affinity-symbolic.svg',
     'alacritty-symbolic.svg',
     'androidstudio-symbolic.svg',
     'anki-symbolic.svg',

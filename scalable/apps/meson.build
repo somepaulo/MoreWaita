@@ -14,6 +14,7 @@ regular_files = [
     'TeamViewer.svg',
     'Zoom.svg',
     'abiword.svg',
+    'affinity.svg',
     'alacarte.svg',
     'alacritty.svg',
     'android-studio-canary.svg',

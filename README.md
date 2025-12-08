@@ -25,6 +25,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <summary><h3>Apps</h3> <em>(expand)</em></summary>
 
 ![icon](./scalable/apps/abiword.svg "Abiword")
+![icon](./scalable/apps/affinity.svg "Affinity")
 ![icon](./scalable/apps/gnome-aisleriot.svg "Aisleriot Solitaire")
 ![icon](./scalable/apps/alacarte.svg "Alacarte")
 ![icon](./scalable/apps/alacritty.svg "Alacritty")
@@ -508,6 +509,8 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/application-x-adobe-indesign.svg "Adobe InDesign")
 ![icon](./scalable/mimetypes/application-x-photoshop.svg "Adobe Photoshop")
 ![icon](./scalable/mimetypes/application-vnd.adobe.xd.svg "Adobe XD")
+![icon](./scalable/mimetypes/application-affinity.svg "Affinity")
+![icon](./scalable/mimetypes/application-affinity-template.svg "Affinity template")
 ![icon](./scalable/mimetypes/android-package-archive.svg "APK")
 ![icon](./scalable/mimetypes/application-x-iso9600-appimage.svg "AppImage")
 ![icon](./scalable/mimetypes/text-x-arduino.svg "Arduino")
