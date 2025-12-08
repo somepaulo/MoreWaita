@@ -368,6 +368,7 @@ regular_files = [
     'sonar-symbolic.svg',
     'sound-juicer-symbolic.svg',
     'soundconverter-symbolic.svg',
+    'soundux-symbolic.svg',
     'spek-symbolic.svg',
     'spotify-symbolic.svg',
     'spyder-symbolic.svg',
@@ -1209,6 +1210,9 @@ link_files = {
     ],
     'GPU_Viewer-symbolic.svg': [
         'io.github.arunsivaramanneo.GPUViewer-symbolic.svg',
+    ],
+    'soundux-symbolic.svg': [
+        'io.github.Soundux-symbolic.svg',
     ],
     'opentoonz-symbolic.svg': [
         'io.github.OpenToonz-symbolic.svg',

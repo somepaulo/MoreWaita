@@ -412,6 +412,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/sonar.svg "Sonar")
 ![icon](./scalable/apps/soundconverter.svg "Sound Converter")
 ![icon](./scalable/apps/sound-juicer.svg "Sound Juicer")
+![icon](./scalable/apps/soundus.svg "Soundux")
 ![icon](./scalable/apps/spek.svg "Spek")
 ![icon](./scalable/apps/spotify.svg "Spotify")
 ![icon](./scalable/apps/spyder.svg "Spyder")

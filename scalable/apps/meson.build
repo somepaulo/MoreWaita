@@ -393,6 +393,7 @@ regular_files = [
     'sonar.svg',
     'sound-juicer.svg',
     'soundconverter.svg',
+    'soundux.svg',
     'spek.svg',
     'spotify.svg',
     'spyder.svg',
@@ -1254,6 +1255,9 @@ link_files = {
     ],
     'mousam.svg': [
         'io.github.amit9838.mousam.svg',
+    ],
+    'soundux.svg': [
+        'io.github.Soundux.svg',
     ],
     'opentoonz.svg': [
         'io.github.OpenToonz.svg',
