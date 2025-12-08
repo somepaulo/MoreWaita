@@ -4,6 +4,7 @@ regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     '0ad-symbolic.svg',
     '1password-symbolic.svg',
+    'AmneziaVPN-symbolic.svg',
     'CMakeSetup-symbolic.svg',
     'GPU_Viewer-symbolic.svg',
     'GrandOrgue-symbolic.svg',
