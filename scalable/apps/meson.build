@@ -22,6 +22,7 @@ regular_files = [
     'android-studio-canary.svg',
     'androidstudio.svg',
     'anki.svg',
+    'antimicrox.svg',
     'anydesk.svg',
     'anytype.svg',
     'app.bluebubbles.BlueBubbles.svg',
@@ -2082,6 +2083,10 @@ link_files = {
     'polychromatic.svg': [
         'app.polychromatic.controller.svg',
         'polychromatic-controller.svg',
+    ],
+    'antimicrox.svg': [
+        'antimicro.svg',
+        'io.github.antimicrox.antimicrox.svg',
     ],
     'androidstudio.svg': [
         'android-studio.svg',

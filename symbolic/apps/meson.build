@@ -20,6 +20,7 @@ regular_files = [
     'alacritty-symbolic.svg',
     'androidstudio-symbolic.svg',
     'anki-symbolic.svg',
+    'antimicrox-symbolic.svg',
     'anydesk-symbolic.svg',
     'anytype-symbolic.svg',
     'app.bluebubbles.BlueBubbles-symbolic.svg',
@@ -2018,6 +2019,10 @@ link_files = {
     'polychromatic-symbolic.svg': [
         'app.polychromatic.controller-symbolic.svg',
         'polychromatic-controller-symbolic.svg',
+    ],
+    'antimicrox-symbolic.svg': [
+        'antimicro-symbolic.svg',
+        'io.github.antimicrox.antimicrox-symbolic.svg',
     ],
     'androidstudio-symbolic.svg': [
         'android-studio-beta-symbolic.svg',
