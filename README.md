@@ -33,6 +33,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/AmneziaVPN.svg "Amnezia VPN")
 ![icon](./scalable/apps/androidstudio.svg "Android Studio")
 ![icon](./scalable/apps/android-studio-canary.svg "Android Studio Canary")
+![icon](./scalable/apps/angryip.svg "Angry IP Scanner")
 ![icon](./scalable/apps/anki.svg "Anki")
 ![icon](./scalable/apps/antimicrox.svg "AntiMicroX")
 ![icon](./scalable/apps/anydesk.svg "AnyDesk")

@@ -21,6 +21,7 @@ regular_files = [
     'alacritty.svg',
     'android-studio-canary.svg',
     'androidstudio.svg',
+    'angryip.svg',
     'anki.svg',
     'antimicrox.svg',
     'anydesk.svg',
@@ -835,6 +836,9 @@ link_files = {
     ],
     'audacity.svg': [
         'org.audacityteam.Audacity.svg',
+    ],
+    'angryip.svg': [
+        'org.angryip.ipscan.svg',
     ],
     'aegisub.svg': [
         'org.aegisub.Aegisub.svg',

@@ -19,6 +19,7 @@ regular_files = [
     'affinity-symbolic.svg',
     'alacritty-symbolic.svg',
     'androidstudio-symbolic.svg',
+    'angryip-symbolic.svg',
     'anki-symbolic.svg',
     'antimicrox-symbolic.svg',
     'anydesk-symbolic.svg',
@@ -800,6 +801,9 @@ link_files = {
     ],
     'audacity-symbolic.svg': [
         'org.audacityteam.Audacity-symbolic.svg',
+    ],
+    'angryip-symbolic.svg': [
+        'org.angryip.ipscan-symbolic.svg',
     ],
     'aegisub-symbolic.svg': [
         'org.aegisub.Aegisub-symbolic.svg',
