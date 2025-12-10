@@ -368,6 +368,7 @@ regular_files = [
     'qv4l2.svg',
     'rawtherapee.svg',
     'remmina.svg',
+    'remnote.svg',
     'resolve.svg',
     'retroarch.svg',
     'revolt-desktop.svg',

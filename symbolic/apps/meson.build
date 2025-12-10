@@ -343,6 +343,7 @@ regular_files = [
     'qv4l2-symbolic.svg',
     'rawtherapee-symbolic.svg',
     'remmina-symbolic.svg',
+    'remnote-symbolic.svg',
     'resolve-symbolic.svg',
     'retroarch-symbolic.svg',
     'revolt-desktop-symbolic.svg',
