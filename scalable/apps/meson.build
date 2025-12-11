@@ -179,6 +179,7 @@ regular_files = [
     'headlines.svg',
     'hedgemodmanager.svg',
     'helio-workstation.svg',
+    'helium.svg',
     'helix.svg',
     'heroic.svg',
     'hp_logo.svg',
@@ -226,6 +227,7 @@ regular_files = [
     'lapce.svg',
     'lazarus.svg',
     'lazpaint.svg',
+    'legcord.svg',
     'leocad.svg',
     'libre-menu-editor.svg',
     'librecad.svg',
@@ -1329,6 +1331,9 @@ link_files = {
         'hplip.svg',
         'hplj1020_icon.svg',
     ],
+    'helium.svg': [
+        'helium-browser.svg',
+    ],
     'hardinfo.svg': [
         'hardinfo2.svg',
     ],
@@ -2092,6 +2097,9 @@ link_files = {
     'polychromatic.svg': [
         'app.polychromatic.controller.svg',
         'polychromatic-controller.svg',
+    ],
+    'legcord.svg': [
+        'app.legcord.Legcord.svg',
     ],
     'antimicrox.svg': [
         'antimicro.svg',

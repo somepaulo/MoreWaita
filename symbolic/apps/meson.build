@@ -167,6 +167,7 @@ regular_files = [
     'headlines-symbolic.svg',
     'hedgemodmanager-symbolic.svg',
     'helio-workstation-symbolic.svg',
+    'helium-symbolic.svg',
     'helix-symbolic.svg',
     'heroic-symbolic.svg',
     'hp_logo-symbolic.svg',
@@ -209,6 +210,7 @@ regular_files = [
     'lapce-symbolic.svg',
     'lazarus-symbolic.svg',
     'lazpaint-symbolic.svg',
+    'legcord-symbolic.svg',
     'leocad-symbolic.svg',
     'librecad-symbolic.svg',
     'libreoffice-base-symbolic.svg',
@@ -1284,6 +1286,9 @@ link_files = {
         'hplip-symbolic.svg',
         'hplj1020_icon-symbolic.svg',
     ],
+    'helium-symbolic.svg': [
+        'helium-browser-symbolic.svg',
+    ],
     'hardinfo-symbolic.svg': [
         'hardinfo2-symbolic.svg',
         'hwloc-symbolic.svg',
@@ -2028,6 +2033,9 @@ link_files = {
     'polychromatic-symbolic.svg': [
         'app.polychromatic.controller-symbolic.svg',
         'polychromatic-controller-symbolic.svg',
+    ],
+    'legcord-symbolic.svg': [
+        'app.legcord.Legcord-symbolic.svg',
     ],
     'antimicrox-symbolic.svg': [
         'antimicro-symbolic.svg',

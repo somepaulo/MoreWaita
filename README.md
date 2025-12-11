@@ -191,6 +191,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/headlines.svg "Headlines")
 ![icon](./scalable/apps/hedgemodmanager.svg "Hedge Mod Manager")
 ![icon](./scalable/apps/helio-workstation.svg "Helio")
+![icon](./scalable/apps/helium.svg "Helium")
 ![icon](./scalable/apps/helix.svg "Helix")
 ![icon](./scalable/apps/heroic.svg "Heroic Launcher")
 ![icon](./scalable/apps/hp_logo.svg "HP")
