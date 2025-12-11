@@ -148,6 +148,7 @@ regular_files = [
     'godot-symbolic.svg',
     'goland-symbolic.svg',
     'gonnect-symbolic.svg',
+    'goofcord-symbolic.svg',
     'google-chrome-symbolic.svg',
     'google-docs-symbolic.svg',
     'google-earth-symbolic.svg',
@@ -1193,6 +1194,9 @@ link_files = {
     'nelson-symbolic.svg': [
         'io.github.nelson_lang.Nelson-symbolic.svg',
         'nelson-desktop-symbolic.svg',
+    ],
+    'goofcord-symbolic.svg': [
+        'io.github.milkshiift.GoofCord-symbolic.svg',
     ],
     'gimagereader-symbolic.svg': [
         'io.github.manisandro.gImageReader-symbolic.svg',

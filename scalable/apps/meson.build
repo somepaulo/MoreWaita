@@ -160,6 +160,7 @@ regular_files = [
     'godot.svg',
     'goland.svg',
     'gonnect.svg',
+    'goofcord.svg',
     'google-chrome.svg',
     'google-docs.svg',
     'google-earth.svg',
@@ -1235,6 +1236,9 @@ link_files = {
     'nelson.svg': [
         'io.github.nelson_lang.Nelson.svg',
         'nelson-desktop.svg',
+    ],
+    'goofcord.svg': [
+        'io.github.milkshiift.GoofCord.svg',
     ],
     'gimagereader.svg': [
         'io.github.manisandro.gImageReader.svg',

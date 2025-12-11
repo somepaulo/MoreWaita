@@ -165,6 +165,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/gitkraken.svg "GitKraken")
 ![icon](./scalable/apps/godot.svg "Godot")
 ![icon](./scalable/apps/gonnect.svg "GOnnect")
+![icon](./scalable/apps/gooofcord.svg "GoofCord")
 ![icon](./scalable/apps/google-chrome.svg "Google Chrome")
 ![icon](./scalable/apps/com.google.ChromeDev.svg "Google Chrome Dev")
 ![icon](./scalable/apps/google-earth.svg "Google Earth")
