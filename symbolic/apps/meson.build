@@ -443,7 +443,14 @@ regular_files = [
     'whatsapp-business-symbolic.svg',
     'whatsapp-symbolic.svg',
     'windscribe-symbolic.svg',
+    'wine-help-symbolic.svg',
+    'wine-notepad-symbolic.svg',
     'wine-symbolic.svg',
+    'wine-uninstaller-symbolic.svg',
+    'winecfg-symbolic.svg',
+    'winefile-symbolic.svg',
+    'winemine-symbolic.svg',
+    'winetricks-symbolic.svg',
     'wireshark-symbolic.svg',
     'wonderpen-symbolic.svg',
     'xdvi-symbolic.svg',
@@ -1777,6 +1784,16 @@ link_files = {
     'brave-desktop-symbolic.svg': [
         'brave-browser-symbolic.svg',
         'com.brave.Browser-symbolic.svg',
+    ],
+    'winetricks-symbolic.svg': [
+        'bottles_winetricks-symbolic.svg',
+    ],
+    'winecfg-symbolic.svg': [
+        'bottles_wine-winecfg-symbolic.svg',
+        'wine-winecfg-symbolic.svg',
+    ],
+    'wine-uninstaller-symbolic.svg': [
+        'bottles_wine-uninstaller-symbolic.svg',
     ],
     'xsane-symbolic.svg': [
         'blueman-scanner-symbolic.svg',
