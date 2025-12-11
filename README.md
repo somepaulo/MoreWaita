@@ -243,6 +243,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/lapce.svg "Lapce")
 ![icon](./scalable/apps/lazarus.svg "Lazarus")
 ![icon](./scalable/apps/lazpaint.svg "Lazpaint")
+![icon](./scalable/apps/legcord.svg "Legcord")
 ![icon](./scalable/apps/leocad.svg "LeoCAD")
 ![icon](./scalable/apps/librecad.svg "LibreCAD")
 ![icon](./scalable/apps/libre-menu-editor.svg "Libre Menu Editor")
