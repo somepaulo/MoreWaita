@@ -622,9 +622,6 @@ link_files = {
     'warpinator.svg': [
         'org.x.Warpinator.svg',
     ],
-    'wine.svg': [
-        'org.winehq.Wine.svg',
-    ],
     'virt-manager.svg': [
         'org.virt_manager.virt-manager.svg',
     ],
@@ -2233,6 +2230,12 @@ link_files = {
     'alacritty.svg': [
         'Alacritty.svg',
         'com.alacritty.Alacritty.svg',
+    ],
+    'wine.svg': [
+        '7765_winebrowser.0.svg',
+        'bottles_wine.svg',
+        'deepin-wine-assist.svg',
+        'org.winehq.Wine.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

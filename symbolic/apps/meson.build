@@ -597,9 +597,6 @@ link_files = {
     'warpinator-symbolic.svg': [
         'org.x.Warpinator-symbolic.svg',
     ],
-    'wine-symbolic.svg': [
-        'org.winehq.Wine-symbolic.svg',
-    ],
     'virt-manager-symbolic.svg': [
         'org.virt_manager.virt-manager-symbolic.svg',
     ],
@@ -2171,6 +2168,12 @@ link_files = {
     'alacritty-symbolic.svg': [
         'Alacritty-symbolic.svg',
         'com.alacritty.Alacritty-symbolic.svg',
+    ],
+    'wine-symbolic.svg': [
+        '7765_winebrowser.0-symbolic.svg',
+        'bottles_wine-symbolic.svg',
+        'deepin-wine-assist-symbolic.svg',
+        'org.winehq.Wine-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
