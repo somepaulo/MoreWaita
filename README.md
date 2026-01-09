@@ -545,6 +545,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/application-octet-stream.svg "Binary")
 ![icon](./scalable/mimetypes/application-x-bitwig-studio.svg "Bitwig Studio")
 ![icon](./scalable/mimetypes/com.bitwig.BitwigStudio.audio-x.dawproject.svg "Bitwig Studio Project")
+![icon](./scalable/mimetypes/text-x-blp.svg "Blueprint")
 ![icon](./scalable/mimetypes/text-x-c.svg "C")
 ![icon](./scalable/mimetypes/text-x-chdr.svg "C Header")
 ![icon](./scalable/mimetypes/text-x-cpp.svg "C++")
