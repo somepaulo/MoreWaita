@@ -760,6 +760,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-screencast.svg "Screencast")
 ![icon](./scalable/places/folder-screenshot.svg "Screenshot")
 ![icon](./scalable/places/folder-shell.svg "Shell")
+![icon](./scalable/places/folder-snap.svg "Snap")
 ![icon](./scalable/places/folder-syncthing.svg "Syncthing")
 ![icon](./scalable/places/folder-temp.svg "Temp")
 ![icon](./scalable/places/folder-torrent.svg "Torrent")
