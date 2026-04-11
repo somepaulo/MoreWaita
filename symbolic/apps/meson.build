@@ -62,6 +62,7 @@ regular_files = [
     'ckb-next-symbolic.svg',
     'clamtk-symbolic.svg',
     'classicube-symbolic.svg',
+    'claude-desktop-symbolic.svg',
     'claudia-symbolic.svg',
     'clion-symbolic.svg',
     'cockos-reaper-symbolic.svg',
@@ -69,6 +70,7 @@ regular_files = [
     'codeblocks-symbolic.svg',
     'com.fender.studio-symbolic.svg',
     'com.github.rafostar.Clapper-symbolic.svg',
+    'com.kagi.OrionGtk-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
     'com.tonikelope.MegaBasterd-symbolic.svg',
     'coolercontrol-symbolic.svg',
@@ -1250,6 +1252,9 @@ link_files = {
     ],
     'GPU_Viewer-symbolic.svg': [
         'io.github.arunsivaramanneo.GPUViewer-symbolic.svg',
+    ],
+    'claude-desktop-symbolic.svg': [
+        'io.github.aaddrick.claude-desktop-debian-symbolic.svg',
     ],
     'soundux-symbolic.svg': [
         'io.github.Soundux-symbolic.svg',

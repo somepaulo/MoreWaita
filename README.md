@@ -335,6 +335,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/openshot.svg "OpenShot")
 ![icon](./scalable/apps/opensnitch-ui.svg "Open Snitch")
 ![icon](./scalable/apps/opera.svg "Opera")
+![icon](./scalable/apps/com.kagi.OrionGtk.svg "Orion")
 ![icon](./scalable/apps/osmscout-server.svg "OSM Scout")
 ![icon](./scalable/apps/opentoonz.svg "OpenToonz")
 ![icon](./scalable/apps/osu.svg "Osu")

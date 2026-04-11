@@ -68,6 +68,7 @@ regular_files = [
     'ckb-next.svg',
     'clamtk.svg',
     'classicube.svg',
+    'claude-desktop.svg',
     'claudia.svg',
     'clion.svg',
     'cockos-reaper.svg',
@@ -76,6 +77,7 @@ regular_files = [
     'com.fender.studio.svg',
     'com.github.rafostar.Clapper.svg',
     'com.google.ChromeDev.svg',
+    'com.kagi.OrionGtk.svg',
     'com.obsproject.Studio.svg',
     'com.tonikelope.MegaBasterd.svg',
     'coolercontrol.svg',
@@ -1295,6 +1297,9 @@ link_files = {
     ],
     'mousam.svg': [
         'io.github.amit9838.mousam.svg',
+    ],
+    'claude-desktop.svg': [
+        'io.github.aaddrick.claude-desktop-debian.svg',
     ],
     'soundux.svg': [
         'io.github.Soundux.svg',
