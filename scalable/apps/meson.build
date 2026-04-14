@@ -396,6 +396,7 @@ regular_files = [
     'seabird.svg',
     'session-desktop.svg',
     'setzer.svg',
+    'shelly.svg',
     'shotcut.svg',
     'shotwell.svg',
     'sigil.svg',

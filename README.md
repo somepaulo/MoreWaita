@@ -414,6 +414,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/stoken-gui.svg "Security Token")
 ![icon](./scalable/apps/session-desktop.svg "Session")
 ![icon](./scalable/apps/setzer.svg "Setzer")
+![icon](./scalable/apps/shelly.svg "Shelly")
 ![icon](./scalable/apps/shotwell.svg "Shotwell")
 ![icon](./scalable/apps/one.alynx.showmethekey.svg "Show Me the Key")
 ![icon](./scalable/apps/shotcut.svg "Shotcut")
