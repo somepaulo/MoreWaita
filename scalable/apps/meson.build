@@ -248,6 +248,7 @@ regular_files = [
     'linguist.svg',
     'linux-assistant.svg',
     'linuxthemestore.svg',
+    'littlesnitch.svg',
     'localsend.svg',
     'logseq.svg',
     'lpub3d.svg',

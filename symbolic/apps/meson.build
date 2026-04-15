@@ -230,6 +230,7 @@ regular_files = [
     'linguist-symbolic.svg',
     'linux-assistant-symbolic.svg',
     'linuxthemestore-symbolic.svg',
+    'littlesnitch-symbolic.svg',
     'localsend-symbolic.svg',
     'logseq-symbolic.svg',
     'lpub3d-symbolic.svg',
