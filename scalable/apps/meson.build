@@ -1657,6 +1657,7 @@ link_files = {
     ],
     'rubymine.svg': [
         'com.jetbrains.RubyMine.svg',
+        'ruby-mine.svg',
     ],
     'rider.svg': [
         'com.jetbrains.Rider.svg',
