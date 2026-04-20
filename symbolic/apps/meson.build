@@ -2199,6 +2199,9 @@ link_files = {
         'deepin-wine-assist-symbolic.svg',
         'org.winehq.Wine-symbolic.svg',
     ],
+    'AmneziaVPN-symbolic.svg': [
+        'amnezia-vpn-symbolic.svg',
+    ],
     # DO NOT REMOVE: End of link segment
 }
 
