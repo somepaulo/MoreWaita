@@ -1669,6 +1669,7 @@ link_files = {
         'pycharm-education.svg',
         'pycharm-professional.svg',
         'pycharmedu.svg',
+        'pycharm-oss.svg',
     ],
     'phpstorm.svg': [
         'com.jetbrains.PhpStorm.svg',

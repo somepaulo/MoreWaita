@@ -1614,6 +1614,7 @@ link_files = {
         'pycharm-education-symbolic.svg',
         'pycharm-professional-symbolic.svg',
         'pycharmedu-symbolic.svg',
+        'pycharm-oss-symbolic.svg',
     ],
     'phpstorm-symbolic.svg': [
         'com.jetbrains.PhpStorm-symbolic.svg',
