@@ -1678,6 +1678,7 @@ link_files = {
         'com.jetbrains.IntelliJ-IDEA-Community.svg',
         'com.jetbrains.IntelliJ-IDEA-Ultimate.svg',
         'idea.svg',
+        'idea-oss.svg',
     ],
     'goland.svg': [
         'com.jetbrains.GoLand.svg',
