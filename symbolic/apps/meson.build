@@ -1623,6 +1623,7 @@ link_files = {
         'com.jetbrains.IntelliJ-IDEA-Community-symbolic.svg',
         'com.jetbrains.IntelliJ-IDEA-Ultimate-symbolic.svg',
         'idea-symbolic.svg',
+        'idea-oss-symbolic.svg',
     ],
     'goland-symbolic.svg': [
         'com.jetbrains.GoLand-symbolic.svg',
