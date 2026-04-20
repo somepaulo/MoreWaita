@@ -1653,6 +1653,7 @@ link_files = {
     ],
     'rustrover.svg': [
         'com.jetbrains.RustRover.svg',
+        'rust-rover.svg',
     ],
     'rubymine.svg': [
         'com.jetbrains.RubyMine.svg',
