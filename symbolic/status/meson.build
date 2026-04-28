@@ -23,7 +23,7 @@ regular_files = [
     'protonvpngui-disconnected.svg',
     'protonvpngui-no-network.svg',
     'search-symbolic.svg',
-    'shelly-update.svg',
+    'shelly-updates-symbolic.svg',
     'solaar-attention.svg',
     'solaar-init.svg',
     'state-download.svg',
@@ -53,7 +53,7 @@ regular_files = [
 link_files = {
     # DO NOT REMOVE: Begining of link segment
     '../apps/shelly-symbolic.svg': [
-        'shelly-tray.svg',
+        'shelly-shell-symbolic.svg',
     ],
     'user-status-new.svg': [
         'pidgin-tray-xa.svg',
