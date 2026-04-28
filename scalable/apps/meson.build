@@ -1653,9 +1653,11 @@ link_files = {
     ],
     'rustrover.svg': [
         'com.jetbrains.RustRover.svg',
+        'rust-rover.svg',
     ],
     'rubymine.svg': [
         'com.jetbrains.RubyMine.svg',
+        'ruby-mine.svg',
     ],
     'rider.svg': [
         'com.jetbrains.Rider.svg',
@@ -1667,6 +1669,7 @@ link_files = {
         'pycharm-education.svg',
         'pycharm-professional.svg',
         'pycharmedu.svg',
+        'pycharm-oss.svg',
     ],
     'phpstorm.svg': [
         'com.jetbrains.PhpStorm.svg',
@@ -1675,6 +1678,7 @@ link_files = {
         'com.jetbrains.IntelliJ-IDEA-Community.svg',
         'com.jetbrains.IntelliJ-IDEA-Ultimate.svg',
         'idea.svg',
+        'idea-oss.svg',
     ],
     'goland.svg': [
         'com.jetbrains.GoLand.svg',
@@ -2260,6 +2264,9 @@ link_files = {
         'bottles_wine.svg',
         'deepin-wine-assist.svg',
         'org.winehq.Wine.svg',
+    ],
+    'AmneziaVPN.svg': [
+        'amnezia-vpn.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

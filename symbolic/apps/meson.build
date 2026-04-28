@@ -1598,9 +1598,11 @@ link_files = {
     ],
     'rustrover-symbolic.svg': [
         'com.jetbrains.RustRover-symbolic.svg',
+        'rust-rover-symbolic.svg',
     ],
     'rubymine-symbolic.svg': [
         'com.jetbrains.RubyMine-symbolic.svg',
+        'ruby-mine-symbolic.svg',
     ],
     'rider-symbolic.svg': [
         'com.jetbrains.Rider-symbolic.svg',
@@ -1612,6 +1614,7 @@ link_files = {
         'pycharm-education-symbolic.svg',
         'pycharm-professional-symbolic.svg',
         'pycharmedu-symbolic.svg',
+        'pycharm-oss-symbolic.svg',
     ],
     'phpstorm-symbolic.svg': [
         'com.jetbrains.PhpStorm-symbolic.svg',
@@ -1620,6 +1623,7 @@ link_files = {
         'com.jetbrains.IntelliJ-IDEA-Community-symbolic.svg',
         'com.jetbrains.IntelliJ-IDEA-Ultimate-symbolic.svg',
         'idea-symbolic.svg',
+        'idea-oss-symbolic.svg',
     ],
     'goland-symbolic.svg': [
         'com.jetbrains.GoLand-symbolic.svg',
@@ -2198,6 +2202,9 @@ link_files = {
         'bottles_wine-symbolic.svg',
         'deepin-wine-assist-symbolic.svg',
         'org.winehq.Wine-symbolic.svg',
+    ],
+    'AmneziaVPN-symbolic.svg': [
+        'amnezia-vpn-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
