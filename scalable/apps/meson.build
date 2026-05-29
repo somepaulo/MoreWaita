@@ -484,6 +484,7 @@ regular_files = [
     'winefile.svg',
     'winemine.svg',
     'winetricks.svg',
+    'wine-regedit.svg',
     'wireshark.svg',
     'wonderpen.svg',
     'xdvi.svg',

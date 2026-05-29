@@ -1,1 +1,55 @@
-wine-symbolic.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg4"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <path
+     d="M 2.6123241,0 2.3871907,0.68316351 C 1.4051434,3.6215427 1.2343518,6.1989328 2.1737021,8.1901989 2.9001917,9.7332401 4.3320477,10.768048 6.224163,11.15769 c 0.3508698,0.131025 0.8114757,0.370842 0.9141194,0.751093 0.1086861,0.411451 0.042698,1.261523 -0.019408,1.498301 -0.149643,0.563769 -1.1076674,0.603371 -1.3042216,0.605531 H 5.7797186 4.3241144 c -0.5473067,0 -0.9936922,0.446386 -0.9936922,0.993693 V 16 h 9.3391558 v -0.993692 c 0,-0.547307 -0.446385,-0.993693 -0.993692,-0.993693 h -1.455605 -0.03494 C 9.9887809,14.010429 9.030767,13.97085 8.8811257,13.407084 8.8190199,13.170306 8.7530315,12.320233 8.8617179,11.908783 8.9643615,11.528532 9.4249675,11.288715 9.7758373,11.15769 11.667952,10.768048 13.099808,9.7332401 13.826298,8.1901989 14.765648,6.1989328 14.594857,3.6215427 13.61281,0.68316351 L 13.387676,0 Z m 1.525473,1.9912663 h 7.7244059 c 0.655992,2.3056765 0.710334,4.1999033 0.16691,5.3527414 C 11.427463,8.6210585 10.278506,9.3430374 8,9.3430374 5.7214942,9.3430374 4.5725378,8.6210585 3.9708879,7.3440077 3.4274634,6.1911696 3.4818052,4.2969428 4.1377971,1.9912663 Z"
+     style="fill:#000000;stroke-width:1"
+     id="path5" />
+  <path
+     id="path4"
+     style="fill:#000000;fill-opacity:0.5;stroke-width:1"
+     d="m 6.0126152,4.7743814 c -1.1850719,0 -2.011903,0.2953032 -2.4104803,0.4774381 -0.010235,0.8396949 0.1122774,1.5480928 0.368753,2.0921882 C 4.5725378,8.6210585 5.7214942,9.3430373 8,9.3430373 c 2.278506,0 3.427463,-0.7219788 4.029113,-1.9990296 0.288294,-0.6115974 0.407811,-1.4327658 0.359049,-2.4124211 -0.437432,0.2748865 -1.381256,0.7355653 -2.8044648,0.7355653 -1.1877724,0 -2.0960699,-0.8927705 -3.571082,-0.8927705 z" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Viktoria &quot;gingercat&quot; Zubacheva | gingercat@alt-gnome.ru</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -501,6 +501,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/wine-help.svg "Wine Help")
 ![icon](./scalable/apps/winemine.svg "WineMine")
 ![icon](./scalable/apps/wine-notepad.svg "Wine Notepad")
+![icon](./scalable/apps/wine-regedit.svg "Wine Registry Editor")
 ![icon](./scalable/apps/winetricks.svg "Winetricks")
 ![icon](./scalable/apps/wine-uninstaller.svg "Wine Uninstaller")
 ![icon](./scalable/apps/wireshark.svg "Wireshark")
