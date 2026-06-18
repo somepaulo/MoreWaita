@@ -723,7 +723,7 @@ link_files = {
         'org.mozilla.vpn.svg',
     ],
     'thunderbird.svg': [
-        'org.mozilla.Thunderbird.svg',
+        'org.mozilla.thunderbird.svg',
         'thunderbird-3.0.svg',
         'thunderbird-bin.svg',
         'thunderbird-esr.svg',
