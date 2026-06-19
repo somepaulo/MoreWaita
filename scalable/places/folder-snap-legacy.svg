@@ -5,31 +5,9 @@
    width="128"
    version="1.1"
    id="svg5248"
-   sodipodi:docname="folder-snap-legacy.svg"
-   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="6.328125"
-     inkscape:cx="64"
-     inkscape:cy="64"
-     inkscape:window-width="1920"
-     inkscape:window-height="1012"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg5248" />
   <defs
      id="defs5252">
     <filter
@@ -195,7 +173,7 @@
      transform="matrix(3.4941816,0,0,3.4941816,134.02619,48.099307)"
      style="fill:#3f8ae5;fill-opacity:1;stroke:none;stroke-width:0.893536" />
   <path
-     d="M 40,52 64.000002,81.999999 V 61 Z m 27.000002,9 21,10.499999 L 82.000001,61 Z m 0,3 v 17.999999 l 11.999999,-12 z M 55,75.999999 46,100 64.000002,85 Z"
-     style="opacity:1;fill:#438de6;fill-opacity:1;stroke-width:3"
+     d="m 39.999975,51 24,29.999999 V 60 Z m 27,9 21,10.499999 -6,-10.499999 z m 0,3 v 17.999999 l 12,-12 z m -12,11.999999 -9,24.000001 18,-15 z"
+     style="fill:#438de6;fill-opacity:1;stroke-width:3"
      id="path1" />
 </svg>
