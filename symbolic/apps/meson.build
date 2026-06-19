@@ -691,7 +691,7 @@ link_files = {
         'org.mozilla.vpn-symbolic.svg',
     ],
     'thunderbird-symbolic.svg': [
-        'org.mozilla.Thunderbird-symbolic.svg',
+        'org.mozilla.thunderbird-symbolic.svg',
         'thunderbird-3.0-symbolic.svg',
         'thunderbird-bin-symbolic.svg',
         'thunderbird-esr-symbolic.svg',
