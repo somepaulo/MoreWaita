@@ -101,6 +101,7 @@ regular_files = [
     'text-x-arduino.svg',
     'text-x-ass.svg',
     'text-x-bibtex.svg',
+    'text-x-blp.svg',
     'text-x-c.svg',
     'text-x-chdr.svg',
     'text-x-clojure.svg',
@@ -351,6 +352,11 @@ link_files = {
         'application-x-bps-patch.svg',
         'application-x-bsdiff.svg',
         'application-x-ips-patch.svg',
+    ],
+    'text-x-blp.svg': [
+        'application-x-blueprint.svg',
+        'text-x-blueprint+xml.svg',
+        'text-x-blueprint.svg',
     ],
     'application-x-model.svg': [
         'application-x-blender.svg',
