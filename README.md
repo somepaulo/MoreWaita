@@ -952,10 +952,10 @@ paru morewaita-icon-theme-git
 
 #### Fedora Linux
 
-Install via [@trixieua's COPR](https://copr.fedorainfracloud.org/coprs/trixieua/morewaita-icon-theme):
+Install via [@rivenirvana's COPR](https://copr.fedorainfracloud.org/coprs/rivenirvana/morewaita-icon-theme):
 
 ```sh
-dnf copr enable trixieua/morewaita-icon-theme && dnf install morewaita-icon-theme
+dnf copr enable rivenirvana/morewaita-icon-theme && dnf install morewaita-icon-theme
 ```
 
 #### Ubuntu/Debian Linux
