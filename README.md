@@ -962,7 +962,7 @@ dnf copr enable rivenirvana/morewaita-icon-theme && dnf install morewaita-icon-t
 
 [Julian's repository](https://gitlab.com/julianfairfax/package-repo#how-to-add-repository-for-debian-based-linux-distributions)
 
-#### nixOS
+#### NixOS
 
 Install via [pkosel's package](https://search.nixos.org/packages?channel=unstable&show=morewaita-icon-theme):
 
