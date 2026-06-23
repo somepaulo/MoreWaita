@@ -9,7 +9,7 @@ body:
     value: "# New icon submission form"
 - type: markdown
   attributes:
-    value: "Please provide info for the icon(s) you're requesting."
+    value: "Please provide info for the icon(s) you're requesting. Unless you're requesting related icons like an app and associated MIME type, pleae open separate issues for different icons."
 - type: input
   id: icon
   attributes:
