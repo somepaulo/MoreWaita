@@ -1612,9 +1612,9 @@ link_files = {
         'com.jetbrains.PyCharm-Professional-symbolic.svg',
         'pycharm-community-symbolic.svg',
         'pycharm-education-symbolic.svg',
+        'pycharm-oss-symbolic.svg',
         'pycharm-professional-symbolic.svg',
         'pycharmedu-symbolic.svg',
-        'pycharm-oss-symbolic.svg',
     ],
     'phpstorm-symbolic.svg': [
         'com.jetbrains.PhpStorm-symbolic.svg',
@@ -1622,8 +1622,8 @@ link_files = {
     'intellij-symbolic.svg': [
         'com.jetbrains.IntelliJ-IDEA-Community-symbolic.svg',
         'com.jetbrains.IntelliJ-IDEA-Ultimate-symbolic.svg',
-        'idea-symbolic.svg',
         'idea-oss-symbolic.svg',
+        'idea-symbolic.svg',
     ],
     'goland-symbolic.svg': [
         'com.jetbrains.GoLand-symbolic.svg',
@@ -1794,6 +1794,7 @@ link_files = {
     ],
     'brave-desktop-symbolic.svg': [
         'brave-browser-symbolic.svg',
+        'brave-origin-symbolic.svg',
         'com.brave.Browser-symbolic.svg',
     ],
     'winetricks-symbolic.svg': [
@@ -2073,6 +2074,9 @@ link_files = {
         'androidstudio-preview-symbolic.svg',
         'com.google.AndroidStudio-symbolic.svg',
     ],
+    'AmneziaVPN-symbolic.svg': [
+        'amnezia-vpn-symbolic.svg',
+    ],
     'spotify-symbolic.svg': [
         'Spotify-symbolic.svg',
         'com.spotify.Client-symbolic.svg',
@@ -2202,9 +2206,6 @@ link_files = {
         'bottles_wine-symbolic.svg',
         'deepin-wine-assist-symbolic.svg',
         'org.winehq.Wine-symbolic.svg',
-    ],
-    'AmneziaVPN-symbolic.svg': [
-        'amnezia-vpn-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
