@@ -1667,9 +1667,9 @@ link_files = {
         'com.jetbrains.PyCharm-Professional.svg',
         'pycharm-community.svg',
         'pycharm-education.svg',
+        'pycharm-oss.svg',
         'pycharm-professional.svg',
         'pycharmedu.svg',
-        'pycharm-oss.svg',
     ],
     'phpstorm.svg': [
         'com.jetbrains.PhpStorm.svg',
@@ -1677,8 +1677,8 @@ link_files = {
     'intellij.svg': [
         'com.jetbrains.IntelliJ-IDEA-Community.svg',
         'com.jetbrains.IntelliJ-IDEA-Ultimate.svg',
-        'idea.svg',
         'idea-oss.svg',
+        'idea.svg',
     ],
     'goland.svg': [
         'com.jetbrains.GoLand.svg',
@@ -2138,12 +2138,16 @@ link_files = {
         'android-studio-beta.svg',
         'androidstudio-preview.svg',
     ],
+    'AmneziaVPN.svg': [
+        'amnezia-vpn.svg',
+    ],
     'spotify.svg': [
         'Spotify.svg',
         'com.spotify.Client.svg',
         'eu.tiliado.NuvolaAppSpotify.svg',
         'nuvolaplayer3_spotify.svg',
         'spotify-client.svg',
+        'spotify-launcher.svg',
         'spotify-linux-48x48.svg',
         'spotify-linux-512x512.svg',
         'spotify-qt.svg',
@@ -2264,9 +2268,6 @@ link_files = {
         'bottles_wine.svg',
         'deepin-wine-assist.svg',
         'org.winehq.Wine.svg',
-    ],
-    'AmneziaVPN.svg': [
-        'amnezia-vpn.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
