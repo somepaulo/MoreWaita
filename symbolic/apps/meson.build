@@ -15,6 +15,7 @@ regular_files = [
     'TeamViewer-symbolic.svg',
     'Zoom-symbolic.svg',
     'abiword-symbolic.svg',
+    'ableton-live-symbolic.svg',
     'aegisub-symbolic.svg',
     'affinity-symbolic.svg',
     'alacritty-symbolic.svg',
@@ -2068,6 +2069,13 @@ link_files = {
         'android-studio-symbolic.svg',
         'androidstudio-preview-symbolic.svg',
         'com.google.AndroidStudio-symbolic.svg',
+    ],
+    'ableton-live-symbolic.svg': [
+        'ableton-live-beta-symbolic.svg',
+        'ableton-live-intro-symbolic.svg',
+        'ableton-live-lite-symbolic.svg',
+        'ableton-live-standard-symbolic.svg',
+        'ableton-live-suite-symbolic.svg',
     ],
     'spotify-symbolic.svg': [
         'Spotify-symbolic.svg',
