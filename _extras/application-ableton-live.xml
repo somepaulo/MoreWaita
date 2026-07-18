@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+
+  <mime-type type="application/live-adg">
+    <comment>Ableton Live device group</comment>
+    <glob pattern="*.adg"/>
+  </mime-type>
+  
+  <mime-type type="application/live-adv">
+    <comment>Ableton Live device</comment>
+    <glob pattern="*.adv"/>
+  </mime-type>
+  
+  <mime-type type="application/live-alc">
+    <comment>Ableton Live clip</comment>
+    <glob pattern="*.alc"/>
+  </mime-type>
+  
+  <mime-type type="application/live-alp">
+    <comment>Ableton Live pack</comment>
+    <glob pattern="*.alp"/>
+  </mime-type>
+  
+  <mime-type type="application/live-als">
+    <comment>Ableton Live set</comment>
+    <glob pattern="*.als"/>
+  </mime-type>
+  
+  <mime-type type="application/live-ams">
+    <comment>Ableton meta sound</comment>
+    <glob pattern="*.ams"/>
+  </mime-type>
+  
+  <mime-type type="application/live-amxd">
+    <comment>Max for Live device</comment>
+    <glob pattern="*.amxd"/>
+  </mime-type>
+  
+  <mime-type type="application/live-asd">
+    <comment>Ableton sample analysis file</comment>
+    <glob pattern="*.asd"/>
+  </mime-type>
+  
+  <mime-type type="application/live-generic">
+    <comment>Ableton Live file</comment>
+    <glob pattern="*.abl"/>
+    <glob pattern="*.ablbundle"/>
+    <glob pattern="*.agr"/>
+    <glob pattern="*.ask"/>
+  </mime-type>
+
+</mime-info>

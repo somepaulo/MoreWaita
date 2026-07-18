@@ -24,6 +24,11 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <details>
 <summary><h3>Apps</h3> <em>(expand)</em></summary>
 
+![icon](./scalable/apps/ableton-live-beta.svg "Ableton Live Beta")
+![icon](./scalable/apps/ableton-live-intro.svg "Ableton Live Intro")
+![icon](./scalable/apps/ableton-live-lite.svg "Ableton Live Lite")
+![icon](./scalable/apps/ableton-live-standard.svg "Ableton Live Standard")
+![icon](./scalable/apps/ableton-live-suite.svg "Ableton Live Suite")
 ![icon](./scalable/apps/abiword.svg "Abiword")
 ![icon](./scalable/apps/aegisub.svg "Aegisub")
 ![icon](./scalable/apps/affinity.svg "Affinity")
@@ -532,6 +537,15 @@ _These are the icons currently in git, versioned theme releases will be behind m
 <details>
 <summary><h3>MIME types</h3> <em>(expand)</em></summary>
 
+![icon](./scalable/mimetypes/application-ableton-live-adg.svg "Ableton Live device group")
+![icon](./scalable/mimetypes/application-ableton-live-adv.svg "Ableton Live device")
+![icon](./scalable/mimetypes/application-ableton-live-alc.svg "Ableton Live clip")
+![icon](./scalable/mimetypes/application-ableton-live-alp.svg "Ableton Live pack")
+![icon](./scalable/mimetypes/application-ableton-live-als.svg "Ableton Live set")
+![icon](./scalable/mimetypes/application-ableton-live-ams.svg "Ableton Live meta sound")
+![icon](./scalable/mimetypes/application-ableton-live-amxd.svg "Ableton Live Max For Live patch")
+![icon](./scalable/mimetypes/application-ableton-live-asd.svg "Ableton Live sample analysis file")
+![icon](./scalable/mimetypes/application-ableton-live-generic.svg "Ableton Live file")
 ![icon](./scalable/mimetypes/application-vnd.adobe.aftereffects.project.svg "Adobe AfterEffects Project")
 ![icon](./scalable/mimetypes/application-illustrator.svg "Adobe Illustrator")
 ![icon](./scalable/mimetypes/application-x-adobe-indesign.svg "Adobe InDesign")
