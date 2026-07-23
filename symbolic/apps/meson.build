@@ -2004,6 +2004,7 @@ link_files = {
     ],
     'filendesktop-symbolic.svg': [
         'appimagekit-filendesktop-symbolic.svg',
+        'filen-symbolic.svg',
     ],
     'endless-sky-symbolic.svg': [
         'appimagekit-endless_sky-symbolic.svg',

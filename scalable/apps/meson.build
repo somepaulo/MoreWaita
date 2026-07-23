@@ -2069,6 +2069,7 @@ link_files = {
     ],
     'filendesktop.svg': [
         'appimagekit-filendesktop.svg',
+        'filen.svg',
     ],
     'endless-sky.svg': [
         'appimagekit-endless_sky.svg',
