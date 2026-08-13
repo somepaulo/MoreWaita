@@ -70,7 +70,7 @@ regular_files = [
     'codeblocks-symbolic.svg',
     'com.fender.studio-symbolic.svg',
     'com.github.rafostar.Clapper-symbolic.svg',
-    'com.kagi.OrionGtk-symbolic.svg',
+    'com.kagi.Orion-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
     'com.tonikelope.MegaBasterd-symbolic.svg',
     'coolercontrol-symbolic.svg',
@@ -246,6 +246,7 @@ regular_files = [
     'matlab-symbolic.svg',
     'mattermost-symbolic.svg',
     'maxima-symbolic.svg',
+    'me.spaceinbox.swiftynotes-symbolic.svg',
     'mediainfo-symbolic.svg',
     'mega-symbolic.svg',
     'menulibre-symbolic.svg',
@@ -1586,6 +1587,9 @@ link_files = {
     'openchrom-symbolic.svg': [
         'com.lablicate.OpenChrom-symbolic.svg',
     ],
+    'com.kagi.Orion-symbolic.svg': [
+        'com.kagi.OrionGtk-symbolic.svg',
+    ],
     'drawio-symbolic.svg': [
         'com.jgraph.drawio.desktop-symbolic.svg',
     ],
@@ -1612,9 +1616,9 @@ link_files = {
         'com.jetbrains.PyCharm-Professional-symbolic.svg',
         'pycharm-community-symbolic.svg',
         'pycharm-education-symbolic.svg',
+        'pycharm-oss-symbolic.svg',
         'pycharm-professional-symbolic.svg',
         'pycharmedu-symbolic.svg',
-        'pycharm-oss-symbolic.svg',
     ],
     'phpstorm-symbolic.svg': [
         'com.jetbrains.PhpStorm-symbolic.svg',
@@ -1622,8 +1626,8 @@ link_files = {
     'intellij-symbolic.svg': [
         'com.jetbrains.IntelliJ-IDEA-Community-symbolic.svg',
         'com.jetbrains.IntelliJ-IDEA-Ultimate-symbolic.svg',
-        'idea-symbolic.svg',
         'idea-oss-symbolic.svg',
+        'idea-symbolic.svg',
     ],
     'goland-symbolic.svg': [
         'com.jetbrains.GoLand-symbolic.svg',
@@ -2073,6 +2077,9 @@ link_files = {
         'androidstudio-preview-symbolic.svg',
         'com.google.AndroidStudio-symbolic.svg',
     ],
+    'AmneziaVPN-symbolic.svg': [
+        'amnezia-vpn-symbolic.svg',
+    ],
     'spotify-symbolic.svg': [
         'Spotify-symbolic.svg',
         'com.spotify.Client-symbolic.svg',
@@ -2202,9 +2209,6 @@ link_files = {
         'bottles_wine-symbolic.svg',
         'deepin-wine-assist-symbolic.svg',
         'org.winehq.Wine-symbolic.svg',
-    ],
-    'AmneziaVPN-symbolic.svg': [
-        'amnezia-vpn-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }

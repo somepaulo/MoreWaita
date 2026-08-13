@@ -77,7 +77,7 @@ regular_files = [
     'com.fender.studio.svg',
     'com.github.rafostar.Clapper.svg',
     'com.google.ChromeDev.svg',
-    'com.kagi.OrionGtk.svg',
+    'com.kagi.Orion.svg',
     'com.obsproject.Studio.svg',
     'com.tonikelope.MegaBasterd.svg',
     'coolercontrol.svg',
@@ -264,6 +264,7 @@ regular_files = [
     'matlab.svg',
     'mattermost.svg',
     'maxima.svg',
+    'me.spaceinbox.swiftynotes.svg',
     'mediainfo.svg',
     'mega.svg',
     'menulibre.svg',
@@ -1641,6 +1642,9 @@ link_files = {
     'openchrom.svg': [
         'com.lablicate.OpenChrom.svg',
     ],
+    'com.kagi.Orion.svg': [
+        'com.kagi.OrionGtk.svg',
+    ],
     'drawio.svg': [
         'com.jgraph.drawio.desktop.svg',
     ],
@@ -1667,9 +1671,9 @@ link_files = {
         'com.jetbrains.PyCharm-Professional.svg',
         'pycharm-community.svg',
         'pycharm-education.svg',
+        'pycharm-oss.svg',
         'pycharm-professional.svg',
         'pycharmedu.svg',
-        'pycharm-oss.svg',
     ],
     'phpstorm.svg': [
         'com.jetbrains.PhpStorm.svg',
@@ -1677,8 +1681,8 @@ link_files = {
     'intellij.svg': [
         'com.jetbrains.IntelliJ-IDEA-Community.svg',
         'com.jetbrains.IntelliJ-IDEA-Ultimate.svg',
-        'idea.svg',
         'idea-oss.svg',
+        'idea.svg',
     ],
     'goland.svg': [
         'com.jetbrains.GoLand.svg',
@@ -2138,6 +2142,9 @@ link_files = {
         'android-studio-beta.svg',
         'androidstudio-preview.svg',
     ],
+    'AmneziaVPN.svg': [
+        'amnezia-vpn.svg',
+    ],
     'spotify.svg': [
         'Spotify.svg',
         'com.spotify.Client.svg',
@@ -2264,9 +2271,6 @@ link_files = {
         'bottles_wine.svg',
         'deepin-wine-assist.svg',
         'org.winehq.Wine.svg',
-    ],
-    'AmneziaVPN.svg': [
-        'amnezia-vpn.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
