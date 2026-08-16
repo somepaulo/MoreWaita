@@ -1722,9 +1722,9 @@ link_files = {
         'com.github.keriew.augustus.svg',
     ],
     'jellyfin.svg': [
-        'com.github.iwalton3.jellyfin-media-player.svg',
         'com.github.iwalton3.jellyfin-mpv-shim.svg',
         'jellyfin-desktop.svg',
+        'org.jellyfin.JellyfinDesktop.svg',
         'org.jellyfin.JellyfinServer.svg',
     ],
     'org.parlatype.Parlatype.svg': [
