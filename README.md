@@ -80,7 +80,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/cities-skylines-2.svg "Cities: Skylines II")
 ![icon](./scalable/apps/ckb-next.svg "ckb-next")
 ![icon](./scalable/apps/clamtk.svg "ClamTK")
-![icon](./scalable/apps/io.github.lynx_systems.ClamUI.svg "ClamUI")
+![icon](./scalable/apps/io.github.linx_systems.ClamUI.svg "ClamUI")
 ![icon](./scalable/apps/de.leopoldluley.Clapgrep.svg "Clapgrep")
 ![icon](./scalable/apps/com.github.rafostar.Clapper.svg "Clapper")
 ![icon](./scalable/apps/classicube.svg "ClassiCube")
