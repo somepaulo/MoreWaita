@@ -71,6 +71,7 @@ regular_files = [
     'claude-desktop.svg',
     'claudia.svg',
     'clion.svg',
+    'co.hyprlab.Vireo.svg',
     'cockos-reaper.svg',
     'code-oss.svg',
     'codeblocks.svg',
