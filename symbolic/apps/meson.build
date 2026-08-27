@@ -1670,6 +1670,7 @@ link_files = {
         'com.github.iwalton3.jellyfin-media-player-symbolic.svg',
         'com.github.iwalton3.jellyfin-mpv-shim-symbolic.svg',
         'jellyfin-desktop-symbolic.svg',
+        'org.jellyfin.JellyfinDesktop-symbolic.svg',
         'org.jellyfin.JellyfinServer-symbolic.svg',
     ],
     'julius-symbolic.svg': [
