@@ -2091,6 +2091,7 @@ link_files = {
         'eu.tiliado.NuvolaAppSpotify-symbolic.svg',
         'nuvolaplayer3_spotify-symbolic.svg',
         'spotify-client-symbolic.svg',
+        'spotify-launcher-symbolic.svg',
         'spotify-linux-48x48-symbolic.svg',
         'spotify-linux-512x512-symbolic.svg',
         'spotify-qt-symbolic.svg',
