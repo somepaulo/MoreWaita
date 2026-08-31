@@ -1,53 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg:svg
+<svg
    viewBox="0 0 128 128"
    version="1.1"
    id="svg37"
    width="128"
    height="128"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <svg:defs
+   xmlns="http://www.w3.org/2000/svg">
+  <defs
      id="defs41">
-    <svg:linearGradient
+    <linearGradient
        id="linearGradient81">
-      <svg:stop
+      <stop
          style="stop-color:#5146d4;stop-opacity:1;"
          offset="0"
          id="stop81" />
-      <svg:stop
+      <stop
          style="stop-color:#9e98e7;stop-opacity:1;"
          offset="0.41"
          id="stop83" />
-      <svg:stop
+      <stop
          style="stop-color:#5146d4;stop-opacity:1;"
          offset="0.81"
          id="stop84" />
-      <svg:stop
+      <stop
          style="stop-color:#8a83e2;stop-opacity:1;"
          offset="1"
          id="stop82" />
-    </svg:linearGradient>
-    <svg:linearGradient
+    </linearGradient>
+    <linearGradient
        id="linearGradient75">
-      <svg:stop
+      <stop
          style="stop-color:#5e53d8;stop-opacity:1;"
          offset="0"
          id="stop75" />
-      <svg:stop
+      <stop
          style="stop-color:#9993e6;stop-opacity:1;"
          offset="0.41"
          id="stop77" />
-      <svg:stop
+      <stop
          style="stop-color:#5e53d8;stop-opacity:1;"
          offset="0.81"
          id="stop78" />
-      <svg:stop
+      <stop
          style="stop-color:#877fe1;stop-opacity:1;"
          offset="1"
          id="stop76" />
-    </svg:linearGradient>
-    <svg:radialGradient
+    </linearGradient>
+    <radialGradient
        id="radialGradient63"
        cx="0"
        cy="0"
@@ -58,245 +57,245 @@
        fy="0"
        fr="0"
        spreadMethod="pad">
-      <svg:stop
+      <stop
          stop-color="#a98aff"
          id="stop60"
          offset="0"
          style="stop-color:#5e24ff;stop-opacity:1;" />
-      <svg:stop
+      <stop
          offset="0.14"
          stop-color="#8c75ff"
          id="stop61"
          style="stop-color:#370fff;stop-opacity:1;" />
-      <svg:stop
+      <stop
          offset="0.565"
          stop-color="#5f50e2"
          id="stop62"
          style="stop-color:#2c1daf;stop-opacity:1;" />
-      <svg:stop
+      <stop
          offset="0.89999998"
          stop-color="#3c2cb8"
          id="stop63"
          style="stop-color:#211867;stop-opacity:1;" />
-    </svg:radialGradient>
-    <svg:radialGradient
+    </radialGradient>
+    <radialGradient
        id="radialGradient59"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(35.469473,0,0,87.551051,-13.975768,56.102308)"
        gradientUnits="userSpaceOnUse">
-      <svg:stop
+      <stop
          stop-color="#a98aff"
          id="stop56"
          offset="0"
          style="stop-color:#5e24ff;stop-opacity:1;" />
-      <svg:stop
+      <stop
          offset=".14"
          stop-color="#8c75ff"
          id="stop57" />
-      <svg:stop
+      <stop
          offset=".565"
          stop-color="#5f50e2"
          id="stop58" />
-      <svg:stop
+      <stop
          offset=".9"
          stop-color="#3c2cb8"
          id="stop59" />
-    </svg:radialGradient>
-    <svg:linearGradient
+    </radialGradient>
+    <linearGradient
        id="linearGradient40">
-      <svg:stop
+      <stop
          style="stop-color:#191556;stop-opacity:1;"
          offset="0"
          id="stop41" />
-      <svg:stop
+      <stop
          style="stop-color:#675fd8;stop-opacity:1;"
          offset="0.03"
          id="stop43" />
-      <svg:stop
+      <stop
          style="stop-color:#191556;stop-opacity:1;"
          offset="0.07"
          id="stop44" />
-      <svg:stop
+      <stop
          style="stop-color:#191556;stop-opacity:1;"
          offset="0.93000001"
          id="stop45" />
-      <svg:stop
+      <stop
          style="stop-color:#675fd8;stop-opacity:1;"
          offset="0.97000003"
          id="stop46" />
-      <svg:stop
+      <stop
          style="stop-color:#191556;stop-opacity:1;"
          offset="1"
          id="stop42" />
-    </svg:linearGradient>
-    <svg:radialGradient
+    </linearGradient>
+    <radialGradient
        id="radialGradient38"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(42.105231,42.105231,-42.105231,42.105231,-108.17761,58.276255)"
        gradientUnits="userSpaceOnUse">
-      <svg:stop
+      <stop
          offset="0.046875"
          stop-color="#688eff"
          id="stop10"
          style="stop-color:#668dff;stop-opacity:1;" />
-      <svg:stop
+      <stop
          offset=".946875"
          stop-color="#230f94"
          id="stop38" />
-    </svg:radialGradient>
-    <svg:radialGradient
+    </radialGradient>
+    <radialGradient
        id="l"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(0,29.473684,-34.395263,0,37.684343,83.263157)"
        gradientUnits="userSpaceOnUse">
-      <svg:stop
+      <stop
          offset=".570647"
          stop-color="#6965f6"
          stop-opacity="0"
          id="stop34" />
-      <svg:stop
+      <stop
          offset="1"
          stop-color="#8f8fff"
          id="stop35" />
-    </svg:radialGradient>
-    <svg:radialGradient
+    </radialGradient>
+    <radialGradient
        id="k"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(42.105231,42.105231,-42.105231,42.105231,16.63171,57.999999)"
        gradientUnits="userSpaceOnUse"
-       xlink:href="#radialGradient38">
-      <svg:stop
+       href="#radialGradient38">
+      <stop
          offset=".046875"
          stop-color="#688eff"
          id="stop32" />
-      <svg:stop
+      <stop
          offset=".946875"
          stop-color="#230f94"
          id="stop33" />
-    </svg:radialGradient>
-    <svg:radialGradient
+    </radialGradient>
+    <radialGradient
        id="j"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(20.084475,-17.868284,43.832247,49.268728,66.049079,15.479737)"
        gradientUnits="userSpaceOnUse">
-      <svg:stop
+      <stop
          stop-color="#e3acfd"
          id="stop30-0" />
-      <svg:stop
+      <stop
          offset=".816041"
          stop-color="#9fa2ff"
          stop-opacity="0"
          id="stop31" />
-    </svg:radialGradient>
-    <svg:radialGradient
+    </radialGradient>
+    <radialGradient
        id="i"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(17.274415,14.521486,-21.003605,24.98539,40.424079,16.033789)"
        gradientUnits="userSpaceOnUse">
-      <svg:stop
+      <stop
          offset=".270711"
          stop-color="#a1d3ff"
          id="stop28-6" />
-      <svg:stop
+      <stop
          offset=".813393"
          stop-color="#a1d3ff"
          stop-opacity="0"
          id="stop29" />
-    </svg:radialGradient>
-    <svg:radialGradient
+    </radialGradient>
+    <radialGradient
        id="h"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(0,-31.578947,39.857894,0,-71.335767,19.55444)"
        gradientUnits="userSpaceOnUse">
-      <svg:stop
+      <stop
          offset=".268201"
          stop-color="#8282ff"
          id="stop26-2" />
-      <svg:stop
+      <stop
          offset="1"
          stop-color="#3923b1"
          id="stop27" />
-    </svg:radialGradient>
-    <svg:radialGradient
+    </radialGradient>
+    <radialGradient
        id="g"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(16.737062,-14.890237,36.526844,41.057241,-21.38261,25.035729)"
        gradientUnits="userSpaceOnUse">
-      <svg:stop
+      <stop
          stop-color="#e3acfd"
          id="stop24" />
-      <svg:stop
+      <stop
          offset=".816041"
          stop-color="#9fa2ff"
          stop-opacity="0"
          id="stop25" />
-    </svg:radialGradient>
-    <svg:radialGradient
+    </radialGradient>
+    <radialGradient
        id="f"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(14.395359,12.10125,-17.503089,20.821259,-42.73682,25.497308)"
        gradientUnits="userSpaceOnUse">
-      <svg:stop
+      <stop
          offset=".270711"
          stop-color="#a1d3ff"
          id="stop22" />
-      <svg:stop
+      <stop
          offset=".813393"
          stop-color="#a1d3ff"
          stop-opacity="0"
          id="stop23" />
-    </svg:radialGradient>
-    <svg:radialGradient
+    </radialGradient>
+    <radialGradient
        id="e"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(0,-26.315789,33.214736,0,-31.862084,28.200992)"
        gradientUnits="userSpaceOnUse">
-      <svg:stop
+      <stop
          offset=".268201"
          stop-color="#6868f7"
          id="stop20" />
-      <svg:stop
+      <stop
          offset="1"
          stop-color="#3923b1"
          id="stop21" />
-    </svg:radialGradient>
-    <svg:radialGradient
+    </radialGradient>
+    <radialGradient
        id="d"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(-20.025894,46.441583,-37.279939,-16.075337,-46.335768,47.013097)"
        gradientUnits="userSpaceOnUse">
-      <svg:stop
+      <stop
          stop-color="#bd96ff"
          id="stop18" />
-      <svg:stop
+      <stop
          offset=".686685"
          stop-color="#bd96ff"
          stop-opacity="0"
          id="stop19" />
-    </svg:radialGradient>
-    <svg:linearGradient
+    </radialGradient>
+    <linearGradient
        id="c"
        x1="20.593599"
        x2="20.593599"
@@ -304,61 +303,61 @@
        y2="42"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.6315789,0,0,2.6315789,-118.70392,1.7499404)">
-      <svg:stop
+      <stop
          offset=".801159"
          stop-color="#6864f6"
          stop-opacity="0"
          id="stop36" />
-      <svg:stop
+      <stop
          offset="1"
          stop-color="#5149de"
          id="stop37" />
-    </svg:linearGradient>
-    <svg:radialGradient
+    </linearGradient>
+    <radialGradient
        id="b"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(32.072376,79.999925,-80.906372,32.435776,-95.513451,44.907834)"
        gradientUnits="userSpaceOnUse">
-      <svg:stop
+      <stop
          stop-color="#85c2ff"
          id="stop15" />
-      <svg:stop
+      <stop
          offset=".69"
          stop-color="#7588ff"
          id="stop16" />
-      <svg:stop
+      <stop
          offset="1"
          stop-color="#6459fe"
          id="stop17" />
-    </svg:radialGradient>
-    <svg:radialGradient
+    </radialGradient>
+    <radialGradient
        id="a-6"
        cx="0"
        cy="0"
        r="1"
        gradientTransform="matrix(35.469473,0,0,87.551051,110.83355,59.826052)"
        gradientUnits="userSpaceOnUse"
-       xlink:href="#radialGradient59">
-      <svg:stop
+       href="#radialGradient59">
+      <stop
          stop-color="#a98aff"
          id="stop11" />
-      <svg:stop
+      <stop
          offset=".14"
          stop-color="#8c75ff"
          id="stop12" />
-      <svg:stop
+      <stop
          offset=".565"
          stop-color="#5f50e2"
          id="stop13" />
-      <svg:stop
+      <stop
          offset=".9"
          stop-color="#3c2cb8"
          id="stop14" />
-    </svg:radialGradient>
-    <svg:linearGradient
-       xlink:href="#linearGradient40"
+    </radialGradient>
+    <linearGradient
+       href="#linearGradient40"
        id="linearGradient42"
        x1="-108.17761"
        y1="83.328888"
@@ -366,48 +365,48 @@
        y2="83.328888"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(124.80932,-0.276256)" />
-    <svg:radialGradient
-       xlink:href="#radialGradient63"
+    <radialGradient
+       href="#radialGradient63"
        id="radialGradient60"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(35.469473,0,0,87.551051,110.83355,63.826052)"
        cx="0"
        cy="0"
        r="1" />
-    <svg:radialGradient
-       xlink:href="#h"
+    <radialGradient
+       href="#h"
        id="radialGradient72"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-31.578947,39.857894,0,53.473553,19.278184)"
        cx="0"
        cy="0"
        r="1" />
-    <svg:radialGradient
-       xlink:href="#e"
+    <radialGradient
+       href="#e"
        id="radialGradient73"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-26.315789,33.214736,0,92.947236,27.924736)"
        cx="0"
        cy="0"
        r="1" />
-    <svg:radialGradient
-       xlink:href="#f"
+    <radialGradient
+       href="#f"
        id="radialGradient74"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(14.395359,12.10125,-17.503089,20.821259,82.0725,25.221052)"
        cx="0"
        cy="0"
        r="1" />
-    <svg:radialGradient
-       xlink:href="#g"
+    <radialGradient
+       href="#g"
        id="radialGradient75"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(16.737062,-14.890237,36.526844,41.057241,103.42671,24.759473)"
        cx="0"
        cy="0"
        r="1" />
-    <svg:linearGradient
-       xlink:href="#linearGradient75"
+    <linearGradient
+       href="#linearGradient75"
        id="linearGradient76"
        x1="-87.125241"
        y1="28.06573"
@@ -415,16 +414,16 @@
        y2="28.06573"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(124.80932,-0.276256)" />
-    <svg:radialGradient
-       xlink:href="#b"
+    <radialGradient
+       href="#b"
        id="radialGradient80"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(32.072376,79.999925,-80.906372,32.435776,29.295869,48.631578)"
        cx="0"
        cy="0"
        r="1" />
-    <svg:linearGradient
-       xlink:href="#c"
+    <linearGradient
+       href="#c"
        id="linearGradient80"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.6315789,0,0,2.6315789,6.1054,5.4736844)"
@@ -432,16 +431,16 @@
        y1="18"
        x2="20.593599"
        y2="42" />
-    <svg:radialGradient
-       xlink:href="#d"
+    <radialGradient
+       href="#d"
        id="radialGradient81"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-20.025894,46.441583,-37.279939,-16.075337,78.473552,50.736841)"
        cx="0"
        cy="0"
        r="1" />
-    <svg:linearGradient
-       xlink:href="#linearGradient81"
+    <linearGradient
+       href="#linearGradient81"
        id="linearGradient82"
        x1="-45.019978"
        y1="35.960466"
@@ -449,8 +448,8 @@
        y2="35.960466"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(124.80932,-0.276256)" />
-  </svg:defs>
-  <svg:linearGradient
+  </defs>
+  <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
      x1="198.099"
@@ -458,97 +457,93 @@
      x2="942.23438"
      y2="394.26071"
      gradientTransform="matrix(0.05209002,0,0,-0.05209002,5.95002,116.10415)">
-    <svg:stop
+    <stop
        offset="0"
        stop-color="#5a62c3"
        id="stop26" />
-    <svg:stop
+    <stop
        offset=".5"
        stop-color="#4d55bd"
        id="stop28" />
-    <svg:stop
+    <stop
        offset="1"
        stop-color="#3940ab"
        id="stop30" />
-  </svg:linearGradient>
-  <div
-     id="divScriptsUsed"
-     style="display: none" />
-  <script
-     id="globalVarsDetection"
-     src="moz-extension://e38f0759-93cf-4a28-b9fa-4ba5726bd244/js/wrs_env.js" />
-  <svg:path
+  </linearGradient>
+  
+  
+  <path
      fill="url(#e)"
      d="m 92.947236,48.842105 c 7.266844,0 13.157894,-5.891053 13.157894,-13.157895 0,-7.266842 -5.89105,-13.157894 -13.157894,-13.157894 -7.266842,0 -13.157894,5.891052 -13.157894,13.157894 0,7.266842 5.891052,13.157895 13.157894,13.157895"
      id="path67"
      style="fill:url(#linearGradient82);fill-opacity:1;stroke-width:2.63158" />
-  <svg:path
+  <path
      fill="url(#h)"
      d="m 53.473553,43.578947 c 8.720263,0 15.789473,-7.069211 15.789473,-15.789474 C 69.263026,19.069184 62.193816,12 53.473553,12 44.75329,12 37.684079,19.069184 37.684079,27.789473 c 0,8.720263 7.069211,15.789474 15.789474,15.789474"
      id="path63"
      style="fill:url(#linearGradient76);fill-opacity:1;stroke-width:2.63158" />
-  <svg:path
+  <path
      fill="url(#a)"
      d="m 63.999868,58.105262 h 31.578947 c 8.720265,0 15.789475,7.069211 15.789475,15.789474 v 26.315784 c 0,8.72026 -7.06921,15.78947 -15.789475,15.78947 -8.720263,0 -15.789473,-7.06921 -15.789473,-15.78947 V 73.894736 c 0,-8.720263 -7.069211,-15.789474 -15.789474,-15.789474"
      id="path55"
      style="fill:url(#radialGradient60);stroke-width:2.63158" />
-  <svg:path
+  <path
      fill="url(#a)"
      d="m 63.999868,54.105262 h 31.578947 c 8.720265,0 15.789475,7.069211 15.789475,15.789474 v 26.315789 c 0,8.720255 -7.06921,15.789465 -15.789475,15.789465 -8.720263,0 -15.789473,-7.06921 -15.789473,-15.789465 V 69.894736 c 0,-8.720263 -7.069211,-15.789474 -15.789474,-15.789474"
      id="path1"
      style="fill:url(#a-6);stroke-width:2.63158" />
-  <svg:path
+  <path
      fill="url(#e)"
      d="m 92.947236,44.842105 c 7.266844,0 13.157894,-5.891053 13.157894,-13.157895 0,-7.266842 -5.89105,-13.157894 -13.157894,-13.157894 -7.266842,0 -13.157894,5.891052 -13.157894,13.157894 0,7.266842 5.891052,13.157895 13.157894,13.157895"
      id="path5"
      style="fill:url(#radialGradient73);stroke-width:2.63158" />
-  <svg:path
+  <path
      fill="url(#f)"
      fill-opacity="0.46"
      d="m 92.947236,44.842105 c 7.266844,0 13.157894,-5.891053 13.157894,-13.157895 0,-7.266842 -5.89105,-13.157894 -13.157894,-13.157894 -7.266842,0 -13.157894,5.891052 -13.157894,13.157894 0,7.266842 5.891052,13.157895 13.157894,13.157895"
      id="path6"
      style="fill:url(#radialGradient74);stroke-width:2.63158" />
-  <svg:path
+  <path
      fill="url(#g)"
      fill-opacity="0.4"
      d="m 92.947236,44.842105 c 7.266844,0 13.157894,-5.891053 13.157894,-13.157895 0,-7.266842 -5.89105,-13.157894 -13.157894,-13.157894 -7.266842,0 -13.157894,5.891052 -13.157894,13.157894 0,7.266842 5.891052,13.157895 13.157894,13.157895"
      id="path7"
      style="fill:url(#radialGradient75);stroke-width:2.63158" />
-  <svg:path
+  <path
      fill="url(#h)"
      d="m 53.473553,39.578947 c 8.720263,0 15.789473,-7.069211 15.789473,-15.789474 C 69.263026,15.069184 62.193816,8 53.473553,8 44.75329,8 37.684079,15.069184 37.684079,23.789473 c 0,8.720263 7.069211,15.789474 15.789474,15.789474"
      id="path8-9"
      style="fill:url(#radialGradient72);stroke-width:2.63158" />
-  <svg:path
+  <path
      fill="url(#i)"
      fill-opacity="0.6"
      d="m 53.473553,39.578947 c 8.720263,0 15.789473,-7.069211 15.789473,-15.789474 C 69.263026,15.069184 62.193816,8 53.473553,8 44.75329,8 37.684079,15.069184 37.684079,23.789473 c 0,8.720263 7.069211,15.789474 15.789474,15.789474"
      id="path9"
      style="fill:url(#i);stroke-width:2.63158" />
-  <svg:path
+  <path
      fill="url(#j)"
      fill-opacity="0.5"
      d="m 53.473553,39.578947 c 8.720263,0 15.789473,-7.069211 15.789473,-15.789474 C 69.263026,15.069184 62.193816,8 53.473553,8 44.75329,8 37.684079,15.069184 37.684079,23.789473 c 0,8.720263 7.069211,15.789474 15.789474,15.789474"
      id="path10"
      style="fill:url(#j);stroke-width:2.63158" />
-  <svg:path
+  <path
      fill="url(#b)"
      d="m 27.157711,64.631578 c 0,-8.720263 7.069263,-15.789473 15.789526,-15.789473 h 21.052631 c 8.720263,0 15.789474,7.06921 15.789474,15.789473 v 35.578952 c 0,8.72025 7.06921,15.78946 15.789473,15.78946 l -42.105525,-2.6e-4 c -14.533684,0 -26.315579,-11.78184 -26.315579,-26.315784 z"
      id="path78"
      style="fill:url(#radialGradient80);stroke-width:2.63158" />
-  <svg:path
+  <path
      fill="url(#c)"
      fill-opacity="0.7"
      d="m 27.157711,64.631578 c 0,-8.720263 7.069263,-15.789473 15.789526,-15.789473 h 21.052631 c 8.720263,0 15.789474,7.06921 15.789474,15.789473 v 35.578952 c 0,8.72025 7.06921,15.78946 15.789473,15.78946 l -42.105525,-2.6e-4 c -14.533684,0 -26.315579,-11.78184 -26.315579,-26.315784 z"
      id="path79"
      style="fill:url(#linearGradient80);stroke-width:2.63158" />
-  <svg:path
+  <path
      fill="url(#d)"
      fill-opacity="0.7"
      d="m 27.157711,64.631578 c 0,-8.720263 7.069263,-15.789473 15.789526,-15.789473 h 21.052631 c 8.720263,0 15.789474,7.06921 15.789474,15.789473 v 35.578952 c 0,8.72025 7.06921,15.78946 15.789473,15.78946 l -42.105525,-2.6e-4 c -14.533684,0 -26.315579,-11.78184 -26.315579,-26.315784 z"
      id="path80"
      style="fill:url(#radialGradient81);stroke-width:2.63158" />
-  <svg:rect
+  <rect
      width="42.105263"
      height="42.105263"
      x="16.631708"
@@ -558,7 +553,7 @@
      id="rect1"
      style="fill:url(#linearGradient42);stroke-width:2.63158"
      ry="4" />
-  <svg:rect
+  <rect
      width="42.105263"
      height="42.105263"
      x="16.631708"
@@ -568,7 +563,7 @@
      id="rect10"
      style="fill:url(#k);stroke-width:2.63158"
      ry="4" />
-  <svg:rect
+  <rect
      width="42.105263"
      height="42.105263"
      x="16.631708"
@@ -579,9 +574,9 @@
      id="rect11"
      style="fill:url(#l);stroke-width:2.63158"
      ry="4" />
-  <svg:path
+  <path
      fill="#ffffff"
      d="M 46.840132,71.435262 H 40.400395 V 91.08263 H 34.966711 V 71.435262 h -6.439895 v -4.412631 h 18.313316 z"
      id="path11"
      style="stroke-width:2.63158" />
-</svg:svg>
+</svg>
