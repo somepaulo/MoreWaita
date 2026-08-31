@@ -13,6 +13,9 @@ regular_files = [
     'emblem-ok-symbolic.svg',
     'emblem-photos-symbolic.svg',
     'emblem-synchronizing-symbolic.svg',
+    'filendesktop-error-symbolic.svg',
+    'filendesktop-okay-symbolic.svg',
+    'filendesktop-sync-symbolic.svg',
     'firewall-applet-error.svg',
     'firewall-applet-panic.svg',
     'jdownloader-indicator.svg',
@@ -106,6 +109,18 @@ link_files = {
     ],
     'protonvpngui-connected.svg': [
         'com.protonvpn.www.state-connected.svg',
+    ],
+    'filendesktop-sync-symbolic.svg': [
+        'appimagekit-filendesktop-sync-symbolic.svg',
+        'filen-sync-symbolic.svg',
+    ],
+    'filendesktop-okay-symbolic.svg': [
+        'appimagekit-filendesktop-okay-symbolic.svg',
+        'filen-okay-symbolic.svg',
+    ],
+    'filendesktop-error-symbolic.svg': [
+        'appimagekit-filendesktop-error-symbolic.svg',
+        'filen-error-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
