@@ -397,6 +397,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/io.github.pieterdd.RcloneShuttle.svg "Rclone Shuttle")
 ![icon](./scalable/apps/cockos-reaper.svg "Reaper")
 ![icon](./scalable/apps/remnote.svg "RemNote")
+![icon](./scalable/apps/rog-control-center.svg "ROG Control Center")
 ![icon](./scalable/apps/rpminstall.svg "RPM Install")
 ![icon](./scalable/apps/rawtherapee.svg "RawTherapee")
 ![icon](./scalable/apps/remmina.svg "Remmina")

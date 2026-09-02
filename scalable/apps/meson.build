@@ -386,6 +386,7 @@ regular_files = [
     'ringracers.svg',
     'rio.svg',
     'rocketchat.svg',
+    'rog-control-center.svg',
     'rpi-imager.svg',
     'rpminstall.svg',
     'rstudio.svg',
