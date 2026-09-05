@@ -66,6 +66,7 @@ regular_files = [
     'claudia-symbolic.svg',
     'clion-symbolic.svg',
     'co.hyprlab.Vireo-symbolic.svg',
+    'co.hyprlab.Vireo-symbolic.svg.2026_09_05_17_39_45.0.svg',
     'cockos-reaper-symbolic.svg',
     'code-oss-symbolic.svg',
     'codeblocks-symbolic.svg',
