@@ -1802,6 +1802,7 @@ link_files = {
     ],
     'brave-desktop-symbolic.svg': [
         'brave-browser-symbolic.svg',
+        'brave-origin-symbolic.svg',
         'com.brave.Browser-symbolic.svg',
     ],
     'winetricks-symbolic.svg': [
