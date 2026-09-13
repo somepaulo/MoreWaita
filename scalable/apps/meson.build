@@ -2079,10 +2079,6 @@ link_files = {
         'appimagekit-github-desktop.svg',
         'io.github.shiftey.Desktop.svg',
     ],
-    'filendesktop.svg': [
-        'appimagekit-filendesktop.svg',
-        'filen.svg',
-    ],
     'endless-sky.svg': [
         'appimagekit-endless_sky.svg',
         'io.github.endless_sky.endless_sky.svg',
@@ -2231,6 +2227,11 @@ link_files = {
     'gitkraken.svg': [
         'GitKraken.svg',
         'com.axosoft.GitKraken.svg',
+    ],
+    'filendesktop.svg': [
+        'Filen.svg',
+        'appimagekit-filendesktop.svg',
+        'filen.svg',
     ],
     'io.element.Element.svg': [
         'Element.svg',

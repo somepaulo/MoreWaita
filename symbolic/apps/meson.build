@@ -2014,10 +2014,6 @@ link_files = {
         'appimagekit-github-desktop-symbolic.svg',
         'io.github.shiftey.Desktop-symbolic.svg',
     ],
-    'filendesktop-symbolic.svg': [
-        'appimagekit-filendesktop-symbolic.svg',
-        'filen-symbolic.svg',
-    ],
     'endless-sky-symbolic.svg': [
         'appimagekit-endless_sky-symbolic.svg',
         'io.github.endless_sky.endless_sky-symbolic.svg',
@@ -2169,6 +2165,11 @@ link_files = {
     'gitkraken-symbolic.svg': [
         'GitKraken-symbolic.svg',
         'com.axosoft.GitKraken-symbolic.svg',
+    ],
+    'filendesktop-symbolic.svg': [
+        'Filen-symbolic.svg',
+        'appimagekit-filendesktop-symbolic.svg',
+        'filen-symbolic.svg',
     ],
     'io.element.Element-symbolic.svg': [
         'Element-symbolic.svg',
