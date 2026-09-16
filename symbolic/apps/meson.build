@@ -47,6 +47,7 @@ regular_files = [
     'boxbuddyrs-symbolic.svg',
     'boxy-svg-symbolic.svg',
     'brave-desktop-symbolic.svg',
+    'brave-origin-symbolic.svg',
     'briar-symbolic.svg',
     'btop-symbolic.svg',
     'burp-symbolic.svg',
