@@ -72,7 +72,7 @@ regular_files = [
     'claude-desktop.svg',
     'claudia.svg',
     'clion.svg',
-    'co.hyprlab.Vireo.svg',
+    'co.hyprlab.Hylki.svg',
     'cockos-reaper.svg',
     'code-oss.svg',
     'codeblocks.svg',
