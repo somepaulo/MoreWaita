@@ -415,6 +415,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/scribus.svg "Scribus")
 ![icon](./scalable/apps/seabird.svg "Scribus")
 ![icon](./scalable/apps/scummvm.svg "ScummVM")
+![icon](./scalable/apps/seafile.svg "Seafile")
 ![icon](./scalable/apps/stoken-gui.svg "Security Token")
 ![icon](./scalable/apps/session-desktop.svg "Session")
 ![icon](./scalable/apps/setzer.svg "Setzer")
