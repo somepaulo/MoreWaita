@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="2887.35" y1="1234.51" x2="3116.17" y2="1234.51" gradientTransform="translate(-1300.2991 637.0783) scale(.4545 -.4545)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#62a0ea"/>
+      <stop offset=".06" stop-color="#afd4ff"/>
+      <stop offset=".12" stop-color="#62a0ea"/>
+      <stop offset=".87" stop-color="#62a0ea"/>
+      <stop offset=".96" stop-color="#c0d5ea"/>
+      <stop offset="1" stop-color="#62a0ea"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-2" d="M21.98,10.98c-5.53,0-9.98,4.46-9.98,10v86.03c0,5.54,4.45,10,9.98,10h84.04c5.53,0,9.98-4.46,9.98-10V34.93c0-6.63-5.36-12-11.97-12h-46.03c-2.45,0-4.7-1.39-5.8-3.58l-1.5-2.99c-1.66-3.29-5.02-5.37-8.7-5.37h-20.02Z"/>
+  <path class="cls-6" d="M65.98,34.98c-2.75,0-5.23,1.1-7.03,2.89-2.27,2.25-5.38,5.11-8.63,5.11h-28.34c-5.53,0-9.98,4.46-9.98,10v54.03c0,5.54,4.45,10,9.98,10h84.04c5.53,0,9.98-4.46,9.98-10v-62.03c0-5.54-4.45-10-9.98-10,0,0-40.04,0-40.04,0Z"/>
+  <path class="cls-1" d="M65.98,30.81c-2.75,0-5.23,1.1-7.03,2.89-2.27,2.25-5.38,5.11-8.63,5.11h-28.34c-5.53,0-9.98,4.46-9.98,10v55.98c0,5.54,4.45,10,9.98,10h84.04c5.53,0,9.98-4.46,9.98-10v-63.98c0-5.54-4.45-10-9.98-10,0,0-40.04,0-40.04,0Z"/>
+  <rect class="cls-3" width="128" height="128"/>
+  <g>
+    <line class="cls-4" x1="68.54" y1="72.27" x2="59.46" y2="72.27"/>
+    <rect class="cls-5" x="48.71" y="62.08" width="30.58" height="25.48" rx="3.97" ry="3.97"/>
+  </g>
+</svg>
