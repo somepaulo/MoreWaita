@@ -9,6 +9,10 @@ Thank you for showing your interest in contributing! Contributions are most welc
 
 **1. Follow the icon sizes and placements from existing icons**  
 Generally, the best way to create new icons is to modify existing ones of a similar shape and colour.  
+> [!IMPORTANT]
+> Avoid strokes and don't use mesh gradients.  
+> Don't use Cairo namespace-prefixed SVGs (<svg:svg>)
+
 You can also use Gnome's official [icon template](https://gitlab.gnome.org/Teams/Design/HIG-app-icons/blob/master/template.svg) for app icons.  
 Check the [Gnome HIG](https://developer.gnome.org/hig/guidelines/app-icons.html) on app icons for more info.
 
