@@ -14,24 +14,34 @@ regular_files = [
     'folder-books-symbolic.svg',
     'folder-c-symbolic.svg',
     'folder-camera-symbolic.svg',
+    'folder-cd-symbolic.svg',
     'folder-cloud-symbolic.svg',
     'folder-code-legacy-symbolic.svg',
     'folder-code-symbolic.svg',
     'folder-codeberg-symbolic.svg',
+    'folder-computer-legacy-symbolic.svg',
+    'folder-computer-symbolic.svg',
+    'folder-container-legacy-symbolic.svg',
+    'folder-container-symbolic.svg',
     'folder-cplusplus-symbolic.svg',
     'folder-csharp-symbolic.svg',
     'folder-docker-symbolic.svg',
+    'folder-drawer-legacy-symbolic.svg',
+    'folder-drawer-symbolic.svg',
     'folder-earth-symbolic.svg',
     'folder-emacs-symbolic.svg',
     'folder-extensions-symbolic.svg',
     'folder-fedora-symbolic.svg',
     'folder-flatpak-symbolic.svg',
     'folder-freecad-symbolic.svg',
+    'folder-games-card-legacy-symbolic.svg',
+    'folder-games-card-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
     'folder-games-symbolic.svg',
     'folder-gimp-symbolic.svg',
     'folder-git-legacy-symbolic.svg',
     'folder-git-symbolic.svg',
+    'folder-git2-symbolic.svg',
     'folder-github-symbolic.svg',
     'folder-gitlab-symbolic.svg',
     'folder-globe-symbolic.svg',
@@ -70,13 +80,16 @@ regular_files = [
     'folder-reaper-symbolic.svg',
     'folder-recent-symbolic.svg',
     'folder-redhat-symbolic.svg',
+    'folder-roms-symbolic.svg',
     'folder-ruby-symbolic.svg',
     'folder-rust-symbolic.svg',
     'folder-school-legacy-symbolic.svg',
     'folder-school-symbolic.svg',
     'folder-screencast-symbolic.svg',
     'folder-screenshot-symbolic.svg',
+    'folder-scripts-symbolic.svg',
     'folder-shell-symbolic.svg',
+    'folder-snap-symbolic.svg',
     'folder-syncthing-legacy-symbolic.svg',
     'folder-syncthing-symbolic.svg',
     'folder-temp-legacy-symbolic.svg',
@@ -86,6 +99,8 @@ regular_files = [
     'folder-ubuntu-symbolic.svg',
     'folder-user-symbolic.svg',
     'folder-vala-symbolic.svg',
+    'folder-windows-symbolic.svg',
+    'folder-windows10-symbolic.svg',
     'folder-wine-symbolic.svg',
     'folder-work-legacy-symbolic.svg',
     'folder-work-symbolic.svg',
@@ -96,6 +111,12 @@ link_files = {
     # DO NOT REMOVE: Begining of link segment
     'folder-wine-symbolic.svg': [
         'folder-wine-legacy-symbolic.svg',
+    ],
+    'folder-windows10-symbolic.svg': [
+        'folder-windows10-legacy-symbolic.svg',
+    ],
+    'folder-windows-symbolic.svg': [
+        'folder-windows-legacy-symbolic.svg',
     ],
     'folder-vala-symbolic.svg': [
         'folder-vala-legacy-symbolic.svg',
@@ -112,6 +133,9 @@ link_files = {
     'folder-torrent-symbolic.svg': [
         'folder-torrent-legacy-symbolic.svg',
     ],
+    'folder-snap-symbolic.svg': [
+        'folder-snap-legacy-symbolic.svg',
+    ],
     'folder-shell-symbolic.svg': [
         'folder-shell-legacy-symbolic.svg',
     ],
@@ -126,6 +150,9 @@ link_files = {
     ],
     'folder-ruby-symbolic.svg': [
         'folder-ruby-legacy-symbolic.svg',
+    ],
+    'folder-roms-symbolic.svg': [
+        'folder-roms-legacy-symbolic.svg',
     ],
     'folder-redhat-symbolic.svg': [
         'folder-redhat-legacy-symbolic.svg',
@@ -227,6 +254,9 @@ link_files = {
     'folder-github-symbolic.svg': [
         'folder-github-legacy-symbolic.svg',
     ],
+    'folder-git2-symbolic.svg': [
+        'folder-git2-legacy-symbolic.svg',
+    ],
     'folder-gimp-symbolic.svg': [
         'folder-gimp-legacy-symbolic.svg',
     ],
@@ -263,6 +293,9 @@ link_files = {
     ],
     'folder-cloud-symbolic.svg': [
         'folder-cloud-legacy-symbolic.svg',
+    ],
+    'folder-cd-symbolic.svg': [
+        'folder-cd-legacy-symbolic.svg',
     ],
     'folder-camera-symbolic.svg': [
         'folder-camera-legacy-symbolic.svg',
