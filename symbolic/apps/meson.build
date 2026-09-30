@@ -70,6 +70,7 @@ regular_files = [
     'code-oss-symbolic.svg',
     'codeblocks-symbolic.svg',
     'com.fender.studio-symbolic.svg',
+    'com.github.dalerank.akhenaten-symbolic.svg',
     'com.github.rafostar.Clapper-symbolic.svg',
     'com.kagi.Orion-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',

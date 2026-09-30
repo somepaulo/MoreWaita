@@ -76,6 +76,7 @@ regular_files = [
     'code-oss.svg',
     'codeblocks.svg',
     'com.fender.studio.svg',
+    'com.github.dalerank.akhenaten.svg',
     'com.github.rafostar.Clapper.svg',
     'com.google.ChromeDev.svg',
     'com.kagi.Orion.svg',

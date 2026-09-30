@@ -28,6 +28,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/aegisub.svg "Aegisub")
 ![icon](./scalable/apps/affinity.svg "Affinity")
 ![icon](./scalable/apps/gnome-aisleriot.svg "Aisleriot Solitaire")
+![icon](./com.github.dalerank.akhenaten.svg "Akhenaten")
 ![icon](./scalable/apps/alacarte.svg "Alacarte")
 ![icon](./scalable/apps/alacritty.svg "Alacritty")
 ![icon](./scalable/apps/AmneziaVPN.svg "Amnezia VPN")
