@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16.000002"
+   viewBox="0 0 16.00001 16.000002"
+   width="16.00001"
+   version="1.1"
+   id="svg5248"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs5252"><style
+       id="style1">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-2">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 1.9px;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-0">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        stroke-width: .58px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-6">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-1">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-2-8">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 1.9px;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-0-5">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        stroke-width: .58px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-6-9">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-3">
+      .cls-1 {
+        stroke-width: 2.4px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4caee;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><linearGradient
+       id="linearGradient1062"
+       x1="399.57001"
+       x2="399.57001"
+       y1="545.79999"
+       y2="517.79999"
+       gradientTransform="matrix(2.1429152,0,0,2.1429152,-1063.196,-1043.4303)"
+       gradientUnits="userSpaceOnUse"><stop
+         stop-color="#3889e9"
+         offset="0"
+         id="stop5635" /><stop
+         stop-color="#5ea5fb"
+         offset="1"
+         id="stop5637" /></linearGradient><style
+       id="style1-5">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-2-4">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 1.9px;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-0-8">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        stroke-width: .58px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-6-1">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-3-2">
+      .cls-1 {
+        stroke-width: 2.4px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4caee;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-4">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style></defs><linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="11.999989"
+     x2="115.99999"
+     y1="64"
+     y2="64"><stop
+       offset="0"
+       stop-color="#3d3846"
+       id="stop5214" /><stop
+       offset="0.05"
+       stop-color="#77767b"
+       id="stop5216" /><stop
+       offset="0.1"
+       stop-color="#5e5c64"
+       id="stop5218" /><stop
+       offset="0.899999"
+       stop-color="#504e56"
+       id="stop5220" /><stop
+       offset="0.95"
+       stop-color="#77767b"
+       id="stop5222" /><stop
+       offset="1"
+       stop-color="#3d3846"
+       id="stop5224" /></linearGradient><linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="12"
+     x2="112.04102"
+     y1="60"
+     y2="80.988281"><stop
+       offset="0"
+       stop-color="#77767b"
+       id="stop5227" /><stop
+       offset="0.384443"
+       stop-color="#9a9996"
+       id="stop5229" /><stop
+       offset="0.720567"
+       stop-color="#77767b"
+       id="stop5231" /><stop
+       offset="1"
+       stop-color="#68666f"
+       id="stop5233" /></linearGradient><path
+     id="rect1135"
+     style="fill:#3483e2;fill-opacity:1;stroke-width:0.615385;stroke-linecap:round;stop-color:#000000"
+     d="M 1.535162,0 C 0.684753,0 9e-6,0.686156 9e-6,1.538458 v 11.47297 c 0,0.852302 0.684744,1.538458 1.535153,1.538458 h 12.929687 c 0.850416,0 1.53516,-0.686156 1.53516,-1.538458 V 3.683775 c 2e-6,-1.019606 -0.824717,-1.84616 -1.842059,-1.846159 H 8.9467445 C 8.5694239,1.837615 8.224311,1.624506 8.0546391,1.286736 L 7.8233564,0.826316 C 7.5688492,0.319662 7.0511812,0 6.4852018,0 Z" /><path
+     id="path2"
+     style="fill:#8db2de;fill-opacity:1;stroke-width:0.615385;stroke-linecap:round;stop-color:#000000"
+     d="m 8.304389,4.302615 c -0.4225476,0 -0.8042451,0.169447 -1.0813564,0.444491 -0.34984,0.347241 -0.828488,0.786279 -1.3281205,0.786279 H 1.535153 C 0.684744,5.533385 0,6.219541 0,7.071843 v 8.928159 H 16 V 7.994926 7.071843 5.841073 C 16,4.988771 15.315256,4.302615 14.46484,4.302615 Z" /><path
+     id="rect1586"
+     style="fill:#99c1f1;fill-opacity:1;stroke-width:0.615385;stroke-linecap:round;stop-color:#000000"
+     d="m 7.5606835,4.302615 c -0.4225476,0 -0.8042451,0.169447 -1.0813564,0.444491 -0.34984,0.347241 -0.828488,0.786279 -1.3281205,0.786279 H 1.535153 C 0.684744,5.533385 0,6.219541 0,7.071843 v 7.775932 H 16 V 7.994926 7.071843 5.841073 C 16,4.988771 15.315256,4.302615 14.46484,4.302615 Z" /><circle
+     cx="-204.80986"
+     cy="96.121849"
+     r="0"
+     fill="url(#linearGradient1062)"
+     stroke-width="1.57151"
+     id="circle5662"
+     style="display:inline;fill:url(#linearGradient1062);enable-background:new" /><g
+     id="g1"
+     transform="matrix(0.15625,0,0,0.15625,-11.531354,2.3224163)"><path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#438de6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path832"
+       d="m 104.2,51.4 v 3.2 h 41.6 v -3.2 z" /><path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#438de6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path834"
+       d="M 104.2,41.8 V 45 h 41.6 v -3.2 z" /><path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#438de6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path836"
+       d="m 104.2,61 v 3.2 h 41.6 V 61 Z" /><path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#438de6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path838"
+       d="m 125,29 c -13.21693,0 -24,10.783072 -24,24 0,13.216928 10.78307,24 24,24 13.21693,0 24,-10.783072 24,-24 0,-13.216928 -10.78307,-24 -24,-24 z m 0,6.4 c 0.81907,0 1.6177,0.07424 2.40624,0.18112 0.60989,0.832512 1.2209,1.889312 1.75626,3.281248 1.34982,3.509696 2.2375,8.56016 2.2375,14.137632 0,5.577472 -0.88768,10.621696 -2.2375,14.131264 -0.53684,1.395744 -1.15095,2.4544 -1.7625,3.287488 -0.78659,0.10656 -1.58307,0.18112 -2.4,0.18112 -0.81693,0 -1.61341,-0.07488 -2.4,-0.18112 -0.61155,-0.833088 -1.22566,-1.891744 -1.7625,-3.287488 C 119.48768,63.621696 118.6,58.577472 118.6,53 c 0,-5.577472 0.88768,-10.627936 2.2375,-14.137504 0.53536,-1.391936 1.14637,-2.448736 1.75626,-3.281248 0.78854,-0.10688 1.58717,-0.18112 2.40624,-0.18112 z m -6.68125,1.30624 c -0.15168,0.344448 -0.32765,0.63936 -0.46877,1.006272 C 116.30438,41.731072 115.4,47.089952 115.4,53 c 0,5.910048 0.90438,11.262688 2.44998,15.281248 0.14176,0.3688 0.31616,0.666432 0.46877,1.012512 C 111.89837,66.675136 107.4,60.389312 107.4,53 c 0,-7.389312 4.49837,-13.675136 10.91875,-16.29376 z m 13.3625,0 C 138.10163,39.324864 142.6,45.610688 142.6,53 c 0,7.389312 -4.49837,13.675136 -10.91875,16.29376 0.15264,-0.34608 0.32691,-0.643712 0.46877,-1.012512 C 133.69562,64.262688 134.6,58.910048 134.6,53 c 0,-5.910048 -0.90442,-11.268928 -2.44998,-15.287488 -0.14112,-0.366912 -0.31712,-0.661824 -0.46877,-1.006272 z" /></g></svg>

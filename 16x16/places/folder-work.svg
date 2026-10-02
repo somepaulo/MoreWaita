@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16.000002"
+   viewBox="0 0 16.00001 16.000002"
+   width="16.00001"
+   version="1.1"
+   id="svg5248"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs5252"><style
+       id="style1">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-2">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 1.9px;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-0">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        stroke-width: .58px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-6">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-1">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-2-8">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 1.9px;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-0-5">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        stroke-width: .58px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-6-9">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-3">
+      .cls-1 {
+        stroke-width: 2.4px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4caee;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><linearGradient
+       id="linearGradient1062"
+       x1="399.57001"
+       x2="399.57001"
+       y1="545.79999"
+       y2="517.79999"
+       gradientTransform="matrix(2.1429152,0,0,2.1429152,-1063.196,-1043.4303)"
+       gradientUnits="userSpaceOnUse"><stop
+         stop-color="#3889e9"
+         offset="0"
+         id="stop5635" /><stop
+         stop-color="#5ea5fb"
+         offset="1"
+         id="stop5637" /></linearGradient><style
+       id="style1-5">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-2-4">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 1.9px;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-0-8">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        stroke-width: .58px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-6-1">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-3-2">
+      .cls-1 {
+        stroke-width: 2.4px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4caee;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-4">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style><style
+       id="style1-16">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-2-9">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 1.9px;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-0-81">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        stroke-width: .58px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-6-3">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-3-3">
+      .cls-1 {
+        stroke-width: 2.4px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4caee;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-4-8">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style><style
+       id="style1-22">
+      .cls-1 {
+        stroke-width: 1.1px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4caee;
+      }
+
+      .cls-5, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-00">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-2-3">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 1.9px;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-0-4">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        stroke-width: .58px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-6-6">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-3-6">
+      .cls-1 {
+        stroke-width: 2.4px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4caee;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><linearGradient
+       id="linearGradient1062-0"
+       x1="399.57001"
+       x2="399.57001"
+       y1="545.79999"
+       y2="517.79999"
+       gradientTransform="matrix(2.1429152,0,0,2.1429152,-1062.0477,-1028.1917)"
+       gradientUnits="userSpaceOnUse"><stop
+         stop-color="#3889e9"
+         offset="0"
+         id="stop5635-2" /><stop
+         stop-color="#5ea5fb"
+         offset="1"
+         id="stop5637-5" /></linearGradient><style
+       id="style1-4-89">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style><style
+       id="style1-22-5">
+      .cls-1 {
+        stroke-width: 1.1px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4caee;
+      }
+
+      .cls-5, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-09">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-63">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-2-99">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 1.9px;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-0-52">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        stroke-width: .58px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-6-13">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-3-0">
+      .cls-1 {
+        stroke-width: 2.4px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4caee;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-4-3">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style><style
+       id="style1-22-4">
+      .cls-1 {
+        stroke-width: 1.1px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4caee;
+      }
+
+      .cls-5, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-09-5">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-9">
+      .st0 {
+        fill: #a4caee;
+      }
+
+      .st1 {
+        fill: #438de6;
+      }
+
+      .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-18">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-2-7">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 1.9px;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-0-0">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        stroke-width: .58px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-6-5">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-3-1">
+      .cls-1 {
+        stroke-width: 2.4px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #438de6;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4caee;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-4-0">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style><style
+       id="style1-22-0">
+      .cls-1 {
+        stroke-width: 1.1px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #438de6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4caee;
+      }
+
+      .cls-5, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-09-4">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-9-5">
+      .st0 {
+        fill: #a4caee;
+      }
+
+      .st1 {
+        fill: #438de6;
+      }
+
+      .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: url(#linear-gradient);
+      }
+    </style><style
+       id="style1-63-4">
+      .cls-1 {
+        fill: #a4caee;
+      }
+
+      .cls-2 {
+        fill: #438de6;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style></defs><linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="11.999989"
+     x2="115.99999"
+     y1="64"
+     y2="64"><stop
+       offset="0"
+       stop-color="#3d3846"
+       id="stop5214" /><stop
+       offset="0.05"
+       stop-color="#77767b"
+       id="stop5216" /><stop
+       offset="0.1"
+       stop-color="#5e5c64"
+       id="stop5218" /><stop
+       offset="0.899999"
+       stop-color="#504e56"
+       id="stop5220" /><stop
+       offset="0.95"
+       stop-color="#77767b"
+       id="stop5222" /><stop
+       offset="1"
+       stop-color="#3d3846"
+       id="stop5224" /></linearGradient><linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="12"
+     x2="112.04102"
+     y1="60"
+     y2="80.988281"><stop
+       offset="0"
+       stop-color="#77767b"
+       id="stop5227" /><stop
+       offset="0.384443"
+       stop-color="#9a9996"
+       id="stop5229" /><stop
+       offset="0.720567"
+       stop-color="#77767b"
+       id="stop5231" /><stop
+       offset="1"
+       stop-color="#68666f"
+       id="stop5233" /></linearGradient><path
+     id="rect1135"
+     style="fill:#3483e2;fill-opacity:1;stroke-width:0.615385;stroke-linecap:round;stop-color:#000000"
+     d="M 1.535162,0 C 0.684753,0 9e-6,0.686156 9e-6,1.538458 v 11.47297 c 0,0.852302 0.684744,1.538458 1.535153,1.538458 h 12.929687 c 0.850416,0 1.53516,-0.686156 1.53516,-1.538458 V 3.683775 c 2e-6,-1.019606 -0.824717,-1.84616 -1.842059,-1.846159 H 8.9467445 C 8.5694239,1.837615 8.224311,1.624506 8.0546391,1.286736 L 7.8233564,0.826316 C 7.5688492,0.319662 7.0511812,0 6.4852018,0 Z" /><path
+     id="path2"
+     style="fill:#8db2de;fill-opacity:1;stroke-width:0.615385;stroke-linecap:round;stop-color:#000000"
+     d="m 8.304389,4.302615 c -0.4225476,0 -0.8042451,0.169447 -1.0813564,0.444491 -0.34984,0.347241 -0.828488,0.786279 -1.3281205,0.786279 H 1.535153 C 0.684744,5.533385 0,6.219541 0,7.071843 v 8.928159 H 16 V 7.994926 7.071843 5.841073 C 16,4.988771 15.315256,4.302615 14.46484,4.302615 Z" /><path
+     id="rect1586"
+     style="fill:#99c1f1;fill-opacity:1;stroke-width:0.615385;stroke-linecap:round;stop-color:#000000"
+     d="m 7.5606835,4.302615 c -0.4225476,0 -0.8042451,0.169447 -1.0813564,0.444491 -0.34984,0.347241 -0.828488,0.786279 -1.3281205,0.786279 H 1.535153 C 0.684744,5.533385 0,6.219541 0,7.071843 v 7.775932 H 16 V 7.994926 7.071843 5.841073 C 16,4.988771 15.315256,4.302615 14.46484,4.302615 Z" /><circle
+     cx="-204.80986"
+     cy="96.121849"
+     r="0"
+     fill="url(#linearGradient1062)"
+     stroke-width="1.57151"
+     id="circle5662"
+     style="display:inline;fill:url(#linearGradient1062);enable-background:new" /><path
+     d="m -4.023438,-23.015625 c -2.746093,0 -5.226562,1.101562 -7.027343,2.890625 -2.273438,2.253906 -5.382813,5.109375 -8.632813,5.109375 h -28.339844 c -5.527343,0 -9.976562,4.460938 -9.976562,10 v 54.03125 c 0,5.54297 4.449219,10 9.976562,10 H 36.01953 c 5.53125,0 9.98047,-4.45703 9.98047,-10 v -62.03125 c 0,-5.539062 -4.44922,-10 -9.98047,-10 z m 0,0"
+     fill="url(#a)"
+     id="path17"
+     style="display:inline;fill:url(#a-7)" /><path
+     d="m -5.999999,33.328624 c -6.90126,-0.0014 -12.494557,-5.594703 -12.494557,-12.495962 0,-6.90126 5.594704,-12.495963 12.495963,-12.495963 4.598964,0 8.618487,2.485128 10.787173,6.185396 l 0.03235,0.05907 -5.406245,3.127859 c -1.099813,-1.883185 -3.112387,-3.127859 -5.413276,-3.127859 -3.451333,0 -6.250091,2.797352 -6.250091,6.250091 0,3.452739 2.797352,6.250091 6.250091,6.250091 2.300889,0 4.312056,-1.243267 5.396399,-3.095511 l 0.01547,-0.02953 5.409057,3.127858 C 2.61427,30.837875 -1.402441,33.320191 -5.998592,33.328629 Z M 12.267874,10.287391 C 11.989405,9.786709 11.601236,9.37885 11.135713,9.083503 l -0.01406,-0.0084 -15.494431,-8.946181 c -0.472554,-0.244716 -1.030899,-0.38817 -1.624405,-0.38817 -0.593505,0 -1.15185,0.143454 -1.644094,0.396608 l 0.01969,-0.0098 -15.497244,8.946181 c -0.932451,0.616008 -1.555491,1.635657 -1.621592,2.802978 v 0.0098 17.890955 c 0.06751,1.177166 0.690548,2.195408 1.608934,2.804384 l 0.01406,0.0084 15.494431,8.946177 c 0.472554,0.24331 1.032306,0.38677 1.624405,0.38677 0.592099,0 1.151851,-0.14346 1.644095,-0.3952 l -0.01969,0.01 15.494431,-8.94618 c 0.93245,-0.616008 1.554084,-1.635656 1.620186,-2.802978 v -0.0098 -17.890956 c -0.01547,-0.593709 -0.189866,-1.143616 -0.479587,-1.613358 l 0.0084,0.01407 z"
+     id="path1409"
+     style="display:none;fill:#438de6;fill-opacity:1;stroke-width:1.40641" /><circle
+     cx="-203.66161"
+     cy="111.36047"
+     r="0"
+     fill="url(#linearGradient1062)"
+     stroke-width="1.57151"
+     id="circle5662-5"
+     style="display:inline;fill:url(#linearGradient1062-0);enable-background:new" /><path
+     id="path1-8"
+     style="fill:#438de6;fill-opacity:1;stroke-width:0.222906"
+     d="m 8.5385449,6.853676 c -0.06488,6.42e-5 -0.130273,0.00295 -0.194956,9.844e-4 h -0.957405 -9.85e-4 c -0.237305,-0.00548 -0.467654,0.1651101 -0.518273,0.399562 -0.03174,0.1307175 -0.01492,0.2654674 -0.0193,0.3985976 v 0.2769914 h -1.812507 c -0.27408,-1.92e-5 -0.49413,0.2200294 -0.49413,0.4941258 v 2.4707248 c 0,0.274096 0.22005,0.494144 0.49415,0.494144 h 1.976578 v -0.988289 c 0,-0.274096 0.220049,-0.4941451 0.494145,-0.4941451 h 0.98829 c 0.274096,0 0.494145,0.2200491 0.494145,0.4941451 v 0.988289 h 1.9765801 c 0.274095,0 0.494144,-0.220048 0.494144,-0.494144 V 8.4239372 c 0,-0.2740964 -0.220049,-0.494145 -0.494144,-0.494145 H 9.1523679 c -0.0016,-0.1972467 0.0027,-0.3945028 -0.0029,-0.5916228 -0.01666,-0.2263692 -0.19344,-0.4296825 -0.4179,-0.4700165 -0.06391,-0.01223 -0.12815,-0.014541 -0.193025,-0.014475 z m -1.14271,0.4613302 c 0.0057,-3.516e-4 0.01165,5.15e-5 0.01737,0 0.01528,-1.374e-4 0.02986,-4.93e-5 0.04343,0 h 1.158152 c 0.07353,-0.00202 0.08247,0.077765 0.07721,0.1331878 v 0.4815982 h -1.383027 c 9.38e-4,-0.1845136 -0.0016,-0.369586 0.0019,-0.5539831 0.0085,-0.046706 0.04516,-0.05832 0.08493,-0.060803 z m 0.110024,3.0855108 v 1.482434 h 0.98829 v -1.482434 z m -2.47072,1.482434 v 1.97658 c 0,0.274096 0.220045,0.494145 0.49414,0.494145 h 4.9414501 c 0.274096,0 0.494145,-0.220049 0.494145,-0.494145 v -1.97658 H 8.9882939 c 0,0.274097 -0.220049,0.494145 -0.494145,0.494145 h -0.98829 c -0.274096,0 -0.494145,-0.220048 -0.494145,-0.494145 z" /></svg>

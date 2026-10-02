@@ -87,7 +87,7 @@ regular_files = [
     'folder-school-symbolic.svg',
     'folder-screencast-symbolic.svg',
     'folder-screenshot-symbolic.svg',
-    'folder-scripts-symbolic.svg',
+    'folder-script-symbolic.svg',
     'folder-shell-symbolic.svg',
     'folder-snap-symbolic.svg',
     'folder-syncthing-legacy-symbolic.svg',
@@ -99,8 +99,8 @@ regular_files = [
     'folder-ubuntu-symbolic.svg',
     'folder-user-symbolic.svg',
     'folder-vala-symbolic.svg',
+    'folder-windows-10-symbolic.svg',
     'folder-windows-symbolic.svg',
-    'folder-windows10-symbolic.svg',
     'folder-wine-symbolic.svg',
     'folder-work-legacy-symbolic.svg',
     'folder-work-symbolic.svg',
@@ -112,11 +112,11 @@ link_files = {
     'folder-wine-symbolic.svg': [
         'folder-wine-legacy-symbolic.svg',
     ],
-    'folder-windows10-symbolic.svg': [
-        'folder-windows10-legacy-symbolic.svg',
-    ],
     'folder-windows-symbolic.svg': [
         'folder-windows-legacy-symbolic.svg',
+    ],
+    'folder-windows-10-symbolic.svg': [
+        'folder-windows-10-legacy-symbolic.svg',
     ],
     'folder-vala-symbolic.svg': [
         'folder-vala-legacy-symbolic.svg',
@@ -138,6 +138,9 @@ link_files = {
     ],
     'folder-shell-symbolic.svg': [
         'folder-shell-legacy-symbolic.svg',
+    ],
+    'folder-script-symbolic.svg': [
+        'folder-script-legacy-symbolic.svg',
     ],
     'folder-screenshot-symbolic.svg': [
         'folder-screenshot-legacy-symbolic.svg',
@@ -262,6 +265,9 @@ link_files = {
     ],
     'folder-freecad-symbolic.svg': [
         'folder-freecad-legacy-symbolic.svg',
+    ],
+    'folder-flatpak-symbolic.svg': [
+        'folder-flatpak-legacy-symbolic.svg',
     ],
     'folder-fedora-symbolic.svg': [
         'folder-fedora-legacy-symbolic.svg',

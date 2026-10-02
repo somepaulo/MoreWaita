@@ -71,9 +71,16 @@ Type=Scalable
 [scalable/places]
 Size=96
 Context=Places
-MinSize=16
+MinSize=18
 MaxSize=512
 Type=Scalable
+
+[16x16/places]
+Size=16
+Context=Places
+MinSize=16
+MaxSize=16
+Type=Fixed
 
 [symbolic/places]
 Size=16

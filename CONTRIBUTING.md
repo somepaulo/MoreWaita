@@ -8,7 +8,12 @@ Thank you for showing your interest in contributing! Contributions are most welc
 #### Here are eight basic rules that will help get your pull request merged:
 
 **1. Follow the icon sizes and placements from existing icons**  
-Generally, the best way to create new icons is to modify existing ones of a similar shape and colour.  
+Generally, the best way to create new icons is to modify existing ones of a similar shape and colour.
+> [!IMPORTANT]
+> Avoid strokes  
+> Don't use mesh gradients  
+> Don't use Cairo namespace-prefixed SVGs (<svg:svg>)
+
 You can also use Gnome's official [icon template](https://gitlab.gnome.org/Teams/Design/HIG-app-icons/blob/master/template.svg) for app icons.  
 Check the [Gnome HIG](https://developer.gnome.org/hig/guidelines/app-icons.html) on app icons for more info.
 
@@ -28,7 +33,7 @@ Frequently, app icons have different names used on different systems and/or app 
 The symbolic icons have to be named exactly as the full-colour ones, adding `-symbolic` to the end of the name before the `.svg` extension.
 Symlinks for alternative names have to be created in the same way as with apps.
 
-**5. Every folder icon has to have a legacy folder icon and a symbolic icon**  
+**5. Every folder icon has to have a 16x16, a legacy, and a symbolic icon**  
 The icons used on the modern and legacy full-color folder icons may or may not differ. They are used as symbolic icons for the respective folders. When the icon is the same for both folder versions, use a symbolic icon file for the modern version and a symlink to it for the legacy version.
 
 **6. Add your icon to the README**  
