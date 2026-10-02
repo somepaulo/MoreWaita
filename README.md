@@ -790,7 +790,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-user.svg "User")
 ![icon](./scalable/places/folder-vala.svg "Vala")
 ![icon](./scalable/places/folder-windows.svg "Windows")
-![icon](./scalable/places/folder-windows10.svg "Windows 10")
+![icon](./scalable/places/folder-windows-10.svg "Windows 10")
 ![icon](./scalable/places/folder-wine.svg "Wine")
 ![icon](./scalable/places/folder-work.svg "Work")
 
@@ -931,7 +931,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/places/folder-user-legacy.svg "User")
 ![icon](./scalable/places/folder-vala-legacy.svg "Vala")
 ![icon](./scalable/places/folder-windows-legacy.svg "Windows")
-![icon](./scalable/places/folder-windows10-legacy.svg "Windows 10")
+![icon](./scalable/places/folder-windows-10-legacy.svg "Windows 10")
 ![icon](./scalable/places/folder-wine-legacy.svg "Wine")
 ![icon](./scalable/places/folder-work-legacy.svg "Work")
 </details>

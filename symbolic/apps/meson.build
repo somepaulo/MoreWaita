@@ -168,6 +168,7 @@ regular_files = [
     'gtkterm-symbolic.svg',
     'gufw-symbolic.svg',
     'hardinfo-symbolic.svg',
+    'hardinfo2-symbolic.svg',
     'headlines-symbolic.svg',
     'hedgemodmanager-symbolic.svg',
     'helio-workstation-symbolic.svg',
@@ -1298,6 +1299,11 @@ link_files = {
         'im.nheko.Nheko-symbolic.svg',
         'io.github.NhekoReborn.Nheko-symbolic.svg',
     ],
+    'hardinfo-symbolic.svg': [
+        'hwloc-symbolic.svg',
+        'jockey-kde-symbolic.svg',
+        'jockey-symbolic.svg',
+    ],
     'hp_logo-symbolic.svg': [
         'hp-logo-symbolic.svg',
         'hp-toolbox-symbolic.svg',
@@ -1306,12 +1312,6 @@ link_files = {
     ],
     'helium-symbolic.svg': [
         'helium-browser-symbolic.svg',
-    ],
-    'hardinfo-symbolic.svg': [
-        'hardinfo2-symbolic.svg',
-        'hwloc-symbolic.svg',
-        'jockey-kde-symbolic.svg',
-        'jockey-symbolic.svg',
     ],
     'pure-maps-symbolic.svg': [
         'harbour-pure-maps-symbolic.svg',

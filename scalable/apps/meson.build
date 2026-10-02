@@ -180,6 +180,7 @@ regular_files = [
     'gtkterm.svg',
     'gufw.svg',
     'hardinfo.svg',
+    'hardinfo2.svg',
     'headlines.svg',
     'hedgemodmanager.svg',
     'helio-workstation.svg',
@@ -1351,9 +1352,6 @@ link_files = {
     ],
     'helium.svg': [
         'helium-browser.svg',
-    ],
-    'hardinfo.svg': [
-        'hardinfo2.svg',
     ],
     'pure-maps.svg': [
         'harbour-pure-maps.svg',
