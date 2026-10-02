@@ -571,6 +571,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/mimetypes/text-css.svg "CSS")
 ![icon](./scalable/mimetypes/application-x-deb.svg "deb")
 ![icon](./scalable/mimetypes/image-vnd.djvu.svg "DjVu")
+![icon](./scalable/mimetypes/text-x-dune.svg "Dune")
 ![icon](./scalable/mimetypes/application-epub+zip.svg "eBook")
 ![icon](./scalable/mimetypes/text-x-emacs-lisp.svg "Emacs")
 ![icon](./scalable/mimetypes/com.fender.studio.application-x.fender-fenderstudio.svg "Fender Studio")
