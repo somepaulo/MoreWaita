@@ -375,6 +375,7 @@ regular_files = [
     'scribus-symbolic.svg',
     'scummvm-symbolic.svg',
     'seabird-symbolic.svg',
+    'seafile-symbolic.svg',
     'session-desktop-symbolic.svg',
     'setzer-symbolic.svg',
     'shelly-symbolic.svg',
@@ -1531,6 +1532,9 @@ link_files = {
     ],
     'sigil-symbolic.svg': [
         'com.sigil_ebook.Sigil-symbolic.svg',
+    ],
+    'seafile-symbolic.svg': [
+        'com.seafile.Client-symbolic.svg',
     ],
     'pwvucontrol-symbolic.svg': [
         'com.saivert.pwvucontrol-symbolic.svg',

@@ -400,6 +400,7 @@ regular_files = [
     'scribus.svg',
     'scummvm.svg',
     'seabird.svg',
+    'seafile.svg',
     'session-desktop.svg',
     'setzer.svg',
     'shelly.svg',
@@ -1586,6 +1587,9 @@ link_files = {
     ],
     'sigil.svg': [
         'com.sigil_ebook.Sigil.svg',
+    ],
+    'seafile.svg': [
+        'com.seafile.Client.svg',
     ],
     'pwvucontrol.svg': [
         'com.saivert.pwvucontrol.svg',
