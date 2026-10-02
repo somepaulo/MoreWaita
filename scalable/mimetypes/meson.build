@@ -154,6 +154,9 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'text-x-zig.svg': [
+        'text-x-zon.svg',
+    ],
     'text-x-tex.svg': [
         'text-x-stex.svg',
         'text-x-texinfo.svg',
