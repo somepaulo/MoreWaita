@@ -28,8 +28,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-    env:
-      STAGING_DIR: ${{ runner.temp }}/morewaita-stage
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -47,7 +45,7 @@ jobs:
         run: meson compile -C _build
 
       - name: Install into staging directory
-        run: meson install -C _build --no-rebuild --destdir "$STAGING_DIR"
+        run: meson install -C _build --no-rebuild --destdir "$RUNNER_TEMP/morewaita-stage"
 
       - name: Verify installed icons and theme directories
         shell: bash
@@ -58,7 +56,7 @@ jobs:
           from pathlib import Path
 
           source = Path.cwd()
-          installed = Path(os.environ['STAGING_DIR']) / 'usr/share/icons/MoreWaita'
+          installed = Path(os.environ['RUNNER_TEMP']) / 'morewaita-stage/usr/share/icons/MoreWaita'
           errors = []
 
           for name in ('index.theme', 'AUTHORS', 'LICENSE'):
