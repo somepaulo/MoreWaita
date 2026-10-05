@@ -21,3 +21,97 @@ jobs:
           broken_symlinks="$(find . -xtype l)"
           echo "${broken_symlinks}"
           [[ -z "$broken_symlinks" ]]
+
+  meson:
+    name: Meson build and installation
+    timeout-minutes: 15
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    env:
+      STAGING_DIR: ${{ runner.temp }}/morewaita-stage
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Install build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install --no-install-recommends -y meson ninja-build
+
+      - name: Configure
+        run: meson setup _build --prefix=/usr --datadir=share --wrap-mode=nodownload
+
+      - name: Build
+        run: meson compile -C _build
+
+      - name: Install into staging directory
+        run: meson install -C _build --no-rebuild --destdir "$STAGING_DIR"
+
+      - name: Verify installed icons and theme directories
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import configparser
+          import os
+          from pathlib import Path
+
+          source = Path.cwd()
+          installed = Path(os.environ['STAGING_DIR']) / 'usr/share/icons/MoreWaita'
+          errors = []
+
+          for name in ('index.theme', 'AUTHORS', 'LICENSE'):
+              target = installed / name
+              if not target.is_file() or target.read_bytes() != (source / name).read_bytes():
+                  errors.append(f'Missing or changed installed file: {name}')
+
+          theme = configparser.ConfigParser(interpolation=None)
+          theme.read(source / 'index.theme')
+          directories = {
+              entry.strip()
+              for key in ('Directories', 'ScaledDirectories')
+              for entry in theme.get('Icon Theme', key, fallback='').split(',')
+              if entry.strip()
+          }
+          for directory in sorted(directories):
+              if not theme.has_section(directory):
+                  errors.append(f'Missing index.theme section: {directory}')
+              if not (installed / directory).is_dir():
+                  errors.append(f'Missing installed directory: {directory}')
+
+          # Discover all source icon trees, including newly added sizes.
+          icons = {
+              path.relative_to(source): path
+              for child in source.iterdir()
+              if child.is_dir() and (child / 'meson.build').is_file()
+              for path in child.rglob('*.svg')
+          }
+          if not icons:
+              errors.append('No source icons found')
+
+          for relative, path in sorted(icons.items()):
+              target = installed / relative
+              if relative.parent.as_posix() not in directories:
+                  errors.append(f'Icon directory absent from index.theme: {relative.parent}')
+              if path.is_symlink():
+                  if not target.is_symlink():
+                      errors.append(f'Missing installed symlink: {relative}')
+                  elif os.readlink(target) != os.readlink(path):
+                      errors.append(f'Changed symlink target: {relative}')
+                  elif not target.is_file():
+                      errors.append(f'Broken installed symlink: {relative}')
+              elif target.is_symlink() or not target.is_file():
+                  errors.append(f'Missing installed regular icon: {relative}')
+              elif target.read_bytes() != path.read_bytes():
+                  errors.append(f'Changed installed icon: {relative}')
+
+          extra = {
+              path.relative_to(installed) for path in installed.rglob('*.svg')
+          } - icons.keys()
+          errors.extend(f'Unexpected installed icon: {path}' for path in sorted(extra))
+
+          if errors:
+              raise SystemExit('\n'.join(sorted(set(errors))))
+          print(f'Verified {len(icons)} installed icons and {len(directories)} theme directories.')
+          PY

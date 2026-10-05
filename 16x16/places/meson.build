@@ -1,4 +1,4 @@
-16x16_places_iconsdir = join_paths(16x16_iconsdir, 'places')
+fixed_places_iconsdir = join_paths(fixed_iconsdir, 'places')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
@@ -50,7 +50,7 @@ regular_files = [
     'folder-lua.svg',
     'folder-mega.svg',
     'folder-money.svg',
-    'folder-musecore.svg',
+    'folder-musescore.svg',
     'folder-neovim.svg',
     'folder-nextcloud.svg',
     'folder-nix.svg',
@@ -214,8 +214,8 @@ link_files = {
     'folder-neovim.svg': [
         'folder-neovim-legacy.svg',
     ],
-    'folder-musecore.svg': [
-        'folder-musecore-legacy.svg',
+    'folder-musescore.svg': [
+        'folder-musescore-legacy.svg',
     ],
     'folder-money.svg': [
         'folder-money-legacy.svg',

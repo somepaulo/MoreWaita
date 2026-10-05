@@ -24,7 +24,7 @@ FollowsColorScheme=true
 KDE-Extensions=.svg
 
 # Directory list
-Directories=scalable/apps,symbolic/apps,scalable/devices,scalable/legacy,symbolic/legacy,scalable/mimetypes,scalable/places,symbolic/places,symbolic/status
+Directories=scalable/apps,symbolic/apps,scalable/devices,scalable/legacy,symbolic/legacy,scalable/mimetypes,16x16/places,scalable/places,symbolic/places,symbolic/status
 
 [scalable/apps]
 Size=96
@@ -68,19 +68,17 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
+[16x16/places]
+Size=16
+Context=Places
+Type=Fixed
+
 [scalable/places]
 Size=96
 Context=Places
 MinSize=18
 MaxSize=512
 Type=Scalable
-
-[16x16/places]
-Size=16
-Context=Places
-MinSize=16
-MaxSize=16
-Type=Fixed
 
 [symbolic/places]
 Size=16

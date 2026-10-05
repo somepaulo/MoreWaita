@@ -1,4 +1,4 @@
-scalable_legacy_iconsdir = join_paths(symbolic_iconsdir, 'legacy')
+symbolic_legacy_iconsdir = join_paths(symbolic_iconsdir, 'legacy')
 
 regular_files = [
     # DO NOT REMOVE: Begining of regular segment
