@@ -370,10 +370,10 @@ link_files = {
     # DO NOT REMOVE: End of link segment
 }
 
-install_data(regular_files, install_dir: 16x16_places_iconsdir)
+install_data(regular_files, install_dir: fixed_places_iconsdir)
 
 foreach dest_file, link_files_for_dest : link_files
     foreach link_file : link_files_for_dest
-        install_symlink(link_file, install_dir: 16x16_places_iconsdir, pointing_to: dest_file)
+        install_symlink(link_file, install_dir: fixed_places_iconsdir, pointing_to: dest_file)
     endforeach
 endforeach
