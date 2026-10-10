@@ -206,6 +206,7 @@ regular_files = [
     'io.github.quodlibet.ExFalso.svg',
     'io.github.quodlibet.QuodLibet.svg',
     'io.github.tobagin.karere.svg',
+    'io.github.trufae.Parla.svg',
     'jasp.svg',
     'java-openjdk.svg',
     'jdownloader.svg',
