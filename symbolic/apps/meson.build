@@ -17,6 +17,7 @@ regular_files = [
     'abiword-symbolic.svg',
     'aegisub-symbolic.svg',
     'affinity-symbolic.svg',
+    'akhenaten-symbolic.svg',
     'alacritty-symbolic.svg',
     'androidstudio-symbolic.svg',
     'angryip-symbolic.svg',
@@ -70,7 +71,6 @@ regular_files = [
     'code-oss-symbolic.svg',
     'codeblocks-symbolic.svg',
     'com.fender.studio-symbolic.svg',
-    'com.github.dalerank.akhenaten-symbolic.svg',
     'com.github.rafostar.Clapper-symbolic.svg',
     'com.kagi.Orion-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
@@ -1680,8 +1680,9 @@ link_files = {
         'org.jellyfin.JellyfinDesktop-symbolic.svg',
         'org.jellyfin.JellyfinServer-symbolic.svg',
     ],
-    'com.github.dalerank.akhenaten-symbolic.svg': [
-        'com.github.dalerank.Akhenaten-symbolic.svg',
+    'akhenaten-symbolic.svg': [
+        'com.github.dalerank.akhenaten-symbolic.svg',
+        'io.github.dalerank.Akhenaten-symbolic.svg',
     ],
     'julius-symbolic.svg': [
         'com.github.bvschaik.julius-symbolic.svg',

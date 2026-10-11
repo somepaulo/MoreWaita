@@ -17,6 +17,7 @@ regular_files = [
     'abiword.svg',
     'aegisub.svg',
     'affinity.svg',
+    'akhenaten.svg',
     'alacarte.svg',
     'alacritty.svg',
     'android-studio-canary.svg',
@@ -76,7 +77,6 @@ regular_files = [
     'code-oss.svg',
     'codeblocks.svg',
     'com.fender.studio.svg',
-    'com.github.dalerank.akhenaten.svg',
     'com.github.rafostar.Clapper.svg',
     'com.google.ChromeDev.svg',
     'com.kagi.Orion.svg',
@@ -1740,8 +1740,9 @@ link_files = {
         'com.github.gkarsay.parlatype.svg',
         'parlatype.svg',
     ],
-    'com.github.dalerank.akhenaten.svg': [
-        'com.github.dalerank.Akhenaten.svg',
+    'akhenaten.svg': [
+        'com.github.dalerank.akhenaten.svg',
+        'io.github.dalerank.Akhenaten.svg',
     ],
     'julius.svg': [
         'com.github.bvschaik.julius.svg',
