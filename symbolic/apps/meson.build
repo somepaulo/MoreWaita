@@ -1680,6 +1680,9 @@ link_files = {
         'org.jellyfin.JellyfinDesktop-symbolic.svg',
         'org.jellyfin.JellyfinServer-symbolic.svg',
     ],
+    'com.github.dalerank.akhenaten-symbolic.svg': [
+        'com.github.dalerank.Akhenaten-symbolic.svg',
+    ],
     'julius-symbolic.svg': [
         'com.github.bvschaik.julius-symbolic.svg',
     ],

@@ -1740,6 +1740,9 @@ link_files = {
         'com.github.gkarsay.parlatype.svg',
         'parlatype.svg',
     ],
+    'com.github.dalerank.akhenaten.svg': [
+        'com.github.dalerank.Akhenaten.svg',
+    ],
     'julius.svg': [
         'com.github.bvschaik.julius.svg',
     ],
