@@ -345,6 +345,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/opentoonz.svg "OpenToonz")
 ![icon](./scalable/apps/osu.svg "Osu")
 ![icon](./scalable/apps/pacseek.svg "Pacseek")
+![icon](./scalable/apps/io.github.mrks1469.pachub.svg "PacHub")
 ![icon](./scalable/apps/pamac.svg "Pamac")
 ![icon](./scalable/apps/io.github.trufae.Parla.svg "Parla")
 ![icon](./scalable/apps/org.parlatype.Parlatype.svg "Parlatype")
