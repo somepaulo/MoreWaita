@@ -413,6 +413,7 @@ regular_files = [
     'signal-desktop.svg',
     'sioyek.svg',
     'slack.svg',
+    'snes9x.svg',
     'sober.svg',
     'solaar.svg',
     'sonar.svg',
@@ -1581,6 +1582,9 @@ link_files = {
     ],
     'sublime-merge.svg': [
         'com.sublimemerge.App.svg',
+    ],
+    'snes9x.svg': [
+        'com.snes9x.Snes9x.svg',
     ],
     'slack.svg': [
         'com.slack.Slack.svg',
