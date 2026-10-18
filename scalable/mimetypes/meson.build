@@ -375,6 +375,7 @@ link_files = {
     ],
     'application-x-audacity-project.svg': [
         'application-x-audacity-project+sqlite3.svg',
+        'application-x-audacity.svg',
     ],
     'application-vnd.wolfram.mathematica.package.svg': [
         'application-vnd.wolfram.wl.svg',
