@@ -61,6 +61,7 @@ regular_files = [
     'carla-control.svg',
     'carla.svg',
     'cawbird.svg',
+    'chatgpt.svg',
     'chatterino.svg',
     'cherry-studio.svg',
     'chromium-browser.svg',

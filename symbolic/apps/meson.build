@@ -56,6 +56,7 @@ regular_files = [
     'calibre-symbolic.svg',
     'carla-symbolic.svg',
     'cawbird-symbolic.svg',
+    'chatgpt-symbolic.svg',
     'chatterino-symbolic.svg',
     'cherry-studio-symbolic.svg',
     'cider-symbolic.svg',
