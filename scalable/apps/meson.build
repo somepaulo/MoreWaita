@@ -294,6 +294,7 @@ regular_files = [
     'n-trackstudio.svg',
     'nelson.svg',
     'neovide.svg',
+    'net.blip.Blip.svg',
     'net.gpro.gproapp.svg',
     'net.kuribo64.melonDS.svg',
     'net.poedit.Poedit.svg',

@@ -274,6 +274,7 @@ regular_files = [
     'n-trackstudio-symbolic.svg',
     'nelson-symbolic.svg',
     'neovide-symbolic.svg',
+    'net.blip.Blip-symbolic.svg',
     'net.gpro.gproapp-symbolic.svg',
     'net.kuribo64.melonDS-symbolic.svg',
     'net.poedit.Poedit-symbolic.svg',
