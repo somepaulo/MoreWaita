@@ -432,6 +432,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/signal-desktop.svg "Signal")
 ![icon](./scalable/apps/sioyek.svg "Sioyek")
 ![icon](./scalable/apps/slack.svg "Slack")
+![icon](./scalable/apps/snes9x.svg "Snes9x")
 ![icon](./scalable/apps/sober.svg "Sober")
 ![icon](./scalable/apps/solaar.svg "Solaar")
 ![icon](./scalable/apps/sonar.svg "Sonar")
