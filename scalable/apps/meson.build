@@ -82,6 +82,7 @@ regular_files = [
     'com.google.ChromeDev.svg',
     'com.kagi.Orion.svg',
     'com.obsproject.Studio.svg',
+    'com.stremio.Stremio.svg',
     'com.tonikelope.MegaBasterd.svg',
     'coolercontrol.svg',
     'coppwr.svg',
