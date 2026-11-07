@@ -186,6 +186,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/grapejuice.svg "Grapejuice")
 ![icon](./scalable/apps/grapejuice-roblox-player.svg "Grapejuice Player")
 ![icon](./scalable/apps/grapejuice-roblox-studio.svg "Grapejuice Studio")
+![icon](./scalable/apps/ai.storyteller.gridcraft.svg "GridCraft")
 ![icon](./scalable/apps/grub-customizer.svg "GRUB Customizer")
 ![icon](./scalable/apps/gsmartcontrol.svg "GSmartControl")
 ![icon](./scalable/apps/gtkterm.svg "GTKTerm")
