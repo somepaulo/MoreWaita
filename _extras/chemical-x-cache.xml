@@ -3,6 +3,7 @@
 <mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
   <mime-type type="chemical/x-cache">
     <comment>Cache file</comment>
+    <comment xml:lang="fr">Fichier de cache</comment>
     <glob pattern="*.cache"/>
   </mime-type>
 </mime-info>

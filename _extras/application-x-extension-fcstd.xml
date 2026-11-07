@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+	<mime-type type="application/x-extension-fcstd">
+		<sub-class-of type="application/zip"/>
+		<comment>FreeCad Project</comment>
+		<comment xml:lang="fr">Projet FreeCad</comment>
+		<glob pattern="*.FCStd"/>
+	</mime-type>
+	<mime-type type="application/x-extension-fcstd-backup">
+		<sub-class-of type="application/zip"/>
+		<comment>FreeCad Project Backup</comment>
+		<comment xml:lang="fr">Backup de Projet FreeCad</comment>
+		<glob pattern="*.FCBackup"/>
+		<glob pattern="*.FCBak"/>
+	</mime-type>
+</mime-info>
