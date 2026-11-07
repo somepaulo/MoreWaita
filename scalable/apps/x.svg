@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="12" y1="116" x2="116" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.04" stop-color="#222222"/>
+      <stop offset="0.08" stop-color="#000000"/>
+      <stop offset="0.92" stop-color="#000000"/>
+      <stop offset="0.96" stop-color="#222222"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+  <title>Artboard 1</title>
+  <g>
+    <path d="M12 108 L12 104.001 C12.001 108.419 15.582 112 20 112 L108 112 C112.418 112 115.999 108.419 116 104.001 L116 108 C116 112.418 112.418 116 108 116 L20 116 C15.582 116 12 112.418 12 108 Z" fill="url(#linear-gradient-1)"/>
+    <path d="M20 12 L108 12 C112.418 12 116 15.582 116 20 L116 104 C116 108.418 112.418 112 108 112 L20 112 C15.582 112 12 108.418 12 104 L12 20 C12 15.582 15.582 12 20 12 Z" fill="#101010"/>
+  </g>
+  <g>
+    <path d="M81.591 34.259 L91.003 34.259 L70.337 57.79 L94.482 89.71 L75.534 89.71 L60.699 70.312 L43.716 89.71 L34.304 89.71 L56.198 64.542 L33.076 34.259 L52.494 34.259 L65.897 51.979 Z M78.296 84.185 L83.514 84.185 L49.752 39.579 L44.146 39.579 Z" fill="#ffffff"/>
+  </g>
+</svg>
