@@ -261,6 +261,7 @@ regular_files = [
     'mercury-symbolic.svg',
     'micro-symbolic.svg',
     'microsoft-edge-symbolic.svg',
+    'microsoft-onedrive-symbolic.svg',
     'minecraft-symbolic.svg',
     'minetest-symbolic.svg',
     'mixin-symbolic.svg',
