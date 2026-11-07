@@ -41,27 +41,27 @@
     <linearGradient
        id="linearGradient7">
       <stop
-         style="stop-color:#006958;stop-opacity:1;"
+         style="stop-color:#8f0000;stop-opacity:1;"
          offset="0"
          id="stop2" />
       <stop
          id="stop3"
          offset="0.04166667"
-         style="stop-color:#12a58a;stop-opacity:1;" />
+         style="stop-color:#b70228;stop-opacity:1;" />
       <stop
-         style="stop-color:#006958;stop-opacity:1;"
+         style="stop-color:#8f0000;stop-opacity:1;"
          offset="0.08333334"
          id="stop4" />
       <stop
          id="stop5"
          offset="0.91666669"
-         style="stop-color:#006958;stop-opacity:1;" />
+         style="stop-color:#8f0000;stop-opacity:1;" />
       <stop
-         style="stop-color:#12a58a;stop-opacity:1;"
+         style="stop-color:#b70228;stop-opacity:1;"
          offset="0.95833331"
          id="stop6" />
       <stop
-         style="stop-color:#006958;stop-opacity:1;"
+         style="stop-color:#8f0000;stop-opacity:1;"
          offset="1"
          id="stop7" />
     </linearGradient>
@@ -315,7 +315,7 @@
        clip-path="url(#clipPath3-6)" />
   </g>
   <rect
-     style="display:inline;fill:#12a58a;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+     style="display:inline;fill:#b70228;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
      id="rect1711"
      width="104"
      height="100"
