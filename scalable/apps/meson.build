@@ -422,6 +422,7 @@ regular_files = [
     'soundconverter.svg',
     'soundux.svg',
     'spek.svg',
+    'spotifast.svg',
     'spotify.svg',
     'spyder.svg',
     'sqlitebrowser.svg',
