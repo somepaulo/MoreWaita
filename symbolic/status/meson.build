@@ -55,8 +55,12 @@ regular_files = [
 
 link_files = {
     # DO NOT REMOVE: Begining of link segment
+    'shelly-updates-symbolic.svg': [
+        'shelly-update-symbolic.svg',
+    ],
     '../apps/shelly-symbolic.svg': [
         'shelly-shell-symbolic.svg',
+        'shelly-tray-symbolic.svg',
     ],
     'user-status-new.svg': [
         'pidgin-tray-xa.svg',
