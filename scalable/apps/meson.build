@@ -440,6 +440,7 @@ regular_files = [
     'suyu.svg',
     'syncthing-gtk.svg',
     'sysd-manager.svg',
+    'tasks.org.svg',
     'tauonmb.svg',
     'teams.svg',
     'telegram.svg',
