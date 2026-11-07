@@ -397,6 +397,7 @@ regular_files = [
     'soundconverter-symbolic.svg',
     'soundux-symbolic.svg',
     'spek-symbolic.svg',
+    'spotifast-symbolic.svg',
     'spotify-symbolic.svg',
     'spyder-symbolic.svg',
     'standard-notes-symbolic.svg',
