@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="12" y1="116" x2="116" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003b89"/>
+      <stop offset="0.04" stop-color="#569fff"/>
+      <stop offset="0.08" stop-color="#003b89"/>
+      <stop offset="0.92" stop-color="#003b89"/>
+      <stop offset="0.96" stop-color="#569fff"/>
+      <stop offset="1" stop-color="#003b89"/>
+    </linearGradient>
+  </defs>
+  <title>Artboard 1</title>
+  <g>
+    <path d="M12 108 L12 104.001 C12.001 108.419 15.582 112 20 112 L108 112 C112.418 112 115.999 108.419 116 104.001 L116 108 C116 112.418 112.418 116 108 116 L20 116 C15.582 116 12 112.418 12 108 Z" fill="url(#linear-gradient-1)"/>
+    <path d="M20 12 L108 12 C112.418 12 116 15.582 116 20 L116 104 C116 108.418 112.418 112 108 112 L20 112 C15.582 112 12 108.418 12 104 L12 20 C12 15.582 15.582 12 20 12 Z" fill="#4092ff"/>
+  </g>
+  <g>
+    <polygon points="59.826,45.764 49.019,29.56 69.45,29.56 80.257,45.764 69.407,62.033 89.837,62.033 100.643,78.236 89.837,94.44 69.406,94.44 80.213,78.236 69.406,62.033 47.793,94.44 27.357,94.44 59.82,45.764" fill="#ffffff"/>
+  </g>
+</svg>
