@@ -504,6 +504,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/wezterm.svg "Wezterm")
 ![icon](./scalable/apps/whatsapp.svg "WhatsApp")
 ![icon](./scalable/apps/whatsapp-business.svg "WhatsApp Business")
+![icon](./scalable/apps/winboat.svg "WinBoat")
 ![icon](./scalable/apps/windscribe.svg "Windscribe")
 ![icon](./scalable/apps/wine.svg "Wine")
 ![icon](./scalable/apps/winecfg.svg "Wine Configuration")
