@@ -269,6 +269,7 @@ regular_files = [
     'monero-symbolic.svg',
     'moonlight-symbolic.svg',
     'mozillavpn-symbolic.svg',
+    'mullvad-vpn-symbolic.svg',
     'mumble-symbolic.svg',
     'musescore-symbolic.svg',
     'n-trackstudio-symbolic.svg',
