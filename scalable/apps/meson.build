@@ -52,6 +52,7 @@ regular_files = [
     'brave-desktop.svg',
     'brave-origin.svg',
     'briar.svg',
+    'bricscad.svg',
     'btop.svg',
     'burp.svg',
     'buzz.svg',
