@@ -167,6 +167,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/ghidra.svg "Ghidra")
 ![icon](./scalable/apps/gimagereader.svg "gImageReader")
 ![icon](./scalable/apps/gimp.svg "GIMP")
+![icon](./scalable/apps/gitcomet.svg "GitComet")
 ![icon](./scalable/apps/github-desktop.svg "GitHub Desktop")
 ![icon](./scalable/apps/gitkraken.svg "GitKraken")
 ![icon](./scalable/apps/godot.svg "Godot")
