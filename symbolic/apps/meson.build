@@ -147,6 +147,7 @@ regular_files = [
     'ghidra-symbolic.svg',
     'gimagereader-symbolic.svg',
     'gimp-symbolic.svg',
+    'gitcomet-symbolic.svg',
     'github-desktop-symbolic.svg',
     'gitkraken-symbolic.svg',
     'gnome-aisleriot-symbolic.svg',
