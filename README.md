@@ -515,6 +515,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/wine-uninstaller.svg "Wine Uninstaller")
 ![icon](./scalable/apps/wireshark.svg "Wireshark")
 ![icon](./scalable/apps/wonderpen.svg "WonderPen")
+![icon](./scalable/apps/ai.storyteller.wordcraft.svg "WordCraft")
 ![icon](./scalable/apps/xdvi.svg "xdvi")
 ![icon](./scalable/apps/xemu.svg "xemu")
 ![icon](./scalable/apps/xonotic.svg "Xonotic")
