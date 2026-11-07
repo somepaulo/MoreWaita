@@ -292,6 +292,7 @@ regular_files = [
     'mumble.svg',
     'musescore.svg',
     'n-trackstudio.svg',
+    'nebula.svg',
     'nelson.svg',
     'neovide.svg',
     'net.gpro.gproapp.svg',
