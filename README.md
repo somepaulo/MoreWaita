@@ -176,6 +176,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/com.google.ChromeDev.svg "Google Chrome Dev")
 ![icon](./scalable/apps/google-earth.svg "Google Earth")
 ![icon](./scalable/apps/google-docs.svg "Google Docs")
+![icon](./scalable/apps/google-maps.svg "Google Maps")
 ![icon](./scalable/apps/google-sheets.svg "Google Sheets")
 ![icon](./scalable/apps/google-slides.svg "Google Slides")
 ![icon](./scalable/apps/gparted.svg "GParted")
