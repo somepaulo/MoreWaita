@@ -43,6 +43,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/apple-music.svg "Apple Music")
 ![icon](./scalable/apps/ardour.svg "Ardour")
 ![icon](./scalable/apps/arduino.svg "Arduino")
+![icon](./scalable/apps/ai.storyteller.artcraft-launcher.svg "Artcraft Launcher")
 ![icon](./scalable/apps/atomix.svg "Atomix")
 ![icon](./scalable/apps/audacity.svg "Audacity")
 ![icon](./scalable/apps/augustus.svg "Augustus")
