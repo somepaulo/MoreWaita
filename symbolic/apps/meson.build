@@ -98,6 +98,7 @@ regular_files = [
     'discord-symbolic.svg',
     'dosbox-staging-symbolic.svg',
     'drawio-symbolic.svg',
+    'droidcam-symbolic.svg',
     'dropbox-symbolic.svg',
     'dune3d-symbolic.svg',
     'eclipse-symbolic.svg',

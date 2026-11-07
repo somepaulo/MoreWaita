@@ -106,6 +106,7 @@ regular_files = [
     'discord.svg',
     'dosbox-staging.svg',
     'drawio.svg',
+    'droidcam.svg',
     'dropbox.svg',
     'dune3d.svg',
     'eclipse.svg',
