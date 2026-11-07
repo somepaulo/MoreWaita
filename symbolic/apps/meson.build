@@ -193,6 +193,7 @@ regular_files = [
     'io.github.pieterdd.RcloneShuttle-symbolic.svg',
     'io.github.tobagin.karere-symbolic.svg',
     'io.github.trufae.Parla-symbolic.svg',
+    'io.tangencylabs.solidcraft-symbolic.svg',
     'jasp-symbolic.svg',
     'java-openjdk-symbolic.svg',
     'jdownloader-symbolic.svg',

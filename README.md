@@ -435,6 +435,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/sober.svg "Sober")
 ![icon](./scalable/apps/solaar.svg "Solaar")
 ![icon](./scalable/apps/sonar.svg "Sonar")
+![icon](./scalable/apps/io.tangencylabs.solidcraft.svg "SolidCraft")
 ![icon](./scalable/apps/soundconverter.svg "Sound Converter")
 ![icon](./scalable/apps/sound-juicer.svg "Sound Juicer")
 ![icon](./scalable/apps/soundux.svg "Soundux")
