@@ -81,6 +81,7 @@ regular_files = [
     'com.github.rafostar.Clapper.svg',
     'com.google.ChromeDev.svg',
     'com.kagi.Orion.svg',
+    'com.nvidia.geforcenow.svg',
     'com.obsproject.Studio.svg',
     'com.tonikelope.MegaBasterd.svg',
     'coolercontrol.svg',
