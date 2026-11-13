@@ -448,6 +448,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/steamvr.svg "SteamVR")
 ![icon](./scalable/apps/stellarium.svg "Stellarium")
 ![icon](./scalable/apps/strawberry.svg "Strawberry")
+![icon](./scalable/apps/com.stremio.Stremio.svg "Stremio")
 ![icon](./scalable/apps/studioone7.svg "Studio One")
 ![icon](./scalable/apps/sublime-merge.svg "Sublime Merge")
 ![icon](./scalable/apps/sublime-text.svg "Sublime Text")
