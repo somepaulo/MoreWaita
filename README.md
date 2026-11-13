@@ -132,6 +132,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/figma.svg "Figma")
 ![icon](./scalable/apps/filendesktop.svg "Filen")
 ![icon](./scalable/apps/filezilla.svg "FileZilla")
+![icon](./scalable/apps/ai.storyteller.filmcraft.svg "FilmCraft")
 ![icon](./scalable/apps/firefox.svg "Firefox")
 ![icon](./scalable/apps/firefox-developer-edition.svg "Firefox Developer Edition")
 ![icon](./scalable/apps/firefox-nightly.svg "Firefox Nightly")
