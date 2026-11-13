@@ -457,6 +457,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/me.spaceinbox.swiftynotes.svg "Swifty Notes")
 ![icon](./scalable/apps/syncthing-gtk.svg "Syncthing")
 ![icon](./scalable/apps/sysd-manager.svg "SysD Manager")
+![icon](./scalable/apps/tasks.org.svg "Tasks.org")
 ![icon](./scalable/apps/tauonmb.svg "Tauon")
 ![icon](./scalable/apps/teams.svg "Teams")
 ![icon](./scalable/apps/TeamViewer.svg "TeamViewer")
