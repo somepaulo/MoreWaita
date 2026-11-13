@@ -17,6 +17,7 @@ regular_files = [
     'abiword-symbolic.svg',
     'aegisub-symbolic.svg',
     'affinity-symbolic.svg',
+    'ai.storyteller.effectcraft-symbolic.svg',
     'akhenaten-symbolic.svg',
     'alacritty-symbolic.svg',
     'androidstudio-symbolic.svg',
