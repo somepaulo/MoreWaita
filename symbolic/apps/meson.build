@@ -81,6 +81,7 @@ regular_files = [
     'corectrl-symbolic.svg',
     'cudatext-512-symbolic.svg',
     'cups-symbolic.svg',
+    'cura-icon-symbolic.svg',
     'cursor-symbolic.svg',
     'darktable-symbolic.svg',
     'datagrip-symbolic.svg',
@@ -2040,6 +2041,10 @@ link_files = {
         'gnome-emacs-symbolic.svg',
         'org.gnu.emacs-symbolic.svg',
         'xemacs-symbolic.svg',
+    ],
+    'cura-icon-symbolic.svg': [
+        'appimagekit-cura-icon-symbolic.svg',
+        'com.ultimaker.cura-symbolic.svg',
     ],
     'cider-symbolic.svg': [
         'appimagekit-cider-symbolic.svg',

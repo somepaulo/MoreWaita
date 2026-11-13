@@ -88,6 +88,7 @@ regular_files = [
     'corectrl.svg',
     'cudatext-512.svg',
     'cups.svg',
+    'cura-icon.svg',
     'cursor.svg',
     'darktable.svg',
     'datagrip.svg',
@@ -2103,6 +2104,10 @@ link_files = {
         'gnome-emacs.svg',
         'org.gnu.emacs.svg',
         'xemacs.svg',
+    ],
+    'cura-icon.svg': [
+        'appimagekit-cura-icon.svg',
+        'com.ultimaker.cura.svg',
     ],
     'cider.svg': [
         'appimagekit-cider.svg',
