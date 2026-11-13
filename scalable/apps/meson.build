@@ -201,6 +201,7 @@ regular_files = [
     'interstellar.svg',
     'io.element.Element.svg',
     'io.github.alainm23.planify.svg',
+    'io.github.ipedrax.bimcraft.svg',
     'io.github.juancarlosbernal.FolderPlay.svg',
     'io.github.linx_systems.ClamUI.svg',
     'io.github.mrks1469.pachub.svg',
