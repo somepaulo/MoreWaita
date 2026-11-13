@@ -457,6 +457,7 @@ regular_files = [
     'wezterm-symbolic.svg',
     'whatsapp-business-symbolic.svg',
     'whatsapp-symbolic.svg',
+    'winboat-symbolic.svg',
     'windscribe-symbolic.svg',
     'wine-help-symbolic.svg',
     'wine-notepad-symbolic.svg',
