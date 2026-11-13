@@ -289,6 +289,7 @@ regular_files = [
     'mousam.svg',
     'mozillavpn.svg',
     'mpv.svg',
+    'mullvad-vpn.svg',
     'mumble.svg',
     'musescore.svg',
     'n-trackstudio.svg',
