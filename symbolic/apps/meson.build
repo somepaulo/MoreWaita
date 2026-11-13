@@ -468,6 +468,7 @@ regular_files = [
     'winetricks-symbolic.svg',
     'wireshark-symbolic.svg',
     'wonderpen-symbolic.svg',
+    'x-symbolic.svg',
     'xdvi-symbolic.svg',
     'xemu-symbolic.svg',
     'xonotic-symbolic.svg',
