@@ -108,6 +108,7 @@ regular_files = [
     'endless-sky-symbolic.svg',
     'enpass-symbolic.svg',
     'ente-auth-symbolic.svg',
+    'ente-photos-symbolic.svg',
     'etcher-symbolic.svg',
     'facebook-messenger-symbolic.svg',
     'ferdium-symbolic.svg',
