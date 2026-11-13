@@ -481,6 +481,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/ungoogled-chromium.svg "Ungoogled Chromium")
 ![icon](./scalable/apps/unityhub.svg "Unity Hub")
 ![icon](./scalable/apps/unity-editor-icon.svg "Unity Editor")
+![icon](./scalable/apps/ai.storyteller.vectorcraft.svg "VectorCraft")
 ![icon](./scalable/apps/veracrypt.svg "VeraCrypt")
 ![icon](./scalable/apps/vesktop.svg "Vesktop")
 ![icon](./scalable/apps/via-nativia.svg "VIA")
