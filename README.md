@@ -407,6 +407,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/remmina.svg "Remmina")
 ![icon](./scalable/apps/retroarch.svg "Retro Arch")
 ![icon](./scalable/apps/revolt-desktop.svg "Revolt")
+![icon](./scalable/apps/rhino.svg "Rhino")
 ![icon](./scalable/apps/rio.svg "Rio")
 ![icon](./scalable/apps/rocketchat.svg "Rocket.Chat")
 ![icon](./scalable/apps/rog-control-center.svg "RoG Control Center")

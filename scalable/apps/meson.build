@@ -387,6 +387,7 @@ regular_files = [
     'resolve.svg',
     'retroarch.svg',
     'revolt-desktop.svg',
+    'rhino.svg',
     'rider.svg',
     'ringracers.svg',
     'rio.svg',
