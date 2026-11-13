@@ -3,6 +3,7 @@
 <mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
   <mime-type type="application/x-pem-key">
     <comment>RSA key</comment>
+    <comment xml:lang="fr">Clef RSA</comment>
     <glob pattern="*.key"/>
   </mime-type>
 </mime-info>
