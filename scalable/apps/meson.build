@@ -158,6 +158,7 @@ regular_files = [
     'ghidra.svg',
     'gimagereader.svg',
     'gimp.svg',
+    'gitcomet.svg',
     'github-desktop.svg',
     'gitkraken.svg',
     'gnome-aisleriot.svg',
