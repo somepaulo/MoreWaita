@@ -17,6 +17,7 @@ regular_files = [
     'abiword.svg',
     'aegisub.svg',
     'affinity.svg',
+    'ai.storyteller.figcraft.svg',
     'akhenaten.svg',
     'alacarte.svg',
     'alacritty.svg',
