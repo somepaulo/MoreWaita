@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <title>Artboard 1</title>
+  <g>
+    <polygon points="8.635,4.056 11.499,2.385 11.499,5.707" fill="#000000"/>
+    <polygon points="11.818,9.558 11.818,6.258 14.679,7.908" fill="#000000"/>
+    <polygon points="8.318,8.276 11.181,6.626 11.181,10.66 14.998,8.459 14.998,12.15 8.318,16" fill="#000000"/>
+    <polygon points="1.002,8.092 1.002,4.426 7.682,8.276 7.682,16 4.501,14.167 4.501,10.109" fill="#000000"/>
+    <polygon points="1.319,3.874 8,0 11.181,1.834 7.365,4.06 10.862,6.075 8,7.724" fill="#000000"/>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="12" y1="116" x2="116" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0c0f"/>
+      <stop offset="0.04" stop-color="#242b37"/>
+      <stop offset="0.08" stop-color="#0a0c0f"/>
+      <stop offset="0.92" stop-color="#0a0c0f"/>
+      <stop offset="0.96" stop-color="#242b37"/>
+      <stop offset="1" stop-color="#0a0c0f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="72.882" y1="34.988" x2="79.144" y2="52.979" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d63c6"/>
+      <stop offset="1" stop-color="#15499e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="72.882" y1="54.345" x2="87.115" y2="70.287" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#459fff"/>
+      <stop offset="1" stop-color="#2379e7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="74.02" y1="53.207" x2="86.546" y2="100.348" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1b66cf"/>
+      <stop offset="1" stop-color="#124596"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="38.721" y1="45.236" x2="56.94" y2="100.348" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#258df5"/>
+      <stop offset="1" stop-color="#1461da"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="53.524" y1="24.512" x2="64.911" y2="62.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#51adff"/>
+      <stop offset="1" stop-color="#2b83f1"/>
+    </linearGradient>
+  </defs>
+  <title>Artboard 1</title>
+  <g>
+    <path d="M12 108 L12 104.001 C12.001 108.419 15.582 112 20 112 L108 112 C112.418 112 115.999 108.419 116 104.001 L116 108 C116 112.418 112.418 116 108 116 L20 116 C15.582 116 12 112.418 12 108 Z" fill="url(#linear-gradient-1)"/>
+    <path d="M20 12 L108 12 C112.418 12 116 15.582 116 20 L116 104 C116 108.418 112.418 112 108 112 L20 112 C15.582 112 12 108.418 12 104 L12 20 C12 15.582 15.582 12 20 12 Z" fill="#181c24"/>
+  </g>
+  <g>
+    <polygon points="66.975,43.52 80.397,35.69 80.397,51.257" fill="url(#linear-gradient-2)"/>
+    <polygon points="81.889,69.299 81.889,53.839 95.3,61.569" fill="url(#linear-gradient-3)"/>
+    <polygon points="65.492,63.292 78.905,55.561 78.905,74.463 96.794,64.152 96.794,81.446 65.492,99.488" fill="url(#linear-gradient-4)"/>
+    <polygon points="31.206,62.43 31.206,45.25 62.508,63.292 62.508,99.488 47.603,90.897 47.603,71.881" fill="url(#linear-gradient-5)"/>
+    <polygon points="32.695,42.664 64,24.512 78.907,33.104 61.025,43.535 77.409,52.979 64,60.708" fill="url(#linear-gradient-6)"/>
+  </g>
+</svg>
