@@ -2182,6 +2182,7 @@ link_files = {
     'filendesktop-symbolic.svg': [
         'Filen-symbolic.svg',
         'appimagekit-filendesktop-symbolic.svg',
+        'filen-desktop-symbolic.svg',
         'filen-symbolic.svg',
     ],
     'io.element.Element-symbolic.svg': [
