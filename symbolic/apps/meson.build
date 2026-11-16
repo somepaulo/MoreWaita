@@ -356,6 +356,7 @@ regular_files = [
     'qucs-s-symbolic.svg',
     'qutebrowser-symbolic.svg',
     'qv4l2-symbolic.svg',
+    'rapidraw-symbolic.svg',
     'rawtherapee-symbolic.svg',
     'remmina-symbolic.svg',
     'remnote-symbolic.svg',
