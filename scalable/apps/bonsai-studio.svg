@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="12" y1="116" x2="116" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141617"/>
+      <stop offset="0.04" stop-color="#31383a"/>
+      <stop offset="0.08" stop-color="#141617"/>
+      <stop offset="0.92" stop-color="#141617"/>
+      <stop offset="0.96" stop-color="#31383a"/>
+      <stop offset="1" stop-color="#141617"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="34.223" y1="94.455" x2="99.13" y2="29.548" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#079444"/>
+      <stop offset="1" stop-color="#b8db30"/>
+    </linearGradient>
+  </defs>
+  <title>Artboard 1</title>
+  <g>
+    <g>
+      <path d="M12 108 L12 104.001 C12.001 108.419 15.582 112 20 112 L108 112 C112.418 112 115.999 108.419 116 104.001 L116 108 C116 112.418 112.418 116 108 116 L20 116 C15.582 116 12 112.418 12 108 Z" fill="url(#linear-gradient-1)"/>
+      <path d="M20 12 L108 12 C112.418 12 116 15.582 116 20 L116 104 C116 108.418 112.418 112 108 112 L20 112 C15.582 112 12 108.418 12 104 L12 20 C12 15.582 15.582 12 20 12 Z" fill="#2e3436"/>
+    </g>
+    <path d="M42.464 29.547 C40.223 29.547 38.407 31.363 38.406 33.604 L38.406 90.398 C38.407 92.638 40.223 94.454 42.464 94.454 L74.917 94.454 C75.993 94.454 77.025 94.026 77.785 93.265 L94.012 77.039 C95.596 75.454 95.596 72.886 94.012 71.302 L87.579 64.868 L81.842 70.606 L85.403 74.171 L73.233 86.341 L46.514 86.341 L46.514 37.661 L73.227 37.661 L85.397 49.83 L66.797 68.434 L60.363 62 L66.797 55.566 L70.361 59.13 L76.098 53.394 L69.665 46.962 C68.081 45.379 65.514 45.379 63.93 46.962 L51.759 59.132 C50.175 60.717 50.175 63.285 51.759 64.869 L63.93 77.038 C65.514 78.621 68.081 78.621 69.665 77.038 L93.997 52.698 C95.581 51.114 95.581 48.546 93.997 46.961 L77.771 30.735 C77.01 29.974 75.978 29.546 74.903 29.546 Z" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

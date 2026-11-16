@@ -47,6 +47,7 @@ regular_files = [
     'blender.svg',
     'blockbench.svg',
     'bluemail.svg',
+    'bonsai-studio.svg',
     'boxbuddyrs.svg',
     'boxy-svg.svg',
     'brave-desktop.svg',
