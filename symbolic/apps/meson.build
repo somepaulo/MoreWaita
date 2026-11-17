@@ -1810,6 +1810,12 @@ link_files = {
         'com.dropbox.Client-symbolic.svg',
         'kdepim-dropbox-symbolic.svg',
     ],
+    'modrinth-symbolic.svg': [
+	'appimagekit-ModrinthApp-symbolic.svg',
+        'com.modrinth.ModrinthApp-symbolic.svg',
+        'modrinth-app-symbolic.svg',
+        'ModrinthApp-symbolic.svg',
+    ],
     'dev.bsnes.bsnes-symbolic.svg': [
         'bsnes-symbolic.svg',
     ],

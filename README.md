@@ -299,6 +299,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/mixin.svg "Mixin Messenger")
 ![icon](./scalable/apps/mixxx.svg "Mixxx")
 ![icon](./scalable/apps/mockoon.svg "Mockoon")
+![icon](./scalable/apps/modrinth.svg "Modrinth")
 ![icon](./scalable/apps/monero.svg "Monero")
 ![icon](./scalable/apps/moonlight.svg "Moonlight")
 ![icon](./scalable/apps/mousam.svg "Mousam")
