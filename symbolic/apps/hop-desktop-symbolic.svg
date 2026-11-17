@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="hop-desktop-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="49.875"
+     inkscape:cx="7.9899749"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <path
+     id="path8"
+     style="fill:#232627;fill-opacity:1"
+     d="M 2 0 C 1.446 0 1 0.446 1 1 C 1 1.554 1.446 2 2 2 L 14 2 C 14.554 2 15 1.554 15 1 C 15 0.446 14.554 0 14 0 L 2 0 z M 8 3 A 5 5 0 0 0 3 8 A 5 5 0 0 0 8 13 A 5 5 0 0 0 13 8 A 5 5 0 0 0 8 3 z M 8 5 A 3 3 0 0 1 11 8 A 3 3 0 0 1 8 11 A 3 3 0 0 1 5 8 A 3 3 0 0 1 8 5 z M 2 14 C 1.446 14 1 14.446 1 15 C 1 15.554 1.446 16 2 16 L 14 16 C 14.554 16 15 15.554 15 15 C 15 14.446 14.554 14 14 14 L 2 14 z " />
+</svg>
