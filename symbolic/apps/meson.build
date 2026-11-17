@@ -75,6 +75,7 @@ regular_files = [
     'com.github.rafostar.Clapper-symbolic.svg',
     'com.kagi.Orion-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
+    'com.stremio.Stremio-symbolic.svg',
     'com.tonikelope.MegaBasterd-symbolic.svg',
     'coolercontrol-symbolic.svg',
     'coppwr-symbolic.svg',
