@@ -1835,7 +1835,7 @@ link_files = {
         'whatsdesk.svg',
     ],
     'modrinth.svg': [
-	'appimagekit-ModrinthApp.svg',
+		'appimagekit-ModrinthApp.svg',
         'com.modrinth.ModrinthApp.svg',
         'modrinth-app.svg',
         'ModrinthApp.svg',
