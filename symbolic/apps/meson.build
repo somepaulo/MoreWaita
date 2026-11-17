@@ -176,6 +176,7 @@ regular_files = [
     'helium-symbolic.svg',
     'helix-symbolic.svg',
     'heroic-symbolic.svg',
+    'hop-desktop-symbolic.svg',
     'hp_logo-symbolic.svg',
     'htop-symbolic.svg',
     'hu.irl.cameractrls-symbolic.svg',
