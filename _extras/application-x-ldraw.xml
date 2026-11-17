@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+	<mime-type type="application/x-ldraw">
+		<comment>LEGO 3D model</comment>
+		<comment xml:lang="fr">Modèle 3D LEGO</comment>
+		<glob pattern="*.ldr"/>
+	</mime-type>
+</mime-info>

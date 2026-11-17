@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+	<mime-type type="application/x-audacity-project">
+		<sub-class-of type="application/vnd.sqlite3"/>
+		<comment>Audacity Project</comment>
+		<comment xml:lang="fr">Projet Audacity</comment>
+		<glob pattern="*.aup3"/>
+	</mime-type>
+</mime-info>
