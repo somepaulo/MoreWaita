@@ -200,6 +200,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/helium.svg "Helium")
 ![icon](./scalable/apps/helix.svg "Helix")
 ![icon](./scalable/apps/heroic.svg "Heroic Launcher")
+![icon](./scalable/apps/hop-desktop.svg "HOP")
 ![icon](./scalable/apps/hp_logo.svg "HP")
 ![icon](./scalable/apps/htop.svg "Htop")
 ![icon](./scalable/apps/hydrogen.svg "Hydrogen")

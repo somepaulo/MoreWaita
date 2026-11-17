@@ -188,6 +188,7 @@ regular_files = [
     'helium.svg',
     'helix.svg',
     'heroic.svg',
+    'hop-desktop.svg',
     'hp_logo.svg',
     'htop.svg',
     'hu.irl.cameractrls.svg',
