@@ -130,6 +130,7 @@ regular_files = [
     'text-x-maxima-out.svg',
     'text-x-maximasession.svg',
     'text-x-meson.svg',
+    'text-x-nix.svg',
     'text-x-ocaml.svg',
     'text-x-octave.svg',
     'text-x-patch.svg',
