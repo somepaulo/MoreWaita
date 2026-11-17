@@ -1834,6 +1834,12 @@ link_files = {
         'whatsapp-nativefier.svg',
         'whatsdesk.svg',
     ],
+    'modrinth.svg': [
+		'appimagekit-ModrinthApp.svg',
+        'com.modrinth.ModrinthApp.svg',
+        'modrinth-app.svg',
+        'ModrinthApp.svg',
+    ],
     'cherry-studio.svg': [
         'cherrystudio.svg',
         'com.cherry_ai.CherryStudio.svg',
