@@ -1811,7 +1811,7 @@ link_files = {
         'kdepim-dropbox-symbolic.svg',
     ],
     'modrinth-symbolic.svg': [
-	'appimagekit-ModrinthApp-symbolic.svg',
+		'appimagekit-ModrinthApp-symbolic.svg',
         'com.modrinth.ModrinthApp-symbolic.svg',
         'modrinth-app-symbolic.svg',
         'ModrinthApp-symbolic.svg',
