@@ -318,6 +318,7 @@ regular_files = [
     'openbabel.svg',
     'openboard.svg',
     'openchrom.svg',
+    'openhv.svg',
     'openra-cnc.svg',
     'openra-d2k.svg',
     'openra-ra.svg',

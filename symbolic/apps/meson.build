@@ -297,6 +297,7 @@ regular_files = [
     'openbabel-symbolic.svg',
     'openboard-symbolic.svg',
     'openchrom-symbolic.svg',
+    'openhv-symbolic.svg',
     'openra-cnc-symbolic.svg',
     'openra-d2k-symbolic.svg',
     'openra-ra-symbolic.svg',
