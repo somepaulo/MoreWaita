@@ -55,6 +55,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/bitwig-studio.svg "Bitwig Studio")
 ![icon](./scalable/apps/bleachbit.svg "Bleachbit")
 ![icon](./scalable/apps/blender.svg "Blender")
+![icon](./scalable/apps/net.blip.Blip.svg "Blip")
 ![icon](./scalable/apps/blockbench.svg "Blockbench")
 ![icon](./scalable/apps/app.bluebubbles.BlueBubbles.svg "BlueBubbles")
 ![icon](./scalable/apps/bluemail.svg "BlueMail")
