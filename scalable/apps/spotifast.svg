@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="4.034" y1="125" x2="123.966" y2="125" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#13552b"/>
+      <stop offset="0.41" stop-color="#0e9f43"/>
+      <stop offset="0.81" stop-color="#13552b"/>
+      <stop offset="1" stop-color="#0d953f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="64" y1="121" x2="64" y2="3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c8a3a"/>
+      <stop offset="1" stop-color="#18c055"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="3.097" y1="8.71" x2="3.097" y2="115.29" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5cf095"/>
+      <stop offset="0.55" stop-color="#1ed760"/>
+      <stop offset="1" stop-color="#15b650"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="3.097" y1="8.71" x2="3.097" y2="115.29" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9ffe8"/>
+      <stop offset="0.5" stop-color="#7bf0aa" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0a6e2e" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <title>Artboard 1</title>
+  <g>
+    <path d="M4 66 C4 65.331 4.011 64.664 4.034 64 C5.106 95.659 31.544 121 64 121 C96.456 121 122.894 95.659 123.966 64 C123.989 64.664 124 65.331 124 66 C124 98.585 97.137 125 64 125 C30.863 125 4 98.585 4 66 Z" fill="url(#linear-gradient-1)"/>
+    <ellipse cx="64" cy="62" rx="60" ry="59" fill="url(#linear-gradient-2)"/>
+  </g>
+  <g>
+    <circle cx="64" cy="62" r="51.768" fill="url(#linear-gradient-3)"/>
+    <path d="M11.061 62 C11.061 32.763 34.763 9.061 64 9.061 C93.237 9.061 116.939 32.763 116.939 62 C116.939 91.237 93.237 114.939 64 114.939 C34.763 114.939 11.061 91.237 11.061 62 Z M64 10.261 C35.425 10.261 12.261 33.425 12.261 62 C12.261 90.575 35.425 113.739 64 113.739 C92.575 113.739 115.739 90.575 115.739 62 C115.739 33.425 92.575 10.261 64 10.261 Z" fill="url(#linear-gradient-4)"/>
+    <path d="M45.158 42.492 C45.158 40.806 46.05 39.245 47.504 38.39 C48.957 37.536 50.755 37.514 52.229 38.333 L87.343 57.841 C88.853 58.681 89.789 60.273 89.789 62 C89.789 63.727 88.853 65.319 87.343 66.159 L52.229 85.667 C50.755 86.486 48.957 86.464 47.504 85.61 C46.05 84.755 45.158 83.194 45.158 81.508 Z" fill="#0b0e0c"/>
+  </g>
+</svg>
