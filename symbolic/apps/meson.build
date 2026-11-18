@@ -157,6 +157,7 @@ regular_files = [
     'google-chrome-symbolic.svg',
     'google-docs-symbolic.svg',
     'google-earth-symbolic.svg',
+    'google-maps-symbolic.svg',
     'google-sheets-symbolic.svg',
     'google-slides-symbolic.svg',
     'gparted-symbolic.svg',
