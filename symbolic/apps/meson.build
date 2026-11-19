@@ -76,6 +76,7 @@ regular_files = [
     'com.kagi.Orion-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
     'com.tonikelope.MegaBasterd-symbolic.svg',
+    'constructcraft-symbolic.svg',
     'coolercontrol-symbolic.svg',
     'coppwr-symbolic.svg',
     'corectrl-symbolic.svg',
