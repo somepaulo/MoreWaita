@@ -279,6 +279,7 @@ regular_files = [
     'mercury.svg',
     'micro.svg',
     'microsoft-edge.svg',
+    'microsoft-outlook.svg',
     'minecraft.svg',
     'minetest.svg',
     'mixin.svg',
