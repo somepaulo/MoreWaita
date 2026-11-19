@@ -83,6 +83,7 @@ regular_files = [
     'com.kagi.Orion.svg',
     'com.obsproject.Studio.svg',
     'com.tonikelope.MegaBasterd.svg',
+    'constructcraft.svg',
     'coolercontrol.svg',
     'coppwr.svg',
     'corectrl.svg',
