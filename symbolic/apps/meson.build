@@ -187,6 +187,7 @@ regular_files = [
     'intellij-symbolic.svg',
     'interstellar-symbolic.svg',
     'io.element.Element-symbolic.svg',
+    'io.github.ipedrax.bimcraft-symbolic.svg',
     'io.github.juancarlosbernal.FolderPlay-symbolic.svg',
     'io.github.linx_systems.ClamUI-symbolic.svg',
     'io.github.mrks1469.pachub-symbolic.svg',
