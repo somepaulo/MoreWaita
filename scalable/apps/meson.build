@@ -86,6 +86,7 @@ regular_files = [
     'coolercontrol.svg',
     'coppwr.svg',
     'corectrl.svg',
+    'creabim.svg',
     'cudatext-512.svg',
     'cups.svg',
     'cursor.svg',

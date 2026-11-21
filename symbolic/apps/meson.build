@@ -79,6 +79,7 @@ regular_files = [
     'coolercontrol-symbolic.svg',
     'coppwr-symbolic.svg',
     'corectrl-symbolic.svg',
+    'creabim-symbolic.svg',
     'cudatext-512-symbolic.svg',
     'cups-symbolic.svg',
     'cursor-symbolic.svg',
