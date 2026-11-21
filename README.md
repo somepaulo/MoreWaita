@@ -51,6 +51,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/bambustudio.svg "Bambu Studio")
 ![icon](./scalable/apps/beepertexts.svg "Beeper")
 ![icon](./scalable/apps/betterbird.svg "Betterbird")
+![icon](./scalable/apps/io.github.rational_boxes.Riviera.svg "BIM Riviera")
 ![icon](./scalable/apps/bitwarden.svg "Bitwarden")
 ![icon](./scalable/apps/bitwig-studio.svg "Bitwig Studio")
 ![icon](./scalable/apps/bleachbit.svg "Bleachbit")
