@@ -349,6 +349,7 @@ regular_files = [
     'pinta.svg',
     'pixelwheels.svg',
     'plugdata.svg',
+    'pocket-casts.svg',
     'podman-desktop.svg',
     'polychromatic.svg',
     'popcorntime.svg',
