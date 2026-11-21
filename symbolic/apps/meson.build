@@ -191,6 +191,7 @@ regular_files = [
     'io.github.linx_systems.ClamUI-symbolic.svg',
     'io.github.mrks1469.pachub-symbolic.svg',
     'io.github.pieterdd.RcloneShuttle-symbolic.svg',
+    'io.github.rational_boxes.Riviera-symbolic.svg',
     'io.github.tobagin.karere-symbolic.svg',
     'io.github.trufae.Parla-symbolic.svg',
     'jasp-symbolic.svg',
