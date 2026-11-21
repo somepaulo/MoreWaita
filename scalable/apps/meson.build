@@ -207,6 +207,7 @@ regular_files = [
     'io.github.pieterdd.RcloneShuttle.svg',
     'io.github.quodlibet.ExFalso.svg',
     'io.github.quodlibet.QuodLibet.svg',
+    'io.github.rational_boxes.Riviera.svg',
     'io.github.tobagin.karere.svg',
     'io.github.trufae.Parla.svg',
     'jasp.svg',
