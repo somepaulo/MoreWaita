@@ -247,6 +247,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/krita.svg "Krita")
 ![icon](./scalable/apps/kruler.svg "Kruler")
 ![icon](./scalable/apps/kvantum.svg "Kvantum")
+![icon](./scalable/apps/org.ladybird.Ladybird.svg "Ladybird")
 ![icon](./scalable/apps/lapce.svg "Lapce")
 ![icon](./scalable/apps/lazarus.svg "Lazarus")
 ![icon](./scalable/apps/lazpaint.svg "Lazpaint")

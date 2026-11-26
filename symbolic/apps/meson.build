@@ -311,6 +311,7 @@ regular_files = [
     'org.cockpit_project.CockpitClient-symbolic.svg',
     'org.fdroid.Repomaker-symbolic.svg',
     'org.inkscape.Inkscape-symbolic.svg',
+    'org.ladybird.Ladybird-symbolic.svg',
     'org.onlyoffice.desktopeditors-symbolic.svg',
     'org.squidowl.halloy-symbolic.svg',
     'osmscout-server-symbolic.svg',

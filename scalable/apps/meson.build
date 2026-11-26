@@ -333,6 +333,7 @@ regular_files = [
     'org.fdroid.Repomaker.svg',
     'org.gnome.PowerStats.svg',
     'org.inkscape.Inkscape.svg',
+    'org.ladybird.Ladybird.svg',
     'org.onlyoffice.desktopeditors.svg',
     'org.parlatype.Parlatype.svg',
     'org.squidowl.halloy.svg',
