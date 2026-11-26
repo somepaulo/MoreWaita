@@ -332,6 +332,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/org.onlyoffice.desktopeditors.svg "ONLYOFFICE")
 ![icon](./scalable/apps/openbabel.svg "Open Babel")
 ![icon](./scalable/apps/openboard.svg "OpenBoard")
+![icon](./scalable/apps/io.github.HakanSeven12.OpenCadStudio.svg "OpenCADStudio")
 ![icon](./scalable/apps/openchrom.svg "OpenChrom")
 ![icon](./scalable/apps/openhv.svg "OpenHV")
 ![icon](./scalable/apps/openra-cnc.svg "OpenRA Command & Conquer")

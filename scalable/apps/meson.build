@@ -200,6 +200,7 @@ regular_files = [
     'intellij.svg',
     'interstellar.svg',
     'io.element.Element.svg',
+    'io.github.HakanSeven12.OpenCadStudio.svg',
     'io.github.alainm23.planify.svg',
     'io.github.juancarlosbernal.FolderPlay.svg',
     'io.github.linx_systems.ClamUI.svg',
