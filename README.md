@@ -96,6 +96,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/coppwr.svg "coppwr")
 ![icon](./scalable/apps/code-oss.svg "Code OSS")
 ![icon](./scalable/apps/corectrl.svg "CoreCtrl")
+![icon](./scalable/apps/creabim.svg "CreaBIM")
 ![icon](./scalable/apps/cudatext-512.svg "CudaText")
 ![icon](./scalable/apps/cups.svg "CUPS")
 ![icon](./scalable/apps/cursor.svg "Cursor")
