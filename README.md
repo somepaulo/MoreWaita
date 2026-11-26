@@ -304,6 +304,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/mousam.svg "Mousam")
 ![icon](./scalable/apps/mozillavpn.svg "Mozilla VPN")
 ![icon](./scalable/apps/mpv.svg "mpv")
+![icon](./scalable/apps/mullvad-vpn.svg "Mullvad VPN")
 ![icon](./scalable/apps/mumble.svg "Mumble")
 ![icon](./scalable/apps/musescore.svg "MuseScore")
 ![icon](./scalable/apps/nelson.svg "Nelson")
