@@ -434,6 +434,7 @@ regular_files = [
     'unciv-symbolic.svg',
     'ungoogled-chromium-symbolic.svg',
     'unityhub-symbolic.svg',
+    'vagon-symbolic.svg',
     'veracrypt-symbolic.svg',
     'vesktop-symbolic.svg',
     'via-nativia-symbolic.svg',

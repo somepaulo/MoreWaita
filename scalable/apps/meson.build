@@ -463,6 +463,7 @@ regular_files = [
     'ungoogled-chromium.svg',
     'unity-editor-icon.svg',
     'unityhub.svg',
+    'vagon.svg',
     'veracrypt.svg',
     'vesktop.svg',
     'via-nativia.svg',
