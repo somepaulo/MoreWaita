@@ -103,6 +103,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/resolve.svg "DaVinci Resolve")
 ![icon](./scalable/apps/dbeaver.svg "DBeaver")
 ![icon](./scalable/apps/deadbeef.svg "DeaDBeeF")
+![icon](./scalable/apps/ai.storyteller.deckcraft.svg "DeckCraft")
 ![icon](./scalable/apps/deezer.svg "Deezer")
 ![icon](./scalable/apps/deltachat.svg "Delta Chat")
 ![icon](./scalable/apps/deluge.svg "Deluge")
