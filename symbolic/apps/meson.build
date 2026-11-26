@@ -50,6 +50,7 @@ regular_files = [
     'brave-desktop-symbolic.svg',
     'brave-origin-symbolic.svg',
     'briar-symbolic.svg',
+    'bricscad-symbolic.svg',
     'btop-symbolic.svg',
     'burp-symbolic.svg',
     'buzz-symbolic.svg',
