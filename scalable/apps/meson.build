@@ -382,6 +382,7 @@ regular_files = [
     'qucs-s.svg',
     'qutebrowser.svg',
     'qv4l2.svg',
+    'rapidraw.svg',
     'rawtherapee.svg',
     'remmina.svg',
     'remnote.svg',
