@@ -320,6 +320,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/n-trackstudio.svg "n-Track Studio")
 ![icon](./scalable/apps/nuclear.svg "Nuclear")
 ![icon](./scalable/apps/nufraw.svg "nUFRaw")
+![icon](./scalable/apps/com.nvidia.geforcenow.svg "NVIDIA GeForce NOW")
 ![icon](./scalable/apps/nvidia.svg "nVidia Settings")
 ![icon](./scalable/apps/nvtop.svg "NVTOP")
 ![icon](./scalable/apps/nym-vpn.svg "NymVPN")

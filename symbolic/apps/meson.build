@@ -74,6 +74,7 @@ regular_files = [
     'com.fender.studio-symbolic.svg',
     'com.github.rafostar.Clapper-symbolic.svg',
     'com.kagi.Orion-symbolic.svg',
+    'com.nvidia.geforcenow-symbolic.svg',
     'com.obsproject.Studio-symbolic.svg',
     'com.tonikelope.MegaBasterd-symbolic.svg',
     'coolercontrol-symbolic.svg',
