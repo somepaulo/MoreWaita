@@ -169,6 +169,7 @@ regular_files = [
     'google-chrome.svg',
     'google-docs.svg',
     'google-earth.svg',
+    'google-maps.svg',
     'google-sheets.svg',
     'google-slides.svg',
     'gparted.svg',
