@@ -426,6 +426,7 @@ regular_files = [
     'throne-symbolic.svg',
     'thunderbird-symbolic.svg',
     'tidal-hifi-symbolic.svg',
+    'tiktok-symbolic.svg',
     'timeshift-symbolic.svg',
     'todoist-symbolic.svg',
     'tor-browser-symbolic.svg',

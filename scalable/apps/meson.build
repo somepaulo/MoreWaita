@@ -453,6 +453,7 @@ regular_files = [
     'throne.svg',
     'thunderbird.svg',
     'tidal-hifi.svg',
+    'tiktok.svg',
     'timeshift.svg',
     'todoist.svg',
     'tor-browser.svg',
