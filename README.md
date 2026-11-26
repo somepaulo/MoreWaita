@@ -294,6 +294,7 @@ _These are the icons currently in git, versioned theme releases will be behind m
 ![icon](./scalable/apps/mercury.svg "Mercury")
 ![icon](./scalable/apps/micro.svg "Micro")
 ![icon](./scalable/apps/microsoft-edge.svg "Microsoft Edge")
+![icon](./scalable/apps/microsoft-outlook.svg "Microsoft Outlook")
 ![icon](./scalable/apps/minecraft.svg "Minecraft")
 ![icon](./scalable/apps/minetest.svg "Minetest")
 ![icon](./scalable/apps/mixin.svg "Mixin Messenger")
