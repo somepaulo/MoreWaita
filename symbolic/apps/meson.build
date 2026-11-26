@@ -363,6 +363,7 @@ regular_files = [
     'resolve-symbolic.svg',
     'retroarch-symbolic.svg',
     'revolt-desktop-symbolic.svg',
+    'rhino-symbolic.svg',
     'rider-symbolic.svg',
     'ringracers-symbolic.svg',
     'rio-symbolic.svg',
